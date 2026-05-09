@@ -41,9 +41,22 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- *Liste her saat otomatik güncellenir...*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Deploy Aldıktan Sonra Gelen O Anlamsız Stres](https://mustafaerbay.com.tr/blog/life/deploy-aldktan-sonra-gelen-o-anlamsz-stres/) <sub>
+  Bir deploy sonrasi gelen anlamsiz gerginligi ve o &#39;acaba&#39; hissini yakindan taniyorum. Nedenini, belirtilerini ve ben bu durumla nasil basa ciktigimi…
+
+#Deploy #Stres #Psikoloji #Production</sub>- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
+  Birden fazla yan projeyi aynı anda yürütmenin getirdiği kaosu ve bu kaostan ders çıkarıp yine de devam etme hikayemi anlatıyorum.
+
+#IndieHacker #Founder #Burnout #SideProject #YapayZeka</sub>- [Küçük Projelerde Overengineering Çizgisi Nerede Çekilir?](https://mustafaerbay.com.tr/blog/career/kk-projelerde-overengineering-izgisi-nerede/) <sub>
+  Kendi indie projelerimde overengineering tuzaklarına düşmemek için aldığım kararlar, trade-off&#39;lar ve tecrübelerimi paylaşıyorum.
+
+#Mimari #Overengineering #Indie #TradeOff</sub>- [Türkiye&#39;nin Yaşam Maliyeti: Neden Gerçekten Ölçülemiyor?](https://mustafaerbay.com.tr/blog/career/trkiyenin-yaam-maliyeti-neden-llemiyor/) <sub>
+  Enflasyon ve veri güvenilirliği üzerine kişisel bir analiz. Kendi projelerimdeki veri sorunlarından yola çıkarak Türkiye&#39;deki yaşam maliyeti verilerinin neden…
+
+#Enflasyon #Veri #Turkiye #Ekonomi #Gercekveri</sub>- [Her Problemi Kubernetes ile Çözmeye Çalışmak: Gereksiz Karmaşıklık…](https://mustafaerbay.com.tr/blog/technology/her-problemi-kubernetes-ile-zmeye-almak/) <sub>
+  Küçük projelerden kurumsal sistemlere, her sorunu Kubernetes ile çözmeye çalışmanın getirdiği operasyonel yükleri ve maliyetleri kendi deneyimlerimle ele…
+
+#Kubernetes #Overengineering #Mimari #TradeOff</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
