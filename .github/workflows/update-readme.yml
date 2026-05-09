@@ -1,0 +1,27 @@
+name: Update README
+
+# RSS feed'den son 5 yaziyi cek, README'deki BLOG-POST-LIST bloğunu guncelle.
+# Maliyet: $0 — GitHub-hosted runner (saatlik 0. dk).
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # her saat
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://mustafaerbay.com.tr/rss.xml'
+          max_post_count: 5
+          template: '- [$title]($url) <sub>$newline  $description</sub>'
+          comment_tag_name: 'BLOG-POST-LIST'
+          commit_message: 'chore(readme): update blog posts'
