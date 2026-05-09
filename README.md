@@ -50,13 +50,13 @@
 #Deploy #Stres #Psikoloji #Production</sub>- [CI Runner&#39;ımı Kendi Scriptim Öldürdü: Cleanup&#39;ın Karanlık Yüzü](https://mustafaerbay.com.tr/blog/technology/ci-runnerm-kendi-scriptim-ldrd-cleanup-stratejilerinin-karanlk-yz/) <sub>
   GitHub Actions runner&#39;ımda yazdığım bir temizlik scriptinin sistemimi nasıl çökerttiğini ve bu acı deneyimden çıkardığım dersleri anlatıyorum.
 
-#CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub>- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
+#CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub>- [Cloudflare Cache&#39;in Kör Noktası: Bypass Kuralının Bedeli](https://mustafaerbay.com.tr/blog/technology/cloudflare-cachein-kr-noktas-bypass-kuralnn-bedeli/) <sub>
+  Cloudflare cache bypass kurallarının beklenmedik etkileri ve bunları Nginx ile nasıl aşıp performansı artırdığımı anlatıyorum. Kendi VPS&#39;imdeki deneyimlerim.
+
+#Cloudflare #Caching #Nginx #Performance #Devops</sub>- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
   Birden fazla yan projeyi aynı anda yürütmenin getirdiği kaosu ve bu kaostan ders çıkarıp yine de devam etme hikayemi anlatıyorum.
 
-#IndieHacker #Founder #Burnout #SideProject #YapayZeka</sub>- [Küçük Projelerde Overengineering Çizgisi Nerede Çekilir?](https://mustafaerbay.com.tr/blog/career/kk-projelerde-overengineering-izgisi-nerede/) <sub>
-  Kendi indie projelerimde overengineering tuzaklarına düşmemek için aldığım kararlar, trade-off&#39;lar ve tecrübelerimi paylaşıyorum.
-
-#Mimari #Overengineering #Indie #TradeOff</sub><!-- BLOG-POST-LIST:END -->
+#IndieHacker #Founder #Burnout #SideProject #YapayZeka</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
