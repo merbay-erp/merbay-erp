@@ -41,10 +41,7 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Deploy Aldıktan Sonra Gelen O Anlamsız Stres](https://mustafaerbay.com.tr/blog/life/deploy-aldktan-sonra-gelen-o-anlamsz-stres/) <sub>
-  Bir deploy sonrasi gelen anlamsiz gerginligi ve o &#39;acaba&#39; hissini yakindan taniyorum. Nedenini, belirtilerini ve ben bu durumla nasil basa ciktigimi…
-
-#Deploy #Stres #Psikoloji #Production</sub>- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
+<!-- BLOG-POST-LIST:START -->- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
   Birden fazla yan projeyi aynı anda yürütmenin getirdiği kaosu ve bu kaostan ders çıkarıp yine de devam etme hikayemi anlatıyorum.
 
 #IndieHacker #Founder #Burnout #SideProject #YapayZeka</sub>- [Küçük Projelerde Overengineering Çizgisi Nerede Çekilir?](https://mustafaerbay.com.tr/blog/career/kk-projelerde-overengineering-izgisi-nerede/) <sub>
@@ -56,7 +53,10 @@
 #Enflasyon #Veri #Turkiye #Ekonomi #Gercekveri</sub>- [Her Problemi Kubernetes ile Çözmeye Çalışmak: Gereksiz Karmaşıklık…](https://mustafaerbay.com.tr/blog/technology/her-problemi-kubernetes-ile-zmeye-almak/) <sub>
   Küçük projelerden kurumsal sistemlere, her sorunu Kubernetes ile çözmeye çalışmanın getirdiği operasyonel yükleri ve maliyetleri kendi deneyimlerimle ele…
 
-#Kubernetes #Overengineering #Mimari #TradeOff</sub><!-- BLOG-POST-LIST:END -->
+#Kubernetes #Overengineering #Mimari #TradeOff</sub>- [Monolith Savunuyorum: Çünkü Production Gördüm](https://mustafaerbay.com.tr/blog/technology/monolith-savunuyorum-nk-production-grdm/) <sub>
+  Microservices rüzgarı eserken, production tecrübelerimle neden hala monolith yapılarının değerli olduğunu anlatıyorum. Pragmatik bir bakış açısı.
+
+#Monolith #Microservices #Mimari #Tartisma</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
