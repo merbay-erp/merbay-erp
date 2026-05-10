@@ -41,7 +41,10 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/) <sub>
+<!-- BLOG-POST-LIST:START -->- [Kendi Sistemimin Esiri Olmak: Bir Indie Hacker&#39;ın On-Call Hikayesi](https://mustafaerbay.com.tr/blog/career/kendi-sistemimin-esiri-olmak-bir-indie-hackern-on-call-hikayesi/) <sub>
+  Indie hacker olarak kendi sunucularımın 7/24 on-call sorumluluğunu nasıl yönettiğimi, yaşadığım sorunları ve aldığım dersleri anlatıyorum.
+
+#Career</sub>- [Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/) <sub>
   Kendi sunucumda projelerimi barındırmak benim için sadece teknik bir tercih değil, aynı zamanda bir yaşam felsefesi. Kontrol ve bağımsızlık uğruna harcadığım…
 
 #Life</sub>- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
@@ -53,10 +56,7 @@
 #Docker #Vps #Depolama #VeriButunlugu #SistemYonetimi</sub>- [Sistem Mimarlığı Biraz Paranoya İşidir](https://mustafaerbay.com.tr/blog/career/sistem-mimarl-biraz-paranoya-iidir/) <sub>
   Kendi VPS&#39;imde yaşadığım OOM senaryolarından, Docker disk yangınlarına kadar, sistem mimarlığının neden sürekli tetikte olmayı gerektiren bir disiplin…
 
-#Mimari #Paranoya #Operasyon #Psikoloji #SystemDesign</sub>- [Deploy Aldıktan Sonra Gelen O Anlamsız Stres](https://mustafaerbay.com.tr/blog/life/deploy-aldktan-sonra-gelen-o-anlamsz-stres/) <sub>
-  Bir deploy sonrasi gelen anlamsiz gerginligi ve o &#39;acaba&#39; hissini yakindan taniyorum. Nedenini, belirtilerini ve ben bu durumla nasil basa ciktigimi…
-
-#Deploy #Stres #Psikoloji #Production</sub><!-- BLOG-POST-LIST:END -->
+#Mimari #Paranoya #Operasyon #Psikoloji #SystemDesign</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
