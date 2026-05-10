@@ -53,10 +53,10 @@
 #CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub>- [Cloudflare Cache&#39;in Kör Noktası: Bypass Kuralının Bedeli](https://mustafaerbay.com.tr/blog/technology/cloudflare-cachein-kr-noktas-bypass-kuralnn-bedeli/) <sub>
   Cloudflare cache bypass kurallarının beklenmedik etkileri ve bunları Nginx ile nasıl aşıp performansı artırdığımı anlatıyorum. Kendi VPS&#39;imdeki deneyimlerim.
 
-#Cloudflare #Caching #Nginx #Performance #Devops</sub>- [7 Projeye Birden Dalmak: Neden Yapmamalı ve Neden Yine Yaptım](https://mustafaerbay.com.tr/blog/career/bir-anda-7-proje-amann-zararlar-ve-neden-yine-atm/) <sub>
-  Birden fazla yan projeyi aynı anda yürütmenin getirdiği kaosu ve bu kaostan ders çıkarıp yine de devam etme hikayemi anlatıyorum.
+#Cloudflare #Caching #Nginx #Performance #Devops</sub>- [VPS Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/technology/kendi-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/) <sub>
+  Kendi VPS&#39;imde swap kullanımı çığırından çıktığında yaşadığım kabusu ve Kernel CVE yamasıyla başlayan süreci anlatıyorum.
 
-#IndieHacker #Founder #Burnout #SideProject #YapayZeka</sub><!-- BLOG-POST-LIST:END -->
+#VPS #Swap #Kernel #CVE #Linux</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
