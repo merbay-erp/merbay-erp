@@ -41,7 +41,10 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Sistem Mimarlığı Biraz Paranoya İşidir](https://mustafaerbay.com.tr/blog/career/sistem-mimarl-biraz-paranoya-iidir/) <sub>
+<!-- BLOG-POST-LIST:START -->- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
+  Kendi VPS&#39;imde Docker disk alanını nasıl yönettiğimi, veri bütünlüğünü nasıl sağladığımı ve karşılaştiğım sorunları anlatıyorum.
+
+#Docker #Vps #Depolama #VeriButunlugu #SistemYonetimi</sub>- [Sistem Mimarlığı Biraz Paranoya İşidir](https://mustafaerbay.com.tr/blog/career/sistem-mimarl-biraz-paranoya-iidir/) <sub>
   Kendi VPS&#39;imde yaşadığım OOM senaryolarından, Docker disk yangınlarına kadar, sistem mimarlığının neden sürekli tetikte olmayı gerektiren bir disiplin…
 
 #Mimari #Paranoya #Operasyon #Psikoloji #SystemDesign</sub>- [Deploy Aldıktan Sonra Gelen O Anlamsız Stres](https://mustafaerbay.com.tr/blog/life/deploy-aldktan-sonra-gelen-o-anlamsz-stres/) <sub>
@@ -53,10 +56,7 @@
 #CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub>- [Cloudflare Cache&#39;in Kör Noktası: Bypass Kuralının Bedeli](https://mustafaerbay.com.tr/blog/technology/cloudflare-cachein-kr-noktas-bypass-kuralnn-bedeli/) <sub>
   Cloudflare cache bypass kurallarının beklenmedik etkileri ve bunları Nginx ile nasıl aşıp performansı artırdığımı anlatıyorum. Kendi VPS&#39;imdeki deneyimlerim.
 
-#Cloudflare #Caching #Nginx #Performance #Devops</sub>- [VPS Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/technology/kendi-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/) <sub>
-  Kendi VPS&#39;imde swap kullanımı çığırından çıktığında yaşadığım kabusu ve Kernel CVE yamasıyla başlayan süreci anlatıyorum.
-
-#VPS #Swap #Kernel #CVE #Linux</sub><!-- BLOG-POST-LIST:END -->
+#Cloudflare #Caching #Nginx #Performance #Devops</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
