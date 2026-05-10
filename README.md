@@ -41,7 +41,10 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
+<!-- BLOG-POST-LIST:START -->- [Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/) <sub>
+  Kendi sunucumda projelerimi barındırmak benim için sadece teknik bir tercih değil, aynı zamanda bir yaşam felsefesi. Kontrol ve bağımsızlık uğruna harcadığım…
+
+#Life</sub>- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
   Kendi VPS&#39;imde Nginx&#39;in Docker container&#39;larına ulaşamama sorununu nasıl çözdüm? `resolver` direktifi ve dinamik network çözümleme ihtiyacının derinlemesine…
 
 #Nginx #Docker #DNS #VPS #Troubleshooting</sub>- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
@@ -53,10 +56,7 @@
 #Mimari #Paranoya #Operasyon #Psikoloji #SystemDesign</sub>- [Deploy Aldıktan Sonra Gelen O Anlamsız Stres](https://mustafaerbay.com.tr/blog/life/deploy-aldktan-sonra-gelen-o-anlamsz-stres/) <sub>
   Bir deploy sonrasi gelen anlamsiz gerginligi ve o &#39;acaba&#39; hissini yakindan taniyorum. Nedenini, belirtilerini ve ben bu durumla nasil basa ciktigimi…
 
-#Deploy #Stres #Psikoloji #Production</sub>- [CI Runner&#39;ımı Kendi Scriptim Öldürdü: Cleanup&#39;ın Karanlık Yüzü](https://mustafaerbay.com.tr/blog/technology/ci-runnerm-kendi-scriptim-ldrd-cleanup-stratejilerinin-karanlk-yz/) <sub>
-  GitHub Actions runner&#39;ımda yazdığım bir temizlik scriptinin sistemimi nasıl çökerttiğini ve bu acı deneyimden çıkardığım dersleri anlatıyorum.
-
-#CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub><!-- BLOG-POST-LIST:END -->
+#Deploy #Stres #Psikoloji #Production</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
