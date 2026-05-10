@@ -41,7 +41,10 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
+<!-- BLOG-POST-LIST:START -->- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
+  Kendi VPS&#39;imde Nginx&#39;in Docker container&#39;larına ulaşamama sorununu nasıl çözdüm? `resolver` direktifi ve dinamik network çözümleme ihtiyacının derinlemesine…
+
+#Nginx #Docker #DNS #VPS #Troubleshooting</sub>- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
   Kendi VPS&#39;imde Docker disk alanını nasıl yönettiğimi, veri bütünlüğünü nasıl sağladığımı ve karşılaştiğım sorunları anlatıyorum.
 
 #Docker #Vps #Depolama #VeriButunlugu #SistemYonetimi</sub>- [Sistem Mimarlığı Biraz Paranoya İşidir](https://mustafaerbay.com.tr/blog/career/sistem-mimarl-biraz-paranoya-iidir/) <sub>
@@ -53,10 +56,7 @@
 #Deploy #Stres #Psikoloji #Production</sub>- [CI Runner&#39;ımı Kendi Scriptim Öldürdü: Cleanup&#39;ın Karanlık Yüzü](https://mustafaerbay.com.tr/blog/technology/ci-runnerm-kendi-scriptim-ldrd-cleanup-stratejilerinin-karanlk-yz/) <sub>
   GitHub Actions runner&#39;ımda yazdığım bir temizlik scriptinin sistemimi nasıl çökerttiğini ve bu acı deneyimden çıkardığım dersleri anlatıyorum.
 
-#CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub>- [Cloudflare Cache&#39;in Kör Noktası: Bypass Kuralının Bedeli](https://mustafaerbay.com.tr/blog/technology/cloudflare-cachein-kr-noktas-bypass-kuralnn-bedeli/) <sub>
-  Cloudflare cache bypass kurallarının beklenmedik etkileri ve bunları Nginx ile nasıl aşıp performansı artırdığımı anlatıyorum. Kendi VPS&#39;imdeki deneyimlerim.
-
-#Cloudflare #Caching #Nginx #Performance #Devops</sub><!-- BLOG-POST-LIST:END -->
+#CiCd #GithubActions #Cleanup #SelfInflicted #Devops</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [Tüm yazılar (TR)](https://mustafaerbay.com.tr/blog/) • [All posts (EN)](https://mustafaerbay.com.tr/en/blog/)
 
