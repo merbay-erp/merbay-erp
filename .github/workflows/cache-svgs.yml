@@ -9,6 +9,11 @@ on:
   schedule:
     - cron: '0 */4 * * *'  # her 4 saatte
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/cache-svgs.yml'
+      - '.github/workflows/scripts/gen-stats.sh'
 
 permissions:
   contents: write
@@ -17,17 +22,24 @@ jobs:
   cache:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout main (script source)
+        uses: actions/checkout@v4
+        with:
+          path: main-src
+
+      - name: Checkout output branch (target)
+        uses: actions/checkout@v4
         with:
           ref: output
-          fetch-depth: 1
+          path: output-target
 
       - name: Fetch 3rd-party SVGs (cache best-effort)
+        working-directory: output-target
         run: |
           set -uo pipefail
           mkdir -p svg-cache
 
-          # Header (capsule-render) — daha guvenilir
+          # Header
           curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
             "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" \
             -o svg-cache/header.svg.new && mv svg-cache/header.svg.new svg-cache/header.svg && echo "✓ header" || echo "✗ header (önceki kalsın)"
@@ -37,12 +49,12 @@ jobs:
             "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
             -o svg-cache/footer.svg.new && mv svg-cache/footer.svg.new svg-cache/footer.svg && echo "✓ footer" || echo "✗ footer"
 
-          # Streak (heroku — guvenilir)
+          # Streak
           curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
             "https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" \
             -o svg-cache/streak.svg.new && mv svg-cache/streak.svg.new svg-cache/streak.svg && echo "✓ streak" || echo "✗ streak"
 
-          # Activity graph (vercel ama farkli endpoint)
+          # Activity graph
           curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
             "https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" \
             -o svg-cache/activity.svg.new && mv svg-cache/activity.svg.new svg-cache/activity.svg && echo "✓ activity" || echo "✗ activity"
@@ -52,139 +64,16 @@ jobs:
             "https://github-profile-trophy.vercel.app/?username=merbay-erp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" \
             -o svg-cache/trophies.svg.new && mv svg-cache/trophies.svg.new svg-cache/trophies.svg && echo "✓ trophies" || echo "✗ trophies"
 
-      - name: Generate custom stats.svg + top-langs.svg from GitHub API
+      - name: Generate custom stats.svg + top-langs.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -euo pipefail
-
-          # Fetch user data
-          USER_JSON=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/users/merbay-erp")
-          PUBLIC_REPOS=$(echo "$USER_JSON" | jq -r '.public_repos // 0')
-          FOLLOWERS=$(echo "$USER_JSON" | jq -r '.followers // 0')
-
-          # Fetch all repos (own, not forks)
-          REPOS_JSON=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/users/merbay-erp/repos?per_page=100&type=owner")
-          TOTAL_STARS=$(echo "$REPOS_JSON" | jq '[.[] | select(.fork == false) | .stargazers_count] | add // 0')
-          TOTAL_FORKS=$(echo "$REPOS_JSON" | jq '[.[] | select(.fork == false) | .forks_count] | add // 0')
-
-          # Commits via search API (last year)
-          COMMITS_JSON=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/search/commits?q=author:merbay-erp&per_page=1" || echo '{"total_count":0}')
-          TOTAL_COMMITS=$(echo "$COMMITS_JSON" | jq -r '.total_count // 0')
-
-          # PRs + Issues via search API
-          PRS_JSON=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/search/issues?q=author:merbay-erp+is:pr&per_page=1")
-          TOTAL_PRS=$(echo "$PRS_JSON" | jq -r '.total_count // 0')
-
-          ISSUES_JSON=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/search/issues?q=author:merbay-erp+is:issue&per_page=1")
-          TOTAL_ISSUES=$(echo "$ISSUES_JSON" | jq -r '.total_count // 0')
-
-          echo "Stats: stars=$TOTAL_STARS forks=$TOTAL_FORKS commits=$TOTAL_COMMITS prs=$TOTAL_PRS issues=$TOTAL_ISSUES followers=$FOLLOWERS repos=$PUBLIC_REPOS"
-
-          # Compute rank (basit formula)
-          SCORE=$(echo "$TOTAL_STARS $TOTAL_COMMITS $TOTAL_PRS $TOTAL_ISSUES $FOLLOWERS" | awk '{print int($1*4 + $2*1 + $3*0.5 + $4*0.5 + $5*1)}')
-          if   [ "$SCORE" -gt 5000 ]; then RANK="A+"; RANK_PCT=98
-          elif [ "$SCORE" -gt 2000 ]; then RANK="A"; RANK_PCT=92
-          elif [ "$SCORE" -gt 500 ];  then RANK="B+"; RANK_PCT=75
-          elif [ "$SCORE" -gt 100 ];  then RANK="B"; RANK_PCT=60
-          else RANK="C"; RANK_PCT=40
-          fi
-
-          # TokyoNight palette
-          BG="#1a1b27"; TITLE="#70a5fd"; ICON="#bf91f3"; TEXT="#a9b1d6"; RANK_C="#38bdae"
-
-          cat > svg-cache/stats.svg <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" fill="none" role="img" aria-label="Mustafa Erbay's GitHub Stats">
-  <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TITLE; }
-    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TEXT; }
-    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: $ICON; }
-    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: $RANK_C; }
-    .rank-pct { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TEXT; }
-  </style>
-  <rect width="500" height="195" rx="6" fill="$BG"/>
-  <text x="25" y="35" class="header">Mustafa Erbay's GitHub Stats</text>
-
-  <!-- Stats -->
-  <g transform="translate(25, 60)">
-    <text x="0"  y="0"  class="label">★</text>  <text x="20" y="0"  class="stat">Total Stars Earned:</text>     <text x="280" y="0"  class="stat" text-anchor="end">$TOTAL_STARS</text>
-    <text x="0"  y="25" class="label">⬆</text>  <text x="20" y="25" class="stat">Total Commits (all time):</text> <text x="280" y="25" class="stat" text-anchor="end">$TOTAL_COMMITS</text>
-    <text x="0"  y="50" class="label">⇄</text>  <text x="20" y="50" class="stat">Total PRs:</text>               <text x="280" y="50" class="stat" text-anchor="end">$TOTAL_PRS</text>
-    <text x="0"  y="75" class="label">◉</text>  <text x="20" y="75" class="stat">Total Issues:</text>            <text x="280" y="75" class="stat" text-anchor="end">$TOTAL_ISSUES</text>
-    <text x="0"  y="100" class="label">▲</text> <text x="20" y="100" class="stat">Contributed to (last year):</text> <text x="280" y="100" class="stat" text-anchor="end">$PUBLIC_REPOS</text>
-  </g>
-
-  <!-- Rank circle -->
-  <g transform="translate(400, 100)">
-    <circle cx="0" cy="0" r="45" fill="none" stroke="#2c2f3e" stroke-width="6"/>
-    <circle cx="0" cy="0" r="45" fill="none" stroke="$RANK_C" stroke-width="6"
-            stroke-dasharray="$(echo "$RANK_PCT * 2.83" | bc -l | xargs printf '%.0f') 283"
-            stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90)"/>
-    <text x="0" y="2" text-anchor="middle" class="rank-text">$RANK</text>
-    <text x="0" y="20" text-anchor="middle" class="rank-pct">${RANK_PCT}%</text>
-  </g>
-</svg>
-EOF
-          echo "✓ stats.svg generated"
-
-          # Top languages — repo'lardan dil verisi
-          LANGS_RAW="{}"
-          for repo in $(echo "$REPOS_JSON" | jq -r '.[] | select(.fork == false) | .name'); do
-            R=$(curl -fsS -H "Authorization: token $GH_TOKEN" "https://api.github.com/repos/merbay-erp/$repo/languages" 2>/dev/null || echo '{}')
-            LANGS_RAW=$(echo "$LANGS_RAW $R" | jq -s 'add // {}')
-          done
-
-          # Excluding mustafaerbay (huge content repo) and convert to array
-          LANGS_ARR=$(echo "$LANGS_RAW" | jq -c 'to_entries | sort_by(-.value) | .[:8]')
-          TOTAL=$(echo "$LANGS_ARR" | jq '[.[].value] | add')
-          echo "Top langs total bytes: $TOTAL"
-
-          # Color map (subset)
-          declare -A COLORS=(
-            ["TypeScript"]="#3178c6" ["JavaScript"]="#f1e05a" ["Astro"]="#ff5d01"
-            ["Python"]="#3572A5" ["Shell"]="#89e051" ["HTML"]="#e34c26"
-            ["CSS"]="#563d7c" ["SCSS"]="#c6538c" ["MDX"]="#fcb32c"
-            ["Vue"]="#41b883" ["Go"]="#00ADD8" ["Rust"]="#dea584"
-            ["Java"]="#b07219" ["C"]="#555555" ["C++"]="#f34b7d"
-            ["Ruby"]="#701516" ["PHP"]="#4F5D95" ["YAML"]="#cb171e"
-            ["Dockerfile"]="#384d54" ["Makefile"]="#427819"
-          )
-
-          # Build SVG bars
-          BARS=""
-          Y=70
-          IDX=0
-          while read -r LANG_LINE; do
-            NAME=$(echo "$LANG_LINE" | jq -r .key)
-            BYTES=$(echo "$LANG_LINE" | jq -r .value)
-            PCT=$(echo "scale=1; $BYTES * 100 / $TOTAL" | bc -l)
-            COLOR="${COLORS[$NAME]:-#888888}"
-            WIDTH=$(echo "scale=0; $PCT * 5.5 / 1" | bc -l)
-            COL=$((IDX % 2))
-            ROW=$((IDX / 2))
-            X=$((25 + COL * 280))
-            YPOS=$((70 + ROW * 28))
-            BARS+="<g transform=\"translate($X, $YPOS)\"><circle cx=\"5\" cy=\"-4\" r=\"5\" fill=\"$COLOR\"/><text x=\"18\" y=\"0\" class=\"lang\">$NAME</text><text x=\"230\" y=\"0\" text-anchor=\"end\" class=\"pct\">${PCT}%</text></g>"
-            IDX=$((IDX + 1))
-          done < <(echo "$LANGS_ARR" | jq -c '.[]')
-
-          cat > svg-cache/top-langs.svg <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="$((70 + ((IDX + 1) / 2) * 28 + 20))" viewBox="0 0 600 $((70 + ((IDX + 1) / 2) * 28 + 20))" fill="none" role="img" aria-label="Most Used Languages">
-  <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TITLE; }
-    .lang { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TEXT; }
-    .pct  { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: $TEXT; }
-  </style>
-  <rect width="600" height="$((70 + ((IDX + 1) / 2) * 28 + 20))" rx="6" fill="$BG"/>
-  <text x="25" y="35" class="header">Most Used Languages</text>
-  $BARS
-</svg>
-EOF
-          echo "✓ top-langs.svg generated ($IDX langs)"
-
-          ls -la svg-cache/
+          chmod +x main-src/.github/workflows/scripts/gen-stats.sh
+          main-src/.github/workflows/scripts/gen-stats.sh merbay-erp output-target/svg-cache
+          ls -la output-target/svg-cache/
 
       - name: Commit + push to output branch
+        working-directory: output-target
         run: |
           git config user.name "SVG Cache Bot"
           git config user.email "bot@mustafaerbay.com.tr"
@@ -193,5 +82,5 @@ EOF
             echo "Hiç değişiklik yok, commit atlandı"
             exit 0
           fi
-          git commit -m "chore(svg): cache 3rd-party SVGs ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "chore(svg): cache + gen SVGs ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push origin output

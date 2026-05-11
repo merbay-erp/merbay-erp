@@ -1,0 +1,156 @@
+#!/usr/bin/env bash
+# GitHub API'den stats.svg + top-langs.svg uret (TokyoNight tema).
+# cache-svgs.yml workflow'undan cagrilir.
+
+set -euo pipefail
+
+USERNAME="${1:-merbay-erp}"
+OUT_DIR="${2:-svg-cache}"
+GH_TOKEN="${GH_TOKEN:?GH_TOKEN env var required}"
+
+mkdir -p "$OUT_DIR"
+
+AUTH="Authorization: token $GH_TOKEN"
+
+# Fetch user data
+USER_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/users/$USERNAME")
+PUBLIC_REPOS=$(echo "$USER_JSON" | jq -r '.public_repos // 0')
+FOLLOWERS=$(echo "$USER_JSON" | jq -r '.followers // 0')
+
+# Fetch all repos (own, not forks)
+REPOS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/users/$USERNAME/repos?per_page=100&type=owner")
+TOTAL_STARS=$(echo "$REPOS_JSON" | jq '[.[] | select(.fork == false) | .stargazers_count] | add // 0')
+
+# Commits, PRs, Issues via search API
+COMMITS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/search/commits?q=author:$USERNAME&per_page=1" || echo '{"total_count":0}')
+TOTAL_COMMITS=$(echo "$COMMITS_JSON" | jq -r '.total_count // 0')
+
+PRS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/search/issues?q=author:$USERNAME+is:pr&per_page=1")
+TOTAL_PRS=$(echo "$PRS_JSON" | jq -r '.total_count // 0')
+
+ISSUES_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/search/issues?q=author:$USERNAME+is:issue&per_page=1")
+TOTAL_ISSUES=$(echo "$ISSUES_JSON" | jq -r '.total_count // 0')
+
+echo "Stats: stars=$TOTAL_STARS commits=$TOTAL_COMMITS prs=$TOTAL_PRS issues=$TOTAL_ISSUES followers=$FOLLOWERS repos=$PUBLIC_REPOS"
+
+# Compute rank
+SCORE=$(awk -v s=$TOTAL_STARS -v c=$TOTAL_COMMITS -v p=$TOTAL_PRS -v i=$TOTAL_ISSUES -v f=$FOLLOWERS \
+  'BEGIN { print int(s*4 + c*1 + p*0.5 + i*0.5 + f*1) }')
+if   [ "$SCORE" -gt 5000 ]; then RANK="A+"; RANK_PCT=98
+elif [ "$SCORE" -gt 2000 ]; then RANK="A";  RANK_PCT=92
+elif [ "$SCORE" -gt 500 ];  then RANK="B+"; RANK_PCT=75
+elif [ "$SCORE" -gt 100 ];  then RANK="B";  RANK_PCT=60
+else RANK="C"; RANK_PCT=40
+fi
+
+# TokyoNight palette
+BG="#1a1b27"
+TITLE="#70a5fd"
+ICON="#bf91f3"
+TEXT="#a9b1d6"
+RANK_C="#38bdae"
+
+DASH=$(awk -v p=$RANK_PCT 'BEGIN { printf "%.0f", p * 2.83 }')
+
+cat > "$OUT_DIR/stats.svg" <<SVGEOF
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195" fill="none" role="img" aria-label="GitHub Stats">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TITLE}; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TEXT}; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${ICON}; }
+    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${RANK_C}; }
+    .rank-pct { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TEXT}; }
+  </style>
+  <rect width="500" height="195" rx="6" fill="${BG}"/>
+  <text x="25" y="35" class="header">Mustafa Erbay's GitHub Stats</text>
+
+  <g transform="translate(25, 60)">
+    <text x="0" y="0"   class="label">★</text><text x="22" y="0"   class="stat">Total Stars Earned:</text><text x="320" y="0"   class="stat" text-anchor="end">${TOTAL_STARS}</text>
+    <text x="0" y="25"  class="label">⬆</text><text x="22" y="25"  class="stat">Total Commits (all-time):</text><text x="320" y="25"  class="stat" text-anchor="end">${TOTAL_COMMITS}</text>
+    <text x="0" y="50"  class="label">⇄</text><text x="22" y="50"  class="stat">Total PRs:</text><text x="320" y="50"  class="stat" text-anchor="end">${TOTAL_PRS}</text>
+    <text x="0" y="75"  class="label">◉</text><text x="22" y="75"  class="stat">Total Issues:</text><text x="320" y="75"  class="stat" text-anchor="end">${TOTAL_ISSUES}</text>
+    <text x="0" y="100" class="label">▲</text><text x="22" y="100" class="stat">Followers:</text><text x="320" y="100" class="stat" text-anchor="end">${FOLLOWERS}</text>
+  </g>
+
+  <g transform="translate(420, 100)">
+    <circle cx="0" cy="0" r="45" fill="none" stroke="#2c2f3e" stroke-width="6"/>
+    <circle cx="0" cy="0" r="45" fill="none" stroke="${RANK_C}" stroke-width="6" stroke-dasharray="${DASH} 283" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90)"/>
+    <text x="0" y="2" text-anchor="middle" class="rank-text">${RANK}</text>
+    <text x="0" y="20" text-anchor="middle" class="rank-pct">${RANK_PCT}%</text>
+  </g>
+</svg>
+SVGEOF
+echo "✓ stats.svg generated"
+
+# ---------- Top Languages ----------
+LANGS_RAW="{}"
+for repo in $(echo "$REPOS_JSON" | jq -r '.[] | select(.fork == false) | .name'); do
+  R=$(curl -fsS -H "$AUTH" "https://api.github.com/repos/$USERNAME/$repo/languages" 2>/dev/null || echo '{}')
+  LANGS_RAW=$(jq -s 'add // {}' <(echo "$LANGS_RAW") <(echo "$R"))
+done
+
+# Sort top 8
+LANGS_ARR=$(echo "$LANGS_RAW" | jq -c 'to_entries | sort_by(-.value) | .[:8]')
+TOTAL=$(echo "$LANGS_ARR" | jq '[.[].value] | add // 1')
+COUNT=$(echo "$LANGS_ARR" | jq 'length')
+echo "Top langs total bytes: $TOTAL ($COUNT langs)"
+
+color_for() {
+  case "$1" in
+    "TypeScript") echo "#3178c6" ;;
+    "JavaScript") echo "#f1e05a" ;;
+    "Astro")      echo "#ff5d01" ;;
+    "Python")     echo "#3572A5" ;;
+    "Shell")      echo "#89e051" ;;
+    "HTML")       echo "#e34c26" ;;
+    "CSS")        echo "#563d7c" ;;
+    "SCSS")       echo "#c6538c" ;;
+    "MDX")        echo "#fcb32c" ;;
+    "Vue")        echo "#41b883" ;;
+    "Go")         echo "#00ADD8" ;;
+    "Rust")       echo "#dea584" ;;
+    "Java")       echo "#b07219" ;;
+    "C")          echo "#555555" ;;
+    "C++")        echo "#f34b7d" ;;
+    "Ruby")       echo "#701516" ;;
+    "PHP")        echo "#4F5D95" ;;
+    "YAML")       echo "#cb171e" ;;
+    "Dockerfile") echo "#384d54" ;;
+    "Makefile")   echo "#427819" ;;
+    "JSON")       echo "#292929" ;;
+    *)            echo "#888888" ;;
+  esac
+}
+
+# Build bars
+BARS=""
+IDX=0
+while read -r LANG_LINE; do
+  NAME=$(echo "$LANG_LINE" | jq -r .key)
+  BYTES=$(echo "$LANG_LINE" | jq -r .value)
+  PCT=$(awk -v b=$BYTES -v t=$TOTAL 'BEGIN { printf "%.1f", b*100/t }')
+  COLOR=$(color_for "$NAME")
+  COL=$((IDX % 2))
+  ROW=$((IDX / 2))
+  X=$((25 + COL * 280))
+  YPOS=$((70 + ROW * 28))
+  BARS+="<g transform=\"translate($X, $YPOS)\"><circle cx=\"5\" cy=\"-5\" r=\"5\" fill=\"$COLOR\"/><text x=\"18\" y=\"0\" class=\"lang\">$NAME</text><text x=\"230\" y=\"0\" text-anchor=\"end\" class=\"pct\">${PCT}%</text></g>"$'\n  '
+  IDX=$((IDX + 1))
+done < <(echo "$LANGS_ARR" | jq -c '.[]')
+
+ROWS=$(( (IDX + 1) / 2 ))
+HEIGHT=$((70 + ROWS * 28 + 20))
+
+cat > "$OUT_DIR/top-langs.svg" <<SVGEOF
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="${HEIGHT}" viewBox="0 0 600 ${HEIGHT}" fill="none" role="img" aria-label="Most Used Languages">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TITLE}; }
+    .lang { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TEXT}; }
+    .pct  { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TEXT}; }
+  </style>
+  <rect width="600" height="${HEIGHT}" rx="6" fill="${BG}"/>
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  ${BARS}
+</svg>
+SVGEOF
+echo "✓ top-langs.svg generated ($IDX langs, ${HEIGHT}px high)"
