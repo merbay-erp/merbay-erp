@@ -1,7 +1,7 @@
 name: Update README
 
-# RSS feed'den son 5 yaziyi cek, README'deki BLOG-POST-LIST bloğunu guncelle.
-# Maliyet: $0 — GitHub-hosted runner (saatlik 0. dk).
+# RSS feed'den son 5 yaziyi cek, README'deki BLOG-POST-LIST blogunu guncelle.
+# Maliyet: $0 — GitHub-hosted runner.
 
 on:
   schedule:
