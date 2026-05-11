@@ -1,0 +1,68 @@
+name: Cache 3rd-party SVGs
+
+# Vercel/3rd-party SVG'leri (stats, top-langs, header) saatte bir fetch edip
+# output branch'ine kaydeder. README bu kendi self-hosted SVG'leri kullanir
+# → vercel 503 olsa bile profil profesyonel gorunur.
+#
+# Maliyet: $0 (GitHub-hosted runner + raw.githubusercontent.com)
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # her 4 saatte (Vercel cache_seconds ile uyumlu)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 1
+
+      - name: Fetch SVGs from upstream
+        run: |
+          set -euo pipefail
+          mkdir -p svg-cache
+
+          # Header (capsule-render)
+          curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
+            "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" \
+            -o svg-cache/header.svg && echo "✓ header" || echo "✗ header (önceki kalsın)"
+
+          # Footer
+          curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
+            "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
+            -o svg-cache/footer.svg && echo "✓ footer" || echo "✗ footer"
+
+          # Stats card
+          curl -fsS --max-time 30 --retry 5 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" \
+            -o svg-cache/stats.svg && echo "✓ stats" || echo "✗ stats"
+
+          # Top languages
+          curl -fsS --max-time 30 --retry 5 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&theme=tokyonight&hide_border=true&card_width=600&langs_count=10&exclude_repo=mustafaerbay" \
+            -o svg-cache/top-langs.svg && echo "✓ top-langs" || echo "✗ top-langs"
+
+          # Streak (heroku, daha güvenilir ama yine de cacheleyelim)
+          curl -fsS --max-time 30 --retry 3 --retry-delay 5 \
+            "https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" \
+            -o svg-cache/streak.svg && echo "✓ streak" || echo "✗ streak"
+
+          ls -la svg-cache/
+
+      - name: Commit + push to output branch
+        run: |
+          git config user.name "SVG Cache Bot"
+          git config user.email "bot@mustafaerbay.com.tr"
+          git add svg-cache/
+          if git diff --staged --quiet; then
+            echo "Hiç değişiklik yok, commit atlandı"
+            exit 0
+          fi
+          git commit -m "chore(svg): cache 3rd-party SVGs ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push origin output
