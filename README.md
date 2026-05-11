@@ -100,9 +100,22 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- *List auto-updated hourly from RSS...*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Kendi Sistemimin Esiri Olmak: Bir Indie Hacker&#39;ın On-Call Hikayesi](https://mustafaerbay.com.tr/blog/career/kendi-sistemimin-esiri-olmak-bir-indie-hackern-on-call-hikayesi/) <sub>
+  Indie hacker olarak kendi sunucularımın 7/24 on-call sorumluluğunu nasıl yönettiğimi, yaşadığım sorunları ve aldığım dersleri anlatıyorum.
+
+#Career</sub>- [Kendi VPS Krizim: Müşteri Toplantısında Gelen O Anlık Panik](https://mustafaerbay.com.tr/blog/career/kendi-vps-krizim-mteri-toplantsnda-gelen-o-anlk-panik/) <sub>
+  Müşteri toplantısında kritik bir anda VPS&#39;imin çökmesiyle yaşadığım panik ve çözüm sürecini paylaşıyorum. Teknik detaylar ve dersler.
+
+#Career #VPS #ServerManagement #IncidentResponse #Debugging</sub>- [Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/) <sub>
+  Kendi sunucumda projelerimi barındırmak benim için sadece teknik bir tercih değil, aynı zamanda bir yaşam felsefesi. Kontrol ve bağımsızlık uğruna harcadığım…
+
+#Life</sub>- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
+  Kendi VPS&#39;imde Nginx&#39;in Docker container&#39;larına ulaşamama sorununu nasıl çözdüm? `resolver` direktifi ve dinamik network çözümleme ihtiyacının derinlemesine…
+
+#Nginx #Docker #DNS #VPS #Troubleshooting</sub>- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
+  Kendi VPS&#39;imde Docker disk alanını nasıl yönettiğimi, veri bütünlüğünü nasıl sağladığımı ve karşılaştiğım sorunları anlatıyorum.
+
+#Docker #Vps #Depolama #VeriButunlugu #SistemYonetimi</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Posts auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
