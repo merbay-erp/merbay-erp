@@ -39,39 +39,22 @@ jobs:
           set -uo pipefail
           mkdir -p svg-cache
 
-          # SVG fetcher with whitespace cleanup (capsule-render bug: leading whitespace breaks GitHub render)
-          fetch_svg() {
-            local url="$1"
-            local out="$2"
-            if curl -fsS --max-time 30 --retry 3 --retry-delay 5 "$url" -o "$out.raw"; then
-              # Strip leading whitespace before <svg, ensure clean start
-              sed -E 's/^[[:space:]]+//' "$out.raw" | awk '/<svg/{found=1} found{print}' > "$out.new"
-              if [ -s "$out.new" ] && head -c 4 "$out.new" | grep -q "<svg"; then
-                mv "$out.new" "$out"
-                rm -f "$out.raw"
-                echo "✓ $(basename $out)"
-              else
-                echo "✗ $(basename $out) (invalid SVG, önceki kalsın)"
-                rm -f "$out.new" "$out.raw"
-              fi
-            else
-              echo "✗ $(basename $out) (fetch failed, önceki kalsın)"
-            fi
-          }
+          chmod +x ../main-src/.github/workflows/scripts/fetch-svg.sh
+          FETCH=../main-src/.github/workflows/scripts/fetch-svg.sh
 
-          fetch_svg "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" \
+          $FETCH "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" \
             svg-cache/header.svg
 
-          fetch_svg "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
+          $FETCH "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
             svg-cache/footer.svg
 
-          fetch_svg "https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" \
+          $FETCH "https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" \
             svg-cache/streak.svg
 
-          fetch_svg "https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" \
+          $FETCH "https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" \
             svg-cache/activity.svg
 
-          fetch_svg "https://github-profile-trophy.vercel.app/?username=merbay-erp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" \
+          $FETCH "https://github-profile-trophy.vercel.app/?username=merbay-erp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" \
             svg-cache/trophies.svg
 
       - name: Generate custom stats.svg + top-langs.svg
