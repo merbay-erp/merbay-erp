@@ -5,14 +5,20 @@
   Snake animation: .github/workflows/snake.yml (gunluk)
 -->
 
-<!-- ╔══════════════════ HEADER ══════════════════╗ -->
-<a href="https://mustafaerbay.com.tr">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Mustafa%20Erbay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" alt="header"/>
-</a>
+<!-- ╔══════════════════ HEADER (native + SVG fallback) ══════════════════╗ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/merbay-erp"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&random=false&width=720&height=42&lines=Survived+OOM+wars%2C+Docker+disk+fires%2C+kcompactd+%2592+CPU;20%2B+years+building+resilient+production+systems;13%2B+Docker+containers%2C+1+VPS%2C+0+managed+services;Cloud+%E2%80%A2+DevOps+%E2%80%A2+SRE+%E2%80%A2+Bilingual+blog+%28TR+%2B+EN%29" alt="typing"/>
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14)](https://mustafaerbay.com.tr)
+
+# 👋 Hi, I'm Mustafa Erbay
+
+**System Architect · Network & Infrastructure Engineer · Indie Hacker**
+
+Cloud · DevOps · SRE · Bilingual tech blog (TR + EN)
+
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&random=false&width=720&height=42&lines=Survived+OOM+wars%2C+Docker+disk+fires%2C+kcompactd+%2592+CPU;20%2B+years+building+resilient+production+systems;13%2B+Docker+containers%2C+1+VPS%2C+0+managed+services;Cloud+%E2%80%A2+DevOps+%E2%80%A2+SRE+%E2%80%A2+Bilingual+blog+%28TR+%2B+EN%29)](https://github.com/merbay-erp)
+
+</div>
 
 <!-- ╔══════════════════ SOCIAL ══════════════════╗ -->
 <p align="center">
@@ -56,8 +62,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 ### 🛠 Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,postgres,redis,nodejs,typescript,astro,react,nextjs,cloudflare,prometheus,grafana,git,github,vscode&perline=18" alt="stack"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,postgres,redis,nodejs,typescript,astro,react,nextjs,cloudflare,prometheus,grafana,git,github,vscode&perline=9" alt="stack"/>
 </p>
 
 <p align="center">
@@ -72,21 +78,20 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 ### 📊 GitHub at a Glance
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=460" alt="stats"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" height="180"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true&card_width=460" alt="streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&theme=tokyonight&hide_border=true&card_width=940&langs_count=10&exclude_repo=mustafaerbay" alt="top langs"/>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&theme=tokyonight&hide_border=true&card_width=600&langs_count=10&exclude_repo=mustafaerbay" alt="top langs"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" width="100%"/>
@@ -100,24 +105,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Kendi Sistemimin Esiri Olmak: Bir Indie Hacker&#39;ın On-Call Hikayesi](https://mustafaerbay.com.tr/blog/career/kendi-sistemimin-esiri-olmak-bir-indie-hackern-on-call-hikayesi/) <sub>
-  Indie hacker olarak kendi sunucularımın 7/24 on-call sorumluluğunu nasıl yönettiğimi, yaşadığım sorunları ve aldığım dersleri anlatıyorum.
+<!-- BLOG-POST-LIST:START -->
+- *List auto-updated hourly from RSS...*
+<!-- BLOG-POST-LIST:END -->
 
-#Career</sub>- [Kendi VPS Krizim: Müşteri Toplantısında Gelen O Anlık Panik](https://mustafaerbay.com.tr/blog/career/kendi-vps-krizim-mteri-toplantsnda-gelen-o-anlk-panik/) <sub>
-  Müşteri toplantısında kritik bir anda VPS&#39;imin çökmesiyle yaşadığım panik ve çözüm sürecini paylaşıyorum. Teknik detaylar ve dersler.
-
-#Career #VPS #ServerManagement #IncidentResponse #Debugging</sub>- [Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/) <sub>
-  Kendi sunucumda projelerimi barındırmak benim için sadece teknik bir tercih değil, aynı zamanda bir yaşam felsefesi. Kontrol ve bağımsızlık uğruna harcadığım…
-
-#Life</sub>- [Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/) <sub>
-  Kendi VPS&#39;imde Nginx&#39;in Docker container&#39;larına ulaşamama sorununu nasıl çözdüm? `resolver` direktifi ve dinamik network çözümleme ihtiyacının derinlemesine…
-
-#Nginx #Docker #DNS #VPS #Troubleshooting</sub>- [Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/) <sub>
-  Kendi VPS&#39;imde Docker disk alanını nasıl yönettiğimi, veri bütünlüğünü nasıl sağladığımı ve karşılaştiğım sorunları anlatıyorum.
-
-#Docker #Vps #Depolama #VeriButunlugu #SistemYonetimi</sub><!-- BLOG-POST-LIST:END -->
-
-<sub>📡 Posts auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
+<sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
 ➡️ **All posts**: [Türkçe](https://mustafaerbay.com.tr/blog/) · [English](https://mustafaerbay.com.tr/en/blog/)
 
@@ -146,6 +138,4 @@ $ ./mustafa --whoami
   <sub><i>If you found this profile useful, consider <a href="https://github.com/merbay-erp">following</a> — I write 1+ posts/day on real production scenarios.</i></sub>
 </p>
 
-<a href="https://mustafaerbay.com.tr">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer"/>
-</a>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)](https://mustafaerbay.com.tr)

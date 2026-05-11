@@ -22,6 +22,8 @@ jobs:
         with:
           feed_list: 'https://mustafaerbay.com.tr/rss.xml'
           max_post_count: 5
-          template: '- [$title]($url) <sub>$newline  $description</sub>'
+          # Daha temiz template — title bold + tarih + tek satir, alt satir karmasasi yok
+          template: '$newline📝 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>'
+          date_format: 'mmm dS, yyyy'
           comment_tag_name: 'BLOG-POST-LIST'
           commit_message: 'chore(readme): update blog posts'
