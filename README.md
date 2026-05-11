@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Kendi Sunucumun Kriz Anı: Aile Yemeğinde Gelen Uyarı](https://mustafaerbay.com.tr/blog/life/kendi-sunucumun-kriz-an-aile-yemeinde-gelen-uyar/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
 📝 **[Active Directory Tier Modeline Geçişte Yaptığım Üç Yanlış Varsayım](https://mustafaerbay.com.tr/blog/technology/active-directory-tier-modeline-gecitte-yaptigim-uc-yanlis-varsayim/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
 📝 **[Çoklu Sağlayıcı Yapay Zeka Mimarisinde Kota Fail-Over Disiplini](https://mustafaerbay.com.tr/blog/technology/coklu-saglayici-yapay-zeka-mimarisinde-kota-fail-over-disiplini/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
-📝 **[Kendi Sistemimin Esiri Olmak: Bir Indie Hacker&#39;ın On-Call Hikayesi](https://mustafaerbay.com.tr/blog/career/kendi-sistemimin-esiri-olmak-bir-indie-hackern-on-call-hikayesi/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
-📝 **[Kendi VPS Krizim: Müşteri Toplantısında Gelen O Anlık Panik](https://mustafaerbay.com.tr/blog/career/kendi-vps-krizim-mteri-toplantsnda-gelen-o-anlk-panik/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
-📝 **[Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[GitHub Actions ile SQLite Veritabanını Docker Container&#39;a Güvenli…](https://mustafaerbay.com.tr/blog/tutorials/github-actions-ile-sqlite-veritabann-docker-containera-gvenli-deploy-etme-rehberi/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
+📝 **[Yeni Bir Yazı Konusu Önerisi](https://mustafaerbay.com.tr/blog/tutorials/yeni-bir-yaz-konusu-nerisi/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
