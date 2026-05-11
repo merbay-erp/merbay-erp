@@ -106,8 +106,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- *List auto-updated hourly from RSS...*
-<!-- BLOG-POST-LIST:END -->
+📝 **[Kendi Sistemimin Esiri Olmak: Bir Indie Hacker&#39;ın On-Call Hikayesi](https://mustafaerbay.com.tr/blog/career/kendi-sistemimin-esiri-olmak-bir-indie-hackern-on-call-hikayesi/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
+📝 **[Kendi VPS Krizim: Müşteri Toplantısında Gelen O Anlık Panik](https://mustafaerbay.com.tr/blog/career/kendi-vps-krizim-mteri-toplantsnda-gelen-o-anlk-panik/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
+📝 **[Kendi Sunucumda Yaşamak: Zaman ve Özgürlük Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-zaman-ve-zgrlk-dengesi/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
+📝 **[Nginx&#39;in Sinsi DNS Tuzağı: Docker Container&#39;ına Ulaşamama](https://mustafaerbay.com.tr/blog/technology/nginxin-sinsi-dns-tuza-docker-containerna-ulaamama/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub>
+📝 **[Docker Disk Depolama Savaşları: VPS&#39;te Veri Bütünlüğü Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-disk-depolama-savalar-vpste-veri-btnl-rehberi/)** &nbsp;·&nbsp; <sub>May 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
