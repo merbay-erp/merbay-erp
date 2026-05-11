@@ -34,6 +34,7 @@ Cloud · DevOps · SRE · Bilingual tech blog (TR + EN)
   <a href="https://dev.to/merbayerp"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-merbayerp-0a0a0a?style=flat-square&logo=devdotto&logoColor=white"></a>
   <a href="https://mustafaerbay.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-blog-2962ff?style=flat-square&logo=hashnode&logoColor=white"></a>
   <a href="https://www.wikidata.org/wiki/Q139679043"><img alt="Wikidata" src="https://img.shields.io/badge/Wikidata-Q139679043-006699?style=flat-square&logo=wikidata&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0005-9624-4249"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--9624--4249-a6ce39?style=flat-square&logo=orcid&logoColor=white"></a>
 </p>
 
 <p align="center">
