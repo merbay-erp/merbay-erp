@@ -21,9 +21,39 @@ FOLLOWERS=$(echo "$USER_JSON" | jq -r '.followers // 0')
 REPOS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/users/$USERNAME/repos?per_page=100&type=owner")
 TOTAL_STARS=$(echo "$REPOS_JSON" | jq '[.[] | select(.fork == false) | .stargazers_count] | add // 0')
 
-# Commits, PRs, Issues via search API
-COMMITS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/search/commits?q=author:$USERNAME&per_page=1" || echo '{"total_count":0}')
-TOTAL_COMMITS=$(echo "$COMMITS_JSON" | jq -r '.total_count // 0')
+# Commits via GraphQL (much more accurate than search API)
+GQL_QUERY=$(cat <<GQL
+{
+  user(login: "$USERNAME") {
+    contributionsCollection {
+      totalCommitContributions
+      restrictedContributionsCount
+    }
+    repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
+      nodes {
+        defaultBranchRef {
+          target {
+            ... on Commit {
+              history {
+                totalCount
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+GQL
+)
+GQL_PAYLOAD=$(jq -nc --arg q "$GQL_QUERY" '{query: $q}')
+GQL_RESPONSE=$(curl -fsS -H "$AUTH" -H "Content-Type: application/json" -X POST -d "$GQL_PAYLOAD" "https://api.github.com/graphql" || echo '{}')
+
+# Sum commits across all repos (accurate)
+REPO_COMMITS=$(echo "$GQL_RESPONSE" | jq '[.data.user.repositories.nodes[]?.defaultBranchRef?.target?.history?.totalCount // 0] | add // 0')
+LAST_YEAR_CONTRIB=$(echo "$GQL_RESPONSE" | jq '.data.user.contributionsCollection.totalCommitContributions // 0')
+TOTAL_COMMITS=${REPO_COMMITS:-0}
+echo "GraphQL: repo_commits=$REPO_COMMITS last_year_contrib=$LAST_YEAR_CONTRIB"
 
 PRS_JSON=$(curl -fsS -H "$AUTH" "https://api.github.com/search/issues?q=author:$USERNAME+is:pr&per_page=1")
 TOTAL_PRS=$(echo "$PRS_JSON" | jq -r '.total_count // 0')
@@ -66,9 +96,9 @@ cat > "$OUT_DIR/stats.svg" <<SVGEOF
 
   <g transform="translate(25, 60)">
     <text x="0" y="0"   class="label">★</text><text x="22" y="0"   class="stat">Total Stars Earned:</text><text x="320" y="0"   class="stat" text-anchor="end">${TOTAL_STARS}</text>
-    <text x="0" y="25"  class="label">⬆</text><text x="22" y="25"  class="stat">Total Commits (all-time):</text><text x="320" y="25"  class="stat" text-anchor="end">${TOTAL_COMMITS}</text>
-    <text x="0" y="50"  class="label">⇄</text><text x="22" y="50"  class="stat">Total PRs:</text><text x="320" y="50"  class="stat" text-anchor="end">${TOTAL_PRS}</text>
-    <text x="0" y="75"  class="label">◉</text><text x="22" y="75"  class="stat">Total Issues:</text><text x="320" y="75"  class="stat" text-anchor="end">${TOTAL_ISSUES}</text>
+    <text x="0" y="25"  class="label">⬆</text><text x="22" y="25"  class="stat">Total Commits:</text><text x="320" y="25"  class="stat" text-anchor="end">${TOTAL_COMMITS}</text>
+    <text x="0" y="50"  class="label">⇄</text><text x="22" y="50"  class="stat">Last Year Contributions:</text><text x="320" y="50"  class="stat" text-anchor="end">${LAST_YEAR_CONTRIB}</text>
+    <text x="0" y="75"  class="label">◉</text><text x="22" y="75"  class="stat">Public Repos:</text><text x="320" y="75"  class="stat" text-anchor="end">${PUBLIC_REPOS}</text>
     <text x="0" y="100" class="label">▲</text><text x="22" y="100" class="stat">Followers:</text><text x="320" y="100" class="stat" text-anchor="end">${FOLLOWERS}</text>
   </g>
 
