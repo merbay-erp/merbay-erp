@@ -8,7 +8,7 @@
 <!-- ╔══════════════════ HEADER (native + SVG fallback) ══════════════════╗ -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14)](https://mustafaerbay.com.tr)
+[![Header](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/header.svg)](https://mustafaerbay.com.tr)
 
 # 👋 Hi, I'm Mustafa Erbay
 
@@ -81,24 +81,24 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&cache_seconds=14400&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" height="180"/>
+      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/stats.svg" alt="stats" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/streak.svg" alt="streak" height="180"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&cache_seconds=14400&theme=tokyonight&hide_border=true&card_width=600&langs_count=10&exclude_repo=mustafaerbay" alt="top langs"/>
+  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/top-langs.svg" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="activity graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/activity.svg" alt="activity graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merbay-erp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/trophies.svg" alt="trophies"/>
 </p>
 
 ---
@@ -141,4 +141,4 @@ $ ./mustafa --whoami
   <sub><i>If you found this profile useful, consider <a href="https://github.com/merbay-erp">following</a> — I write 1+ posts/day on real production scenarios.</i></sub>
 </p>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)](https://mustafaerbay.com.tr)
+[![Footer](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/footer.svg)](https://mustafaerbay.com.tr)
