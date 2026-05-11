@@ -48,7 +48,7 @@ Cloud · DevOps · SRE · Bilingual tech blog (TR + EN)
 
 ```yaml
 name:     Mustafa Erbay
-location: Istanbul, Türkiye 🇹🇷
+location: Bursa, Türkiye 🇹🇷
 work:     System architect & infrastructure engineer (since 2006)
 side:     Indie hacker · self-hosted everything · 0 managed cloud services
 writing:  Bilingual tech blog — TR + EN, ~970 articles, FAQ-rich
@@ -81,7 +81,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=merbay-erp&show_icons=true&cache_seconds=14400&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" height="180"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
@@ -90,7 +90,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&theme=tokyonight&hide_border=true&card_width=600&langs_count=10&exclude_repo=mustafaerbay" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merbay-erp&layout=compact&cache_seconds=14400&theme=tokyonight&hide_border=true&card_width=600&langs_count=10&exclude_repo=mustafaerbay" alt="top langs"/>
 </p>
 
 <p align="center">
