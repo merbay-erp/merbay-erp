@@ -39,7 +39,7 @@ Cloud · DevOps · SRE · Bilingual tech blog (TR + EN)
 <p align="center">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=merbay-erp&label=Profile+views&color=2563eb&style=flat-square">
   <img alt="followers" src="https://img.shields.io/github/followers/merbay-erp?style=flat-square&label=Followers&color=2563eb">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/merbay-erp/mustafaerbay?style=flat-square&label=Last+commit&color=22c55e">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/merbay-erp/merbay-erp?style=flat-square&label=Last+commit&color=22c55e">
 </p>
 
 ---
