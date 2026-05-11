@@ -8,7 +8,7 @@
 <!-- ╔══════════════════ HEADER (native + SVG fallback) ══════════════════╗ -->
 <div align="center">
 
-[![Header](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/header.svg?v=2)](https://mustafaerbay.com.tr)
+[![Header](https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/header.svg)](https://mustafaerbay.com.tr)
 
 # 👋 Hi, I'm Mustafa Erbay
 
@@ -81,24 +81,24 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <table align="center">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/stats.svg?v=2" alt="stats" height="180"/>
+      <img src="https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/stats.svg" alt="stats" height="180"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/streak.svg?v=2" alt="streak" height="180"/>
+      <img src="https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/streak.svg" alt="streak" height="180"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/top-langs.svg?v=2" alt="top langs"/>
+  <img src="https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/top-langs.svg" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/activity.svg?v=2" alt="activity graph" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/activity.svg" alt="activity graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/trophies.svg?v=2" alt="trophies"/>
+  <img src="https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/trophies.svg" alt="trophies"/>
 </p>
 
 ---
@@ -141,4 +141,4 @@ $ ./mustafa --whoami
   <sub><i>If you found this profile useful, consider <a href="https://github.com/merbay-erp">following</a> — I write 1+ posts/day on real production scenarios.</i></sub>
 </p>
 
-[![Footer](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/footer.svg?v=2)](https://mustafaerbay.com.tr)
+[![Footer](https://cdn.jsdelivr.net/gh/merbay-erp/merbay-erp@output/svg-cache/footer.svg)](https://mustafaerbay.com.tr)
