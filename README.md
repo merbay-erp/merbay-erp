@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[SQLite ve Concurrency: islistesi.com&#39;da Yaşanan Kilitlenme](https://mustafaerbay.com.tr/blog/technology/sqlite-ve-concurrency-islistesicomda-yaanan-kilitlenme/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
+📝 **[Kendi VPS&#39;imde Docker Volume Yedekleme Stratejileri](https://mustafaerbay.com.tr/blog/tutorials/kendi-vpsimde-docker-volume-yedekleme-stratejileri/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[Uygulamanız &#39;Up&#39; Ama Çalışmıyor: Docker İç Sağlık Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/uygulamanz-up-ama-almyor-docker-i-salk-kontrol/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[Kendi Sunucumun Kriz Anı: Aile Yemeğinde Gelen Uyarı](https://mustafaerbay.com.tr/blog/life/kendi-sunucumun-kriz-an-aile-yemeinde-gelen-uyar/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
-📝 **[Active Directory Tier Modeline Geçişte Yaptığım Üç Yanlış Varsayım](https://mustafaerbay.com.tr/blog/technology/active-directory-tier-modeline-gecitte-yaptigim-uc-yanlis-varsayim/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
-📝 **[Çoklu Sağlayıcı Yapay Zeka Mimarisinde Kota Fail-Over Disiplini](https://mustafaerbay.com.tr/blog/technology/coklu-saglayici-yapay-zeka-mimarisinde-kota-fail-over-disiplini/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Active Directory Tier Modeline Geçişte Yaptığım Üç Yanlış Varsayım](https://mustafaerbay.com.tr/blog/technology/active-directory-tier-modeline-gecitte-yaptigim-uc-yanlis-varsayim/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
