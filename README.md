@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Docker Disk Yangını: 7.6 GB VPS&#39;imde Kök Neden Analizi](https://mustafaerbay.com.tr/blog/career/docker-disk-yangn-76-gb-vpsimde-neler-oldu/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[Sistem Mimarları Neden Her Şeyi Kendileri Yapmak İster?](https://mustafaerbay.com.tr/blog/career/sistem-mimarlar-neden-her-eyi-kendileri-yapmak-ister/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[7.6GB VPS&#39;imde Swap Yangını: Kernel Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/kendi-76-gb-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[Sistemlerimin Sessiz Alarmı: Uyurken Bile Açık Zihnim](https://mustafaerbay.com.tr/blog/life/kendi-sistemlerimin-sessiz-alarm-uyurken-bile-ak-zihnim/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[Kendi Sunucumda Yaşamak: Indie Hacker&#39;ın Work-Life Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-indie-hackern-work-life-dengesi/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kendi Sunucumda Yaşamak: Indie Hacker&#39;ın Work-Life Dengesi](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-indie-hackern-work-life-dengesi/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
+📝 **[Kendi Sunucumda Yaşamak: Side Projectlerin Görünmez Maliyeti](https://mustafaerbay.com.tr/blog/life/kendi-sunucumda-yaamak-side-projectlerin-grnmez-maliyeti/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
