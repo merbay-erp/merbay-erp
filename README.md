@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Docker Disk Yangını: 7.6 GB VPS&#39;imde Kök Neden Analizi](https://mustafaerbay.com.tr/blog/career/docker-disk-yangn-76-gb-vpsimde-neler-oldu/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
+📝 **[7.6GB VPS&#39;imde Swap Yangını: Kernel Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/kendi-76-gb-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[SQLite ve Concurrency: islistesi.com&#39;da Yaşanan Kilitlenme](https://mustafaerbay.com.tr/blog/technology/sqlite-ve-concurrency-islistesicomda-yaanan-kilitlenme/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
 📝 **[Kendi VPS&#39;imde Docker Volume Yedekleme Stratejileri](https://mustafaerbay.com.tr/blog/tutorials/kendi-vpsimde-docker-volume-yedekleme-stratejileri/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[Uygulamanız &#39;Up&#39; Ama Çalışmıyor: Docker İç Sağlık Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/uygulamanz-up-ama-almyor-docker-i-salk-kontrol/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[Kendi Sunucumun Kriz Anı: Aile Yemeğinde Gelen Uyarı](https://mustafaerbay.com.tr/blog/life/kendi-sunucumun-kriz-an-aile-yemeinde-gelen-uyar/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub>
-📝 **[Active Directory Tier Modeline Geçişte Yaptığım Üç Yanlış Varsayım](https://mustafaerbay.com.tr/blog/technology/active-directory-tier-modeline-gecitte-yaptigim-uc-yanlis-varsayim/)** &nbsp;·&nbsp; <sub>May 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Uygulamanız &#39;Up&#39; Ama Çalışmıyor: Docker İç Sağlık Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/uygulamanz-up-ama-almyor-docker-i-salk-kontrol/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
