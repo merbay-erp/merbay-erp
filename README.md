@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Danışmanlıkta &#39;Up&#39; Olmayan Sistem: Müşteri Gözünde Güven Kaybı](https://mustafaerbay.com.tr/blog/career/danmanlkta-up-olmayan-sistem-mteri-gznde-gven-kayb/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
+📝 **[GitHub Actions Runner&#39;ımı Kendi VPS&#39;ime Taşıma Macerası](https://mustafaerbay.com.tr/blog/technology/github-actions-runnerm-kendi-vpsime-tama-maceras/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
 📝 **[Docker Container&#39;larım Neden Yavaşladı? Kendi VPS&#39;imde İzleme Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-containerlarm-neden-yavalad-kendi-vpsimde-izleme-rehberi/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
 📝 **[Docker Disk Yangını: 7.6 GB VPS&#39;imde Kök Neden Analizi](https://mustafaerbay.com.tr/blog/career/docker-disk-yangn-76-gb-vpsimde-neler-oldu/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[7.6GB VPS&#39;imde Swap Yangını: Kernel Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/kendi-76-gb-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub>
-📝 **[Sistemlerimin Sessiz Alarmı: Uyurken Bile Açık Zihnim](https://mustafaerbay.com.tr/blog/life/kendi-sistemlerimin-sessiz-alarm-uyurken-bile-ak-zihnim/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[7.6GB VPS&#39;imde Swap Yangını: Kernel Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/kendi-76-gb-vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
