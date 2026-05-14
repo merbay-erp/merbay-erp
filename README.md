@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI&#39;ın Sessiz Hataları: Side Projemde Kaybolan Saatler](https://mustafaerbay.com.tr/blog/life/ain-sessiz-hatalar-side-projemde-kaybolan-saatler/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
+📝 **[Kendi İzleme Sistemimin Kör Noktası: Beni Yanıltan Hata](https://mustafaerbay.com.tr/blog/life/kendi-izleme-sistemimin-kr-noktas-beni-yanltan-hata/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[Side Project Çöplüğü: Hangi Projeyi Ne Zaman Fişten Çekmeli?](https://mustafaerbay.com.tr/blog/life/side-project-pl-hangi-projeyi-ne-zaman-fiten-ekmeli/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[VPS&#39;imde Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[Docker Container&#39;larım Birbirini Görmüyor: Gizli Ağ Tuzakları](https://mustafaerbay.com.tr/blog/technology/docker-containerlarm-birbirini-grmyor-gizli-a-tuzaklar/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[Sistemin Sessiz Ölümü: OOM Killer ve Benim VPS Maceram](https://mustafaerbay.com.tr/blog/technology/sistemin-sessiz-lmleri-oom-killer-ve-benim-vps-maceram/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Docker Container&#39;larım Birbirini Görmüyor: Gizli Ağ Tuzakları](https://mustafaerbay.com.tr/blog/technology/docker-containerlarm-birbirini-grmyor-gizli-a-tuzaklar/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
