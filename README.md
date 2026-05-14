@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Kendi VPS&#39;imde Güvenlik Yaması: Müşteri Projesinden Çalınan Saatler](https://mustafaerbay.com.tr/blog/career/kendi-vpsimde-gvenlik-yamas-mteri-projesinden-alnan-saatler/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
+📝 **[AI Pipeline&#39;ında Idempotency Kabusu: Veri Kaybı ve Düzeltme Süreci](https://mustafaerbay.com.tr/blog/life/ai-ile-kurulan-pipelineda-idempotency-kabusu-veri-kayb-ve-dzeltme-sreci/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
+📝 **[AI Pipeline&#39;ın Gizemli Quirk&#39;ü: Pazar Sabahı Debugging](https://mustafaerbay.com.tr/blog/life/ai-pipelinen-gizemli-quirk-pazar-sabah-debugging/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[AI&#39;ın Sessiz Hataları: Side Projemde Kaybolan Saatler](https://mustafaerbay.com.tr/blog/life/ain-sessiz-hatalar-side-projemde-kaybolan-saatler/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[Kendi İzleme Sistemimin Kör Noktası: Beni Yanıltan Hata](https://mustafaerbay.com.tr/blog/life/kendi-izleme-sistemimin-kr-noktas-beni-yanltan-hata/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[Side Project Çöplüğü: Hangi Projeyi Ne Zaman Fişten Çekmeli?](https://mustafaerbay.com.tr/blog/life/side-project-pl-hangi-projeyi-ne-zaman-fiten-ekmeli/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[VPS&#39;imde Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[AI Destekli İçerik Pipeline&#39;ında Veri Bütünlüğü: Pratik Yaklaşımlar](https://mustafaerbay.com.tr/blog/technology/ai-destekli-ierik-pipelinemda-veri-btnl-kabusu/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kendi İzleme Sistemimin Kör Noktası: Beni Yanıltan Hata](https://mustafaerbay.com.tr/blog/life/kendi-izleme-sistemimin-kr-noktas-beni-yanltan-hata/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
