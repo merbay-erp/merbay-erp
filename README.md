@@ -111,7 +111,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Kendi İzleme Sistemimin Kör Noktası: Beni Yanıltan Hata](https://mustafaerbay.com.tr/blog/life/kendi-izleme-sistemimin-kr-noktas-beni-yanltan-hata/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[Side Project Çöplüğü: Hangi Projeyi Ne Zaman Fişten Çekmeli?](https://mustafaerbay.com.tr/blog/life/side-project-pl-hangi-projeyi-ne-zaman-fiten-ekmeli/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[VPS&#39;imde Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[Docker Container&#39;larım Birbirini Görmüyor: Gizli Ağ Tuzakları](https://mustafaerbay.com.tr/blog/technology/docker-containerlarm-birbirini-grmyor-gizli-a-tuzaklar/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Destekli İçerik Pipeline&#39;ında Veri Bütünlüğü: Pratik Yaklaşımlar](https://mustafaerbay.com.tr/blog/technology/ai-destekli-ierik-pipelinemda-veri-btnl-kabusu/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
