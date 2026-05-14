@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[VPS&#39;imde Swap Yangını: Kernel CVE Yamasıyla Başlayan Kabus](https://mustafaerbay.com.tr/blog/life/vpsimde-swap-yangn-kernel-cve-yamasyla-balayan-kabus/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
+📝 **[Sistemin Sessiz Ölümü: OOM Killer ve Benim VPS Maceram](https://mustafaerbay.com.tr/blog/technology/sistemin-sessiz-lmleri-oom-killer-ve-benim-vps-maceram/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
+📝 **[Swap Yangını: 7.6 GB VPS&#39;imde Kubernetes Denemesi](https://mustafaerbay.com.tr/blog/tutorials/swap-yangn-76-gb-vpsimde-kubernetes-denemesi/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
 📝 **[Danışmanlıkta &#39;Up&#39; Olmayan Sistem: Müşteri Gözünde Güven Kaybı](https://mustafaerbay.com.tr/blog/career/danmanlkta-up-olmayan-sistem-mteri-gznde-gven-kayb/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
-📝 **[GitHub Actions Runner&#39;ımı Kendi VPS&#39;ime Taşıma Macerası](https://mustafaerbay.com.tr/blog/technology/github-actions-runnerm-kendi-vpsime-tama-maceras/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
-📝 **[Docker Container Ağ Trafiği: VPS&#39;imde İzleme ve Optimizasyon](https://mustafaerbay.com.tr/blog/tutorials/docker-container-a-trafii-kendi-vpsimde-izleme-ve-optimizasyon/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
-📝 **[Docker Container&#39;larım Neden Yavaşladı? Kendi VPS&#39;imde İzleme Rehberi](https://mustafaerbay.com.tr/blog/tutorials/docker-containerlarm-neden-yavalad-kendi-vpsimde-izleme-rehberi/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub>
-📝 **[VPS&#39;te Docker Deploy: Sıfır Kesinti İçin Nginx Stratejileri](https://mustafaerbay.com.tr/blog/tutorials/vpste-docker-deploy-sfr-kesinti-iin-nginx-stratejileri/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[GitHub Actions Runner&#39;ımı Kendi VPS&#39;ime Taşıma Macerası](https://mustafaerbay.com.tr/blog/technology/github-actions-runnerm-kendi-vpsime-tama-maceras/)** &nbsp;·&nbsp; <sub>May 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
