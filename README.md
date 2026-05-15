@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[20 Yıllık Mimarin Gözünden: Kendi Sistemimin Güvenlik Krizi](https://mustafaerbay.com.tr/blog/career/20-yllk-mimarin-gznden-kendi-sistemimin-gvenlik-krizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
 📝 **[BGP Route Flap Çözümleri: Neden Çoğu Zaman Yetersiz?](https://mustafaerbay.com.tr/blog/career/bgp-route-flap-zmleri-neden-ou-zaman-yetersiz/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
+📝 **[Blue/Green vs Rolling Deploy: Risk ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/bluegreen-vs-rolling-deploy-risk-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
 📝 **[Distributed Lock Alternatifleri: Sistem Mimarının Bilmesi Gereken 3…](https://mustafaerbay.com.tr/blog/career/distributed-lock-alternatifleri-sistem-mimarnn-bilmesi-gereken-3-yntem/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Mobil Uygulama Boyutu Optimizasyonu: Geliştirici Zamanının Ucu](https://mustafaerbay.com.tr/blog/life/mobil-uygulama-boyutu-optimizasyonu-gelitirici-zamannn-ucu/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Bir Mühendisin Sürdürülebilirlik Hesabı: Neden Az Kaynakla Çalışıyorum](https://mustafaerbay.com.tr/blog/life/neden-az-kaynak-kullaniyorum-muhendisin-surdurulebilirlik-felsefesi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mobil Uygulama Boyutu Optimizasyonu: Geliştirici Zamanının Ucu](https://mustafaerbay.com.tr/blog/life/mobil-uygulama-boyutu-optimizasyonu-gelitirici-zamannn-ucu/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
