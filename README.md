@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Dağıtık Sistemlerde Idempotency İçin 3 Pragmatik Prensip](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotency-icin-3-tasarim-prensibi/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
+📝 **[API Versioning Stratejileri: REST ve GraphQL Farkları Üzerine…](https://mustafaerbay.com.tr/blog/technology/api-versioning-stratejileri-rest-ve-graphql-farklari/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
 📝 **[API Versiyonlama: Ekosistemde Güncel Yaklaşımlar ve Seçimler](https://mustafaerbay.com.tr/blog/technology/api-versiyonlama-ekosistemde-guncel-yaklasimlar-ve-secimler/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
 📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Strateji](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-strateji/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[20 Yıllık Mimarin Gözünden: Kendi Sistemimin Güvenlik Krizi](https://mustafaerbay.com.tr/blog/career/20-yllk-mimarin-gznden-kendi-sistemimin-gvenlik-krizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Blue/Green vs Rolling Deploy: Risk ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/bluegreen-vs-rolling-deploy-risk-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
