@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[API Versiyonlama: Ekosistemde Güncel Yaklaşımlar ve Seçimler](https://mustafaerbay.com.tr/blog/technology/api-versiyonlama-ekosistemde-guncel-yaklasimlar-ve-secimler/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
+📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Strateji](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-strateji/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
+📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
 📝 **[20 Yıllık Mimarin Gözünden: Kendi Sistemimin Güvenlik Krizi](https://mustafaerbay.com.tr/blog/career/20-yllk-mimarin-gznden-kendi-sistemimin-gvenlik-krizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Blue/Green vs Rolling Deploy: Risk ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/bluegreen-vs-rolling-deploy-risk-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Bir Mühendisin Sürdürülebilirlik Hesabı: Neden Az Kaynakla Çalışıyorum](https://mustafaerbay.com.tr/blog/life/neden-az-kaynak-kullaniyorum-muhendisin-surdurulebilirlik-felsefesi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub>
-📝 **[Kendi VPS&#39;imde Güvenlik Yaması: Müşteri Projesinden Çalınan Saatler](https://mustafaerbay.com.tr/blog/career/kendi-vpsimde-gvenlik-yamas-mteri-projesinden-alnan-saatler/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub>
-📝 **[AI Pipeline&#39;ında Idempotency Kabusu: Veri Kaybı ve Düzeltme Süreci](https://mustafaerbay.com.tr/blog/life/ai-ile-kurulan-pipelineda-idempotency-kabusu-veri-kayb-ve-dzeltme-sreci/)** &nbsp;·&nbsp; <sub>May 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Blue/Green vs Rolling Deploy: Risk ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/bluegreen-vs-rolling-deploy-risk-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
