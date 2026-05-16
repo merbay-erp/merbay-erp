@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Dağıtık Sistemlerde Idempotency İçin 3 Pragmatik Prensip](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotency-icin-3-tasarim-prensibi/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
+📝 **[CI/CD Süreleri ve Gündelik Hayatımız: Local vs Shared Build Cache](https://mustafaerbay.com.tr/blog/life/local-vs-shared-build-cache-cicd-surenizi-nasil-etkiler/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
 📝 **[API Versioning Stratejileri: REST ve GraphQL Farkları Üzerine…](https://mustafaerbay.com.tr/blog/technology/api-versioning-stratejileri-rest-ve-graphql-farklari/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
 📝 **[API Versiyonlama: Ekosistemde Güncel Yaklaşımlar ve Seçimler](https://mustafaerbay.com.tr/blog/technology/api-versiyonlama-ekosistemde-guncel-yaklasimlar-ve-secimler/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Strateji](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-strateji/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[CI/CD&#39;de Build Cache Yönetimi: 3 Pratik Strateji](https://mustafaerbay.com.tr/blog/tutorials/cicdde-build-cache-yonetimi-3-pratik-strateji/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
