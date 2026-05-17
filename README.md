@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Hızlı Deploy Seçimi: Ekip Stresi ve Borç Büyütme Ucu](https://mustafaerbay.com.tr/blog/career/hizli-deploy-secimi-ekip-stresi-ve-borc-buyutme-ucu/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
+📝 **[Multi-tenant ERP Çözümleri: Gerçek Maliyetler Neden Göz Ardı Ediliyor?](https://mustafaerbay.com.tr/blog/career/multi-tenant-erp-cozumleri-gercek-maliyetler-neden-goz-ardi-ediliyor/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
 📝 **[Dağıtık Sistemlerde Idempotency Tasarımı: Güncel Yaklaşım](https://mustafaerbay.com.tr/blog/tutorials/dagitik-sistemlerde-idempotency-tasarimi-guncel-yaklasim/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
 📝 **[Sıfır Kesinti Deploy: CI/CD&#39;de Beklenmedik Teknik Borçlar](https://mustafaerbay.com.tr/blog/tutorials/sifir-kesinti-deploy-cicdde-beklenmedik-teknik-borclar/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
-📝 **[Dağıtık Sistemlerde Idempotency İçin 3 Pragmatik Prensip](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotency-icin-3-tasarim-prensibi/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[Kernel CVE Yanıtı: Ertelemenin Beklenmedik Faturası](https://mustafaerbay.com.tr/blog/life/kernel-cve-yaniti-ertelemenin-beklenmedik-faturasi/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub>
-📝 **[CI/CD Süreleri ve Gündelik Hayatımız: Local vs Shared Build Cache](https://mustafaerbay.com.tr/blog/life/local-vs-shared-build-cache-cicd-surenizi-nasil-etkiler/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dağıtık Sistemlerde Idempotency İçin 3 Pragmatik Prensip](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotency-icin-3-tasarim-prensibi/)** &nbsp;·&nbsp; <sub>May 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
