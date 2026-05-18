@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Pragmatik Switch Hardening: 3 Kritik Yapılandırma Adımı](https://mustafaerbay.com.tr/blog/career/pragmatik-switch-hardening-3-kritik-yapilandirma-adimi/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
+📝 **[Mobil Push Bildirimlerinde Güvenilirliği Zedeleyen 3 Mimari Hata](https://mustafaerbay.com.tr/blog/technology/mobil-push-bildirimlerinde-guvenilirligi-zedeleyen-3-mimari-hata/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
 📝 **[Silikon Vadisi&#39;nin OpenTelemetry Tutkusu Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/technology/silikon-vadisinin-opentelemetry-tutkusu-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
 📝 **[Tedarik Zinciri Veri Akışının Anatomisi: ERP Entegrasyonları](https://mustafaerbay.com.tr/blog/tutorials/tedarik-zinciri-veri-akisinin-anatomisi-erp-entegrasyonlari/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
-📝 **[Hızlı Deploy Seçimi: Ekip Stresi ve Borç Büyütme Ucu](https://mustafaerbay.com.tr/blog/career/hizli-deploy-secimi-ekip-stresi-ve-borc-buyutme-ucu/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
-📝 **[Multi-tenant ERP Çözümleri: Gerçek Maliyetler Neden Göz Ardı Ediliyor?](https://mustafaerbay.com.tr/blog/career/multi-tenant-erp-cozumleri-gercek-maliyetler-neden-goz-ardi-ediliyor/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Hızlı Deploy Seçimi: Ekip Stresi ve Borç Büyütme Ucu](https://mustafaerbay.com.tr/blog/career/hizli-deploy-secimi-ekip-stresi-ve-borc-buyutme-ucu/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
