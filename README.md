@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Silikon Vadisi&#39;nin OpenTelemetry Tutkusu Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/technology/silikon-vadisinin-opentelemetry-tutkusu-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
 📝 **[Hızlı Deploy Seçimi: Ekip Stresi ve Borç Büyütme Ucu](https://mustafaerbay.com.tr/blog/career/hizli-deploy-secimi-ekip-stresi-ve-borc-buyutme-ucu/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
 📝 **[Multi-tenant ERP Çözümleri: Gerçek Maliyetler Neden Göz Ardı Ediliyor?](https://mustafaerbay.com.tr/blog/career/multi-tenant-erp-cozumleri-gercek-maliyetler-neden-goz-ardi-ediliyor/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
 📝 **[Blue/Green Deploy&#39;un Maliyeti: Geliştirici Zamanının Ucu](https://mustafaerbay.com.tr/blog/life/bluegreen-deployun-maliyeti-gelistirici-zamaninin-ucu/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
-📝 **[Monolith mi, Modüler Mimari mi? Indie Hacker&#39;ın Geçiş Yolculuğu](https://mustafaerbay.com.tr/blog/life/monolith-vs-moduler-mimari-indie-hacker-icin-gecis-zorluklari/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub>
-📝 **[Secret Rotation: Güvenli Uygulama İçin 3 Temel Prensip](https://mustafaerbay.com.tr/blog/life/secret-rotation-guvenli-uygulama-icin-3-temel-prensip/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Monolith mi, Modüler Mimari mi? Indie Hacker&#39;ın Geçiş Yolculuğu](https://mustafaerbay.com.tr/blog/life/monolith-vs-moduler-mimari-indie-hacker-icin-gecis-zorluklari/)** &nbsp;·&nbsp; <sub>May 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
