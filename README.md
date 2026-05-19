@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[CI/CD Pipeline Karmaşıklığının Ücü: Bakım ve Danışmanlık Maliyeti](https://mustafaerbay.com.tr/blog/career/cicd-pipeline-karmasikliginin-ucu-bakim-ve-danismanlik-maliyeti/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
+📝 **[CI/CD&#39;de Bağımlılık Zafiyetleri: 3 Pratik Yönetim Yöntemi](https://mustafaerbay.com.tr/blog/life/cicdde-bagimlilik-zafiyetleri-icin-3-pratik-yonetim-yontemi/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
 📝 **[Dağıtık Sistemlerde İşlem Tekrar Denemeleri: Gözlemlerim](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-islem-tekrar-denemeleri-gozlemler/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
 📝 **[Samsun&#39;a Bir Adım](https://mustafaerbay.com.tr/blog/life/samsuna-bir-adim/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
-📝 **[Dependency Güvenliği: 3 Zafiyet Yönetimi Yaklaşımı](https://mustafaerbay.com.tr/blog/technology/dependency-guvenligi-3-zafiyet-yonetimi-yaklasimi/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
-📝 **[VLAN Segmentasyonu: Güvenlik ve Performans Arası Denge](https://mustafaerbay.com.tr/blog/technology/vlan-segmentasyonu-guvenlik-ve-performans-arasi-denge/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dependency Güvenliği: 3 Zafiyet Yönetimi Yaklaşımı](https://mustafaerbay.com.tr/blog/technology/dependency-guvenligi-3-zafiyet-yonetimi-yaklasimi/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
