@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 **[Pragmatik Switch Hardening: 3 Kritik Yapılandırma Adımı](https://mustafaerbay.com.tr/blog/career/pragmatik-switch-hardening-3-kritik-yapilandirma-adimi/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
-📝 **[Eventual vs. Strong Consistency: Indie Hacker&#39;ın Zor Kararı](https://mustafaerbay.com.tr/blog/life/eventual-vs-strong-consistency-indie-hackerin-zor-karari/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
-📝 **[Mobil Push Bildirimlerinde Güvenilirliği Zedeleyen 3 Mimari Hata](https://mustafaerbay.com.tr/blog/technology/mobil-push-bildirimlerinde-guvenilirligi-zedeleyen-3-mimari-hata/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
-📝 **[Silikon Vadisi&#39;nin OpenTelemetry Tutkusu Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/technology/silikon-vadisinin-opentelemetry-tutkusu-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub>
-📝 **[Tedarik Zinciri Veri Akışının Anatomisi: ERP Entegrasyonları](https://mustafaerbay.com.tr/blog/tutorials/tedarik-zinciri-veri-akisinin-anatomisi-erp-entegrasyonlari/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dağıtık Sistemlerde İşlem Tekrar Denemeleri: Gözlemlerim](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-islem-tekrar-denemeleri-gozlemler/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
+📝 **[Samsun&#39;a Bir Adım](https://mustafaerbay.com.tr/blog/life/samsuna-bir-adim/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
+📝 **[Dependency Güvenliği: 3 Zafiyet Yönetimi Yaklaşımı](https://mustafaerbay.com.tr/blog/technology/dependency-guvenligi-3-zafiyet-yonetimi-yaklasimi/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
+📝 **[VLAN Segmentasyonu: Güvenlik ve Performans Arası Denge](https://mustafaerbay.com.tr/blog/technology/vlan-segmentasyonu-guvenlik-ve-performans-arasi-denge/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
+📝 **[Pragmatik Switch Hardening: 3 Kritik Yapılandırma Adımı](https://mustafaerbay.com.tr/blog/career/pragmatik-switch-hardening-3-kritik-yapilandirma-adimi/)** &nbsp;·&nbsp; <sub>May 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
