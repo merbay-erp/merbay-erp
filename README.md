@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Pager Fatigini Azaltmak: Aşırı Uyarı Sistemleri Neden Yetersiz?](https://mustafaerbay.com.tr/blog/career/pager-fatigini-azaltmak-asiri-uyari-sistemleri-neden-yetersiz/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
 📝 **[Veritabanı İşlem Yalıtım Seviyeleri: Neden Her Zaman Kritik?](https://mustafaerbay.com.tr/blog/career/veritabani-islem-yalitim-seviyeleri-neden-her-zaman-onemlidir/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
-📝 **[BGP Route Flap Yönetimi: 3 Adımda Etkin Önleme](https://mustafaerbay.com.tr/blog/tutorials/bgp-route-flap-yonetimi-3-adimda-etkin-onleme/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
-📝 **[CI/CD Pipeline Karmaşıklığının Ücü: Bakım ve Danışmanlık Maliyeti](https://mustafaerbay.com.tr/blog/career/cicd-pipeline-karmasikliginin-ucu-bakim-ve-danismanlik-maliyeti/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub>
-📝 **[CI/CD&#39;de Bağımlılık Zafiyetleri: 3 Pratik Yönetim Yöntemi](https://mustafaerbay.com.tr/blog/life/cicdde-bagimlilik-zafiyetleri-icin-3-pratik-yonetim-yontemi/)** &nbsp;·&nbsp; <sub>May 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Bağımlılık Güncellemelerinin Üçlüsü: Stabilite, Zaman ve Maliyet](https://mustafaerbay.com.tr/blog/life/bagimlilik-guncellemelerinin-ucu-stabilite-ve-zaman/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
+📝 **[Mobil Uygulama Boyutunda Pragmatik Optimizasyon: 3 Yanılgı](https://mustafaerbay.com.tr/blog/technology/mobil-uygulama-boyutunda-pragmatik-optimizasyon-3-yanilgi/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
+📝 **[BGP Route Flap Yönetimi: 3 Adımda Etkin Önleme](https://mustafaerbay.com.tr/blog/tutorials/bgp-route-flap-yonetimi-3-adimda-etkin-onleme/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
