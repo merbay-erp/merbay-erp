@@ -111,7 +111,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Veritabanı İşlem Yalıtım Seviyeleri: Neden Her Zaman Kritik?](https://mustafaerbay.com.tr/blog/career/veritabani-islem-yalitim-seviyeleri-neden-her-zaman-onemlidir/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
 📝 **[Bağımlılık Güncellemelerinin Üçlüsü: Stabilite, Zaman ve Maliyet](https://mustafaerbay.com.tr/blog/life/bagimlilik-guncellemelerinin-ucu-stabilite-ve-zaman/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
 📝 **[CI/CD Stratejileri: Indie Hacker İçin Fazla Karmaşıklığın Bedeli](https://mustafaerbay.com.tr/blog/life/cicd-stratejileri-indie-hacker-icin-fazla-karmasikligin-bedeli/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
-📝 **[Mobil Uygulama Boyutunda Pragmatik Optimizasyon: 3 Yanılgı](https://mustafaerbay.com.tr/blog/technology/mobil-uygulama-boyutunda-pragmatik-optimizasyon-3-yanilgi/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Veritabanı WAL Bloat Yönetimi: Disk Kapasitesini Korumak İçin 3…](https://mustafaerbay.com.tr/blog/life/veritabani-wal-bloat-yonetimi-disk-kapasitesini-korumak-icin-3-strateji/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
