@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Mobil Offline-First Sync: Indie Hacker İçin Gereklilik mi Lüks mü?](https://mustafaerbay.com.tr/blog/career/mobil-offline-first-sync-indie-hacker-icin-gereklilik-mi-luks-mu/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[API Versiyonlama: URI mı, Header mı? Pragmatik Seçim](https://mustafaerbay.com.tr/blog/life/api-versiyonlama-uri-mi-header-mi-pragmatik-secim/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[Pager Fatigini Azaltmak: Aşırı Uyarı Sistemleri Neden Yetersiz?](https://mustafaerbay.com.tr/blog/career/pager-fatigini-azaltmak-asiri-uyari-sistemleri-neden-yetersiz/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
 📝 **[PostgreSQL WAL Bloat Nasıl Yönetilir: 5 Adımda Etkin Temizlik](https://mustafaerbay.com.tr/blog/career/postgresql-wal-bloat-nasil-yonetilir-5-adimda-etkin-temizlik/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
-📝 **[Veritabanı İşlem Yalıtım Seviyeleri: Neden Her Zaman Kritik?](https://mustafaerbay.com.tr/blog/career/veritabani-islem-yalitim-seviyeleri-neden-her-zaman-onemlidir/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub>
-📝 **[Bağımlılık Güncellemelerinin Üçlüsü: Stabilite, Zaman ve Maliyet](https://mustafaerbay.com.tr/blog/life/bagimlilik-guncellemelerinin-ucu-stabilite-ve-zaman/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Veritabanı İşlem Yalıtım Seviyeleri: Neden Her Zaman Kritik?](https://mustafaerbay.com.tr/blog/career/veritabani-islem-yalitim-seviyeleri-neden-her-zaman-onemlidir/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
