@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[BGP Route Flap Yönetimi Neden Sadece Teoride Kolay?](https://mustafaerbay.com.tr/blog/career/bgp-route-flap-yonetimi-neden-sadece-teoride-kolay/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[Eventual Consistency&#39;nin Geliştirici Zihniyetine Etkisi](https://mustafaerbay.com.tr/blog/career/eventual-consistencynin-fiyati-gelistirici-zihniyetine-etkisi/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
+📝 **[GitOps vs Push Tabanlı CI/CD: Danışmanlıkta Hangisi?](https://mustafaerbay.com.tr/blog/career/gitops-vs-push-tabanli-cicd-danismanlikta-hangisi/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[Mobil Offline-First Sync: Indie Hacker İçin Gereklilik mi Lüks mü?](https://mustafaerbay.com.tr/blog/career/mobil-offline-first-sync-indie-hacker-icin-gereklilik-mi-luks-mu/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
-📝 **[API Versiyonlama: URI mı, Header mı? Pragmatik Seçim](https://mustafaerbay.com.tr/blog/life/api-versiyonlama-uri-mi-header-mi-pragmatik-secim/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
-📝 **[Cross-Platform Gelişimin Bedeli: Native Modül Entegrasyonu](https://mustafaerbay.com.tr/blog/tutorials/cross-platform-gelisimin-bedeli-native-modul-entegrasyonu/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[API Versiyonlama: URI mı, Header mı? Pragmatik Seçim](https://mustafaerbay.com.tr/blog/life/api-versiyonlama-uri-mi-header-mi-pragmatik-secim/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
