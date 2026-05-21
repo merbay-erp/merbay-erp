@@ -111,7 +111,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Eventual Consistency&#39;nin Geliştirici Zihniyetine Etkisi](https://mustafaerbay.com.tr/blog/career/eventual-consistencynin-fiyati-gelistirici-zihniyetine-etkisi/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[Mobil Offline-First Sync: Indie Hacker İçin Gereklilik mi Lüks mü?](https://mustafaerbay.com.tr/blog/career/mobil-offline-first-sync-indie-hacker-icin-gereklilik-mi-luks-mu/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
 📝 **[API Versiyonlama: URI mı, Header mı? Pragmatik Seçim](https://mustafaerbay.com.tr/blog/life/api-versiyonlama-uri-mi-header-mi-pragmatik-secim/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub>
-📝 **[Pager Fatigini Azaltmak: Aşırı Uyarı Sistemleri Neden Yetersiz?](https://mustafaerbay.com.tr/blog/career/pager-fatigini-azaltmak-asiri-uyari-sistemleri-neden-yetersiz/)** &nbsp;·&nbsp; <sub>May 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Cross-Platform Gelişimin Bedeli: Native Modül Entegrasyonu](https://mustafaerbay.com.tr/blog/tutorials/cross-platform-gelisimin-bedeli-native-modul-entegrasyonu/)** &nbsp;·&nbsp; <sub>May 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
