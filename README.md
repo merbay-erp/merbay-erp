@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Kernel CVE Yamama Sürecinin Üç Zorlu Yanı: Tecrübelerim](https://mustafaerbay.com.tr/blog/career/kernel-cve-yamama-surecinin-uc-zorlu-yani/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
+📝 **[CI/CD Pipeline&#39;ında Build Cache Optimizasyonu: 3 Pratik Yol](https://mustafaerbay.com.tr/blog/life/cicd-pipelineinda-build-cache-optimizasyonu-3-pratik-yol/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
 📝 **[Observability&#39;de Kardinalite Yönetimi: Maliyeti Düşürmenin 3 Yolu](https://mustafaerbay.com.tr/blog/life/observabilityde-kardinalite-yonetimi-maliyeti-dusurmenin-3-yolu/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
 📝 **[Veritabanı Index Seçiminde Otomatik Araçlar: Neden Yetersiz…](https://mustafaerbay.com.tr/blog/life/veritabani-index-seciminde-otomatik-araclar-neden-yetersiz/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
-📝 **[LLM Inference Caching: Maliyet ve Gecikme Dengesi Nasıl Kurulur?](https://mustafaerbay.com.tr/blog/technology/llm-inference-caching-maliyet-ve-gecikme-dengesi-nasil-kurulur/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
-📝 **[Network Switch Hardening Neden Genelde İhmal Ediliyor?](https://mustafaerbay.com.tr/blog/technology/network-switch-hardening-neden-genelde-ihmal-ediliyor/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[LLM Inference Caching: Maliyet ve Gecikme Dengesi Nasıl Kurulur?](https://mustafaerbay.com.tr/blog/technology/llm-inference-caching-maliyet-ve-gecikme-dengesi-nasil-kurulur/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
