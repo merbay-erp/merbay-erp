@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Veritabanı Partitioning Maliyeti: Gerçekten Değiyor mu?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-maliyeti-her-zaman-getirisinden-fazla-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
 📝 **[ERP Sistemlerinde Multi-Tenant Mimarisi: Uygulamalı Bir Rehber](https://mustafaerbay.com.tr/blog/life/erp-sistemlerinde-multi-tenant-mimarisi-nasil-tasarlanir/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
+📝 **[Self-Hosted Runner vs SaaS: Hangisi Daha Maliyetli?](https://mustafaerbay.com.tr/blog/technology/self-hosted-runner-vs-saas-hangisi-daha-maliyetli/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
 📝 **[Prompt Injection Savunmaları: Maliyet ve Gerçek Etkinlik Analizi](https://mustafaerbay.com.tr/blog/tutorials/prompt-injection-savunmasinin-temelleri-maliyet-ve-etkinlik-analizi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[Kernel CVE Yamama Sürecinin Üç Zorlu Yanı: Tecrübelerim](https://mustafaerbay.com.tr/blog/career/kernel-cve-yamama-surecinin-uc-zorlu-yani/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub>
-📝 **[CI/CD Pipeline&#39;ında Build Cache Optimizasyonu: 3 Pratik Yol](https://mustafaerbay.com.tr/blog/life/cicd-pipelineinda-build-cache-optimizasyonu-3-pratik-yol/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kernel CVE Yamama Sürecinin Üç Zorlu Yanı: Tecrübelerim](https://mustafaerbay.com.tr/blog/career/kernel-cve-yamama-surecinin-uc-zorlu-yani/)** &nbsp;·&nbsp; <sub>May 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
