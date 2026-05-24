@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Küçük Ağlarda VLAN Segmentasyonu Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/technology/kucuk-aglarda-vlan-segmentasyonu-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
+📝 **[Multi-Tenant ERP: Paylaşımlı Schema&#39;nın Riskleri ve Alternatifler](https://mustafaerbay.com.tr/blog/tutorials/multi-tenant-erpde-paylasimli-schema-yaklasimi-neden-riskli/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
 📝 **[SLA Taahhütlerinde Kernel CVE Yamama Sıklığının Bedeli](https://mustafaerbay.com.tr/blog/career/sla-taahhutlerinde-kernel-cve-yamama-sikliginin-bedeli/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
 📝 **[Veritabanı Partitioning Maliyeti: Gerçekten Değiyor mu?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-maliyeti-her-zaman-getirisinden-fazla-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[ERP Sistemlerinde Multi-Tenant Mimarisi: Uygulamalı Bir Rehber](https://mustafaerbay.com.tr/blog/life/erp-sistemlerinde-multi-tenant-mimarisi-nasil-tasarlanir/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[Eventual Consistency: Dağıtık Sistemlerin Kaçınılmaz Gerçeği](https://mustafaerbay.com.tr/blog/life/eventual-consistency-dagitik-sistemlerin-kacinilmaz-gercegi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[Kendi LLM&#39;ini Barındırmak Yan Projede Gerçekten Avantajlı mı?](https://mustafaerbay.com.tr/blog/life/kendi-llmini-barindirmak-yan-projede-gercekten-avantajli-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[ERP Sistemlerinde Multi-Tenant Mimarisi: Uygulamalı Bir Rehber](https://mustafaerbay.com.tr/blog/life/erp-sistemlerinde-multi-tenant-mimarisi-nasil-tasarlanir/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
