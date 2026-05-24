@@ -110,8 +110,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[SLA Taahhütlerinde Kernel CVE Yamama Sıklığının Bedeli](https://mustafaerbay.com.tr/blog/career/sla-taahhutlerinde-kernel-cve-yamama-sikliginin-bedeli/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
 📝 **[Veritabanı Partitioning Maliyeti: Gerçekten Değiyor mu?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-maliyeti-her-zaman-getirisinden-fazla-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
 📝 **[ERP Sistemlerinde Multi-Tenant Mimarisi: Uygulamalı Bir Rehber](https://mustafaerbay.com.tr/blog/life/erp-sistemlerinde-multi-tenant-mimarisi-nasil-tasarlanir/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[Kendi LLM&#39;ini Barındırmak Yan Projede Gerçekten Avantajlı mı?](https://mustafaerbay.com.tr/blog/life/kendi-llmini-barindirmak-yan-projede-gercekten-avantajli-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
-📝 **[Log Seviye Stratejileri: Gözlemlenebilirlik ve Maliyet Dengesi](https://mustafaerbay.com.tr/blog/life/log-seviye-stratejileri-gozlemlenebilirlik-ve-maliyet-dengesi-nasil-kurulur/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Eventual Consistency: Dağıtık Sistemlerin Kaçınılmaz Gerçeği](https://mustafaerbay.com.tr/blog/life/eventual-consistency-dagitik-sistemlerin-kacinilmaz-gercegi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub>
+📝 **[Kendi LLM&#39;ini Barındırmak Yan Projede Gerçekten Avantajlı mı?](https://mustafaerbay.com.tr/blog/life/kendi-llmini-barindirmak-yan-projede-gercekten-avantajli-mi/)** &nbsp;·&nbsp; <sub>May 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
