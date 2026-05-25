@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 **[Monolith vs Microservices: CI/CD Süreci İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/monolith-vs-microservices-cicd-sureci-icin-hangisi/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
-📝 **[Offline-First Senkronizasyon: Mobil Gelişimin Gözden Kaçan Maliyeti](https://mustafaerbay.com.tr/blog/life/offline-first-senkronizasyon-mobil-gelisimin-gozden-kacan-maliyeti/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
-📝 **[Yan Projelerde Tekrar Denemeleri Yönetmenin 4 Akıllı Yolu](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tekrar-denemeleri-yonetmenin-4-akilli-yolu/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
-📝 **[Küçük Ağlarda VLAN Segmentasyonu Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/technology/kucuk-aglarda-vlan-segmentasyonu-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub>
-📝 **[Mobil Uygulama Boyutu Optimizasyonu: Geliştirme Sürecinin Yükü](https://mustafaerbay.com.tr/blog/technology/mobil-uygulama-boyutu-optimizasyonu-gelistirme-surecinin-yuku/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Metrik Kardinalitesi: Az Mı Çok Mu? Doğru Tercihi Yapmanın 4 Adımı](https://mustafaerbay.com.tr/blog/life/metrik-kardinalitesi-az-mi-cok-mu-dogru-tercihi-yapmanin-4-adimi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
+📝 **[Mikro Tedarik Zinciri: Veri Akışı Mekaniğinin Anatomisi](https://mustafaerbay.com.tr/blog/life/mikro-tedarik-zinciri-veri-akisi-mekaniginin-anatomisi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
+📝 **[AI Agent Tool-Use Sınırları: Daha Çok Araç Daha İyi mi?](https://mustafaerbay.com.tr/blog/technology/ai-agent-tool-use-sinirlari-daha-cok-arac-daha-iyi-mi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
+📝 **[PostgreSQL WAL Bloat: Otomatik Yönetim Neden Yetersiz Kalır?](https://mustafaerbay.com.tr/blog/tutorials/postgresql-wal-bloat-otomatik-yonetim-neden-genelde-yetersiz/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
+📝 **[Monolith vs Microservices: CI/CD Süreci İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/monolith-vs-microservices-cicd-sureci-icin-hangisi/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
