@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Monolith&#39;ten Modular&#39;a Geçiş: 3 Farklı Strateji Karşılaştırması](https://mustafaerbay.com.tr/blog/career/monolithten-modular-gecis-3-farkli-strateji-karsilastirmasi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
+📝 **[Monolith&#39;ten Modüler Monolith&#39;e Geçiş: 3 Pragmatik Sebep](https://mustafaerbay.com.tr/blog/career/monolithten-moduler-monolithe-gecis-3-pragmatik-sebep/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
 📝 **[Metrik Kardinalitesi: Az Mı Çok Mu? Doğru Tercihi Yapmanın 4 Adımı](https://mustafaerbay.com.tr/blog/life/metrik-kardinalitesi-az-mi-cok-mu-dogru-tercihi-yapmanin-4-adimi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
 📝 **[Mikro Tedarik Zinciri: Veri Akışı Mekaniğinin Anatomisi](https://mustafaerbay.com.tr/blog/life/mikro-tedarik-zinciri-veri-akisi-mekaniginin-anatomisi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[AI Agent Tool-Use Sınırları: Daha Çok Araç Daha İyi mi?](https://mustafaerbay.com.tr/blog/technology/ai-agent-tool-use-sinirlari-daha-cok-arac-daha-iyi-mi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[PostgreSQL WAL Bloat: Otomatik Yönetim Neden Yetersiz Kalır?](https://mustafaerbay.com.tr/blog/tutorials/postgresql-wal-bloat-otomatik-yonetim-neden-genelde-yetersiz/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[Monolith vs Microservices: CI/CD Süreci İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/monolith-vs-microservices-cicd-sureci-icin-hangisi/)** &nbsp;·&nbsp; <sub>May 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Secret Rotation Otomasyonu: Güvenliğin Operasyonel Maliyeti](https://mustafaerbay.com.tr/blog/life/secret-rotation-otomasyonu-guvenligin-operasyonel-maliyeti/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
