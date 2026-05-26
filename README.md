@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[ERP Ürün Ağacı Denormalizasyonu: Bakım ve Ölçek Karmaşası](https://mustafaerbay.com.tr/blog/career/erp-urun-agaci-denormalizasyonu-bakim-ve-olcek-karmasasi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[RAG Retrieval Kalitesi: Yan Projelerde Gelişim ve Maliyet Anatomisi](https://mustafaerbay.com.tr/blog/life/rag-retrieval-kalitesi-yan-projelerde-gelisim-ve-maliyet-anatomisi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[Yan Projelerde Tedarik Zinciri Veri Akışını 3 Basit Adımda Yönetme](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tedarik-zinciri-veri-akisini-3-basit-adimda-yonetme/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[Yan Projelerde Yüksek Erişilebilirlik İçin 3 Load Balancing Stratejisi](https://mustafaerbay.com.tr/blog/life/yan-projelerde-yuksek-erisilebilirlik-icin-3-load-balancing-stratejisi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[BGP Route Flap Damping: Çözüm mü, Yeni Sorun mu?](https://mustafaerbay.com.tr/blog/tutorials/bgp-route-flap-damping-cozum-mu-yeni-sorun-mu/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Kesintisiz Deploy: Blue/Green vs Canary Trade-off Analizi](https://mustafaerbay.com.tr/blog/tutorials/kesintisiz-deploy-bluegreen-vs-canary-trade-off-analizi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[BGP Route Flap Damping: Çözüm mü, Yeni Sorun mu?](https://mustafaerbay.com.tr/blog/tutorials/bgp-route-flap-damping-cozum-mu-yeni-sorun-mu/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
