@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[ERP Ürün Ağacı Denormalizasyonu: Bakım ve Ölçek Karmaşası](https://mustafaerbay.com.tr/blog/career/erp-urun-agaci-denormalizasyonu-bakim-ve-olcek-karmasasi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[Paylaşımlı Build Cache: Bağımsız Geliştirici İçin Mantıklı Mı?](https://mustafaerbay.com.tr/blog/career/paylasimli-build-cache-bagimsiz-gelistirici-icin-mantikli-mi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
+📝 **[Mükemmel Mimari vs Çalışan Kod: Solo Yazılımcı İçin 3 Ders](https://mustafaerbay.com.tr/blog/life/mukemmel-mimari-vs-calisan-kod-solo-yazilimci-icin-3-ders/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[RAG Retrieval Kalitesi: Yan Projelerde Gelişim ve Maliyet Anatomisi](https://mustafaerbay.com.tr/blog/life/rag-retrieval-kalitesi-yan-projelerde-gelisim-ve-maliyet-anatomisi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Yan Projelerde Tedarik Zinciri Veri Akışını 3 Basit Adımda Yönetme](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tedarik-zinciri-veri-akisini-3-basit-adimda-yonetme/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Yan Projelerde Yüksek Erişilebilirlik İçin 3 Load Balancing Stratejisi](https://mustafaerbay.com.tr/blog/life/yan-projelerde-yuksek-erisilebilirlik-icin-3-load-balancing-stratejisi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yan Projelerde Tedarik Zinciri Veri Akışını 3 Basit Adımda Yönetme](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tedarik-zinciri-veri-akisini-3-basit-adimda-yonetme/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
