@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Yan Projelerde Tedarik Zinciri Veri Akışını 3 Basit Adımda Yönetme](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tedarik-zinciri-veri-akisini-3-basit-adimda-yonetme/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
+📝 **[BGP Route Flap Damping: Çözüm mü, Yeni Sorun mu?](https://mustafaerbay.com.tr/blog/tutorials/bgp-route-flap-damping-cozum-mu-yeni-sorun-mu/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
 📝 **[AI Agent Tool-Use: Maliyet ve Performans Dengesinde Sınırlar](https://mustafaerbay.com.tr/blog/career/ai-agent-tool-use-sinirlari-maliyet-ve-performans-dengesi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
 📝 **[Monolith&#39;ten Modular&#39;a Geçiş: 3 Farklı Strateji Karşılaştırması](https://mustafaerbay.com.tr/blog/career/monolithten-modular-gecis-3-farkli-strateji-karsilastirmasi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[Monolith&#39;ten Modüler Monolith&#39;e Geçiş: 3 Pragmatik Sebep](https://mustafaerbay.com.tr/blog/career/monolithten-moduler-monolithe-gecis-3-pragmatik-sebep/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[Bağımlılık Güvenlik Açıkları: Sürekli Güncelleme Yükünün Bedeli](https://mustafaerbay.com.tr/blog/life/bagimlilik-guvenlik-aciklari-surekli-guncelleme-yukunun-bedeli/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub>
-📝 **[Metrik Kardinalitesi: Az Mı Çok Mu? Doğru Tercihi Yapmanın 4 Adımı](https://mustafaerbay.com.tr/blog/life/metrik-kardinalitesi-az-mi-cok-mu-dogru-tercihi-yapmanin-4-adimi/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Monolith&#39;ten Modüler Monolith&#39;e Geçiş: 3 Pragmatik Sebep](https://mustafaerbay.com.tr/blog/career/monolithten-moduler-monolithe-gecis-3-pragmatik-sebep/)** &nbsp;·&nbsp; <sub>May 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
