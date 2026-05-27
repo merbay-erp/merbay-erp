@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[ERP&#39;de Ürün Ağacı Denormalizasyonu: Her Zaman Çözüm mü?](https://mustafaerbay.com.tr/blog/career/erpde-urun-agaci-denormalizasyonu-neden-her-zaman-cozum-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
+📝 **[Indie Hacker İçin BGP Bilgisi: Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/indie-hacker-icin-bgp-bilgisi-neden-bir-zorunluluk-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
+📝 **[RED Metrik Tasarımı: Servis Bazlı mı, İş Akışı Bazlı mı?](https://mustafaerbay.com.tr/blog/technology/red-metrik-tasarimi-servis-bazli-mi-is-akisi-bazli-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
 📝 **[ERP Ürün Ağacı Denormalizasyonu: Bakım ve Ölçek Karmaşası](https://mustafaerbay.com.tr/blog/career/erp-urun-agaci-denormalizasyonu-bakim-ve-olcek-karmasasi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Paylaşımlı Build Cache: Bağımsız Geliştirici İçin Mantıklı Mı?](https://mustafaerbay.com.tr/blog/career/paylasimli-build-cache-bagimsiz-gelistirici-icin-mantikli-mi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Mükemmel Mimari vs Çalışan Kod: Solo Yazılımcı İçin 3 Ders](https://mustafaerbay.com.tr/blog/life/mukemmel-mimari-vs-calisan-kod-solo-yazilimci-icin-3-ders/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[RAG Retrieval Kalitesi: Yan Projelerde Gelişim ve Maliyet Anatomisi](https://mustafaerbay.com.tr/blog/life/rag-retrieval-kalitesi-yan-projelerde-gelisim-ve-maliyet-anatomisi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub>
-📝 **[Yan Projelerde Tedarik Zinciri Veri Akışını 3 Basit Adımda Yönetme](https://mustafaerbay.com.tr/blog/life/yan-projelerde-tedarik-zinciri-veri-akisini-3-basit-adimda-yonetme/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Paylaşımlı Build Cache: Bağımsız Geliştirici İçin Mantıklı Mı?](https://mustafaerbay.com.tr/blog/career/paylasimli-build-cache-bagimsiz-gelistirici-icin-mantikli-mi/)** &nbsp;·&nbsp; <sub>May 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
