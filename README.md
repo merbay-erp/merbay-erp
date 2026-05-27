@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[ERP&#39;de Ürün Ağacı Denormalizasyonu: Her Zaman Çözüm mü?](https://mustafaerbay.com.tr/blog/career/erpde-urun-agaci-denormalizasyonu-neden-her-zaman-cozum-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
+📝 **[Yan Projeler İçin CI/CD: 3 Pragmatik Tasarım Tercihi](https://mustafaerbay.com.tr/blog/career/yan-projeler-icin-cicd-3-pragmatik-tasarim-tercihi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
 📝 **[Dağıtık Sistemlerde Idempotency&#39;nin Gizli Bedeli](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotencynin-maliyeti-tasarimda-nelere-dikkat-etmeli/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
 📝 **[Indie Hacker İçin BGP Bilgisi: Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/indie-hacker-icin-bgp-bilgisi-neden-bir-zorunluluk-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[RED Metrik Tasarımı: Servis Bazlı mı, İş Akışı Bazlı mı?](https://mustafaerbay.com.tr/blog/technology/red-metrik-tasarimi-servis-bazli-mi-is-akisi-bazli-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[AI Prompt Injection Savunması: 5 Adımda Etkili Stratejiler Kurma](https://mustafaerbay.com.tr/blog/tutorials/ai-prompt-injection-savunmasi-5-adimda-etkili-stratejiler-kurma/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kernel CVE Yanıtı: Hızlı Yama mı, Derin Savunma mı?](https://mustafaerbay.com.tr/blog/life/kernel-cve-yaniti-hizli-yama-mi-derin-savunma-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
