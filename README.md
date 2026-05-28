@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[ORM Kullanımı Veritabanı Performansını Neden Düşürür? Bir Deneyim…](https://mustafaerbay.com.tr/blog/career/orm-kullanimi-veritabani-performansini-neden-dusurur/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
+📝 **[MVCC Anti-Patternleri: Performansı Etkileyen 3 Yanlış Yaklaşım](https://mustafaerbay.com.tr/blog/technology/mvcc-anti-patternleri-performansi-etkileyen-3-yanlis-yaklasim/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
 📝 **[Log Seviye Stratejisi: Üretim Ortamında Doğru Tercihler Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/tutorials/log-seviye-stratejisi-uretim-ortaminda-dogru-tercihler-nasil-yapilir/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[AI Prompt Injection Savunma Mekanizmaları ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/ai-prompt-injection-savunma-mekanizmalari-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[ERP&#39;de Ürün Ağacı Denormalizasyonu: Her Zaman Çözüm mü?](https://mustafaerbay.com.tr/blog/career/erpde-urun-agaci-denormalizasyonu-neden-her-zaman-cozum-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[Log Seviye Stratejisi: Debug Her Zaman Gereksiz mi?](https://mustafaerbay.com.tr/blog/career/log-seviye-stratejisi-debug-her-zaman-gereksiz-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mobil Push Notification: Firebase mi, Kendi Çözümün mü? Detaylı…](https://mustafaerbay.com.tr/blog/tutorials/mobil-uygulamalarda-push-notification-firebase-vs-kendi-cozumun/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
+📝 **[VLAN Segmentasyonunun Anatomisi: Doğru Tasarımın Temelleri](https://mustafaerbay.com.tr/blog/tutorials/vlan-segmentasyonunun-anatomisi-dogru-tasarimin-temelleri/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
