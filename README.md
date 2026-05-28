@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[ORM Kullanımı Veritabanı Performansını Neden Düşürür? Bir Deneyim…](https://mustafaerbay.com.tr/blog/career/orm-kullanimi-veritabani-performansini-neden-dusurur/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
+📝 **[Log Seviye Stratejisi: Üretim Ortamında Doğru Tercihler Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/tutorials/log-seviye-stratejisi-uretim-ortaminda-dogru-tercihler-nasil-yapilir/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
 📝 **[AI Prompt Injection Savunma Mekanizmaları ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/career/ai-prompt-injection-savunma-mekanizmalari-maliyet-analizi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
 📝 **[ERP&#39;de Ürün Ağacı Denormalizasyonu: Her Zaman Çözüm mü?](https://mustafaerbay.com.tr/blog/career/erpde-urun-agaci-denormalizasyonu-neden-her-zaman-cozum-degil/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[Log Seviye Stratejisi: Debug Her Zaman Gereksiz mi?](https://mustafaerbay.com.tr/blog/career/log-seviye-stratejisi-debug-her-zaman-gereksiz-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[Yan Projeler İçin CI/CD: 3 Pragmatik Tasarım Tercihi](https://mustafaerbay.com.tr/blog/career/yan-projeler-icin-cicd-3-pragmatik-tasarim-tercihi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub>
-📝 **[Dağıtık Sistemlerde Idempotency&#39;nin Gizli Bedeli](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotencynin-maliyeti-tasarimda-nelere-dikkat-etmeli/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Log Seviye Stratejisi: Debug Her Zaman Gereksiz mi?](https://mustafaerbay.com.tr/blog/career/log-seviye-stratejisi-debug-her-zaman-gereksiz-mi/)** &nbsp;·&nbsp; <sub>May 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
