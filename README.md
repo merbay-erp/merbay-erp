@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Cardinality Patlaması: Gözlemlenebilirliğin Sinsi Düşmanı ve Kariyer…](https://mustafaerbay.com.tr/blog/career/cardinality-patlamasi-her-detay-gercekten-gozlemlenmeli-mi/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
+📝 **[Switch Hardening: Her Zaman Gerekli Bir Adım mı?](https://mustafaerbay.com.tr/blog/technology/switch-hardening-her-zaman-gerekli-bir-adim-mi/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
+📝 **[Veritabanı Index Seçimi: Performans İçin Temel Yaklaşımlar](https://mustafaerbay.com.tr/blog/tutorials/veritabani-index-secimi-performans-icin-temel-yaklasimlar/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
 📝 **[Log Seviye Stratejileri: Detaylı İzleme mi, Minimum Gürültü mü?](https://mustafaerbay.com.tr/blog/career/log-seviye-stratejileri-detayli-izleme-mi-minimum-gurultu-mu/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[ORM Kullanımı Veritabanı Performansını Neden Düşürür? Bir Deneyim…](https://mustafaerbay.com.tr/blog/career/orm-kullanimi-veritabani-performansini-neden-dusurur/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[VLAN Segmentasyonu Neden Gerekli Olmaktan Çıktı? &lpar;Artık Değil mi?&rpar;](https://mustafaerbay.com.tr/blog/life/vlan-segmentasyonu-neden-gerekli-olmaktan-cikti/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[MVCC Anti-Patternleri: Performansı Etkileyen 3 Yanlış Yaklaşım](https://mustafaerbay.com.tr/blog/technology/mvcc-anti-patternleri-performansi-etkileyen-3-yanlis-yaklasim/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[API Versioning: URI vs Header – Hangisi Daha Pratik?](https://mustafaerbay.com.tr/blog/tutorials/api-versioning-uri-vs-header-hangisi-daha-pratik/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[ORM Kullanımı Veritabanı Performansını Neden Düşürür? Bir Deneyim…](https://mustafaerbay.com.tr/blog/career/orm-kullanimi-veritabani-performansini-neden-dusurur/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
