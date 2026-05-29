@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Cardinality Patlaması: Gözlemlenebilirliğin Sinsi Düşmanı ve Kariyer…](https://mustafaerbay.com.tr/blog/career/cardinality-patlamasi-her-detay-gercekten-gozlemlenmeli-mi/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
+📝 **[ERP&#39;de Multi-Tenant Mimarisi: Doğru Trade-off Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/career/erpde-multi-tenant-mimarisi-dogru-trade-off-nasil-yapilir/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
 📝 **[Switch Hardening: Her Zaman Gerekli Bir Adım mı?](https://mustafaerbay.com.tr/blog/technology/switch-hardening-her-zaman-gerekli-bir-adim-mi/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
-📝 **[Veritabanı Index Seçimi: Performans İçin Temel Yaklaşımlar](https://mustafaerbay.com.tr/blog/tutorials/veritabani-index-secimi-performans-icin-temel-yaklasimlar/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
-📝 **[Log Seviye Stratejileri: Detaylı İzleme mi, Minimum Gürültü mü?](https://mustafaerbay.com.tr/blog/career/log-seviye-stratejileri-detayli-izleme-mi-minimum-gurultu-mu/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub>
-📝 **[ORM Kullanımı Veritabanı Performansını Neden Düşürür? Bir Deneyim…](https://mustafaerbay.com.tr/blog/career/orm-kullanimi-veritabani-performansini-neden-dusurur/)** &nbsp;·&nbsp; <sub>May 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mobil Uygulamalarda Offline-First Senkronizasyonun Maliyeti](https://mustafaerbay.com.tr/blog/tutorials/mobil-uygulamalarda-offline-first-senkronizasyonun-maliyeti/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub>
+📝 **[Veritabanı Index Seçimi: Performans İçin Temel Yaklaşımlar](https://mustafaerbay.com.tr/blog/tutorials/veritabani-index-secimi-performans-icin-temel-yaklasimlar/)** &nbsp;·&nbsp; <sub>May 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
