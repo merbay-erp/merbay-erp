@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[CI/CD için 3 Deploy Stratejisi: Maliyet ve Verimlilik Analizi](https://mustafaerbay.com.tr/blog/career/cicd-icin-3-deploy-stratejisi-maliyet-ve-verimlilik-analizi/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
 📝 **[Dağıtık Kilit Kullanımının On-Call Maliyeti](https://mustafaerbay.com.tr/blog/career/dagitik-kilit-kullaniminin-on-call-maliyeti/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
 📝 **[VPN Dual-Stack Yapılandırması Neden Hep Sorun Çıkarır?](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-yapilandirmasi-neden-hep-sorun-cikarir/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
 📝 **[Clean Code vs Çalışan Kod: Tek Tabanca Geliştiriciye Hangisi?](https://mustafaerbay.com.tr/blog/life/clean-code-vs-calisan-kod-tek-tabanca-gelistiriciye-hangisi/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[Prompt Injection Savunması: Indie Hacker İçin Gereksiz Bir Yük mü?](https://mustafaerbay.com.tr/blog/life/prompt-injection-savunmasi-indie-hacker-icin-gereksiz-bir-yuk-mu/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[Yan Projeler İçin Veritabanı Connection Pooling: 3 Adımda Optimizasyon](https://mustafaerbay.com.tr/blog/life/yan-projeler-icin-veritabani-connection-pooling-3-adimda-optimizasyon/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Prompt Injection Savunması: Indie Hacker İçin Gereksiz Bir Yük mü?](https://mustafaerbay.com.tr/blog/life/prompt-injection-savunmasi-indie-hacker-icin-gereksiz-bir-yuk-mu/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
