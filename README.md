@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Agent-Based vs Agentless İzleme: Doğru Seçimi 3 Adımda Yapın](https://mustafaerbay.com.tr/blog/technology/agent-based-ve-agentless-izleme-dogru-secimi-3-adimda-yapin/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
+📝 **[Veritabanı Indexleri: Her Sorgu İçin Gerekli mi?](https://mustafaerbay.com.tr/blog/technology/veritabani-indexleri-her-sorgu-icin-gerekli-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
+📝 **[AI Agent&#39;larda Tool-Use Sınırı: Ne Zaman Esnetilmeli, Neden?](https://mustafaerbay.com.tr/blog/tutorials/ai-agentlarda-tool-use-siniri-ne-zaman-esnetilmeli-neden/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
 📝 **[CI/CD için 3 Deploy Stratejisi: Maliyet ve Verimlilik Analizi](https://mustafaerbay.com.tr/blog/career/cicd-icin-3-deploy-stratejisi-maliyet-ve-verimlilik-analizi/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[Dağıtık Kilit Kullanımının On-Call Maliyeti](https://mustafaerbay.com.tr/blog/career/dagitik-kilit-kullaniminin-on-call-maliyeti/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[VPN Dual-Stack Yapılandırması Neden Hep Sorun Çıkarır?](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-yapilandirmasi-neden-hep-sorun-cikarir/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[VPN Dual-Stack Yapılandırmasıyla Ağ Sorunlarını 3 Adımda Çözme](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-yapilandirmasiyla-ag-sorunlarini-3-adimda-cozme/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub>
-📝 **[Clean Code vs Çalışan Kod: Tek Tabanca Geliştiriciye Hangisi?](https://mustafaerbay.com.tr/blog/life/clean-code-vs-calisan-kod-tek-tabanca-gelistiriciye-hangisi/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dağıtık Kilit Kullanımının On-Call Maliyeti](https://mustafaerbay.com.tr/blog/career/dagitik-kilit-kullaniminin-on-call-maliyeti/)** &nbsp;·&nbsp; <sub>May 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
