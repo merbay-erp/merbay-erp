@@ -109,9 +109,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Minimum Yetki İlkesi: Operasyonel Hızın Güvenlik Bedeli](https://mustafaerbay.com.tr/blog/career/minimum-yetki-ilkesi-operasyonel-hizin-guvenlik-bedeli/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
 📝 **[Monolit vs. Modüler: 3 Mimariden Hangisi Sana Uygun?](https://mustafaerbay.com.tr/blog/career/monolit-vs-moduler-3-mimariden-hangisi-sana-uygun/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Dağıtık Sistemlerde Idempotency: Tasarımın Gerçekleri](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotency-tasarimin-gercekleri/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Uygulama Boyutu: Her Kilobyte Mücadelesi mi, İşlevsellik Önceliği mi?](https://mustafaerbay.com.tr/blog/life/uygulama-boyutu-her-kilobyte-mucadelesi-mi-islevsellik-onceligi-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Agent-Based vs Agentless İzleme: Doğru Seçimi 3 Adımda Yapın](https://mustafaerbay.com.tr/blog/technology/agent-based-ve-agentless-izleme-dogru-secimi-3-adimda-yapin/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[RED Metrikler: Her Durumda Kapsamlı Uygulama Şart mı?](https://mustafaerbay.com.tr/blog/career/red-metrikler-her-durumda-kapsamli-uygulama-sart-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
+📝 **[Yan Projede RAG Kalitesi: Mükemmellik Her Zaman Şart mı?](https://mustafaerbay.com.tr/blog/career/yan-projede-rag-kalitesi-her-zaman-mukemmel-olmak-gerekli-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
+📝 **[Dağıtık Sistemlerde Idempotency: Tasarımın Gerçekleri](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotency-tasarimin-gercekleri/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
