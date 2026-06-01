@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 **[Minimum Yetki İlkesi: Operasyonel Hızın Güvenlik Bedeli](https://mustafaerbay.com.tr/blog/career/minimum-yetki-ilkesi-operasyonel-hizin-guvenlik-bedeli/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Monolit vs. Modüler: 3 Mimariden Hangisi Sana Uygun?](https://mustafaerbay.com.tr/blog/career/monolit-vs-moduler-3-mimariden-hangisi-sana-uygun/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[RED Metrikler: Her Durumda Kapsamlı Uygulama Şart mı?](https://mustafaerbay.com.tr/blog/career/red-metrikler-her-durumda-kapsamli-uygulama-sart-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Yan Projede RAG Kalitesi: Mükemmellik Her Zaman Şart mı?](https://mustafaerbay.com.tr/blog/career/yan-projede-rag-kalitesi-her-zaman-mukemmel-olmak-gerekli-mi/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub>
-📝 **[Dağıtık Sistemlerde Idempotency: Tasarımın Gerçekleri](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotency-tasarimin-gercekleri/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Agent Tool-Use Sınırı: Mimari Seçimlerin Maliyeti](https://mustafaerbay.com.tr/blog/career/ai-agent-tool-use-siniri-mimari-secimlerin-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Veritabanı Partitioning: Operasyonel Yükü Neden Azımsanıyor?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-operasyonel-yuku-neden-azimsaniyor/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Ürün Ağacı Denormalizasyonu: ERP Verimliliğini Artırmanın 3 Yolu](https://mustafaerbay.com.tr/blog/life/urun-agaci-denormalizasyonu-erp-verimliligini-artirmanin-3-yolu/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Unstructured Logging Neden Yetersiz Kalıyor? Saha Tecrübelerim](https://mustafaerbay.com.tr/blog/tutorials/unstructured-logging-neden-yetersiz-kaliyor/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Minimum Yetki İlkesi: Operasyonel Hızın Güvenlik Bedeli](https://mustafaerbay.com.tr/blog/career/minimum-yetki-ilkesi-operasyonel-hizin-guvenlik-bedeli/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
