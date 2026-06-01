@@ -111,7 +111,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Eventual Consistency: Strong Consistency&#39;e Karşı Ne Zaman Tercih…](https://mustafaerbay.com.tr/blog/career/eventual-consistency-strong-consistencye-karsi-ne-zaman-tercih-edilmeli/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
 📝 **[Veritabanı Partitioning: Operasyonel Yükü Neden Azımsanıyor?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-operasyonel-yuku-neden-azimsaniyor/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
 📝 **[Kernel CVE Acil Durumlarında Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/life/kernel-cve-response-patterni-acil-durumlarda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
-📝 **[Ürün Ağacı Denormalizasyonu: ERP Verimliliğini Artırmanın 3 Yolu](https://mustafaerbay.com.tr/blog/life/urun-agaci-denormalizasyonu-erp-verimliligini-artirmanin-3-yolu/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Pragmatik Mühendis İçin Sabah Rutini: Disiplin mi Esneklik mi?](https://mustafaerbay.com.tr/blog/life/pragmatik-muhendis-icin-sabah-rutini-disiplin-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
