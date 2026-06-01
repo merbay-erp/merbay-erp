@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Agent Tool-Use Sınırı: Mimari Seçimlerin Maliyeti](https://mustafaerbay.com.tr/blog/career/ai-agent-tool-use-siniri-mimari-secimlerin-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Eventual Consistency: Strong Consistency&#39;e Karşı Ne Zaman Tercih…](https://mustafaerbay.com.tr/blog/career/eventual-consistency-strong-consistencye-karsi-ne-zaman-tercih-edilmeli/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
 📝 **[Veritabanı Partitioning: Operasyonel Yükü Neden Azımsanıyor?](https://mustafaerbay.com.tr/blog/career/veritabani-partitioning-operasyonel-yuku-neden-azimsaniyor/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
-📝 **[Ürün Ağacı Denormalizasyonu: ERP Verimliliğini Artırmanın 3 Yolu](https://mustafaerbay.com.tr/blog/life/urun-agaci-denormalizasyonu-erp-verimliligini-artirmanin-3-yolu/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
-📝 **[Unstructured Logging Neden Yetersiz Kalıyor? Saha Tecrübelerim](https://mustafaerbay.com.tr/blog/tutorials/unstructured-logging-neden-yetersiz-kaliyor/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
-📝 **[Minimum Yetki İlkesi: Operasyonel Hızın Güvenlik Bedeli](https://mustafaerbay.com.tr/blog/career/minimum-yetki-ilkesi-operasyonel-hizin-guvenlik-bedeli/)** &nbsp;·&nbsp; <sub>May 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kernel CVE Acil Durumlarında Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/life/kernel-cve-response-patterni-acil-durumlarda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub>
+📝 **[Ürün Ağacı Denormalizasyonu: ERP Verimliliğini Artırmanın 3 Yolu](https://mustafaerbay.com.tr/blog/life/urun-agaci-denormalizasyonu-erp-verimliligini-artirmanin-3-yolu/)** &nbsp;·&nbsp; <sub>Jun 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
