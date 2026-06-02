@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Monorepo mu Polyrepo mu? CI/CD Seçiminin 3 Önemli Sonucu](https://mustafaerbay.com.tr/blog/career/monorepo-mu-polyrepo-mu-cicd-tercihinin-3-onemli-sonucu/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
+📝 **[Veritabanı WAL Bloat: Depolama Kabuslarının Gizli Kahramanı](https://mustafaerbay.com.tr/blog/career/veritabani-wal-bloat-neden-beklenmedik-depolama-problemleri-yaratir/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
+📝 **[Observability: Metrikler mi Loglar mı, Hangisi Gerçekten Yeterli?](https://mustafaerbay.com.tr/blog/life/observability-metrikler-mi-loglar-mi-hangisi-gercekten-yeterli/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
 📝 **[AI Modellerini Sunma: Maliyet ve Performans Dengesi](https://mustafaerbay.com.tr/blog/technology/ai-modellerini-sunma-stratejileri-maliyet-ve-performans-dengesi/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[PostgreSQL MVCC: Uygulama Geliştirmede Sıkça Yapılan Hatalar](https://mustafaerbay.com.tr/blog/technology/mvcc-kullanimi-uygulama-gelistirmede-sikca-yapilan-hatalar/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[Ağ İzlemede SNMP mi NetFlow mu: Seçim Neden Tartışmalı Kalır?](https://mustafaerbay.com.tr/blog/tutorials/ag-izlemede-snmp-mi-netflow-mu-secim-neden-tartismali-kalir/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[ERP Entegrasyonları: Noktadan Noktaya Yaklaşım Neden Yetersiz?](https://mustafaerbay.com.tr/blog/tutorials/erp-entegrasyonlari-noktadan-noktaya-yaklasim-neden-yetersiz/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[PostgreSQL MVCC: Uygulama Geliştirmede Sıkça Yapılan Hatalar](https://mustafaerbay.com.tr/blog/technology/mvcc-kullanimi-uygulama-gelistirmede-sikca-yapilan-hatalar/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
