@@ -108,10 +108,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[BGP Route Flap: Ölçeklenebilir Ağlarda Kararlılık Bedeli](https://mustafaerbay.com.tr/blog/career/bgp-route-flap-olceklenebilir-aglarda-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
+📝 **[Offline-First: Her Uygulama İçin Gerekli mi, Aşırı Mühendislik mi?](https://mustafaerbay.com.tr/blog/career/offline-first-her-uygulama-icin-gerekli-mi-yoksa-asiri-muhendislik-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
 📝 **[Yüksek Cardinality Metriklerini 3 Adımda Yönetme: Maliyet vs Detay](https://mustafaerbay.com.tr/blog/career/yuksek-cardinality-metriklerini-3-adimda-yonetme-maliyet-vs-detay/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
-📝 **[Yan Projede Ürün Ağacı Denormalizasyonu: Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/yan-projede-urun-agaci-denormalizasyonu-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
-📝 **[Monorepo mu Polyrepo mu? CI/CD Seçiminin 3 Önemli Sonucu](https://mustafaerbay.com.tr/blog/career/monorepo-mu-polyrepo-mu-cicd-tercihinin-3-onemli-sonucu/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[Veritabanı WAL Bloat: Depolama Kabuslarının Gizli Kahramanı](https://mustafaerbay.com.tr/blog/career/veritabani-wal-bloat-neden-beklenmedik-depolama-problemleri-yaratir/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[API Versiyonlama: Geliştirici İçin Basitlik mi, Esneklik mi?](https://mustafaerbay.com.tr/blog/life/api-versiyonlama-secimi-gelistirici-icin-basitlik-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
+📝 **[Yan Projede Ürün Ağacı Denormalizasyonu: Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/yan-projede-urun-agaci-denormalizasyonu-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
