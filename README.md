@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[BGP Route Flap: Ölçeklenebilir Ağlarda Kararlılık Bedeli](https://mustafaerbay.com.tr/blog/career/bgp-route-flap-olceklenebilir-aglarda-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
+📝 **[Yüksek Cardinality Metriklerini 3 Adımda Yönetme: Maliyet vs Detay](https://mustafaerbay.com.tr/blog/career/yuksek-cardinality-metriklerini-3-adimda-yonetme-maliyet-vs-detay/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
+📝 **[Yan Projede Ürün Ağacı Denormalizasyonu: Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/yan-projede-urun-agaci-denormalizasyonu-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
 📝 **[Monorepo mu Polyrepo mu? CI/CD Seçiminin 3 Önemli Sonucu](https://mustafaerbay.com.tr/blog/career/monorepo-mu-polyrepo-mu-cicd-tercihinin-3-onemli-sonucu/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[Veritabanı WAL Bloat: Depolama Kabuslarının Gizli Kahramanı](https://mustafaerbay.com.tr/blog/career/veritabani-wal-bloat-neden-beklenmedik-depolama-problemleri-yaratir/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[Observability: Metrikler mi Loglar mı, Hangisi Gerçekten Yeterli?](https://mustafaerbay.com.tr/blog/life/observability-metrikler-mi-loglar-mi-hangisi-gercekten-yeterli/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[AI Modellerini Sunma: Maliyet ve Performans Dengesi](https://mustafaerbay.com.tr/blog/technology/ai-modellerini-sunma-stratejileri-maliyet-ve-performans-dengesi/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub>
-📝 **[PostgreSQL MVCC: Uygulama Geliştirmede Sıkça Yapılan Hatalar](https://mustafaerbay.com.tr/blog/technology/mvcc-kullanimi-uygulama-gelistirmede-sikca-yapilan-hatalar/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Veritabanı WAL Bloat: Depolama Kabuslarının Gizli Kahramanı](https://mustafaerbay.com.tr/blog/career/veritabani-wal-bloat-neden-beklenmedik-depolama-problemleri-yaratir/)** &nbsp;·&nbsp; <sub>Jun 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
