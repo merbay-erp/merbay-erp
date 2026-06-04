@@ -111,7 +111,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Ağ Mimarisi Anatomisi: VLAN Segmentasyonunun Gerçek Maliyeti](https://mustafaerbay.com.tr/blog/life/ag-mimarisi-anatomisi-vlan-segmentasyonunun-gercek-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
 📝 **[ACID Özellikleri: Her Projede Tamamen Şart mı?](https://mustafaerbay.com.tr/blog/technology/acid-ozellikleri-her-projede-tamamen-sart-mi/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
 📝 **[AI Çağında Sistem Mimarı Olmak: Araçlar Değişse de Problem Aynı](https://mustafaerbay.com.tr/blog/technology/ai-caginda-sistem-mimari-olmak/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Mobil Offline-First Senkronizasyon: 3 Pratik Zorluk ve Çözümleri](https://mustafaerbay.com.tr/blog/technology/mobil-uygulamalarda-offline-first-senkronizasyonun-3-pratik-zorlugu/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Kodu Üretir, Sorumluluğu Kim Alır?](https://mustafaerbay.com.tr/blog/technology/ai-kodu-uretir-sorumlulugu-kim-alir/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
