@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Monitoring ve Alerting&#39;e Öncelik Vermek: 3 Adımlı Pragmatik Rehberim](https://mustafaerbay.com.tr/blog/career/monitoring-ve-alerting-hangisine-oncelik-verecegini-3-adimda-belirle/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
+📝 **[Ağ Mimarisi Anatomisi: VLAN Segmentasyonunun Gerçek Maliyeti](https://mustafaerbay.com.tr/blog/life/ag-mimarisi-anatomisi-vlan-segmentasyonunun-gercek-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
 📝 **[ACID Özellikleri: Her Projede Tamamen Şart mı?](https://mustafaerbay.com.tr/blog/technology/acid-ozellikleri-her-projede-tamamen-sart-mi/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Mobil Offline-First Senkronizasyon: 3 Pratik Zorluk ve Çözümleri](https://mustafaerbay.com.tr/blog/technology/mobil-uygulamalarda-offline-first-senkronizasyonun-3-pratik-zorlugu/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[BGP Route Flap: Ölçeklenebilir Ağlarda Kararlılık Bedeli](https://mustafaerbay.com.tr/blog/career/bgp-route-flap-olceklenebilir-aglarda-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
-📝 **[Dependency Vulnerability Paterni: Küçük Projelerde Yönetim Durumu](https://mustafaerbay.com.tr/blog/career/dependency-vulnerability-paterni-kucuk-projelerde-yonetim-durumu/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub>
-📝 **[Offline-First: Her Uygulama İçin Gerekli mi, Aşırı Mühendislik mi?](https://mustafaerbay.com.tr/blog/career/offline-first-her-uygulama-icin-gerekli-mi-yoksa-asiri-muhendislik-mi/)** &nbsp;·&nbsp; <sub>Jun 3rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Çağında Sistem Mimarı Olmak: Araçlar Değişse de Problem Aynı](https://mustafaerbay.com.tr/blog/technology/ai-caginda-sistem-mimari-olmak/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
+📝 **[Mobil Offline-First Senkronizasyon: 3 Pratik Zorluk ve Çözümleri](https://mustafaerbay.com.tr/blog/technology/mobil-uygulamalarda-offline-first-senkronizasyonun-3-pratik-zorlugu/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
