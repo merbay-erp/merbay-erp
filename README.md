@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[BurnCPU&#39;nun İlk 100 Kullanıcısı: Kariyerimin En Pahalı Hatası Bir…](https://mustafaerbay.com.tr/blog/career/burncpunun-ilk-100-kullanicisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[Mobil Uygulama API Versiyonlama: Teknik Borcun Kariyer Bedeli](https://mustafaerbay.com.tr/blog/career/mobil-uygulama-api-versiyonlama-teknik-borcun-kariyer-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[Monorepo Build Süreçleri: Makefiles mı, Modern Build Araçları mı?](https://mustafaerbay.com.tr/blog/tutorials/monorepo-build-surecleri-makefiles-mi-modern-build-araclari-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[BurnCPU Fikri Nasıl Ortaya Çıktı? Bir Kariyer Hikayesi](https://mustafaerbay.com.tr/blog/career/burncpu-fikri-nasil-ortaya-cikti/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Monitoring ve Alerting&#39;e Öncelik Vermek: 3 Adımlı Pragmatik Rehberim](https://mustafaerbay.com.tr/blog/career/monitoring-ve-alerting-hangisine-oncelik-verecegini-3-adimda-belirle/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[VPN Dual-Stack: Kariyerine Gereksiz Yük Getiren Bir Seçim](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-kariyerine-gereksiz-yuk-getiren-bir-secim/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
+📝 **[Cardinality Patlaması Neden Her Zaman Sorun Olur?](https://mustafaerbay.com.tr/blog/technology/cardinality-patlamasi-neden-her-zaman-sorun-olur/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
+📝 **[Monitoring Kurmayınca Ne Oluyor? Tecrübelerimden Acı Bir Ders](https://mustafaerbay.com.tr/blog/technology/monitoring-kurmayinca-ne-oluyor/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
