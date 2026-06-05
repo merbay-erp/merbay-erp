@@ -107,11 +107,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[BurnCPU&#39;nun İlk 100 Kullanıcısı: Kariyerimin En Pahalı Hatası Bir…](https://mustafaerbay.com.tr/blog/career/burncpunun-ilk-100-kullanicisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
+📝 **[Mobil Uygulama API Versiyonlama: Teknik Borcun Kariyer Bedeli](https://mustafaerbay.com.tr/blog/career/mobil-uygulama-api-versiyonlama-teknik-borcun-kariyer-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
+📝 **[Monorepo Build Süreçleri: Makefiles mı, Modern Build Araçları mı?](https://mustafaerbay.com.tr/blog/tutorials/monorepo-build-surecleri-makefiles-mi-modern-build-araclari-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[BurnCPU Fikri Nasıl Ortaya Çıktı? Bir Kariyer Hikayesi](https://mustafaerbay.com.tr/blog/career/burncpu-fikri-nasil-ortaya-cikti/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Monitoring ve Alerting&#39;e Öncelik Vermek: 3 Adımlı Pragmatik Rehberim](https://mustafaerbay.com.tr/blog/career/monitoring-ve-alerting-hangisine-oncelik-verecegini-3-adimda-belirle/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Neden Kendi Sosyal Ağımı Yazdım?](https://mustafaerbay.com.tr/blog/career/neden-kendi-sosyal-agimi-yazdim/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Ağ Mimarisi Anatomisi: VLAN Segmentasyonunun Gerçek Maliyeti](https://mustafaerbay.com.tr/blog/life/ag-mimarisi-anatomisi-vlan-segmentasyonunun-gercek-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub>
-📝 **[Switch Hardening: Yan Projelerde Neden Hep İkinci Plana Atılır?](https://mustafaerbay.com.tr/blog/life/switch-hardening-yan-projelerde-neden-hep-ikinci-plana-atilir/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Monitoring ve Alerting&#39;e Öncelik Vermek: 3 Adımlı Pragmatik Rehberim](https://mustafaerbay.com.tr/blog/career/monitoring-ve-alerting-hangisine-oncelik-verecegini-3-adimda-belirle/)** &nbsp;·&nbsp; <sub>Jun 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
