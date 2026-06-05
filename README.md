@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[API Versioning Stratejileri: Uygulama Geliştirmede Basitlik mi,…](https://mustafaerbay.com.tr/blog/career/api-versioning-stratejisi-uygulama-gelistirmede-basitlik-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[BurnCPU&#39;nun İlk 100 Kullanıcısı: Kariyerimin En Pahalı Hatası Bir…](https://mustafaerbay.com.tr/blog/career/burncpunun-ilk-100-kullanicisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[Mobil Uygulama API Versiyonlama: Teknik Borcun Kariyer Bedeli](https://mustafaerbay.com.tr/blog/career/mobil-uygulama-api-versiyonlama-teknik-borcun-kariyer-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[VPN Dual-Stack: Kariyerine Gereksiz Yük Getiren Bir Seçim](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-kariyerine-gereksiz-yuk-getiren-bir-secim/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[Cardinality Patlaması Neden Her Zaman Sorun Olur?](https://mustafaerbay.com.tr/blog/technology/cardinality-patlamasi-neden-her-zaman-sorun-olur/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[Monitoring Kurmayınca Ne Oluyor? Tecrübelerimden Acı Bir Ders](https://mustafaerbay.com.tr/blog/technology/monitoring-kurmayinca-ne-oluyor/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mobil Push Bildirim Güvenilirliği: Güncelleme Üzerine Kurulmanın…](https://mustafaerbay.com.tr/blog/life/mobil-uygulama-push-bildirim-guvenilirligi-guncelleme-uzerine-kurulmanin-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
