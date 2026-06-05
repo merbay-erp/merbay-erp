@@ -184,3 +184,66 @@ cat > "$OUT_DIR/top-langs.svg" <<SVGEOF
 </svg>
 SVGEOF
 echo "✓ top-langs.svg generated ($IDX langs, ${HEIGHT}px high)"
+
+# ---------- Trophies (self-hosted) ----------
+# github-profile-trophy.vercel.app ÖLDÜ (HTTP 402 DEPLOYMENT_DISABLED — Vercel
+# deployment'ı kapattı). Kendi üretiyoruz: GitHub API verisinden, bir daha ASLA
+# kırılmaz. 7 rozet (orijinal trophy paramları row=1 column=7), TokyoNight tema.
+
+# value + S/A/B/C eşikleri → "RANK|COLOR"
+trophy_rank() {
+  local v="$1" s="$2" a="$3" b="$4" c="$5"
+  if   [ "$v" -ge "$s" ]; then printf 'S|#fbbf24'
+  elif [ "$v" -ge "$a" ]; then printf 'A|#bf91f3'
+  elif [ "$v" -ge "$b" ]; then printf 'B|#70a5fd'
+  elif [ "$v" -ge "$c" ]; then printf 'C|#38bdae'
+  else printf '?|#565f89'
+  fi
+}
+
+# Experience rozeti için genel rank rengi
+case "$RANK" in
+  "A+"|"A") EXP_COLOR="#fbbf24" ;;
+  "B+"|"B") EXP_COLOR="#70a5fd" ;;
+  *)        EXP_COLOR="#38bdae" ;;
+esac
+
+# Satır formatı: SEMBOL|BAŞLIK|DEĞER|RANK|RENK  (ilk 6 rozetin RANK|RENK'i trophy_rank'ten)
+TROPHY_DATA=$(cat <<DATA
+★|Stars|${TOTAL_STARS}|$(trophy_rank "$TOTAL_STARS" 100 30 10 1)
+⬆|Commits|${TOTAL_COMMITS}|$(trophy_rank "$TOTAL_COMMITS" 1000 300 100 1)
+▲|Followers|${FOLLOWERS}|$(trophy_rank "$FOLLOWERS" 100 30 10 1)
+◉|Repos|${PUBLIC_REPOS}|$(trophy_rank "$PUBLIC_REPOS" 50 20 10 1)
+⇄|Pull Reqs|${TOTAL_PRS}|$(trophy_rank "$TOTAL_PRS" 100 30 10 1)
+◎|Issues|${TOTAL_ISSUES}|$(trophy_rank "$TOTAL_ISSUES" 100 30 10 1)
+♦|Experience|${RANK_PCT}%|${RANK}|${EXP_COLOR}
+DATA
+)
+
+TROPHY_CARDS=""
+i=0
+while IFS='|' read -r SYM NAME VAL RK COL; do
+  if [ -z "$SYM" ]; then continue; fi
+  X=$((i * 120))
+  TROPHY_CARDS+="<g transform=\"translate($X,0)\">"
+  TROPHY_CARDS+="<rect x=\"2\" y=\"2\" width=\"110\" height=\"106\" rx=\"10\" fill=\"#1a1b27\" stroke=\"#2c2f3e\" stroke-width=\"1\"/>"
+  TROPHY_CARDS+="<text x=\"57\" y=\"33\" text-anchor=\"middle\" class=\"t-sym\" fill=\"${COL}\">${SYM}</text>"
+  TROPHY_CARDS+="<text x=\"57\" y=\"65\" text-anchor=\"middle\" class=\"t-rank\" fill=\"${COL}\">${RK}</text>"
+  TROPHY_CARDS+="<text x=\"57\" y=\"84\" text-anchor=\"middle\" class=\"t-name\">${NAME}</text>"
+  TROPHY_CARDS+="<text x=\"57\" y=\"100\" text-anchor=\"middle\" class=\"t-val\">${VAL}</text>"
+  TROPHY_CARDS+="</g>"
+  i=$((i + 1))
+done <<< "$TROPHY_DATA"
+
+cat > "$OUT_DIR/trophies.svg" <<SVGEOF
+<svg xmlns="http://www.w3.org/2000/svg" width="834" height="112" viewBox="0 0 834 112" fill="none" role="img" aria-label="GitHub Trophies">
+  <style>
+    .t-sym  { font: 400 20px 'Segoe UI Symbol','Segoe UI', Ubuntu, Sans-Serif; }
+    .t-rank { font: 800 26px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .t-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TITLE}; }
+    .t-val  { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${TEXT}; }
+  </style>
+  ${TROPHY_CARDS}
+</svg>
+SVGEOF
+echo "✓ trophies.svg generated"

@@ -54,10 +54,11 @@ jobs:
           $FETCH "https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" \
             svg-cache/activity.svg
 
-          $FETCH "https://github-profile-trophy.vercel.app/?username=merbay-erp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" \
-            svg-cache/trophies.svg
+          # NOT: trophies.svg artık fetch EDİLMİYOR — github-profile-trophy.vercel.app
+          # öldü (HTTP 402 DEPLOYMENT_DISABLED). gen-stats.sh GitHub API'den kendi
+          # üretiyor (aşağıdaki step) → bir daha kırılmaz, "0 managed services".
 
-      - name: Generate custom stats.svg + top-langs.svg
+      - name: Generate custom stats.svg + top-langs.svg + trophies.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
