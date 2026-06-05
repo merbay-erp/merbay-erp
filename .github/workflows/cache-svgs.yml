@@ -60,7 +60,10 @@ jobs:
 
       - name: Generate custom stats.svg + top-langs.svg + trophies.svg
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # METRICS_PAT (classic PAT: repo + read:user) varsa private repo'lardaki
+          # commit/PR'ları da görür → GERÇEK rakamlar (örn. commits 412 → 3101, S rank).
+          # Secret yoksa GITHUB_TOKEN'a düşer (sadece public) — hiçbir şey bozulmaz.
+          GH_TOKEN: ${{ secrets.METRICS_PAT || secrets.GITHUB_TOKEN }}
         run: |
           chmod +x main-src/.github/workflows/scripts/gen-stats.sh
           main-src/.github/workflows/scripts/gen-stats.sh merbay-erp output-target/svg-cache
