@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Ağ Danışmanlığında Teknik Sınırları 3 Adımda Çizme](https://mustafaerbay.com.tr/blog/career/ag-danismanliginda-teknik-sinirlari-3-adimda-cizme/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[API Versioning Stratejileri: Uygulama Geliştirmede Basitlik mi,…](https://mustafaerbay.com.tr/blog/career/api-versioning-stratejisi-uygulama-gelistirmede-basitlik-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
 📝 **[BurnCPU&#39;nun İlk 100 Kullanıcısı: Kariyerimin En Pahalı Hatası Bir…](https://mustafaerbay.com.tr/blog/career/burncpunun-ilk-100-kullanicisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[Mobil Uygulama API Versiyonlama: Teknik Borcun Kariyer Bedeli](https://mustafaerbay.com.tr/blog/career/mobil-uygulama-api-versiyonlama-teknik-borcun-kariyer-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[VPN Dual-Stack: Kariyerine Gereksiz Yük Getiren Bir Seçim](https://mustafaerbay.com.tr/blog/career/vpn-dual-stack-kariyerine-gereksiz-yuk-getiren-bir-secim/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[Mobil Push Bildirim Güvenilirliği: Güncelleme Üzerine Kurulmanın…](https://mustafaerbay.com.tr/blog/life/mobil-uygulama-push-bildirim-guvenilirligi-guncelleme-uzerine-kurulmanin-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[ERP Tedarik Zinciri Veri Akışı: Karar Alma Süreçlerinin Anatomisi](https://mustafaerbay.com.tr/blog/career/erp-tedarik-zinciri-data-flow-karar-alma-sureclerinin-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
+📝 **[Mobil Uygulama API Versiyonlama: Teknik Borcun Kariyer Bedeli](https://mustafaerbay.com.tr/blog/career/mobil-uygulama-api-versiyonlama-teknik-borcun-kariyer-bedeli/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
