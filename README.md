@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Kernel CVE Response Pattern: 3 Adımda Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/career/kernel-cve-response-pattern-3-adimda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[CI/CD Build Cache Yönetimi: Zaman Tasarrufu ve Altyapı Maliyeti](https://mustafaerbay.com.tr/blog/life/cicd-build-cache-yonetimi-zaman-tasarrufu-ve-altyapi-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[ERP Yazmak Neden Bu Kadar Zor?](https://mustafaerbay.com.tr/blog/technology/erp-yazmak-neden-bu-kadar-zor/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[ERP&#39;lerde Kimsenin Görmediği Maliyetler](https://mustafaerbay.com.tr/blog/technology/erplerde-kimsenin-gormedigi-maliyetler/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[MRP Kabusu: Bir &#39;Evet&#39;in Maliyeti](https://mustafaerbay.com.tr/blog/technology/mrp-kabusu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[PostgreSQL WAL Bloat Yönetimi: Disk Alanını 4 Adımda Kurtarma](https://mustafaerbay.com.tr/blog/technology/postgresql-wal-bloat-yonetimi-disk-alanini-4-adimda-kurtarma/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[MRP Kabusu: Bir &#39;Evet&#39;in Maliyeti](https://mustafaerbay.com.tr/blog/technology/mrp-kabusu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
