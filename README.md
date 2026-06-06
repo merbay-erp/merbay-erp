@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[ERP Yazmak Neden Bu Kadar Zor?](https://mustafaerbay.com.tr/blog/technology/erp-yazmak-neden-bu-kadar-zor/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[ERP&#39;lerde Kimsenin Görmediği Maliyetler](https://mustafaerbay.com.tr/blog/technology/erplerde-kimsenin-gormedigi-maliyetler/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[MRP Kabusu: Bir &#39;Evet&#39;in Maliyeti](https://mustafaerbay.com.tr/blog/technology/mrp-kabusu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Veritabanı Index Seçimini 3 Adımda Nasıl Yaparsınız?](https://mustafaerbay.com.tr/blog/technology/veritabani-index-secimini-3-adimda-nasil-yaparsiniz/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[PostgreSQL WAL Bloat Yönetimi: Disk Alanını 4 Adımda Kurtarma](https://mustafaerbay.com.tr/blog/technology/postgresql-wal-bloat-yonetimi-disk-alanini-4-adimda-kurtarma/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
