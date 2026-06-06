@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Kernel CVE Yanıtı: Altyapı Uzmanları İçin 3 Öncelik](https://mustafaerbay.com.tr/blog/career/kernel-cve-yaniti-altyapi-uzmanlari-icin-3-oncelik/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[API Versioning Stratejisi: Basit Yaklaşım mı, İleriye Dönük Çözüm mü?](https://mustafaerbay.com.tr/blog/life/api-versioning-stratejisi-basit-yaklasim-mi-ileriye-donuk-cozum-mu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[CI/CD Build Cache Yönetimi: Zaman Tasarrufu ve Altyapı Maliyeti](https://mustafaerbay.com.tr/blog/life/cicd-build-cache-yonetimi-zaman-tasarrufu-ve-altyapi-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[ERP Yazmak Neden Bu Kadar Zor?](https://mustafaerbay.com.tr/blog/technology/erp-yazmak-neden-bu-kadar-zor/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Veritabanı Index Anatomisi: Performans ve Kaynak Yönetimi](https://mustafaerbay.com.tr/blog/life/veritabani-index-anatomisi-performans-ve-kaynak-yonetimi/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
