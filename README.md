@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[CI/CD Build Cache Yönetimi: Zaman Tasarrufu ve Altyapı Maliyeti](https://mustafaerbay.com.tr/blog/life/cicd-build-cache-yonetimi-zaman-tasarrufu-ve-altyapi-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
+📝 **[ERP Yazmak Neden Bu Kadar Zor?](https://mustafaerbay.com.tr/blog/technology/erp-yazmak-neden-bu-kadar-zor/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
+📝 **[MRP Kabusu: Planlama Yazılımları Gerçekten Çalışıyor mu?](https://mustafaerbay.com.tr/blog/technology/mrp-kabusu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[Ağ Danışmanlığında Teknik Sınırları 3 Adımda Çizme](https://mustafaerbay.com.tr/blog/career/ag-danismanliginda-teknik-sinirlari-3-adimda-cizme/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[API Versioning Stratejileri: Uygulama Geliştirmede Basitlik mi,…](https://mustafaerbay.com.tr/blog/career/api-versioning-stratejisi-uygulama-gelistirmede-basitlik-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[BurnCPU&#39;nun İlk 100 Kullanıcısı: Kariyerimin En Pahalı Hatası Bir…](https://mustafaerbay.com.tr/blog/career/burncpunun-ilk-100-kullanicisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub>
-📝 **[ERP Tedarik Zinciri Veri Akışı: Karar Alma Süreçlerinin Anatomisi](https://mustafaerbay.com.tr/blog/career/erp-tedarik-zinciri-data-flow-karar-alma-sureclerinin-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[API Versioning Stratejileri: Uygulama Geliştirmede Basitlik mi,…](https://mustafaerbay.com.tr/blog/career/api-versioning-stratejisi-uygulama-gelistirmede-basitlik-mi-esneklik-mi/)** &nbsp;·&nbsp; <sub>Jun 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
