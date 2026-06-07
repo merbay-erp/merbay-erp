@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Dağıtık Sistemlerde İdempotans Tasarımının 3 Pratik Yolu](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotans-tasariminin-3-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
+📝 **[Offline-First Mobil Mimari Seçiminin Destek Faturası](https://mustafaerbay.com.tr/blog/career/offline-first-mobil-mimari-seciminin-destek-faturasi/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
+📝 **[Ürün Yapmak mı Pazarlamak mı Daha Zor? 20 Yıllık Bir Bakış](https://mustafaerbay.com.tr/blog/career/urun-yapmak-mi-pazarlamak-mi-daha-zor/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Kernel CVE Response Pattern: 3 Adımda Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/career/kernel-cve-response-pattern-3-adimda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Kernel CVE Yanıtı: Altyapı Uzmanları İçin 3 Öncelik](https://mustafaerbay.com.tr/blog/career/kernel-cve-yaniti-altyapi-uzmanlari-icin-3-oncelik/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Network Sertifikaları Kariyeriniz İçin Neden Yetersiz?](https://mustafaerbay.com.tr/blog/career/network-sertifikalari-kariyeriniz-icin-neden-yetersiz/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Tedarik Zinciri Veri Akışını Optimize Etme: ERP İçin 3 Adım](https://mustafaerbay.com.tr/blog/career/tedarik-zinciri-veri-akisini-optimize-etme-erp-icin-3-adim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Ticari APM&#39;ler: Indie Hacker Kariyerine Neden Hep Fazla Gelir?](https://mustafaerbay.com.tr/blog/career/ticari-apmler-indie-hacker-kariyerine-neden-hep-fazla-gelir/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kernel CVE Yanıtı: Altyapı Uzmanları İçin 3 Öncelik](https://mustafaerbay.com.tr/blog/career/kernel-cve-yaniti-altyapi-uzmanlari-icin-3-oncelik/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
