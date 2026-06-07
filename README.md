@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Kernel CVE Response Pattern: 3 Adımda Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/career/kernel-cve-response-pattern-3-adimda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
 📝 **[Kernel CVE Yanıtı: Altyapı Uzmanları İçin 3 Öncelik](https://mustafaerbay.com.tr/blog/career/kernel-cve-yaniti-altyapi-uzmanlari-icin-3-oncelik/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Ticari APM&#39;ler: Indie Hacker Kariyerine Neden Hep Fazla Gelir?](https://mustafaerbay.com.tr/blog/career/ticari-apmler-indie-hacker-kariyerine-neden-hep-fazla-gelir/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[API Versioning Stratejisi: Basit Yaklaşım mı, İleriye Dönük Çözüm mü?](https://mustafaerbay.com.tr/blog/life/api-versioning-stratejisi-basit-yaklasim-mi-ileriye-donuk-cozum-mu/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[CI/CD Build Cache Yönetimi: Zaman Tasarrufu ve Altyapı Maliyeti](https://mustafaerbay.com.tr/blog/life/cicd-build-cache-yonetimi-zaman-tasarrufu-ve-altyapi-maliyeti/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Network Sertifikaları Kariyeriniz İçin Neden Yetersiz?](https://mustafaerbay.com.tr/blog/career/network-sertifikalari-kariyeriniz-icin-neden-yetersiz/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
+📝 **[Tedarik Zinciri Veri Akışını Optimize Etme: ERP İçin 3 Adım](https://mustafaerbay.com.tr/blog/career/tedarik-zinciri-veri-akisini-optimize-etme-erp-icin-3-adim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
+📝 **[Ticari APM&#39;ler: Indie Hacker Kariyerine Neden Hep Fazla Gelir?](https://mustafaerbay.com.tr/blog/career/ticari-apmler-indie-hacker-kariyerine-neden-hep-fazla-gelir/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
