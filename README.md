@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Dağıtık Sistemlerde İdempotans Tasarımının 3 Pratik Yolu](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotans-tasariminin-3-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Offline-First Mobil Mimari Seçiminin Destek Faturası](https://mustafaerbay.com.tr/blog/career/offline-first-mobil-mimari-seciminin-destek-faturasi/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Ürün Yapmak mı Pazarlamak mı Daha Zor? 20 Yıllık Bir Bakış](https://mustafaerbay.com.tr/blog/career/urun-yapmak-mi-pazarlamak-mi-daha-zor/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
-📝 **[Kernel CVE Response Pattern: 3 Adımda Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/career/kernel-cve-response-pattern-3-adimda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub>
-📝 **[Kernel CVE Yanıtı: Altyapı Uzmanları İçin 3 Öncelik](https://mustafaerbay.com.tr/blog/career/kernel-cve-yaniti-altyapi-uzmanlari-icin-3-oncelik/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[VLAN Segmentasyonunun 3 Temel Avantajı: Ağınızı Güvenceye Alın](https://mustafaerbay.com.tr/blog/technology/vlan-segmentasyonunun-3-temel-avantaji/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
+📝 **[Kernel CVE Response Pattern: 3 Adımda Pratik Yaklaşım](https://mustafaerbay.com.tr/blog/career/kernel-cve-response-pattern-3-adimda-pratik-yaklasim/)** &nbsp;·&nbsp; <sub>Jun 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
