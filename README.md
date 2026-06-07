@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Bir Fikrin Gerçek Değeri: Başarının Bedeli ve Pragmatik Yaklaşım](https://mustafaerbay.com.tr/blog/career/bir-fikrin-gercek-degeri/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Dağıtık Sistemlerde İdempotans Tasarımının 3 Pratik Yolu](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotans-tasariminin-3-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
+📝 **[En Büyük Girişimcilik Hatalarım](https://mustafaerbay.com.tr/blog/career/en-buyuk-girisimcilik-hatalarim/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Offline-First Mobil Mimari Seçiminin Destek Faturası](https://mustafaerbay.com.tr/blog/career/offline-first-mobil-mimari-seciminin-destek-faturasi/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
-📝 **[Ürün Yapmak mı Pazarlamak mı Daha Zor? 20 Yıllık Bir Bakış](https://mustafaerbay.com.tr/blog/career/urun-yapmak-mi-pazarlamak-mi-daha-zor/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
-📝 **[ERP Ürün Ağacı Denormalizasyonunun Anatomisi: Performans ve…](https://mustafaerbay.com.tr/blog/technology/erp-urun-agaci-denormalizasyonunun-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Ürün Yapmak mı Pazarlamak mı Daha Zor? 20 Yıllık Bir Bakış](https://mustafaerbay.com.tr/blog/career/urun-yapmak-mi-pazarlamak-mi-daha-zor/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
