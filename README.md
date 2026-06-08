@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Bu Hafta Ne Bozdum? Tecrübenin Çetin Yolu](https://mustafaerbay.com.tr/blog/life/bu-hafta-ne-bozdum/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
+📝 **[Dağıtık Kilit Alternatiflerinin Gizli Maliyetleri ve Hayatımızdaki…](https://mustafaerbay.com.tr/blog/life/dagitik-kilit-alternatiflerinin-maliyetleri/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
 📝 **[Dağıtık Sistemlerde Eventual Consistency: Gerçekler ve Beklentiler](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-eventual-consistency-gercekler-ve-beklentiler/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[ERP Standardizasyonu ve Yan Ürünlerin Esneklik Kaybı: Bir Trade-off](https://mustafaerbay.com.tr/blog/life/erp-standardizasyonunun-yan-urunlere-etkisi-esneklik-kaybi-mi/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[Switch Hardening: Yan Projeler İçin Vakit Kaybı mı, Yoksa Akıllı…](https://mustafaerbay.com.tr/blog/life/switch-hardening-side-projectler-icin-vakit-kaybi-mi/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[Bir Fikrin Gerçek Değeri: Başarının Bedeli ve Pragmatik Yaklaşım](https://mustafaerbay.com.tr/blog/career/bir-fikrin-gercek-degeri/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dağıtık Sistemlerde Idempotency&#39;nin Bedeli: Neden Önemli ve Maliyeti…](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotencynin-bedeli/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
+📝 **[ERP Standardizasyonu ve Yan Ürünlerin Esneklik Kaybı: Bir Trade-off](https://mustafaerbay.com.tr/blog/life/erp-standardizasyonunun-yan-urunlere-etkisi-esneklik-kaybi-mi/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
