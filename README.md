@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[20 Yıldır IT&#39;deyim. İşte Hâlâ Bilmediğim Şeyler](https://mustafaerbay.com.tr/blog/career/20-yildir-itdeyim-iste-hala-bilmedigim-seyler/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
+📝 **[Bir Sistem Mimarı Olarak Keşke Daha Erken Öğrenseydim](https://mustafaerbay.com.tr/blog/career/bir-sistem-mimari-olarak-keske-daha-erken-ogrenseydim/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
 📝 **[Bu Hafta Ne Bozdum? Tecrübenin Çetin Yolu](https://mustafaerbay.com.tr/blog/life/bu-hafta-ne-bozdum/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
 📝 **[Dağıtık Kilit Alternatiflerinin Gizli Maliyetleri ve Hayatımızdaki…](https://mustafaerbay.com.tr/blog/life/dagitik-kilit-alternatiflerinin-maliyetleri/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[Dağıtık Sistemlerde Eventual Consistency: Gerçekler ve Beklentiler](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-eventual-consistency-gercekler-ve-beklentiler/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[Dağıtık Sistemlerde Idempotency&#39;nin Bedeli: Neden Önemli ve Maliyeti…](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-idempotencynin-bedeli/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Dağıtık Sistemlerde Eventual Consistency: Gerçekler ve Beklentiler](https://mustafaerbay.com.tr/blog/life/dagitik-sistemlerde-eventual-consistency-gercekler-ve-beklentiler/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
