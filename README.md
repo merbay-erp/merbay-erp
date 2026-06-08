@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Dağıtık Kilit Alternatifleri: Hangi Durumda Hangisini Kullanmalı?](https://mustafaerbay.com.tr/blog/career/dagitik-kilit-alternatifleri-hangi-durumda-hangisini-kullanmali/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[Dağıtık Sistemlerde İdempotans Tasarımının 3 Pratik Yolu](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-idempotans-tasariminin-3-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
 📝 **[En Büyük Girişimcilik Hatalarım](https://mustafaerbay.com.tr/blog/career/en-buyuk-girisimcilik-hatalarim/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub>
-📝 **[Offline-First Mobil Mimari Seçiminin Destek Faturası](https://mustafaerbay.com.tr/blog/career/offline-first-mobil-mimari-seciminin-destek-faturasi/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kod Yazmak Artık En Kolay Kısım](https://mustafaerbay.com.tr/blog/career/kod-yazmak-artik-en-kolay-kisim/)** &nbsp;·&nbsp; <sub>Jun 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
