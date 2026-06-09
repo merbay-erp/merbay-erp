@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[20 Yılda Değişmeyen Tek Kural: Gerçek Tecrübe](https://mustafaerbay.com.tr/blog/career/20-yilda-degismeyen-tek-kural/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub>
 📝 **[Dağıtık Sistemlerde On-Call Stresini Azaltmak İçin 5 Taktik](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-on-call-stresini-azaltmak-icin-5-taktik/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub>
+📝 **[İşe Alım Yaparken İlk Baktığım Şey: Yetenek mi, Uyum mu?](https://mustafaerbay.com.tr/blog/career/ise-alim-yaparken-ilk-baktigim-sey/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub>
 📝 **[Yazılım Dünyasının En Büyük Yalanı: &#39;Mükemmel Kod&#39; Mı, Gerçek Başarı…](https://mustafaerbay.com.tr/blog/career/yazilim-dunyasinin-en-buyuk-yalani/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub>
-📝 **[20 Yıldır IT&#39;deyim. İşte Hâlâ Bilmediğim Şeyler](https://mustafaerbay.com.tr/blog/career/20-yildir-itdeyim-iste-hala-bilmedigim-seyler/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub>
-📝 **[Bir Sistem Mimarı Olarak Keşke Daha Erken Öğrenseydim](https://mustafaerbay.com.tr/blog/career/bir-sistem-mimari-olarak-keske-daha-erken-ogrenseydim/)** &nbsp;·&nbsp; <sub>Jun 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[ERP Master Data Yönetiminin Anatomisi: Bir Kılavuz](https://mustafaerbay.com.tr/blog/life/erp-master-data-yonetiminin-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
