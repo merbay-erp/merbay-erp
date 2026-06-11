@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[AI Seni %24 Hızlandırdığını Sanıyor; Gerçekte %19 Yavaşlatıyor](https://mustafaerbay.com.tr/blog/career/ai-seni-24-hizlandirdigini-saniyor-olctuler-19-yavaslatiyor/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
+📝 **[Yapay Zeka 9 Saniyede Production Veritabanını Sildi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-9-saniyede-production-veritabanini-sildi-ai-agenta-prodda-neden/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
+📝 **[Kendi ChatGPT&#39;ni Kur: Ollama + Open WebUI ile Veriler Evden Çıkmadan](https://mustafaerbay.com.tr/blog/tutorials/kendi-chatgptni-kur-ollama-open-webui-ile-veriler-evden-cikmadan/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
 📝 **[Monolith vs Modular Monolith: Bir Indie Hacker&#39;in Tercihi](https://mustafaerbay.com.tr/blog/career/monolith-vs-modular-monolith-indie-hacker-secimi/)** &nbsp;·&nbsp; <sub>Jun 10th, 2026</sub>
-📝 **[Bir Sosyal Ağ Yazmanın Acı Gerçekleri](https://mustafaerbay.com.tr/blog/technology/bir-sosyal-ag-yazmanin-aci-gercekleri/)** &nbsp;·&nbsp; <sub>Jun 10th, 2026</sub>
-📝 **[Neden Merkezi Yapıları Seviyorum?](https://mustafaerbay.com.tr/blog/technology/neden-merkezi-yapilari-seviyorum/)** &nbsp;·&nbsp; <sub>Jun 10th, 2026</sub>
-📝 **[20 Yılda Değişmeyen Tek Kural: Gerçek Tecrübe](https://mustafaerbay.com.tr/blog/career/20-yilda-degismeyen-tek-kural/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub>
-📝 **[Dağıtık Sistemlerde On-Call Stresini Azaltmak İçin 5 Taktik](https://mustafaerbay.com.tr/blog/career/dagitik-sistemlerde-on-call-stresini-azaltmak-icin-5-taktik/)** &nbsp;·&nbsp; <sub>Jun 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Bir Sosyal Ağ Yazmanın Acı Gerçekleri](https://mustafaerbay.com.tr/blog/technology/bir-sosyal-ag-yazmanin-aci-gercekleri/)** &nbsp;·&nbsp; <sub>Jun 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
