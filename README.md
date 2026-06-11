@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Bulut Dışı Düşünmek: Kariyerde Fark Yaratan 5 Self-Host Becerisi](https://mustafaerbay.com.tr/blog/career/bulut-disi-dusunmek-kariyerde-fark-yaratan-5-self-host-becerisi/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
 📝 **[Yapay Zeka 9 Saniyede Production Veritabanını Sildi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-9-saniyede-production-veritabanini-sildi-ai-agenta-prodda-neden/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
 📝 **[Kendi ChatGPT&#39;ni Kur: Ollama + Open WebUI ile Veriler Evden Çıkmadan](https://mustafaerbay.com.tr/blog/tutorials/kendi-chatgptni-kur-ollama-open-webui-ile-veriler-evden-cikmadan/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
-📝 **[Monolith vs Modular Monolith: Bir Indie Hacker&#39;in Tercihi](https://mustafaerbay.com.tr/blog/career/monolith-vs-modular-monolith-indie-hacker-secimi/)** &nbsp;·&nbsp; <sub>Jun 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Ollama ile Kendi LLM&#39;ini Çalıştır: 5 Adımda Yerel AI Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/ollama-ile-kendi-llmini-calistir-5-adimda-yerel-ai-kurulumu/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
