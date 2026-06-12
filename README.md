@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Stack Overflow 15 Yılını Sildi: Trafik %75 Çöktü, ve Bu Kötü Haber](https://mustafaerbay.com.tr/blog/life/stack-overflow-15-yilini-sildi-trafik-75-coktu-ve-bu-kotu-haber/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
 📝 **[Cursor mı Claude Code mu? 2026&#39;da Hangi AI Kodlama Aracını Seçmelisin](https://mustafaerbay.com.tr/blog/technology/cursor-mi-claude-code-mu-2026da-hangi-ai-kodlama-aracini-secmelisin/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
 📝 **[8GB&#39;tan 70B&#39;ye: Yerel LLM İçin Gerçek Donanım Rehberi](https://mustafaerbay.com.tr/blog/tutorials/8gbtan-70bye-yerel-llm-icin-gercek-donanim-rehberi/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
-📝 **[AI Seni %24 Hızlandırdığını Sanıyor; Gerçekte %19 Yavaşlatıyor](https://mustafaerbay.com.tr/blog/career/ai-seni-24-hizlandirdigini-saniyor-olctuler-19-yavaslatiyor/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Ses Dolandırıcılığına Karşı Kalkanın: Gerçek Bir Konuşmayı Anlamak](https://mustafaerbay.com.tr/blog/tutorials/ai-ses-dolandiriciligina-karsi-kalkanin-gercek-bir-konusmayi-anlamak/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
