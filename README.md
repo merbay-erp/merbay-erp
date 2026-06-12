@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Stack Overflow 15 Yılını Sildi: Trafik %75 Çöktü, ve Bu Kötü Haber](https://mustafaerbay.com.tr/blog/life/stack-overflow-15-yilini-sildi-trafik-75-coktu-ve-bu-kotu-haber/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
+📝 **[Cursor mı Claude Code mu? 2026&#39;da Hangi AI Kodlama Aracını Seçmelisin](https://mustafaerbay.com.tr/blog/technology/cursor-mi-claude-code-mu-2026da-hangi-ai-kodlama-aracini-secmelisin/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
 📝 **[AI Seni %24 Hızlandırdığını Sanıyor; Gerçekte %19 Yavaşlatıyor](https://mustafaerbay.com.tr/blog/career/ai-seni-24-hizlandirdigini-saniyor-olctuler-19-yavaslatiyor/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
 📝 **[Bulut Dışı Düşünmek: Kariyerde Fark Yaratan 5 Self-Host Becerisi](https://mustafaerbay.com.tr/blog/career/bulut-disi-dusunmek-kariyerde-fark-yaratan-5-self-host-becerisi/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
-📝 **[Aynı Anda İki İş: Akıllılık mı, Etik İhlali mi?](https://mustafaerbay.com.tr/blog/life/ayni-anda-iki-is-akillilik-mi-etik-ihlali-mi/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
-📝 **[Yapay Zeka 9 Saniyede Production Veritabanını Sildi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-9-saniyede-production-veritabanini-sildi-ai-agenta-prodda-neden/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub>
-📝 **[Kendi ChatGPT&#39;ni Kur: Ollama + Open WebUI ile Veriler Evden Çıkmadan](https://mustafaerbay.com.tr/blog/tutorials/kendi-chatgptni-kur-ollama-open-webui-ile-veriler-evden-cikmadan/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Aynı Anda İki İş: Akıllılık mı, Etik İhlali mi?](https://mustafaerbay.com.tr/blog/life/ayni-anda-iki-is-akillilik-mi-etik-ihlali-mi/)** &nbsp;·&nbsp; <sub>Jun 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
