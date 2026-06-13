@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Merdivenin İlk Basamağını Kestiler: Junior Geliştirici Krizi](https://mustafaerbay.com.tr/blog/career/merdivenin-ilk-basamagini-kestiler-junior-gelistirici-krizi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
 📝 **[AI Tükenmişliği Bitirecekti; En Çok Onu Kucaklayanları Yaktı](https://mustafaerbay.com.tr/blog/life/ai-tukenmisligi-bitirecekti-en-cok-onu-kucaklayanlari-yakti/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
+📝 **[Vibe Coding Öldü mü? Karpathy&#39;nin &#39;Agentic Engineering&#39; Dönemi](https://mustafaerbay.com.tr/blog/technology/vibe-coding-oldu-mu-karpathynin-agentic-engineering-donemi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
 📝 **[AI Araçları Beni Daha İyi Bir Mühendis mi Yaptı?](https://mustafaerbay.com.tr/blog/career/ai-araclari-beni-daha-iyi-bir-muhendis-mi-yapti/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
-📝 **[20 Yıllık Kariyerde &#39;Beceri Atrofisi&#39; Gerçek Bir Tehdit mi?](https://mustafaerbay.com.tr/blog/life/20-yillik-kariyerde-beceri-atrofisi-gercek-bir-tehdit-mi/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub>
-📝 **[Stack Overflow 15 Yılını Sildi: Trafik %75 Çöktü, ve Bu Kötü Haber](https://mustafaerbay.com.tr/blog/life/stack-overflow-15-yilini-sildi-trafik-75-coktu-ve-bu-kotu-haber/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[20 Yıllık Kariyerde &#39;Beceri Atrofisi&#39; Gerçek Bir Tehdit mi?](https://mustafaerbay.com.tr/blog/life/20-yillik-kariyerde-beceri-atrofisi-gercek-bir-tehdit-mi/)** &nbsp;·&nbsp; <sub>Jun 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
