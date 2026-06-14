@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[2026 Teknik Mülakat Kırıldı: Adayların %38&#39;i Ekranda Görünmeyen AI](https://mustafaerbay.com.tr/blog/career/2026-teknik-mulakat-kirildi-adaylarin-38i-ekranda-gorunmeyen-ai/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
+📝 **[Passkey&#39;ler: Kurumsal Adaptasyon ve Bireysel Kullanım Durumları](https://mustafaerbay.com.tr/blog/career/passkeyler-kurumsal-adaptasyon-ve-bireysel-kullanim-durumlari/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
 📝 **[Gizlice İki Tam Zamanlı Remote İş: Yazılımdaki &#39;Overemployment&#39;](https://mustafaerbay.com.tr/blog/life/gizlice-iki-tam-zamanli-remote-is-yazilimdaki-overemployment/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
 📝 **[Basit Sistemler Neden Her Zaman Kazanır?](https://mustafaerbay.com.tr/blog/technology/basit-sistemler-neden-her-zaman-kazanir/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
-📝 **[Kendi MCP Sunucunu 50 Satırda Yaz: AI Agent&#39;ına Gerçek Araçlar](https://mustafaerbay.com.tr/blog/tutorials/kendi-mcp-sunucunu-50-satirda-yaz-ai-agentina-gercek-araclar/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
-📝 **[Ollama ile Yerel LLM: Bulut Çözümlerine Gerçek Bir Alternatif mi?](https://mustafaerbay.com.tr/blog/tutorials/ollama-ile-yerel-llm-bulut-cozumlerine-gercek-bir-alternatif-mi/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kendi MCP Sunucunu 50 Satırda Yaz: AI Agent&#39;ına Gerçek Araçlar](https://mustafaerbay.com.tr/blog/tutorials/kendi-mcp-sunucunu-50-satirda-yaz-ai-agentina-gercek-araclar/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
