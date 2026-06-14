@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[2026 Teknik Mülakat Kırıldı: Adayların %38&#39;i Ekranda Görünmeyen AI](https://mustafaerbay.com.tr/blog/career/2026-teknik-mulakat-kirildi-adaylarin-38i-ekranda-gorunmeyen-ai/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
+📝 **[Gizlice İki Tam Zamanlı Remote İş: Yazılımdaki &#39;Overemployment&#39;](https://mustafaerbay.com.tr/blog/life/gizlice-iki-tam-zamanli-remote-is-yazilimdaki-overemployment/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
 📝 **[Altyapı Uzmanları İçin 5 Self-Hosting Projesi: Gerçek Dünya Deneyimi](https://mustafaerbay.com.tr/blog/career/altyapi-uzmanlari-icin-5-self-hosting-projesi-gercek-dunya-deneyimi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
 📝 **[Merdivenin İlk Basamağını Kestiler: Junior Geliştirici Krizi](https://mustafaerbay.com.tr/blog/career/merdivenin-ilk-basamagini-kestiler-junior-gelistirici-krizi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
-📝 **[AI Tükenmişliği Bitirecekti; En Çok Onu Kucaklayanları Yaktı](https://mustafaerbay.com.tr/blog/life/ai-tukenmisligi-bitirecekti-en-cok-onu-kucaklayanlari-yakti/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
-📝 **[Sistem Mimarı vs AI Çözüm Mimarı: Rollerin Anatomisi](https://mustafaerbay.com.tr/blog/technology/sistem-mimari-vs-ai-cozum-mimari-rollerin-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub>
-📝 **[Vibe Coding Öldü mü? Karpathy&#39;nin &#39;Agentic Engineering&#39; Dönemi](https://mustafaerbay.com.tr/blog/technology/vibe-coding-oldu-mu-karpathynin-agentic-engineering-donemi/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Tükenmişliği Bitirecekti; En Çok Onu Kucaklayanları Yaktı](https://mustafaerbay.com.tr/blog/life/ai-tukenmisligi-bitirecekti-en-cok-onu-kucaklayanlari-yakti/)** &nbsp;·&nbsp; <sub>Jun 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
