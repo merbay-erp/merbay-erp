@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Türkiye&#39;de İki Ayrı Yazılımcı Piyasası: 95 Bin TL ile 175 Bin TL](https://mustafaerbay.com.tr/blog/career/turkiyede-iki-ayri-yazilimci-piyasasi-95-bin-tl-ile-175-bin-tl/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
+📝 **[Homelab&#39;a Başlamadan Önce Bilmen Gereken 5 Gerçek](https://mustafaerbay.com.tr/blog/life/homelaba-baslamadan-once-bilmen-gereken-5-gercek/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
 📝 **[Yazılım Mühendisliğinde İlk Yıllar: Adaptasyonun Anatomisi](https://mustafaerbay.com.tr/blog/life/yazilim-muhendisliginde-ilk-yillar-adaptasyonun-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
 📝 **[GitHub Copilot Artık Token Başına Ücretlendiriyor: Fatura Şoku](https://mustafaerbay.com.tr/blog/technology/github-copilot-artik-token-basina-ucretlendiriyor-fatura-soku/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
-📝 **[Self-Hosting Bir Hobi mi, Yoksa Gereklilik mi?](https://mustafaerbay.com.tr/blog/technology/self-hosting-bir-hobi-mi-yoksa-gereklilik-mi/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
-📝 **[Vibe Coding&#39;den Spec-Driven Development&#39;a: Spec Kit ile AI&#39;a İş](https://mustafaerbay.com.tr/blog/tutorials/vibe-codingden-spec-driven-developmenta-spec-kit-ile-aia-is/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Hosting Bir Hobi mi, Yoksa Gereklilik mi?](https://mustafaerbay.com.tr/blog/technology/self-hosting-bir-hobi-mi-yoksa-gereklilik-mi/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
