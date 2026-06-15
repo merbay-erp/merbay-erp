@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Türkiye&#39;de İki Ayrı Yazılımcı Piyasası: 95 Bin TL ile 175 Bin TL](https://mustafaerbay.com.tr/blog/career/turkiyede-iki-ayri-yazilimci-piyasasi-95-bin-tl-ile-175-bin-tl/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
+📝 **[GitHub Copilot Artık Token Başına Ücretlendiriyor: Fatura Şoku](https://mustafaerbay.com.tr/blog/technology/github-copilot-artik-token-basina-ucretlendiriyor-fatura-soku/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
 📝 **[2026 Teknik Mülakat Kırıldı: Adayların %38&#39;i Ekranda Görünmeyen AI](https://mustafaerbay.com.tr/blog/career/2026-teknik-mulakat-kirildi-adaylarin-38i-ekranda-gorunmeyen-ai/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
 📝 **[Passkey&#39;ler: Kurumsal Adaptasyon ve Bireysel Kullanım Durumları](https://mustafaerbay.com.tr/blog/career/passkeyler-kurumsal-adaptasyon-ve-bireysel-kullanim-durumlari/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
-📝 **[Gizlice İki Tam Zamanlı Remote İş: Yazılımdaki &#39;Overemployment&#39;](https://mustafaerbay.com.tr/blog/life/gizlice-iki-tam-zamanli-remote-is-yazilimdaki-overemployment/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
-📝 **[Basit Sistemler Neden Her Zaman Kazanır?](https://mustafaerbay.com.tr/blog/technology/basit-sistemler-neden-her-zaman-kazanir/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub>
-📝 **[Kendi MCP Sunucunu 50 Satırda Yaz: AI Agent&#39;ına Gerçek Araçlar](https://mustafaerbay.com.tr/blog/tutorials/kendi-mcp-sunucunu-50-satirda-yaz-ai-agentina-gercek-araclar/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Gizlice İki Tam Zamanlı Remote İş: Yazılımdaki &#39;Overemployment&#39;](https://mustafaerbay.com.tr/blog/life/gizlice-iki-tam-zamanli-remote-is-yazilimdaki-overemployment/)** &nbsp;·&nbsp; <sub>Jun 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
