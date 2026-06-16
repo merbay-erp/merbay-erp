@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 **[GPT-5.5 mi, Claude mu, Gemini mi, DeepSeek mi? İş Yüküne Göre LLM](https://mustafaerbay.com.tr/blog/technology/gpt-55-mi-claude-mu-gemini-mi-deepseek-mi-is-yukune-gore-llm/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[n8n ile Kendi AI Otomasyonunu Kur: Self-Hosted, Kod Yazmadan Agent](https://mustafaerbay.com.tr/blog/tutorials/n8n-ile-kendi-ai-otomasyonunu-kur-self-hosted-kod-yazmadan-agent/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[Türkiye&#39;de İki Ayrı Yazılımcı Piyasası: 95 Bin TL ile 175 Bin TL](https://mustafaerbay.com.tr/blog/career/turkiyede-iki-ayri-yazilimci-piyasasi-95-bin-tl-ile-175-bin-tl/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
-📝 **[Homelab&#39;a Başlamadan Önce Bilmen Gereken 5 Gerçek](https://mustafaerbay.com.tr/blog/life/homelaba-baslamadan-once-bilmen-gereken-5-gercek/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub>
-📝 **[Yazılım Mühendisliğinde İlk Yıllar: Adaptasyonun Anatomisi](https://mustafaerbay.com.tr/blog/life/yazilim-muhendisliginde-ilk-yillar-adaptasyonun-anatomisi/)** &nbsp;·&nbsp; <sub>Jun 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Host&#39;un Fiyat Etiketi: Bulut Maliyetleriyle Karşılaştırması](https://mustafaerbay.com.tr/blog/career/self-hostun-fiyat-etiketi-bulut-maliyetleriyle-karsilastirmasi/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
+📝 **[AI ile Kod Yazmak: Geliştirici Becerilerini Köreltiyor mu?](https://mustafaerbay.com.tr/blog/life/ai-ile-kod-yazmak-gelistirici-becerilerini-koreltiyor-mu/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
+📝 **[Sürekli Yeni Şey Öğrenme Baskısıyla Başa Çıkmak](https://mustafaerbay.com.tr/blog/life/surekli-yeni-sey-ogrenme-baskisiyla-basa-cikmak/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
+📝 **[Yıllar İçinde Çöpe Attığım Teknolojiler](https://mustafaerbay.com.tr/blog/life/yillar-icinde-cope-attigim-teknolojiler/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
+📝 **[GPT-5.5 mi, Claude mu, Gemini mi, DeepSeek mi? İş Yüküne Göre LLM](https://mustafaerbay.com.tr/blog/technology/gpt-55-mi-claude-mu-gemini-mi-deepseek-mi-is-yukune-gore-llm/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
