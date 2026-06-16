@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Bir Gece Depolama Sistemi Öldü ve Ben Yazılıma Bakışımı Değiştirdim](https://mustafaerbay.com.tr/blog/career/bir-gece-depolama-sistemi-oldu-ve-yazilima-bakisimi-degistirdim/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
 📝 **[Self-Host&#39;un Fiyat Etiketi: Bulut Maliyetleriyle Karşılaştırması](https://mustafaerbay.com.tr/blog/career/self-hostun-fiyat-etiketi-bulut-maliyetleriyle-karsilastirmasi/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
 📝 **[AI ile Kod Yazmak: Geliştirici Becerilerini Köreltiyor mu?](https://mustafaerbay.com.tr/blog/life/ai-ile-kod-yazmak-gelistirici-becerilerini-koreltiyor-mu/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
 📝 **[Sürekli Yeni Şey Öğrenme Baskısıyla Başa Çıkmak](https://mustafaerbay.com.tr/blog/life/surekli-yeni-sey-ogrenme-baskisiyla-basa-cikmak/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[Yıllar İçinde Çöpe Attığım Teknolojiler](https://mustafaerbay.com.tr/blog/life/yillar-icinde-cope-attigim-teknolojiler/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[GPT-5.5 mi, Claude mu, Gemini mi, DeepSeek mi? İş Yüküne Göre LLM](https://mustafaerbay.com.tr/blog/technology/gpt-55-mi-claude-mu-gemini-mi-deepseek-mi-is-yukune-gore-llm/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yıllar İçinde Çöpe Attığım Teknolojiler](https://mustafaerbay.com.tr/blog/life/yillar-icinde-cope-attigim-teknolojiler/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
