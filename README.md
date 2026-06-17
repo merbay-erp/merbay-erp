@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[AI Çağında Yazılımcı Olarak Nasıl Ayakta Kalırım?](https://mustafaerbay.com.tr/blog/career/ai-caginda-yazilimci-olarak-nasil-ayakta-kalirim/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
+📝 **[AI Yazılımcıyı İşsiz mi Bırakacak? Dürüst Bir Cevap](https://mustafaerbay.com.tr/blog/career/ai-yazilimciyi-issiz-mi-birakacak-durust-bir-cevap/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
 📝 **[Artık Tuğla Dizen Değil, Ustabaşısın: Yazılımcının Rolü Sessizce](https://mustafaerbay.com.tr/blog/career/artik-tugla-dizen-degil-ustabasisin-yazilimcinin-rolu-sessizce/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
-📝 **[Sahte SMS&#39;ten e-Devlet Tuzağına: 2026&#39;da Türkiye&#39;de En Çok Kullanılan](https://mustafaerbay.com.tr/blog/life/sahte-smsten-e-devlet-tuzagina-2026da-turkiyede-en-cok-kullanilan/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
-📝 **[MCP Nedir ve Neden 2026&#39;nın En Önemli AI Standardı Oldu?](https://mustafaerbay.com.tr/blog/technology/mcp-nedir-ve-neden-2026nin-en-onemli-ai-standardi-oldu/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
-📝 **[Bir Gece Depolama Sistemi Öldü ve Ben Yazılıma Bakışımı Değiştirdim](https://mustafaerbay.com.tr/blog/career/bir-gece-depolama-sistemi-oldu-ve-yazilima-bakisimi-degistirdim/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[Self-Host&#39;un Fiyat Etiketi: Bulut Maliyetleriyle Karşılaştırması](https://mustafaerbay.com.tr/blog/career/self-hostun-fiyat-etiketi-bulut-maliyetleriyle-karsilastirmasi/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Eggdrop&#39;tan AI Agent&#39;lara: Aslında O Kadar da Yeni Değil](https://mustafaerbay.com.tr/blog/career/eggdroptan-ai-agentlara-aslinda-o-kadar-da-yeni-degil/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
+📝 **[Sahte SMS&#39;ten e-Devlet Tuzağına: 2026&#39;da Türkiye&#39;de En Çok Kullanılan](https://mustafaerbay.com.tr/blog/life/sahte-smsten-e-devlet-tuzagina-2026da-turkiyede-en-cok-kullanilan/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
