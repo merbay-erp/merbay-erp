@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Artık Tuğla Dizen Değil, Ustabaşısın: Yazılımcının Rolü Sessizce](https://mustafaerbay.com.tr/blog/career/artik-tugla-dizen-degil-ustabasisin-yazilimcinin-rolu-sessizce/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
+📝 **[Sahte SMS&#39;ten e-Devlet Tuzağına: 2026&#39;da Türkiye&#39;de En Çok Kullanılan](https://mustafaerbay.com.tr/blog/life/sahte-smsten-e-devlet-tuzagina-2026da-turkiyede-en-cok-kullanilan/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
 📝 **[Bir Gece Depolama Sistemi Öldü ve Ben Yazılıma Bakışımı Değiştirdim](https://mustafaerbay.com.tr/blog/career/bir-gece-depolama-sistemi-oldu-ve-yazilima-bakisimi-degistirdim/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
 📝 **[Self-Host&#39;un Fiyat Etiketi: Bulut Maliyetleriyle Karşılaştırması](https://mustafaerbay.com.tr/blog/career/self-hostun-fiyat-etiketi-bulut-maliyetleriyle-karsilastirmasi/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[AI ile Kod Yazmak: Geliştirici Becerilerini Köreltiyor mu?](https://mustafaerbay.com.tr/blog/life/ai-ile-kod-yazmak-gelistirici-becerilerini-koreltiyor-mu/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[Sürekli Yeni Şey Öğrenme Baskısıyla Başa Çıkmak](https://mustafaerbay.com.tr/blog/life/surekli-yeni-sey-ogrenme-baskisiyla-basa-cikmak/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub>
-📝 **[Yıllar İçinde Çöpe Attığım Teknolojiler](https://mustafaerbay.com.tr/blog/life/yillar-icinde-cope-attigim-teknolojiler/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI ile Kod Yazmak: Geliştirici Becerilerini Köreltiyor mu?](https://mustafaerbay.com.tr/blog/life/ai-ile-kod-yazmak-gelistirici-becerilerini-koreltiyor-mu/)** &nbsp;·&nbsp; <sub>Jun 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
