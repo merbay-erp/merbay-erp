@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[En Çok AI Kullanan En Hızlı Köreliyor: Beceri Atrofisi Tuzağı](https://mustafaerbay.com.tr/blog/career/en-cok-ai-kullanan-en-hizli-koreliyor-beceri-atrofisi-tuzagi/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[Google Fotoğraflar&#39;ı Sildim: Tüm Anılarımı Immich ile Kendi Sunucuma](https://mustafaerbay.com.tr/blog/tutorials/google-fotograflari-sildim-tum-anilarimi-immich-ile-kendi-sunucuma/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[AI Çağında Yazılımcı Olarak Nasıl Ayakta Kalırım?](https://mustafaerbay.com.tr/blog/career/ai-caginda-yazilimci-olarak-nasil-ayakta-kalirim/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
 📝 **[AI Yazılımcıyı İşsiz mi Bırakacak? Dürüst Bir Cevap](https://mustafaerbay.com.tr/blog/career/ai-yazilimciyi-issiz-mi-birakacak-durust-bir-cevap/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
-📝 **[Artık Tuğla Dizen Değil, Ustabaşısın: Yazılımcının Rolü Sessizce](https://mustafaerbay.com.tr/blog/career/artik-tugla-dizen-degil-ustabasisin-yazilimcinin-rolu-sessizce/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub>
-📝 **[Eggdrop&#39;tan AI Agent&#39;lara: Aslında O Kadar da Yeni Değil](https://mustafaerbay.com.tr/blog/career/eggdroptan-ai-agentlara-aslinda-o-kadar-da-yeni-degil/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Artık Tuğla Dizen Değil, Ustabaşısın: Yazılımcının Rolü Sessizce](https://mustafaerbay.com.tr/blog/career/artik-tugla-dizen-degil-ustabasisin-yazilimcinin-rolu-sessizce/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
