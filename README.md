@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[AI Çağında &#39;Senior&#39; Olmak Ne Demek?](https://mustafaerbay.com.tr/blog/career/ai-caginda-senior-olmak-ne-demek/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[En Çok AI Kullanan En Hızlı Köreliyor: Beceri Atrofisi Tuzağı](https://mustafaerbay.com.tr/blog/career/en-cok-ai-kullanan-en-hizli-koreliyor-beceri-atrofisi-tuzagi/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[Junior&#39;ken Keşke Bana Söylenseydi Dediğim Şeyler](https://mustafaerbay.com.tr/blog/career/juniorken-keske-bana-soylenseydi-dedigim-seyler/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[Hesabım Çalındı! İlk Bir Saatte Doğru Sırayla Yapılması Gereken 5 Şey](https://mustafaerbay.com.tr/blog/life/hesabim-calindi-ilk-bir-saatte-dogru-sirayla-yapilmasi-gereken-5-sey/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
-📝 **[Google Fotoğraflar&#39;ı Sildim: Tüm Anılarımı Immich ile Kendi Sunucuma](https://mustafaerbay.com.tr/blog/tutorials/google-fotograflari-sildim-tum-anilarimi-immich-ile-kendi-sunucuma/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
-📝 **[AI Çağında Yazılımcı Olarak Nasıl Ayakta Kalırım?](https://mustafaerbay.com.tr/blog/career/ai-caginda-yazilimci-olarak-nasil-ayakta-kalirim/)** &nbsp;·&nbsp; <sub>Jun 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Homelab Genişlemesinin Getirdiği Bakım Yükü](https://mustafaerbay.com.tr/blog/life/homelab-genislemesinin-getirdigi-bakim-yuku/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
