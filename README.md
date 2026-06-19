@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[En Pahalıya Mal Olan Mühendislik Kararım](https://mustafaerbay.com.tr/blog/career/en-pahaliya-mal-olan-muhendislik-kararim/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
 📝 **[Herkes AI&#39;dan Korkarken Sessizce Junior Alan Şirketler](https://mustafaerbay.com.tr/blog/career/herkes-aidan-korkarken-sessizce-junior-alan-sirketler/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
-📝 **[AI Agent&#39;ları 6 Ay Otonom Çalıştırdım: Dürüst Rapor](https://mustafaerbay.com.tr/blog/technology/ai-agentlari-6-ay-otonom-calistirdim-durust-rapor/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
-📝 **[N100 Mini PC ile 6 Watt&#39;lık Ev Sunucusu: 2026&#39;da Homelab&#39;a Sıfırdan](https://mustafaerbay.com.tr/blog/tutorials/n100-mini-pc-ile-6-wattlik-ev-sunucusu-2026da-homelaba-sifirdan/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
-📝 **[AI Çağında &#39;Senior&#39; Olmak Ne Demek?](https://mustafaerbay.com.tr/blog/career/ai-caginda-senior-olmak-ne-demek/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[İş Görüşmesinde Beni En Çok Etkileyen Aday](https://mustafaerbay.com.tr/blog/career/is-gorusmesinde-beni-en-cok-etkileyen-aday/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
+📝 **[5 Sebeple Proxmox Homelab&#39;ınızın Kalbi Olmalı](https://mustafaerbay.com.tr/blog/technology/5-sebeple-proxmox-homelabinizin-kalbi-olmali/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
+📝 **[AI Agent&#39;ları 6 Ay Otonom Çalıştırdım: Dürüst Rapor](https://mustafaerbay.com.tr/blog/technology/ai-agentlari-6-ay-otonom-calistirdim-durust-rapor/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
