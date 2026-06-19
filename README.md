@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Herkes AI&#39;dan Korkarken Sessizce Junior Alan Şirketler](https://mustafaerbay.com.tr/blog/career/herkes-aidan-korkarken-sessizce-junior-alan-sirketler/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
+📝 **[AI Agent&#39;ları 6 Ay Otonom Çalıştırdım: Dürüst Rapor](https://mustafaerbay.com.tr/blog/technology/ai-agentlari-6-ay-otonom-calistirdim-durust-rapor/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
 📝 **[AI Çağında &#39;Senior&#39; Olmak Ne Demek?](https://mustafaerbay.com.tr/blog/career/ai-caginda-senior-olmak-ne-demek/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
 📝 **[En Çok AI Kullanan En Hızlı Köreliyor: Beceri Atrofisi Tuzağı](https://mustafaerbay.com.tr/blog/career/en-cok-ai-kullanan-en-hizli-koreliyor-beceri-atrofisi-tuzagi/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
-📝 **[Junior&#39;ken Keşke Bana Söylenseydi Dediğim Şeyler](https://mustafaerbay.com.tr/blog/career/juniorken-keske-bana-soylenseydi-dedigim-seyler/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
-📝 **[Hesabım Çalındı! İlk Bir Saatte Doğru Sırayla Yapılması Gereken 5 Şey](https://mustafaerbay.com.tr/blog/life/hesabim-calindi-ilk-bir-saatte-dogru-sirayla-yapilmasi-gereken-5-sey/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub>
-📝 **[Homelab Genişlemesinin Getirdiği Bakım Yükü](https://mustafaerbay.com.tr/blog/life/homelab-genislemesinin-getirdigi-bakim-yuku/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Junior&#39;ken Keşke Bana Söylenseydi Dediğim Şeyler](https://mustafaerbay.com.tr/blog/career/juniorken-keske-bana-soylenseydi-dedigim-seyler/)** &nbsp;·&nbsp; <sub>Jun 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
