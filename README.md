@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Telefon Numaranı Çaldırmak: SIM Swap Saldırısı ve Kendini Koruma](https://mustafaerbay.com.tr/blog/life/telefon-numarani-caldirmak-sim-swap-saldirisi-ve-kendini-koruma/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
+📝 **[AI Faturanı Düşürmenin 7 Yolu: &#39;Tokenpocalypse&#39; Çağında Akıllı](https://mustafaerbay.com.tr/blog/technology/ai-faturani-dusurmenin-7-yolu-tokenpocalypse-caginda-akilli/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
 📝 **[Bir Sunucuyu İlk 45 Dakikada Güvene Almak: VPS Sıkılaştırma Kontrol](https://mustafaerbay.com.tr/blog/tutorials/bir-sunucuyu-ilk-45-dakikada-guvene-almak-vps-sikilastirma-kontrol/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
 📝 **[En Pahalıya Mal Olan Mühendislik Kararım](https://mustafaerbay.com.tr/blog/career/en-pahaliya-mal-olan-muhendislik-kararim/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
-📝 **[Herkes AI&#39;dan Korkarken Sessizce Junior Alan Şirketler](https://mustafaerbay.com.tr/blog/career/herkes-aidan-korkarken-sessizce-junior-alan-sirketler/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub>
-📝 **[İş Görüşmesinde Beni En Çok Etkileyen Aday](https://mustafaerbay.com.tr/blog/career/is-gorusmesinde-beni-en-cok-etkileyen-aday/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Herkes AI&#39;dan Korkarken Sessizce Junior Alan Şirketler](https://mustafaerbay.com.tr/blog/career/herkes-aidan-korkarken-sessizce-junior-alan-sirketler/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
