@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Yönetici Oldum ve Geri Döndüm: Pişman mıyım?](https://mustafaerbay.com.tr/blog/career/yonetici-oldum-ve-geri-dondum-pisman-miyim/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
 📝 **[Telefon Numaranı Çaldırmak: SIM Swap Saldırısı ve Kendini Koruma](https://mustafaerbay.com.tr/blog/life/telefon-numarani-caldirmak-sim-swap-saldirisi-ve-kendini-koruma/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
 📝 **[AI Faturanı Düşürmenin 7 Yolu: &#39;Tokenpocalypse&#39; Çağında Akıllı](https://mustafaerbay.com.tr/blog/technology/ai-faturani-dusurmenin-7-yolu-tokenpocalypse-caginda-akilli/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[Bir Sunucuyu İlk 45 Dakikada Güvene Almak: VPS Sıkılaştırma Kontrol](https://mustafaerbay.com.tr/blog/tutorials/bir-sunucuyu-ilk-45-dakikada-guvene-almak-vps-sikilastirma-kontrol/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[En Pahalıya Mal Olan Mühendislik Kararım](https://mustafaerbay.com.tr/blog/career/en-pahaliya-mal-olan-muhendislik-kararim/)** &nbsp;·&nbsp; <sub>Jun 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kendi AI Agent&#39;ını Kur: 3 Adımda Otomatik Görevler](https://mustafaerbay.com.tr/blog/technology/kendi-ai-agentini-kur-3-adimda-otomatik-gorevler/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
+📝 **[Bir Sunucuyu İlk 45 Dakikada Güvene Almak: VPS Sıkılaştırma Kontrol](https://mustafaerbay.com.tr/blog/tutorials/bir-sunucuyu-ilk-45-dakikada-guvene-almak-vps-sikilastirma-kontrol/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
