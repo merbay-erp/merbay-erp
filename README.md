@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Senior&#39;lar Hiç Bu Kadar Değerli Olmamıştı — Ama &#39;Senior&#39; Artık Yıl](https://mustafaerbay.com.tr/blog/career/seniorlar-hic-bu-kadar-degerli-olmamisti-ama-senior-artik-yil/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
 📝 **[QR Kod Dolandırıcılığı &lpar;Quishing&rpar;: Park Makinesindeki O Etikete Dikkat](https://mustafaerbay.com.tr/blog/life/qr-kod-dolandiriciligi-quishing-park-makinesindeki-o-etikete-dikkat/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
 📝 **[Jellyfin&#39;e Geçtim ve Geri Dönmedim: Plex 250 Dolara Çıkınca](https://mustafaerbay.com.tr/blog/technology/jellyfine-gectim-ve-geri-donmedim-plex-250-dolara-cikinca/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[Yeni Teknolojiyi Ne Zaman Benimsemeli, Ne Zaman Beklemeli?](https://mustafaerbay.com.tr/blog/technology/yeni-teknolojiyi-ne-zaman-benimsemeli-ne-zaman-beklemeli/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Verilerimi Buluttan Çektim: Pişman mıyım?](https://mustafaerbay.com.tr/blog/technology/verilerimi-buluttan-cektim-pisman-miyim/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
