@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Senior&#39;lar Hiç Bu Kadar Değerli Olmamıştı — Ama &#39;Senior&#39; Artık Yıl](https://mustafaerbay.com.tr/blog/career/seniorlar-hic-bu-kadar-degerli-olmamisti-ama-senior-artik-yil/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
+📝 **[QR Kod Dolandırıcılığı &lpar;Quishing&rpar;: Park Makinesindeki O Etikete Dikkat](https://mustafaerbay.com.tr/blog/life/qr-kod-dolandiriciligi-quishing-park-makinesindeki-o-etikete-dikkat/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
+📝 **[Jellyfin&#39;e Geçtim ve Geri Dönmedim: Plex 250 Dolara Çıkınca](https://mustafaerbay.com.tr/blog/technology/jellyfine-gectim-ve-geri-donmedim-plex-250-dolara-cikinca/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
 📝 **[Yönetici Oldum ve Geri Döndüm: Pişman mıyım?](https://mustafaerbay.com.tr/blog/career/yonetici-oldum-ve-geri-dondum-pisman-miyim/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[Telefon Numaranı Çaldırmak: SIM Swap Saldırısı ve Kendini Koruma](https://mustafaerbay.com.tr/blog/life/telefon-numarani-caldirmak-sim-swap-saldirisi-ve-kendini-koruma/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[AI Faturanı Düşürmenin 7 Yolu: &#39;Tokenpocalypse&#39; Çağında Akıllı](https://mustafaerbay.com.tr/blog/technology/ai-faturani-dusurmenin-7-yolu-tokenpocalypse-caginda-akilli/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[Herkesin Kubernetes&#39;e İhtiyacı Yok](https://mustafaerbay.com.tr/blog/technology/herkesin-kubernetese-ihtiyaci-yok/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub>
-📝 **[Kendi AI Agent&#39;ını Kur: 3 Adımda Otomatik Görevler](https://mustafaerbay.com.tr/blog/technology/kendi-ai-agentini-kur-3-adimda-otomatik-gorevler/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Telefon Numaranı Çaldırmak: SIM Swap Saldırısı ve Kendini Koruma](https://mustafaerbay.com.tr/blog/life/telefon-numarani-caldirmak-sim-swap-saldirisi-ve-kendini-koruma/)** &nbsp;·&nbsp; <sub>Jun 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
