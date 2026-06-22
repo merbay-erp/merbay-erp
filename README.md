@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[AI&#39;a Güven %29&#39;a Düştü, Kullanım %84&#39;e Çıktı: Güvenmediğimize](https://mustafaerbay.com.tr/blog/life/aia-guven-29a-dustu-kullanim-84e-cikti-guvenmedigimize/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[Gizliliğe Önem Vermek Paranoya mı?](https://mustafaerbay.com.tr/blog/life/gizlilige-onem-vermek-paranoya-mi/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[1Password&#39;e Para Vermeyi Bıraktım: Vaultwarden ile Kendi Şifre Kasam](https://mustafaerbay.com.tr/blog/tutorials/1passworde-para-vermeyi-biraktim-vaultwarden-ile-kendi-sifre-kasam/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
-📝 **[AI Kod Asistanı Seçimi: Copilot, Cursor ve Claude Code](https://mustafaerbay.com.tr/blog/career/ai-kod-asistani-secimi-copilot-cursor-ve-claude-code/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[N100 ile Ev Sunucusu: Düşük Gücün Götürdükleri](https://mustafaerbay.com.tr/blog/tutorials/n100-ile-ev-sunucusu-dusuk-gucun-goturdukleri/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
