@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Yönetici mi Olmalıyım? Geri Dönülebilir Bir Karar Olduğunu Kimse](https://mustafaerbay.com.tr/blog/career/yonetici-mi-olmaliyim-geri-donulebilir-bir-karar-oldugunu-kimse/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
+📝 **[AI&#39;a Güven %29&#39;a Düştü, Kullanım %84&#39;e Çıktı: Güvenmediğimize](https://mustafaerbay.com.tr/blog/life/aia-guven-29a-dustu-kullanim-84e-cikti-guvenmedigimize/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
+📝 **[Gizliliğe Önem Vermek Paranoya mı?](https://mustafaerbay.com.tr/blog/life/gizlilige-onem-vermek-paranoya-mi/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[1Password&#39;e Para Vermeyi Bıraktım: Vaultwarden ile Kendi Şifre Kasam](https://mustafaerbay.com.tr/blog/tutorials/1passworde-para-vermeyi-biraktim-vaultwarden-ile-kendi-sifre-kasam/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
-📝 **[AI Kod Asistanı Seçimi: Copilot, Cursor ve Claude Code](https://mustafaerbay.com.tr/blog/career/ai-kod-asistani-secimi-copilot-cursor-ve-claude-code/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[Senior&#39;lar Hiç Bu Kadar Değerli Olmamıştı — Ama &#39;Senior&#39; Artık Yıl](https://mustafaerbay.com.tr/blog/career/seniorlar-hic-bu-kadar-degerli-olmamisti-ama-senior-artik-yil/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[QR Kod Dolandırıcılığı &lpar;Quishing&rpar;: Park Makinesindeki O Etikete Dikkat](https://mustafaerbay.com.tr/blog/life/qr-kod-dolandiriciligi-quishing-park-makinesindeki-o-etikete-dikkat/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Kod Asistanı Seçimi: Copilot, Cursor ve Claude Code](https://mustafaerbay.com.tr/blog/career/ai-kod-asistani-secimi-copilot-cursor-ve-claude-code/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
