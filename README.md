@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Yönetici mi Olmalıyım? Geri Dönülebilir Bir Karar Olduğunu Kimse](https://mustafaerbay.com.tr/blog/career/yonetici-mi-olmaliyim-geri-donulebilir-bir-karar-oldugunu-kimse/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
+📝 **[1Password&#39;e Para Vermeyi Bıraktım: Vaultwarden ile Kendi Şifre Kasam](https://mustafaerbay.com.tr/blog/tutorials/1passworde-para-vermeyi-biraktim-vaultwarden-ile-kendi-sifre-kasam/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[AI Kod Asistanı Seçimi: Copilot, Cursor ve Claude Code](https://mustafaerbay.com.tr/blog/career/ai-kod-asistani-secimi-copilot-cursor-ve-claude-code/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
 📝 **[Senior&#39;lar Hiç Bu Kadar Değerli Olmamıştı — Ama &#39;Senior&#39; Artık Yıl](https://mustafaerbay.com.tr/blog/career/seniorlar-hic-bu-kadar-degerli-olmamisti-ama-senior-artik-yil/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[QR Kod Dolandırıcılığı &lpar;Quishing&rpar;: Park Makinesindeki O Etikete Dikkat](https://mustafaerbay.com.tr/blog/life/qr-kod-dolandiriciligi-quishing-park-makinesindeki-o-etikete-dikkat/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[Jellyfin&#39;e Geçtim ve Geri Dönmedim: Plex 250 Dolara Çıkınca](https://mustafaerbay.com.tr/blog/technology/jellyfine-gectim-ve-geri-donmedim-plex-250-dolara-cikinca/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub>
-📝 **[Verilerimi Buluttan Çektim: Pişman mıyım?](https://mustafaerbay.com.tr/blog/technology/verilerimi-buluttan-cektim-pisman-miyim/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[QR Kod Dolandırıcılığı &lpar;Quishing&rpar;: Park Makinesindeki O Etikete Dikkat](https://mustafaerbay.com.tr/blog/life/qr-kod-dolandiriciligi-quishing-park-makinesindeki-o-etikete-dikkat/)** &nbsp;·&nbsp; <sub>Jun 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
