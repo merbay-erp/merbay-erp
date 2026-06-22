@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Yönetici mi Olmalıyım? Geri Dönülebilir Bir Karar Olduğunu Kimse](https://mustafaerbay.com.tr/blog/career/yonetici-mi-olmaliyim-geri-donulebilir-bir-karar-oldugunu-kimse/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[AI&#39;a Güven %29&#39;a Düştü, Kullanım %84&#39;e Çıktı: Güvenmediğimize](https://mustafaerbay.com.tr/blog/life/aia-guven-29a-dustu-kullanim-84e-cikti-guvenmedigimize/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
 📝 **[Gizliliğe Önem Vermek Paranoya mı?](https://mustafaerbay.com.tr/blog/life/gizlilige-onem-vermek-paranoya-mi/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
-📝 **[1Password&#39;e Para Vermeyi Bıraktım: Vaultwarden ile Kendi Şifre Kasam](https://mustafaerbay.com.tr/blog/tutorials/1passworde-para-vermeyi-biraktim-vaultwarden-ile-kendi-sifre-kasam/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
-📝 **[N100 ile Ev Sunucusu: Düşük Gücün Götürdükleri](https://mustafaerbay.com.tr/blog/tutorials/n100-ile-ev-sunucusu-dusuk-gucun-goturdukleri/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Teknolojiyle Aramda Sınır Koymayı Nasıl Öğrendim?](https://mustafaerbay.com.tr/blog/life/teknolojiyle-aramda-sinir-koymayi-nasil-ogrendim/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub>
+📝 **[1Password&#39;e Para Vermeyi Bıraktım: Vaultwarden ile Kendi Şifre Kasam](https://mustafaerbay.com.tr/blog/tutorials/1passworde-para-vermeyi-biraktim-vaultwarden-ile-kendi-sifre-kasam/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
