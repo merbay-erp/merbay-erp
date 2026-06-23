@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Üniversite Diploması Yazılım İçin Hâlâ Gerekli mi?](https://mustafaerbay.com.tr/blog/career/universite-diplomasi-yazilim-icin-hala-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
 📝 **[Synology Yerine Kendi NAS&#39;ınızı Kurmak İçin 3 Sebep](https://mustafaerbay.com.tr/blog/technology/synology-yerine-kendi-nasinizi-kurmak-icin-3-sebep/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
 📝 **[Tailscale mı WireGuard mı? Eve Uzaktan Bağlanmanın 2026&#39;daki Doğru](https://mustafaerbay.com.tr/blog/technology/tailscale-mi-wireguard-mi-eve-uzaktan-baglanmanin-2026daki-dogru/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
-📝 **[Tüm Ağında Reklamları Engelle: AdGuard Home, Pi-hole&#39;u Neden Tahtından](https://mustafaerbay.com.tr/blog/tutorials/tum-aginda-reklamlari-engelle-adguard-home-pi-holeu-neden-tahtindan/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Teknoloji Sektörü Fazla mı Karmaşıklaştı?](https://mustafaerbay.com.tr/blog/technology/teknoloji-sektoru-fazla-mi-karmasiklasti/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
