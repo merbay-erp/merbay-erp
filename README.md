@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[20 Yıl Önceki Kendime: Kariyerimi Değiştirecek 7 Şey](https://mustafaerbay.com.tr/blog/career/20-yil-onceki-kendime-kariyerimi-degistirecek-7-sey/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
 📝 **[Üniversite Diploması Yazılım İçin Hâlâ Gerekli mi?](https://mustafaerbay.com.tr/blog/career/universite-diplomasi-yazilim-icin-hala-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
+📝 **[Synology Yerine Kendi NAS&#39;ınızı Kurmak İçin 3 Sebep](https://mustafaerbay.com.tr/blog/technology/synology-yerine-kendi-nasinizi-kurmak-icin-3-sebep/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
 📝 **[Tailscale mı WireGuard mı? Eve Uzaktan Bağlanmanın 2026&#39;daki Doğru](https://mustafaerbay.com.tr/blog/technology/tailscale-mi-wireguard-mi-eve-uzaktan-baglanmanin-2026daki-dogru/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
-📝 **[Tüm Ağında Reklamları Engelle: AdGuard Home, Pi-hole&#39;u Neden Tahtından](https://mustafaerbay.com.tr/blog/tutorials/tum-aginda-reklamlari-engelle-adguard-home-pi-holeu-neden-tahtindan/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
-📝 **[Yönetici mi Olmalıyım? Geri Dönülebilir Bir Karar Olduğunu Kimse](https://mustafaerbay.com.tr/blog/career/yonetici-mi-olmaliyim-geri-donulebilir-bir-karar-oldugunu-kimse/)** &nbsp;·&nbsp; <sub>Jun 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Tüm Ağında Reklamları Engelle: AdGuard Home, Pi-hole&#39;u Neden Tahtından](https://mustafaerbay.com.tr/blog/tutorials/tum-aginda-reklamlari-engelle-adguard-home-pi-holeu-neden-tahtindan/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
