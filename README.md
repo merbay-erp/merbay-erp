@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Çağında En Güvenli ve En Tehlikeli 5+5 Yazılım Rolü](https://mustafaerbay.com.tr/blog/career/ai-caginda-en-guvenli-ve-en-tehlikeli-55-yazilim-rolu/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
+📝 **[Elbette, Mustafa Erbay&#39;ın blogu için &quot;homelab&quot; ve &quot;career&quot; odaklı](https://mustafaerbay.com.tr/blog/career/elbette-mustafa-erbayin-blogu-icin-homelab-ve-career-odakli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[Herkes AI Kullanıyor Ama Kimse Güvenmiyor: Çağın Çelişkisi](https://mustafaerbay.com.tr/blog/technology/herkes-ai-kullaniyor-ama-kimse-guvenmiyor-cagin-celiskisi/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[Proxmox mu Docker mı? Homelab&#39;a Hangisinden Başlamalısın](https://mustafaerbay.com.tr/blog/technology/proxmox-mu-docker-mi-homelaba-hangisinden-baslamalisin/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
-📝 **[3-2-1 Yedekleme: restic ile Otomatik, Şifreli ve Fidyeye Dayanıklı](https://mustafaerbay.com.tr/blog/tutorials/3-2-1-yedekleme-restic-ile-otomatik-sifreli-ve-fidyeye-dayanikli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
-📝 **[20 Yıl Önceki Kendime: Kariyerimi Değiştirecek 7 Şey](https://mustafaerbay.com.tr/blog/career/20-yil-onceki-kendime-kariyerimi-degistirecek-7-sey/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[3-2-1 Yedekleme: restic ile Otomatik, Şifreli ve Fidyeye Dayanıklı](https://mustafaerbay.com.tr/blog/tutorials/3-2-1-yedekleme-restic-ile-otomatik-sifreli-ve-fidyeye-dayanikli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
