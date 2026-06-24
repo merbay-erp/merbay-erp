@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Elbette, Mustafa Erbay&#39;ın blogu için &quot;homelab&quot; ve &quot;career&quot; odaklı](https://mustafaerbay.com.tr/blog/career/elbette-mustafa-erbayin-blogu-icin-homelab-ve-career-odakli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[Herkes AI Kullanıyor Ama Kimse Güvenmiyor: Çağın Çelişkisi](https://mustafaerbay.com.tr/blog/technology/herkes-ai-kullaniyor-ama-kimse-guvenmiyor-cagin-celiskisi/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[Proxmox mu Docker mı? Homelab&#39;a Hangisinden Başlamalısın](https://mustafaerbay.com.tr/blog/technology/proxmox-mu-docker-mi-homelaba-hangisinden-baslamalisin/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
-📝 **[3-2-1 Yedekleme: restic ile Otomatik, Şifreli ve Fidyeye Dayanıklı](https://mustafaerbay.com.tr/blog/tutorials/3-2-1-yedekleme-restic-ile-otomatik-sifreli-ve-fidyeye-dayanikli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Vibe Coding Bitti, Sırada Ne Var?](https://mustafaerbay.com.tr/blog/technology/vibe-coding-bitti-sirada-ne-var/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
