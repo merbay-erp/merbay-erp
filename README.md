@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Çağında En Güvenli ve En Tehlikeli 5+5 Yazılım Rolü](https://mustafaerbay.com.tr/blog/career/ai-caginda-en-guvenli-ve-en-tehlikeli-55-yazilim-rolu/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[Proxmox mu Docker mı? Homelab&#39;a Hangisinden Başlamalısın](https://mustafaerbay.com.tr/blog/technology/proxmox-mu-docker-mi-homelaba-hangisinden-baslamalisin/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
+📝 **[3-2-1 Yedekleme: restic ile Otomatik, Şifreli ve Fidyeye Dayanıklı](https://mustafaerbay.com.tr/blog/tutorials/3-2-1-yedekleme-restic-ile-otomatik-sifreli-ve-fidyeye-dayanikli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
 📝 **[20 Yıl Önceki Kendime: Kariyerimi Değiştirecek 7 Şey](https://mustafaerbay.com.tr/blog/career/20-yil-onceki-kendime-kariyerimi-degistirecek-7-sey/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
-📝 **[Üniversite Diploması Yazılım İçin Hâlâ Gerekli mi?](https://mustafaerbay.com.tr/blog/career/universite-diplomasi-yazilim-icin-hala-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub>
-📝 **[Synology Yerine Kendi NAS&#39;ınızı Kurmak İçin 3 Sebep](https://mustafaerbay.com.tr/blog/technology/synology-yerine-kendi-nasinizi-kurmak-icin-3-sebep/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Üniversite Diploması Yazılım İçin Hâlâ Gerekli mi?](https://mustafaerbay.com.tr/blog/career/universite-diplomasi-yazilim-icin-hala-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jun 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
