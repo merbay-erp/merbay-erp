@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Homelab&#39;ını İnternete Açmadan Önce Yapman Gereken 7 Güvenlik Adımı](https://mustafaerbay.com.tr/blog/technology/homelabini-internete-acmadan-once-yapman-gereken-7-guvenlik-adimi/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[SaaS Aboneliklerini Kendi Sunucunla Değiştir: 2026 İçin 8 Açık Kaynak](https://mustafaerbay.com.tr/blog/technology/saas-aboneliklerini-kendi-sunucunla-degistir-2026-icin-8-acik-kaynak/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[Port Açmadan Servislerini İnternete Aç: Cloudflare Tunnel 2026 Rehberi](https://mustafaerbay.com.tr/blog/tutorials/port-acmadan-servislerini-internete-ac-cloudflare-tunnel-2026-rehberi/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[AI Primi Gerçek: Aynı İşte AI Bilen Mühendis %12-56 Daha Fazla Alıyor](https://mustafaerbay.com.tr/blog/career/ai-primi-gercek-ayni-iste-ai-bilen-muhendis-12-56-daha-fazla-aliyor/)** &nbsp;·&nbsp; <sub>Jun 26th, 2026</sub>
-📝 **[Google Drive&#39;a Elveda: Nextcloud ile Kendi Bulutunu Kur](https://mustafaerbay.com.tr/blog/tutorials/google-drivea-elveda-nextcloud-ile-kendi-bulutunu-kur/)** &nbsp;·&nbsp; <sub>Jun 26th, 2026</sub>
-📝 **[Synology mü Kendin Yap mı? 2026&#39;da TrueNAS ile NAS Kurmak Mantıklı mı](https://mustafaerbay.com.tr/blog/technology/synology-mu-kendin-yap-mi-2026da-truenas-ile-nas-kurmak-mantikli-mi/)** &nbsp;·&nbsp; <sub>Jun 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Google Drive&#39;a Elveda: Nextcloud ile Kendi Bulutunu Kur](https://mustafaerbay.com.tr/blog/tutorials/google-drivea-elveda-nextcloud-ile-kendi-bulutunu-kur/)** &nbsp;·&nbsp; <sub>Jun 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
