@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Primi Gerçek: Aynı İşte AI Bilen Mühendis %12-56 Daha Fazla Alıyor](https://mustafaerbay.com.tr/blog/career/ai-primi-gercek-ayni-iste-ai-bilen-muhendis-12-56-daha-fazla-aliyor/)** &nbsp;·&nbsp; <sub>Jun 26th, 2026</sub>
+📝 **[Google Drive&#39;a Elveda: Nextcloud ile Kendi Bulutunu Kur](https://mustafaerbay.com.tr/blog/tutorials/google-drivea-elveda-nextcloud-ile-kendi-bulutunu-kur/)** &nbsp;·&nbsp; <sub>Jun 26th, 2026</sub>
 📝 **[Synology mü Kendin Yap mı? 2026&#39;da TrueNAS ile NAS Kurmak Mantıklı mı](https://mustafaerbay.com.tr/blog/technology/synology-mu-kendin-yap-mi-2026da-truenas-ile-nas-kurmak-mantikli-mi/)** &nbsp;·&nbsp; <sub>Jun 25th, 2026</sub>
 📝 **[AI Çağında En Güvenli ve En Tehlikeli 5+5 Yazılım Rolü](https://mustafaerbay.com.tr/blog/career/ai-caginda-en-guvenli-ve-en-tehlikeli-55-yazilim-rolu/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
-📝 **[Elbette, Mustafa Erbay&#39;ın blogu için &quot;homelab&quot; ve &quot;career&quot; odaklı](https://mustafaerbay.com.tr/blog/career/elbette-mustafa-erbayin-blogu-icin-homelab-ve-career-odakli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub>
-📝 **[Herkes AI Kullanıyor Ama Kimse Güvenmiyor: Çağın Çelişkisi](https://mustafaerbay.com.tr/blog/technology/herkes-ai-kullaniyor-ama-kimse-guvenmiyor-cagin-celiskisi/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Elbette, Mustafa Erbay&#39;ın blogu için &quot;homelab&quot; ve &quot;career&quot; odaklı](https://mustafaerbay.com.tr/blog/career/elbette-mustafa-erbayin-blogu-icin-homelab-ve-career-odakli/)** &nbsp;·&nbsp; <sub>Jun 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
