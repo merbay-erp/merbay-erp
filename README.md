@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[2026 Teknoloji İşten Çıkarmalarının Yeni Kalıbı: &#39;Kes ve Yön Değiştir&#39;](https://mustafaerbay.com.tr/blog/career/2026-teknoloji-isten-cikarmalarinin-yeni-kalibi-kes-ve-yon-degistir/)** &nbsp;·&nbsp; <sub>Jun 28th, 2026</sub>
 📝 **[2026&#39;da Kod Öğrenmek İçin Geç mi Kaldın? Yanlış Soru](https://mustafaerbay.com.tr/blog/career/2026da-kod-ogrenmek-icin-gec-mi-kaldin-yanlis-soru/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[CS Diploması mı, Bootcamp mı, Kendi Kendine mi: 2026&#39;da Denklem](https://mustafaerbay.com.tr/blog/career/cs-diplomasi-mi-bootcamp-mi-kendi-kendine-mi-2026da-denklem/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[Homelab&#39;ını İnternete Açmadan Önce Yapman Gereken 7 Güvenlik Adımı](https://mustafaerbay.com.tr/blog/technology/homelabini-internete-acmadan-once-yapman-gereken-7-guvenlik-adimi/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
-📝 **[SaaS Aboneliklerini Kendi Sunucunla Değiştir: 2026 İçin 8 Açık Kaynak](https://mustafaerbay.com.tr/blog/technology/saas-aboneliklerini-kendi-sunucunla-degistir-2026-icin-8-acik-kaynak/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
-📝 **[Kağıtsız Hayata Geç: Paperless-ngx ile Tüm Belgeleri OCR&#39;lı Aranabilir](https://mustafaerbay.com.tr/blog/tutorials/kagitsiz-hayata-gec-paperless-ngx-ile-tum-belgeleri-ocrli-aranabilir/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[SaaS Aboneliklerini Kendi Sunucunla Değiştir: 2026 İçin 8 Açık Kaynak](https://mustafaerbay.com.tr/blog/technology/saas-aboneliklerini-kendi-sunucunla-degistir-2026-icin-8-acik-kaynak/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
