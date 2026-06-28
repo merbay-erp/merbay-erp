@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[CS Diploması mı, Bootcamp mı, Kendi Kendine mi: 2026&#39;da Denklem](https://mustafaerbay.com.tr/blog/career/cs-diplomasi-mi-bootcamp-mi-kendi-kendine-mi-2026da-denklem/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[Homelab&#39;ını İnternete Açmadan Önce Yapman Gereken 7 Güvenlik Adımı](https://mustafaerbay.com.tr/blog/technology/homelabini-internete-acmadan-once-yapman-gereken-7-guvenlik-adimi/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
 📝 **[SaaS Aboneliklerini Kendi Sunucunla Değiştir: 2026 İçin 8 Açık Kaynak](https://mustafaerbay.com.tr/blog/technology/saas-aboneliklerini-kendi-sunucunla-degistir-2026-icin-8-acik-kaynak/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub>
-📝 **[Port Açmadan Servislerini İnternete Aç: Cloudflare Tunnel 2026 Rehberi](https://mustafaerbay.com.tr/blog/tutorials/port-acmadan-servislerini-internete-ac-cloudflare-tunnel-2026-rehberi/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kağıtsız Hayata Geç: Paperless-ngx ile Tüm Belgeleri OCR&#39;lı Aranabilir](https://mustafaerbay.com.tr/blog/tutorials/kagitsiz-hayata-gec-paperless-ngx-ile-tum-belgeleri-ocrli-aranabilir/)** &nbsp;·&nbsp; <sub>Jun 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
