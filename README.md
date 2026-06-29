@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Şifrelerin Sonu mu Geldi? Passkey&#39;e Geçmeden Bilmen Gereken Her Şey](https://mustafaerbay.com.tr/blog/technology/sifrelerin-sonu-mu-geldi-passkeye-gecmeden-bilmen-gereken-her-sey/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub>
 📝 **[Eski Bir Laptop&#39;tan 7/24 Ev Sunucusu](https://mustafaerbay.com.tr/blog/tutorials/eski-bir-laptoptan-724-ev-sunucusu/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub>
 📝 **[VPN Gerçekten Gerekli mi? Pazarlamanın Sana Söylemediği 5 Gerçek](https://mustafaerbay.com.tr/blog/technology/vpn-gercekten-gerekli-mi-pazarlamanin-sana-soylemedigi-5-gercek/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub>
-📝 **[2026 Teknoloji İşten Çıkarmalarının Yeni Kalıbı: &#39;Kes ve Yön Değiştir&#39;](https://mustafaerbay.com.tr/blog/career/2026-teknoloji-isten-cikarmalarinin-yeni-kalibi-kes-ve-yon-degistir/)** &nbsp;·&nbsp; <sub>Jun 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[En İyi Kod, Yazmadığın Koddur](https://mustafaerbay.com.tr/blog/technology/en-iyi-kod-yazmadigin-koddur/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
