@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Akıllı Ev Bulutsuz Çalışsın: Home Assistant&#39;ı Kendi Sunucunda Kurmak](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-bulutsuz-calissin-home-assistanti-kendi-sunucunda-kurmak/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
 📝 **[Cracklenmiş Program İndirmenin Gerçek Bedeli: Infostealer ve Çalınan](https://mustafaerbay.com.tr/blog/technology/cracklenmis-program-indirmenin-gercek-bedeli-infostealer-ve-calinan/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
 📝 **[Şifre Yöneticileri: Tarayıcı mı, Bağımsız Uygulama mı?](https://mustafaerbay.com.tr/blog/technology/sifre-yoneticileri-tarayici-mi-bagimsiz-uygulama-mi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
-📝 **[16 Milyar Şifre Sızdı Haberleri: Sen Gerçekten Tehlikede misin?](https://mustafaerbay.com.tr/blog/technology/16-milyar-sifre-sizdi-haberleri-sen-gercekten-tehlikede-misin/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Destekli Kod İncelemesinde Hız ve Doğruluğu Optimize Etme](https://mustafaerbay.com.tr/blog/technology/ai-destekli-kod-incelemesinde-hiz-ve-dogrulugu-optimize-etme/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
