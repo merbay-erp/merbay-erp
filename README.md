@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Akıllı TV&#39;niz Sizi İzliyor: ACR&#39;yi Kapatma Rehberi](https://mustafaerbay.com.tr/blog/tutorials/akilli-tvniz-sizi-izliyor-acryi-kapatma-rehberi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
 📝 **[Akıllı Ev Bulutsuz Çalışsın: Home Assistant&#39;ı Kendi Sunucunda Kurmak](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-bulutsuz-calissin-home-assistanti-kendi-sunucunda-kurmak/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
+📝 **[Cracklenmiş Program İndirmenin Gerçek Bedeli: Infostealer ve Çalınan](https://mustafaerbay.com.tr/blog/technology/cracklenmis-program-indirmenin-gercek-bedeli-infostealer-ve-calinan/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
 📝 **[16 Milyar Şifre Sızdı Haberleri: Sen Gerçekten Tehlikede misin?](https://mustafaerbay.com.tr/blog/technology/16-milyar-sifre-sizdi-haberleri-sen-gercekten-tehlikede-misin/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub>
-📝 **[Şifrelerin Sonu mu Geldi? Passkey&#39;e Geçmeden Bilmen Gereken Her Şey](https://mustafaerbay.com.tr/blog/technology/sifrelerin-sonu-mu-geldi-passkeye-gecmeden-bilmen-gereken-her-sey/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub>
-📝 **[Eski Bir Laptop&#39;tan 7/24 Ev Sunucusu](https://mustafaerbay.com.tr/blog/tutorials/eski-bir-laptoptan-724-ev-sunucusu/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Şifrelerin Sonu mu Geldi? Passkey&#39;e Geçmeden Bilmen Gereken Her Şey](https://mustafaerbay.com.tr/blog/technology/sifrelerin-sonu-mu-geldi-passkeye-gecmeden-bilmen-gereken-her-sey/)** &nbsp;·&nbsp; <sub>Jun 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
