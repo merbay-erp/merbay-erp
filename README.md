@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Telefonun Seni Takip Ediyor mu? Gizli İzleme Panosunu Açıp 10 Dakikada](https://mustafaerbay.com.tr/blog/tutorials/telefonun-seni-takip-ediyor-mu-gizli-izleme-panosunu-acip-10-dakikada/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
 📝 **[Tarayıcı Eklentilerin Sana İhanet Edebilir: Masum Kalıp Birden](https://mustafaerbay.com.tr/blog/technology/tarayici-eklentilerin-sana-ihanet-edebilir-masum-kalip-birden/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
 📝 **[WhatsApp, Signal, Telegram: Hangisi Gerçekten Güvenli?](https://mustafaerbay.com.tr/blog/technology/whatsapp-signal-telegram-hangisi-gercekten-guvenli/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
-📝 **[Akıllı TV&#39;niz Sizi İzliyor: ACR&#39;yi Kapatma Rehberi](https://mustafaerbay.com.tr/blog/tutorials/akilli-tvniz-sizi-izliyor-acryi-kapatma-rehberi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
-📝 **[Akıllı Ev Bulutsuz Çalışsın: Home Assistant&#39;ı Kendi Sunucunda Kurmak](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-bulutsuz-calissin-home-assistanti-kendi-sunucunda-kurmak/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yazı Başlığı:** Nextcloud vs Immich: Hangi Self-Hosting Çözümü Daha](https://mustafaerbay.com.tr/blog/technology/yazi-basligi-nextcloud-vs-immich-hangi-self-hosting-cozumu-daha/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
+📝 **[Akıllı TV&#39;niz Sizi İzliyor: ACR&#39;yi Kapatma Rehberi](https://mustafaerbay.com.tr/blog/tutorials/akilli-tvniz-sizi-izliyor-acryi-kapatma-rehberi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
