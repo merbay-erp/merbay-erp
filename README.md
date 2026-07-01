@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Telefonun Seni Takip Ediyor mu? Gizli İzleme Panosunu Açıp 10 Dakikada](https://mustafaerbay.com.tr/blog/tutorials/telefonun-seni-takip-ediyor-mu-gizli-izleme-panosunu-acip-10-dakikada/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
+📝 **[Tarayıcı Eklentilerin Sana İhanet Edebilir: Masum Kalıp Birden](https://mustafaerbay.com.tr/blog/technology/tarayici-eklentilerin-sana-ihanet-edebilir-masum-kalip-birden/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
 📝 **[Akıllı TV&#39;niz Sizi İzliyor: ACR&#39;yi Kapatma Rehberi](https://mustafaerbay.com.tr/blog/tutorials/akilli-tvniz-sizi-izliyor-acryi-kapatma-rehberi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
 📝 **[Akıllı Ev Bulutsuz Çalışsın: Home Assistant&#39;ı Kendi Sunucunda Kurmak](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-bulutsuz-calissin-home-assistanti-kendi-sunucunda-kurmak/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
-📝 **[Cracklenmiş Program İndirmenin Gerçek Bedeli: Infostealer ve Çalınan](https://mustafaerbay.com.tr/blog/technology/cracklenmis-program-indirmenin-gercek-bedeli-infostealer-ve-calinan/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub>
-📝 **[Şifre Yöneticileri: Tarayıcı mı, Bağımsız Uygulama mı?](https://mustafaerbay.com.tr/blog/technology/sifre-yoneticileri-tarayici-mi-bagimsiz-uygulama-mi/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Cracklenmiş Program İndirmenin Gerçek Bedeli: Infostealer ve Çalınan](https://mustafaerbay.com.tr/blog/technology/cracklenmis-program-indirmenin-gercek-bedeli-infostealer-ve-calinan/)** &nbsp;·&nbsp; <sub>Jun 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
