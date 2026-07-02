@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Hayatından Google&#39;ı Çıkarmak: 30 Günde Gerçekçi De-Google Planı](https://mustafaerbay.com.tr/blog/tutorials/hayatindan-googlei-cikarmak-30-gunde-gercekci-de-google-plani/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
 📝 **[Ücretsiz AI Kodlama: Cline ile Abonelik Ödemeden Agent Çalıştırmak](https://mustafaerbay.com.tr/blog/tutorials/ucretsiz-ai-kodlama-cline-ile-abonelik-odemeden-agent-calistirmak/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
 📝 **[10 Yıl Sonra Hangi Yazılım İşleri Kalacak?](https://mustafaerbay.com.tr/blog/career/10-yil-sonra-hangi-yazilim-isleri-kalacak/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
-📝 **[Telefonun Seni Takip Ediyor mu? Gizli İzleme Panosunu Açıp 10 Dakikada](https://mustafaerbay.com.tr/blog/tutorials/telefonun-seni-takip-ediyor-mu-gizli-izleme-panosunu-acip-10-dakikada/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mid-Level Geliştirici Sendromu: Durağanlıktan Kurtulma Rehberi](https://mustafaerbay.com.tr/blog/tutorials/mid-level-gelistirici-sendromu-duraganliktan-kurtulma-rehberi/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
