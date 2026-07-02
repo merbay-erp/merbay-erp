@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI ile Üretilen Kodun %45&#39;i Güvenlik Açığı İçeriyor: Kod Review](https://mustafaerbay.com.tr/blog/technology/ai-ile-uretilen-kodun-45i-guvenlik-acigi-iceriyor-kod-review/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
+📝 **[Hayatından Google&#39;ı Çıkarmak: 30 Günde Gerçekçi De-Google Planı](https://mustafaerbay.com.tr/blog/tutorials/hayatindan-googlei-cikarmak-30-gunde-gercekci-de-google-plani/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
 📝 **[Telefonun Seni Takip Ediyor mu? Gizli İzleme Panosunu Açıp 10 Dakikada](https://mustafaerbay.com.tr/blog/tutorials/telefonun-seni-takip-ediyor-mu-gizli-izleme-panosunu-acip-10-dakikada/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
 📝 **[Tarayıcı Eklentilerin Sana İhanet Edebilir: Masum Kalıp Birden](https://mustafaerbay.com.tr/blog/technology/tarayici-eklentilerin-sana-ihanet-edebilir-masum-kalip-birden/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
-📝 **[WhatsApp, Signal, Telegram: Hangisi Gerçekten Güvenli?](https://mustafaerbay.com.tr/blog/technology/whatsapp-signal-telegram-hangisi-gercekten-guvenli/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub>
-📝 **[Nextcloud vs Immich: Hangi Self-Hosting Çözümü Daha İyi?](https://mustafaerbay.com.tr/blog/technology/yazi-basligi-nextcloud-vs-immich-hangi-self-hosting-cozumu-daha/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[WhatsApp, Signal, Telegram: Hangisi Gerçekten Güvenli?](https://mustafaerbay.com.tr/blog/technology/whatsapp-signal-telegram-hangisi-gercekten-guvenli/)** &nbsp;·&nbsp; <sub>Jul 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
