@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Claude Code&#39;u Gerçekten Verimli Kullanmak: Subagent, CLAUDE.md](https://mustafaerbay.com.tr/blog/tutorials/claude-codeu-gercekten-verimli-kullanmak-subagent-claudemd/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
 📝 **[Windsurf mu Cursor mu? İki AI Editörünü de Kullandım: Hangisi Kime](https://mustafaerbay.com.tr/blog/technology/windsurf-mu-cursor-mu-iki-ai-editorunu-de-kullandim-hangisi-kime/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
 📝 **[Prompt Engineering Öldü, Context Engineering Geldi: Modelin](https://mustafaerbay.com.tr/blog/technology/prompt-engineering-oldu-context-engineering-geldi-modelin/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
-📝 **[AI ile Üretilen Kodun %45&#39;i Güvenlik Açığı İçeriyor: Kod Review](https://mustafaerbay.com.tr/blog/technology/ai-ile-uretilen-kodun-45i-guvenlik-acigi-iceriyor-kod-review/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub>
-📝 **[Hayatından Google&#39;ı Çıkarmak: 30 Günde Gerçekçi De-Google Planı](https://mustafaerbay.com.tr/blog/tutorials/hayatindan-googlei-cikarmak-30-gunde-gercekci-de-google-plani/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Türkiye&#39;de Yazılımcı Olmak: Kimsenin Söylemediği Gerçekler](https://mustafaerbay.com.tr/blog/career/turkiyede-yazilimci-olmak-kimsenin-soylemedigi-gercekler/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
+📝 **[AI ile Üretilen Kodun %45&#39;i Güvenlik Açığı İçeriyor: Kod Review](https://mustafaerbay.com.tr/blog/technology/ai-ile-uretilen-kodun-45i-guvenlik-acigi-iceriyor-kod-review/)** &nbsp;·&nbsp; <sub>Jul 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
