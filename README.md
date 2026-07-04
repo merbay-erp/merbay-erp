@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Tek Komutla Otomatik HTTPS: Caddy ile 5 Dakikada Sertifikalı Self-Host](https://mustafaerbay.com.tr/blog/tutorials/tek-komutla-otomatik-https-caddy-ile-5-dakikada-sertifikali-self-host/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub>
 📝 **[Claude Code&#39;u Gerçekten Verimli Kullanmak: Subagent, CLAUDE.md](https://mustafaerbay.com.tr/blog/tutorials/claude-codeu-gercekten-verimli-kullanmak-subagent-claudemd/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
 📝 **[Windsurf mu Cursor mu? İki AI Editörünü de Kullandım: Hangisi Kime](https://mustafaerbay.com.tr/blog/technology/windsurf-mu-cursor-mu-iki-ai-editorunu-de-kullandim-hangisi-kime/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
 📝 **[Prompt Engineering Öldü, Context Engineering Geldi: Modelin](https://mustafaerbay.com.tr/blog/technology/prompt-engineering-oldu-context-engineering-geldi-modelin/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
-📝 **[Türkiye&#39;de Yazılımcı Olmak: Kimsenin Söylemediği Gerçekler](https://mustafaerbay.com.tr/blog/career/turkiyede-yazilimci-olmak-kimsenin-soylemedigi-gercekler/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub>
-📝 **[Her Yeni Teknolojiye Atlamak Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/technology/her-yeni-teknolojiye-atlamak-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Türkiye&#39;de Yazılımcı Olmak: Kimsenin Söylemediği Gerçekler](https://mustafaerbay.com.tr/blog/career/turkiyede-yazilimci-olmak-kimsenin-soylemedigi-gercekler/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
