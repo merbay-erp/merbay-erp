@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Her Şeyin Çalıştığını Nereden Biliyorsun? Uptime Kuma + Grafana](https://mustafaerbay.com.tr/blog/tutorials/her-seyin-calistigini-nereden-biliyorsun-uptime-kuma-grafana/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
 📝 **[&#39;Şimdi Topla, Sonra Çöz&#39;: Kuantum Sonrası Şifreleme Neden Bugünden](https://mustafaerbay.com.tr/blog/technology/simdi-topla-sonra-coz-kuantum-sonrasi-sifreleme-neden-bugunden/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
 📝 **[Self-Host Etmenin Gizli Maliyeti: 20 Yıllık Mühendisin Dürüst Homelab](https://mustafaerbay.com.tr/blog/technology/self-host-etmenin-gizli-maliyeti-20-yillik-muhendisin-durust-homelab/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
-📝 **[Tek Komutla Otomatik HTTPS: Caddy ile 5 Dakikada Sertifikalı Self-Host](https://mustafaerbay.com.tr/blog/tutorials/tek-komutla-otomatik-https-caddy-ile-5-dakikada-sertifikali-self-host/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub>
-📝 **[Caddy mı Traefik mi nginx mi? Self-Host İçin Ters Proxy Seçimi 2026](https://mustafaerbay.com.tr/blog/technology/caddy-mi-traefik-mi-nginx-mi-self-host-icin-ters-proxy-secimi-2026/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kimlik Avı Tuzağına Düşmemek İçin 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/kimlik-avi-tuzagina-dusmemek-icin-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
+📝 **[Tek Komutla Otomatik HTTPS: Caddy ile 5 Dakikada Sertifikalı Self-Host](https://mustafaerbay.com.tr/blog/tutorials/tek-komutla-otomatik-https-caddy-ile-5-dakikada-sertifikali-self-host/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
