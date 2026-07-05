@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[&#39;Şimdi Topla, Sonra Çöz&#39;: Kuantum Sonrası Şifreleme Neden Bugünden](https://mustafaerbay.com.tr/blog/technology/simdi-topla-sonra-coz-kuantum-sonrasi-sifreleme-neden-bugunden/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
 📝 **[Self-Host Etmenin Gizli Maliyeti: 20 Yıllık Mühendisin Dürüst Homelab](https://mustafaerbay.com.tr/blog/technology/self-host-etmenin-gizli-maliyeti-20-yillik-muhendisin-durust-homelab/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
 📝 **[Kimlik Avı Tuzağına Düşmemek İçin 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/kimlik-avi-tuzagina-dusmemek-icin-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
-📝 **[Tek Komutla Otomatik HTTPS: Caddy ile 5 Dakikada Sertifikalı Self-Host](https://mustafaerbay.com.tr/blog/tutorials/tek-komutla-otomatik-https-caddy-ile-5-dakikada-sertifikali-self-host/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Basit İşler İçin AI Kullanmak Verimlilik Tuzak mı?](https://mustafaerbay.com.tr/blog/life/basit-isler-icin-ai-kullanmak-verimlilik-tuzak-mi/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
