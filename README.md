@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Caddy mı Traefik mi nginx mi? Self-Host İçin Ters Proxy Seçimi 2026](https://mustafaerbay.com.tr/blog/technology/caddy-mi-traefik-mi-nginx-mi-self-host-icin-ters-proxy-secimi-2026/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub>
 📝 **[İki Faktörlü Kimlik Doğrulama: Ek Güvenliğin Getirdiği Maliyet](https://mustafaerbay.com.tr/blog/technology/iki-faktorlu-kimlik-dogrulama-ek-guvenligin-getirdigi-maliyet/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub>
 📝 **[Her Yeni AI Aracını Denemek Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/life/her-yeni-ai-aracini-denemek-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub>
-📝 **[Claude Code&#39;u Gerçekten Verimli Kullanmak: Subagent, CLAUDE.md](https://mustafaerbay.com.tr/blog/tutorials/claude-codeu-gercekten-verimli-kullanmak-subagent-claudemd/)** &nbsp;·&nbsp; <sub>Jul 3rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yazılımda Uzmanlaşmak Neden Yetersiz Kalabiliyor?](https://mustafaerbay.com.tr/blog/tutorials/yazilimda-uzmanlasmak-neden-yetersiz-kalabiliyor/)** &nbsp;·&nbsp; <sub>Jul 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
