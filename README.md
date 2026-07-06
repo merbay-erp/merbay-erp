@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Homelab&#39;ında Tek Giriş &lpar;SSO&rpar;](https://mustafaerbay.com.tr/blog/tutorials/homelabinda-tek-giris-sso/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub>
+📝 **[KVKK ve Küçük İşletme: VERBİS&#39;ten Muafım Sanma — 2026&#39;da Seni Bekleyen](https://mustafaerbay.com.tr/blog/technology/kvkk-ve-kucuk-isletme-verbisten-muafim-sanma-2026da-seni-bekleyen/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub>
 📝 **[Her Şeyin Çalıştığını Nereden Biliyorsun? Uptime Kuma + Grafana](https://mustafaerbay.com.tr/blog/tutorials/her-seyin-calistigini-nereden-biliyorsun-uptime-kuma-grafana/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
 📝 **[&#39;Şimdi Topla, Sonra Çöz&#39;: Kuantum Sonrası Şifreleme Neden Bugünden](https://mustafaerbay.com.tr/blog/technology/simdi-topla-sonra-coz-kuantum-sonrasi-sifreleme-neden-bugunden/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
-📝 **[Self-Host Etmenin Gizli Maliyeti: 20 Yıllık Mühendisin Dürüst Homelab](https://mustafaerbay.com.tr/blog/technology/self-host-etmenin-gizli-maliyeti-20-yillik-muhendisin-durust-homelab/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
-📝 **[Kimlik Avı Tuzağına Düşmemek İçin 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/kimlik-avi-tuzagina-dusmemek-icin-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub>
-📝 **[Basit İşler İçin AI Kullanmak Verimlilik Tuzak mı?](https://mustafaerbay.com.tr/blog/life/basit-isler-icin-ai-kullanmak-verimlilik-tuzak-mi/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Host Etmenin Gizli Maliyeti: 20 Yıllık Mühendisin Dürüst Homelab](https://mustafaerbay.com.tr/blog/technology/self-host-etmenin-gizli-maliyeti-20-yillik-muhendisin-durust-homelab/)** &nbsp;·&nbsp; <sub>Jul 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
