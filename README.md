@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[İnternetten Kişisel Bilgilerini Sildir: Veri Toplayıcı Sitelerden](https://mustafaerbay.com.tr/blog/tutorials/internetten-kisisel-bilgilerini-sildir-veri-toplayici-sitelerden/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
+📝 **[Wi-Fi Router&#39;ınla Yaptığın 6 Hata: Bugün Düzeltmen Gereken Ev Ağı](https://mustafaerbay.com.tr/blog/tutorials/wi-fi-routerinla-yaptigin-6-hata-bugun-duzeltmen-gereken-ev-agi/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
 📝 **[Homelab&#39;ında Tek Giriş &lpar;SSO&rpar;](https://mustafaerbay.com.tr/blog/tutorials/homelabinda-tek-giris-sso/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub>
 📝 **[KVKK ve Küçük İşletme: VERBİS&#39;ten Muafım Sanma — 2026&#39;da Seni Bekleyen](https://mustafaerbay.com.tr/blog/technology/kvkk-ve-kucuk-isletme-verbisten-muafim-sanma-2026da-seni-bekleyen/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub>
-📝 **[Akıllı Ev Cihazlarını Ayır: IoT&#39;yi İzole Etmenin Pratik Yolu](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-cihazlarini-ayir-iotyi-izole-etmenin-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub>
-📝 **[Self-Hosted Servisler için Cloudflare Tunnel&#39;ın 3 Temel Avantajı](https://mustafaerbay.com.tr/blog/tutorials/self-hosted-servisler-icin-cloudflare-tunnelin-3-temel-avantaji/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Akıllı Ev Cihazlarını Ayır: IoT&#39;yi İzole Etmenin Pratik Yolu](https://mustafaerbay.com.tr/blog/tutorials/akilli-ev-cihazlarini-ayir-iotyi-izole-etmenin-pratik-yolu/)** &nbsp;·&nbsp; <sub>Jul 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
