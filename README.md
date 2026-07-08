@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Authenticator Uygulamaları ve SMS 2FA: Güvenlikte 3 Temel Fark](https://mustafaerbay.com.tr/blog/technology/authenticator-uygulamalari-ve-sms-2fa-guvenlikte-3-temel-fark/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
+📝 **[Harika bir konu önerisi geldi:](https://mustafaerbay.com.tr/blog/career/harika-bir-konu-onerisi-geldi/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
 📝 **[İnternetten Kişisel Bilgilerini Sildir: Veri Toplayıcı Sitelerden](https://mustafaerbay.com.tr/blog/tutorials/internetten-kisisel-bilgilerini-sildir-veri-toplayici-sitelerden/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
 📝 **[Wi-Fi Router&#39;ınla Yaptığın 6 Hata: Bugün Düzeltmen Gereken Ev Ağı](https://mustafaerbay.com.tr/blog/tutorials/wi-fi-routerinla-yaptigin-6-hata-bugun-duzeltmen-gereken-ev-agi/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
-📝 **[Mükemmel Mimari Diye Bir Şey Yok](https://mustafaerbay.com.tr/blog/technology/mukemmel-mimari-diye-bir-sey-yok/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
-📝 **[AI Chatbotlar Neden Hala Yanlış Cevap Veriyor?](https://mustafaerbay.com.tr/blog/technology/ai-chatbotlar-neden-hala-yanlis-cevap-veriyor/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub>
-📝 **[Passkey Ekosisteminde Güncel Durum: Kolaylık mı, Kilitlenme mi?](https://mustafaerbay.com.tr/blog/life/passkey-ekosisteminde-guncel-durum-kolaylik-mi-kilitlenme-mi/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Mükemmel Mimari Diye Bir Şey Yok](https://mustafaerbay.com.tr/blog/technology/mukemmel-mimari-diye-bir-sey-yok/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
