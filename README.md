@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Her Teknolojiye Yetişme Çılgınlığı: Pragmatik Mühendislik](https://mustafaerbay.com.tr/blog/career/harika-bir-konu-onerisi-geldi/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
 📝 **[AI Destekli Geliştirici Araçlarını Seçerken 3 Kritik Adım](https://mustafaerbay.com.tr/blog/career/ai-destekli-gelistirici-araclarini-secerken-3-kritik-adim/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
 📝 **[Bir Mühendis Olarak Dijital Düzenimi Nasıl Kuruyorum?](https://mustafaerbay.com.tr/blog/life/bir-muhendis-olarak-dijital-duzenimi-nasil-kuruyorum/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
-📝 **[İnternetten Kişisel Bilgilerini Sildir: Veri Toplayıcı Sitelerden](https://mustafaerbay.com.tr/blog/tutorials/internetten-kisisel-bilgilerini-sildir-veri-toplayici-sitelerden/)** &nbsp;·&nbsp; <sub>Jul 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Indie Hacker Projelerinde Güvenliğin Unutulan Maliyeti](https://mustafaerbay.com.tr/blog/career/indie-hacker-projelerinde-guvenligin-unutulan-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
