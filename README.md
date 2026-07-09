@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Yıllarca Yanlış Bildiğim Bir Yazılım Gerçeği](https://mustafaerbay.com.tr/blog/technology/yillarca-yanlis-bildigim-bir-yazilim-gercegi/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
 📝 **[Otonom AI Agent&#39;larının Mimari Temelleri](https://mustafaerbay.com.tr/blog/technology/otonom-ai-agentlarinin-mimari-temelleri/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
 📝 **[Para İçin mi Tutku İçin mi Kod Yazıyoruz?](https://mustafaerbay.com.tr/blog/career/para-icin-mi-tutku-icin-mi-kod-yaziyoruz/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
-📝 **[Authenticator Uygulamaları ve SMS 2FA: Güvenlikte 3 Temel Fark](https://mustafaerbay.com.tr/blog/technology/authenticator-uygulamalari-ve-sms-2fa-guvenlikte-3-temel-fark/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
-📝 **[Her Teknolojiye Yetişme Çılgınlığı: Pragmatik Mühendislik](https://mustafaerbay.com.tr/blog/career/harika-bir-konu-onerisi-geldi/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[VPN: Güvenlik Algısı ve 3 Gerçek Maliyet](https://mustafaerbay.com.tr/blog/technology/vpn-guvenlik-algisi-ve-3-gercek-maliyet/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
+📝 **[Authenticator Uygulamaları ve SMS 2FA: Güvenlikte 3 Temel Fark](https://mustafaerbay.com.tr/blog/technology/authenticator-uygulamalari-ve-sms-2fa-guvenlikte-3-temel-fark/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
