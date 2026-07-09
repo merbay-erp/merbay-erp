@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Yıllarca Yanlış Bildiğim Bir Yazılım Gerçeği](https://mustafaerbay.com.tr/blog/technology/yillarca-yanlis-bildigim-bir-yazilim-gercegi/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
 📝 **[Authenticator Uygulamaları ve SMS 2FA: Güvenlikte 3 Temel Fark](https://mustafaerbay.com.tr/blog/technology/authenticator-uygulamalari-ve-sms-2fa-guvenlikte-3-temel-fark/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
 📝 **[Her Teknolojiye Yetişme Çılgınlığı: Pragmatik Mühendislik](https://mustafaerbay.com.tr/blog/career/harika-bir-konu-onerisi-geldi/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
 📝 **[AI Destekli Geliştirici Araçlarını Seçerken 3 Kritik Adım](https://mustafaerbay.com.tr/blog/career/ai-destekli-gelistirici-araclarini-secerken-3-kritik-adim/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
-📝 **[Bir Mühendis Olarak Dijital Düzenimi Nasıl Kuruyorum?](https://mustafaerbay.com.tr/blog/life/bir-muhendis-olarak-dijital-duzenimi-nasil-kuruyorum/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub>
-📝 **[Indie Hacker Projelerinde Güvenliğin Unutulan Maliyeti](https://mustafaerbay.com.tr/blog/career/indie-hacker-projelerinde-guvenligin-unutulan-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Bir Mühendis Olarak Dijital Düzenimi Nasıl Kuruyorum?](https://mustafaerbay.com.tr/blog/life/bir-muhendis-olarak-dijital-duzenimi-nasil-kuruyorum/)** &nbsp;·&nbsp; <sub>Jul 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
