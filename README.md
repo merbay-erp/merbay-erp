@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Aboneliklerden Bıktım: Her Şeyi Kendim Barındırmaya Karar Verdim](https://mustafaerbay.com.tr/blog/technology/aboneliklerden-biktim-her-seyi-kendim-barindirmaya-karar-verdim/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
+📝 **[AI Araçları Yetenek Gelişimini Gerçekten Hızlandırıyor mu?](https://mustafaerbay.com.tr/blog/career/ai-araclari-yetenek-gelisimini-gercekten-hizlandiriyor-mu/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
 📝 **[Yıllarca Yanlış Bildiğim Bir Yazılım Gerçeği](https://mustafaerbay.com.tr/blog/technology/yillarca-yanlis-bildigim-bir-yazilim-gercegi/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
 📝 **[Otonom AI Agent&#39;larının Mimari Temelleri](https://mustafaerbay.com.tr/blog/technology/otonom-ai-agentlarinin-mimari-temelleri/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
-📝 **[Para İçin mi Tutku İçin mi Kod Yazıyoruz?](https://mustafaerbay.com.tr/blog/career/para-icin-mi-tutku-icin-mi-kod-yaziyoruz/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub>
-📝 **[VPN: Güvenlik Algısı ve 3 Gerçek Maliyet](https://mustafaerbay.com.tr/blog/technology/vpn-guvenlik-algisi-ve-3-gercek-maliyet/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Para İçin mi Tutku İçin mi Kod Yazıyoruz?](https://mustafaerbay.com.tr/blog/career/para-icin-mi-tutku-icin-mi-kod-yaziyoruz/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
