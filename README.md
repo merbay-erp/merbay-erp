@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[AI Araçları Yetenek Gelişimini Gerçekten Hızlandırıyor mu?](https://mustafaerbay.com.tr/blog/career/ai-araclari-yetenek-gelisimini-gercekten-hizlandiriyor-mu/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
 📝 **[Self-Hosting Yaparken Kariyerine Katacağın 5 Önemli Beceri](https://mustafaerbay.com.tr/blog/career/self-hosting-yaparken-kariyerine-katacagin-5-onemli-beceri/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
 📝 **[Gmail vs Proton Mail: E-Posta Güvenliğinde Hangi Yolu Seçmeli?](https://mustafaerbay.com.tr/blog/life/gmail-vs-proton-mail-e-posta-guvenliginde-hangi-yolu-secmeli/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
-📝 **[Yıllarca Yanlış Bildiğim Bir Yazılım Gerçeği](https://mustafaerbay.com.tr/blog/technology/yillarca-yanlis-bildigim-bir-yazilim-gercegi/)** &nbsp;·&nbsp; <sub>Jul 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kendi AI Destekli Verimlilik Setinizi Kurarken 3 Stratejik Adım](https://mustafaerbay.com.tr/blog/technology/kendi-ai-destekli-verimlilik-setinizi-kurarken-3-stratejik-adim/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
