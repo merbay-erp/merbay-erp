@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[AWS Sertifikaları yerine Self-Hosting: Hangisi Daha Değerli?](https://mustafaerbay.com.tr/blog/career/aws-sertifikalari-yerine-self-hosting-hangisi-daha-degerli/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
 📝 **[Teknik Lider mi Yönetici mi: Kariyer Yolunu Seçmek İçin 3 Adım](https://mustafaerbay.com.tr/blog/career/teknik-lider-mi-yonetici-mi-kariyer-yolunu-secmek-icin-3-adim/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
 📝 **[AI Araçları Çağında Yazılımcı Verimliliğinin Gerçekleri](https://mustafaerbay.com.tr/blog/career/ai-araclari-caginda-yazilimci-verimliliginin-gercekleri/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
-📝 **[Aboneliklerden Bıktım: Her Şeyi Kendim Barındırmaya Karar Verdim](https://mustafaerbay.com.tr/blog/technology/aboneliklerden-biktim-her-seyi-kendim-barindirmaya-karar-verdim/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Açık Kaynak Uygulamaları Barındırma: Bağımsızlığın Bakım Maliyeti](https://mustafaerbay.com.tr/blog/life/acik-kaynak-uygulamalari-barindirma-bagimsizligin-bakim-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
