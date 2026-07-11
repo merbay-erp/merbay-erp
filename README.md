@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[N100 Mini-PC ile Homelab Kurulumu: 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/n100-mini-pc-ile-homelab-kurulumu-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
 📝 **[Aboneliklerden Bıktım: Her Şeyi Kendim Barındırmaya Karar Verdim](https://mustafaerbay.com.tr/blog/technology/aboneliklerden-biktim-her-seyi-kendim-barindirmaya-karar-verdim/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
 📝 **[AI Araçları Yetenek Gelişimini Gerçekten Hızlandırıyor mu?](https://mustafaerbay.com.tr/blog/career/ai-araclari-yetenek-gelisimini-gercekten-hizlandiriyor-mu/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
 📝 **[Self-Hosting Yaparken Kariyerine Katacağın 5 Önemli Beceri](https://mustafaerbay.com.tr/blog/career/self-hosting-yaparken-kariyerine-katacagin-5-onemli-beceri/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
-📝 **[Gmail vs Proton Mail: E-Posta Güvenliğinde Hangi Yolu Seçmeli?](https://mustafaerbay.com.tr/blog/life/gmail-vs-proton-mail-e-posta-guvenliginde-hangi-yolu-secmeli/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub>
-📝 **[Kendi AI Destekli Verimlilik Setinizi Kurarken 3 Stratejik Adım](https://mustafaerbay.com.tr/blog/technology/kendi-ai-destekli-verimlilik-setinizi-kurarken-3-stratejik-adim/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Gmail vs Proton Mail: E-Posta Güvenliğinde Hangi Yolu Seçmeli?](https://mustafaerbay.com.tr/blog/life/gmail-vs-proton-mail-e-posta-guvenliginde-hangi-yolu-secmeli/)** &nbsp;·&nbsp; <sub>Jul 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
