@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Function Calling ile Akıllı Uygulamalar Geliştirme: 3 Adım](https://mustafaerbay.com.tr/blog/tutorials/ai-function-calling-ile-akilli-uygulamalar-gelistirme-3-adim/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
+📝 **[Self-Hosted Uygulamalarda Güncelleme Yönetimi: Güncel Durum](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulamalarda-guncelleme-yonetimi-guncel-durum/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
+📝 **[AI Ses Dolandırıcılığının Üç Maliyeti](https://mustafaerbay.com.tr/blog/life/ai-ses-dolandiriciliginin-uc-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
 📝 **[N100 Mini-PC ile Homelab Kurulumu: 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/n100-mini-pc-ile-homelab-kurulumu-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
-📝 **[AWS Sertifikaları yerine Self-Hosting: Hangisi Daha Değerli?](https://mustafaerbay.com.tr/blog/career/aws-sertifikalari-yerine-self-hosting-hangisi-daha-degerli/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
-📝 **[Teknik Lider mi Yönetici mi: Kariyer Yolunu Seçmek İçin 3 Adım](https://mustafaerbay.com.tr/blog/career/teknik-lider-mi-yonetici-mi-kariyer-yolunu-secmek-icin-3-adim/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub>
-📝 **[AI Araçları Çağında Yazılımcı Verimliliğinin Gerçekleri](https://mustafaerbay.com.tr/blog/career/ai-araclari-caginda-yazilimci-verimliliginin-gercekleri/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AWS Sertifikaları yerine Self-Hosting: Hangisi Daha Değerli?](https://mustafaerbay.com.tr/blog/career/aws-sertifikalari-yerine-self-hosting-hangisi-daha-degerli/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
