@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Self-Hosted Uygulamalarda Güncelleme Yönetimi: Güncel Durum](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulamalarda-guncelleme-yonetimi-guncel-durum/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
 📝 **[AI Ses Dolandırıcılığının Üç Maliyeti](https://mustafaerbay.com.tr/blog/life/ai-ses-dolandiriciliginin-uc-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
 📝 **[Özel LLM Fine-Tuning Yatırımı Her Zaman Geri Dönüyor mu?](https://mustafaerbay.com.tr/blog/tutorials/ozel-llm-fine-tuning-yatirimi-her-zaman-geri-donuyor-mu/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
-📝 **[N100 Mini-PC ile Homelab Kurulumu: 5 Pratik Adım](https://mustafaerbay.com.tr/blog/tutorials/n100-mini-pc-ile-homelab-kurulumu-5-pratik-adim/)** &nbsp;·&nbsp; <sub>Jul 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Docker Compose ile Self-Hosted Uygulamaları Hızla Çalıştırmanın 5 Yolu](https://mustafaerbay.com.tr/blog/tutorials/docker-compose-ile-self-hosted-uygulamalari-hizla-calistirmanin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
