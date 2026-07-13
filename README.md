@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Kendi Medya Sunucusu: Rahatlığın Getirdiği 4 Zorluk](https://mustafaerbay.com.tr/blog/technology/kendi-medya-sunucusu-rahatligin-getirdigi-4-zorluk/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub>
+📝 **[Kariyerde Tek Bir Alanda Derinleşmek mi, Çok Yönlü Olmak mı Gerekli?](https://mustafaerbay.com.tr/blog/tutorials/kariyerde-tek-bir-alanda-derinlesmek-mi-cok-yonlu-olmak-mi-gerekli/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub>
 📝 **[AI Function Calling ile Akıllı Uygulamalar Geliştirme: 3 Adım](https://mustafaerbay.com.tr/blog/tutorials/ai-function-calling-ile-akilli-uygulamalar-gelistirme-3-adim/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
 📝 **[Self-Hosted Uygulamalarda Güncelleme Yönetimi: Güncel Durum](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulamalarda-guncelleme-yonetimi-guncel-durum/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
-📝 **[AI Ses Dolandırıcılığının Üç Maliyeti](https://mustafaerbay.com.tr/blog/life/ai-ses-dolandiriciliginin-uc-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
-📝 **[Özel LLM Fine-Tuning Yatırımı Her Zaman Geri Dönüyor mu?](https://mustafaerbay.com.tr/blog/tutorials/ozel-llm-fine-tuning-yatirimi-her-zaman-geri-donuyor-mu/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub>
-📝 **[Docker Compose ile Self-Hosted Uygulamaları Hızla Çalıştırmanın 5 Yolu](https://mustafaerbay.com.tr/blog/tutorials/docker-compose-ile-self-hosted-uygulamalari-hizla-calistirmanin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Ses Dolandırıcılığının Üç Maliyeti](https://mustafaerbay.com.tr/blog/life/ai-ses-dolandiriciliginin-uc-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
