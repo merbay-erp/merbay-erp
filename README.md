@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Konferanslar ve Sertifikalar: Kariyerde Abartılan Araçlar mı?](https://mustafaerbay.com.tr/blog/technology/konferanslar-ve-sertifikalar-kariyerde-abartilan-araclar-mi/)** &nbsp;·&nbsp; <sub>Jul 14th, 2026</sub>
+📝 **[Self-Hosted VPN mi Ticari Servis mi: Bağımsızlık ve Bakım Bedeli](https://mustafaerbay.com.tr/blog/tutorials/self-hosted-vpn-mi-ticari-servis-mi-bagimsizlik-ve-bakim-bedeli/)** &nbsp;·&nbsp; <sub>Jul 14th, 2026</sub>
 📝 **[Kendi Medya Sunucusu: Rahatlığın Getirdiği 4 Zorluk](https://mustafaerbay.com.tr/blog/technology/kendi-medya-sunucusu-rahatligin-getirdigi-4-zorluk/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub>
 📝 **[Kariyerde Tek Bir Alanda Derinleşmek mi, Çok Yönlü Olmak mı Gerekli?](https://mustafaerbay.com.tr/blog/tutorials/kariyerde-tek-bir-alanda-derinlesmek-mi-cok-yonlu-olmak-mi-gerekli/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub>
-📝 **[AI Araçları Junior Geliştiricilerin Kariyerini Neden Zorluyor?](https://mustafaerbay.com.tr/blog/career/ai-araclari-junior-gelistiricilerin-kariyerini-neden-zorluyor/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub>
-📝 **[Cloudflare Tunnel vs Nginx Proxy Manager: Self-Hosting için Hangisi?](https://mustafaerbay.com.tr/blog/technology/cloudflare-tunnel-vs-nginx-proxy-manager-self-hosting-icin-hangisi/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Araçları Junior Geliştiricilerin Kariyerini Neden Zorluyor?](https://mustafaerbay.com.tr/blog/career/ai-araclari-junior-gelistiricilerin-kariyerini-neden-zorluyor/)** &nbsp;·&nbsp; <sub>Jul 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
