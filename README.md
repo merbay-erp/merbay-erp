@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Yapay Zeka Araçları: Harcamaları Optimize Etmenin Temelleri](https://mustafaerbay.com.tr/blog/life/yapay-zeka-araclari-harcamalari-optimize-etmenin-temelleri/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub>
 📝 **[Full-Stack Olmak AI Çağında Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/technology/full-stack-olmak-ai-caginda-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub>
 📝 **[İki Faktörlü Kimlik Doğrulama: 3 Güvenlik Farkı ve Seçim Rehberi](https://mustafaerbay.com.tr/blog/life/iki-faktorlu-kimlik-dogrulama-3-guvenlik-farki-ve-secim-rehberi/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub>
-📝 **[Konferanslar ve Sertifikalar: Kariyerde Abartılan Araçlar mı?](https://mustafaerbay.com.tr/blog/technology/konferanslar-ve-sertifikalar-kariyerde-abartilan-araclar-mi/)** &nbsp;·&nbsp; <sub>Jul 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[DIY NAS vs Synology: Kariyerine Hangi Homelab Daha Değerli?](https://mustafaerbay.com.tr/blog/career/diy-nas-vs-synology-kariyerine-hangi-homelab-daha-degerli/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
