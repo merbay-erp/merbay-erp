@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Agent Kurulumu: Vaat Edilen Otonomi Gerçek mi?](https://mustafaerbay.com.tr/blog/tutorials/ai-agent-kurulumu-vaat-edilen-otonomi-gercek-mi/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
 📝 **[Cloudflare Tunnel ile Ev Sunucunuza Güvenli Erişim İçin 5 Yol](https://mustafaerbay.com.tr/blog/tutorials/cloudflare-tunnel-ile-ev-sunucunuza-guvenli-erisim-icin-5-yol/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
+📝 **[Mesajlaşma Güvenliği: Signal mi WhatsApp mı?](https://mustafaerbay.com.tr/blog/life/mesajlasma-guvenligi-signal-mi-whatsapp-mi/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
 📝 **[Passkey Ekosisteminde Güncel Durum: Güvenlik ve Erişilebilirlik](https://mustafaerbay.com.tr/blog/technology/passkey-ekosisteminde-guncel-durum-guvenlik-ve-erisilebilirlik/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub>
-📝 **[Yapay Zeka Araçları: Harcamaları Optimize Etmenin Temelleri](https://mustafaerbay.com.tr/blog/life/yapay-zeka-araclari-harcamalari-optimize-etmenin-temelleri/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub>
-📝 **[Full-Stack Olmak AI Çağında Gerçekten Gerekli mi?](https://mustafaerbay.com.tr/blog/technology/full-stack-olmak-ai-caginda-gercekten-gerekli-mi/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yapay Zeka Araçları: Harcamaları Optimize Etmenin Temelleri](https://mustafaerbay.com.tr/blog/life/yapay-zeka-araclari-harcamalari-optimize-etmenin-temelleri/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
