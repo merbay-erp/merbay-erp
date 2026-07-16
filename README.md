@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Cloudflare Tunnel ile Ev Sunucunuza Güvenli Erişim İçin 5 Yol](https://mustafaerbay.com.tr/blog/tutorials/cloudflare-tunnel-ile-ev-sunucunuza-guvenli-erisim-icin-5-yol/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
 📝 **[Mesajlaşma Güvenliği: Signal mi WhatsApp mı?](https://mustafaerbay.com.tr/blog/life/mesajlasma-guvenligi-signal-mi-whatsapp-mi/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
 📝 **[AI Kod Editörleri: Copilot, Cursor, Claude Code Arasında Nasıl Seçim](https://mustafaerbay.com.tr/blog/technology/ai-kod-editorleri-copilot-cursor-claude-code-arasinda-nasil-secim/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub>
-📝 **[Passkey Ekosisteminde Güncel Durum: Güvenlik ve Erişilebilirlik](https://mustafaerbay.com.tr/blog/technology/passkey-ekosisteminde-guncel-durum-guvenlik-ve-erisilebilirlik/)** &nbsp;·&nbsp; <sub>Jul 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Araçları Maliyet Optimizasyonu: Sistem Mimarisi Temelleri](https://mustafaerbay.com.tr/blog/life/ai-araclari-maliyet-optimizasyonu-sistem-mimarisi-temelleri/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
