@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Junior Geliştiriciler İçin AI Çağında Öne Çıkmanın 5 Yolu](https://mustafaerbay.com.tr/blog/tutorials/junior-gelistiriciler-icin-ai-caginda-one-cikmanin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
 📝 **[Yerel LLM&#39;lerle Kodlama: Kurulum, Maliyet ve Verimlilik Anatomisi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llmlerle-kodlama-kurulum-maliyet-ve-verimlilik-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
 📝 **[Proxmox Homelab: Tek Sunucuda Sanallaştırmanın Üç Ağır Bedeli](https://mustafaerbay.com.tr/blog/tutorials/proxmox-homelab-tek-sunucuda-sanallastirmanin-uc-agir-bedeli/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
-📝 **[AI Agent Kurulumu: Vaat Edilen Otonomi Gerçek mi?](https://mustafaerbay.com.tr/blog/tutorials/ai-agent-kurulumu-vaat-edilen-otonomi-gercek-mi/)** &nbsp;·&nbsp; <sub>Jul 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Hosting ile Geliştirici Becerilerini İlerletmenin 5 Yolu](https://mustafaerbay.com.tr/blog/career/self-hosting-ile-gelistirici-becerilerini-ilerletmenin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
