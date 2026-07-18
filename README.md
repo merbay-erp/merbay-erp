@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Profesyonel Görünürlüğün Kişisel Veri Güvenliği Bedeli](https://mustafaerbay.com.tr/blog/career/profesyonel-gorunurlugun-kisisel-veri-guvenligi-bedeli/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
 📝 **[AI ile Test Kodu Üretimi: Kapsamlı Güvenlik Sağlar mı?](https://mustafaerbay.com.tr/blog/tutorials/ai-ile-test-kodu-uretimi-kapsamli-guvenlik-saglar-mi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
 📝 **[Yerel LLM&#39;ler &lpar;Ollama&rpar;: Neden Her Zaman Bekleneni Vermiyor?](https://mustafaerbay.com.tr/blog/technology/yerel-llmler-ollama-neden-her-zaman-bekleneni-vermiyor/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
-📝 **[Nextcloud vs Immich: Self-Hosting için Hangi Medya Sunucusu Doğru](https://mustafaerbay.com.tr/blog/tutorials/nextcloud-vs-immich-self-hosting-icin-hangi-medya-sunucusu-dogru/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Teknik Liderlik mi Yönetsel Liderlik mi: Kariyer Rotanı 5 Adımda](https://mustafaerbay.com.tr/blog/tutorials/teknik-liderlik-mi-yonetsel-liderlik-mi-kariyer-rotani-5-adimda/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
