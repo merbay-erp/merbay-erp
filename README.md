@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Yapay Zeka Çağında Geliştirici Yeteneklerinin Evrimi ve Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-caginda-gelistirici-yeteneklerinin-evrimi-ve-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
+📝 **[Profesyonel Görünürlüğün Kişisel Veri Güvenliği Bedeli](https://mustafaerbay.com.tr/blog/career/profesyonel-gorunurlugun-kisisel-veri-guvenligi-bedeli/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
+📝 **[AI ile Test Kodu Üretimi: Kapsamlı Güvenlik Sağlar mı?](https://mustafaerbay.com.tr/blog/tutorials/ai-ile-test-kodu-uretimi-kapsamli-guvenlik-saglar-mi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
 📝 **[Nextcloud vs Immich: Self-Hosting için Hangi Medya Sunucusu Doğru](https://mustafaerbay.com.tr/blog/tutorials/nextcloud-vs-immich-self-hosting-icin-hangi-medya-sunucusu-dogru/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
-📝 **[Junior Geliştiriciler İçin AI Çağında Öne Çıkmanın 5 Yolu](https://mustafaerbay.com.tr/blog/tutorials/junior-gelistiriciler-icin-ai-caginda-one-cikmanin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
-📝 **[Yerel LLM&#39;lerle Kodlama: Kurulum, Maliyet ve Verimlilik Anatomisi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llmlerle-kodlama-kurulum-maliyet-ve-verimlilik-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub>
-📝 **[Proxmox Homelab: Tek Sunucuda Sanallaştırmanın Üç Ağır Bedeli](https://mustafaerbay.com.tr/blog/tutorials/proxmox-homelab-tek-sunucuda-sanallastirmanin-uc-agir-bedeli/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Junior Geliştiriciler İçin AI Çağında Öne Çıkmanın 5 Yolu](https://mustafaerbay.com.tr/blog/tutorials/junior-gelistiriciler-icin-ai-caginda-one-cikmanin-5-yolu/)** &nbsp;·&nbsp; <sub>Jul 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
