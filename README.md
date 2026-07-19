@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[AI Destekli Kodlama: Üretkenlik Vaadi Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/ai-destekli-kodlama-uretkenlik-vaadi-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
 📝 **[AI Araçları ile Teknik Sertifikaları 5 Adımda Kazanma](https://mustafaerbay.com.tr/blog/career/ai-araclari-ile-teknik-sertifikalari-5-adimda-kazanma/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
 📝 **[Self-Hosted Servislerde Veri Yedekleme: Riskler ve Pratik Çözümler](https://mustafaerbay.com.tr/blog/technology/self-hosted-servislerde-veri-yedekleme-riskler-ve-pratik-cozumler/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
-📝 **[Yapay Zeka Çağında Geliştirici Yeteneklerinin Evrimi ve Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-caginda-gelistirici-yeteneklerinin-evrimi-ve-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kurumsal Kariyer vs. Indie Hacker: Özgürlüğün ve Bedellerin Anatomisi](https://mustafaerbay.com.tr/blog/life/kurumsal-kariyer-vs-indie-hacker-ozgurlugun-ve-bedellerin-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
