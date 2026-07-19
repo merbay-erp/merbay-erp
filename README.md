@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Şifre Yöneticileri: Açık Kaynak vs Ticari Çözümlerin 3 Güvenlik Farkı](https://mustafaerbay.com.tr/blog/life/sifre-yoneticileri-acik-kaynak-vs-ticari-cozumlerin-3-guvenlik-farki/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
+📝 **[AI Destekli Kodlama: Üretkenlik Vaadi Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/ai-destekli-kodlama-uretkenlik-vaadi-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
+📝 **[AI Araçları ile Teknik Sertifikaları 5 Adımda Kazanma](https://mustafaerbay.com.tr/blog/career/ai-araclari-ile-teknik-sertifikalari-5-adimda-kazanma/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
 📝 **[Yapay Zeka Çağında Geliştirici Yeteneklerinin Evrimi ve Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-caginda-gelistirici-yeteneklerinin-evrimi-ve-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
-📝 **[Profesyonel Görünürlüğün Kişisel Veri Güvenliği Bedeli](https://mustafaerbay.com.tr/blog/career/profesyonel-gorunurlugun-kisisel-veri-guvenligi-bedeli/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
-📝 **[AI ile Test Kodu Üretimi: Kapsamlı Güvenlik Sağlar mı?](https://mustafaerbay.com.tr/blog/tutorials/ai-ile-test-kodu-uretimi-kapsamli-guvenlik-saglar-mi/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub>
-📝 **[Yerel LLM&#39;ler &lpar;Ollama&rpar;: Neden Her Zaman Bekleneni Vermiyor?](https://mustafaerbay.com.tr/blog/technology/yerel-llmler-ollama-neden-her-zaman-bekleneni-vermiyor/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Profesyonel Görünürlüğün Kişisel Veri Güvenliği Bedeli](https://mustafaerbay.com.tr/blog/career/profesyonel-gorunurlugun-kisisel-veri-guvenligi-bedeli/)** &nbsp;·&nbsp; <sub>Jul 18th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
