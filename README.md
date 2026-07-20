@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[AI Modelleri Seçimi: Doğru Araca Karar Verme Anatomisi](https://mustafaerbay.com.tr/blog/life/ai-modelleri-secimi-dogru-araca-karar-verme-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
 📝 **[Self-Hosted Uygulama Güncellemeleri: Otomasyon ve İstikrar Dengesi](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulama-guncellemeleri-otomasyon-ve-istikrar-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
 📝 **[Geliştirici Kariyerinde Sızma Testi Bilgisi: 5 Maliyet-Fayda Dengesi](https://mustafaerbay.com.tr/blog/career/gelistirici-kariyerinde-sizma-testi-bilgisi-5-maliyet-fayda-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
-📝 **[Şifre Yöneticileri: Açık Kaynak vs Ticari Çözümlerin 3 Güvenlik Farkı](https://mustafaerbay.com.tr/blog/life/sifre-yoneticileri-acik-kaynak-vs-ticari-cozumlerin-3-guvenlik-farki/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yapay Zeka Asistanları: Gerçekten Her Şeye Yetecek mi?](https://mustafaerbay.com.tr/blog/life/yapay-zeka-asistanlari-gercekten-her-seye-yetecek-mi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
