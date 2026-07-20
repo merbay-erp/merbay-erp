@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI ile Spec&#39;ten Kod Üretme: 5 Adımda Verimlilik ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/technology/ai-ile-specten-kod-uretme-5-adimda-verimlilik-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
 📝 **[AI Modelleri Seçimi: Doğru Araca Karar Verme Anatomisi](https://mustafaerbay.com.tr/blog/life/ai-modelleri-secimi-dogru-araca-karar-verme-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
+📝 **[Self-Hosted Uygulama Güncellemeleri: Otomasyon ve İstikrar Dengesi](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulama-guncellemeleri-otomasyon-ve-istikrar-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
 📝 **[Şifre Yöneticileri: Açık Kaynak vs Ticari Çözümlerin 3 Güvenlik Farkı](https://mustafaerbay.com.tr/blog/life/sifre-yoneticileri-acik-kaynak-vs-ticari-cozumlerin-3-guvenlik-farki/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
-📝 **[AI Destekli Kodlama: Üretkenlik Vaadi Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/ai-destekli-kodlama-uretkenlik-vaadi-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub>
-📝 **[AI Araçları ile Teknik Sertifikaları 5 Adımda Kazanma](https://mustafaerbay.com.tr/blog/career/ai-araclari-ile-teknik-sertifikalari-5-adimda-kazanma/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Destekli Kodlama: Üretkenlik Vaadi Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/ai-destekli-kodlama-uretkenlik-vaadi-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
