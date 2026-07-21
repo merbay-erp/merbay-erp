@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Homelab: Kariyer Gelişiminin Beklenmedik Zaman Maliyeti](https://mustafaerbay.com.tr/blog/career/homelab-kariyer-gelisiminin-beklenmedik-zaman-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub>
+📝 **[Kişisel Bilgi Yönetiminde AI Araçları Neden Bekleneni Vermiyor?](https://mustafaerbay.com.tr/blog/life/kisisel-bilgi-yonetiminde-ai-araclari-neden-bekleneni-vermiyor/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub>
 📝 **[AI ile Spec&#39;ten Kod Üretme: 5 Adımda Verimlilik ve Maliyet Analizi](https://mustafaerbay.com.tr/blog/technology/ai-ile-specten-kod-uretme-5-adimda-verimlilik-ve-maliyet-analizi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
 📝 **[AI Modelleri Seçimi: Doğru Araca Karar Verme Anatomisi](https://mustafaerbay.com.tr/blog/life/ai-modelleri-secimi-dogru-araca-karar-verme-anatomisi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
-📝 **[Self-Hosted Uygulama Güncellemeleri: Otomasyon ve İstikrar Dengesi](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulama-guncellemeleri-otomasyon-ve-istikrar-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
-📝 **[Geliştirici Kariyerinde Sızma Testi Bilgisi: 5 Maliyet-Fayda Dengesi](https://mustafaerbay.com.tr/blog/career/gelistirici-kariyerinde-sizma-testi-bilgisi-5-maliyet-fayda-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub>
-📝 **[Yapay Zeka Asistanları: Gerçekten Her Şeye Yetecek mi?](https://mustafaerbay.com.tr/blog/life/yapay-zeka-asistanlari-gercekten-her-seye-yetecek-mi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Hosted Uygulama Güncellemeleri: Otomasyon ve İstikrar Dengesi](https://mustafaerbay.com.tr/blog/technology/self-hosted-uygulama-guncellemeleri-otomasyon-ve-istikrar-dengesi/)** &nbsp;·&nbsp; <sub>Jul 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
