@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[AI Agent&#39;lar: Senior Geliştiricinin Yerini Alabilir mi?](https://mustafaerbay.com.tr/blog/career/ai-agentlar-senior-gelistiricinin-yerini-alabilir-mi/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub>
+📝 **[Indie Hacker Kariyeri: SaaS mı Self-Hosting mi?](https://mustafaerbay.com.tr/blog/career/indie-hacker-kariyeri-saas-mi-self-hosting-mi/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub>
 📝 **[Homelab: Kariyer Gelişiminin Beklenmedik Zaman Maliyeti](https://mustafaerbay.com.tr/blog/career/homelab-kariyer-gelisiminin-beklenmedik-zaman-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub>
 📝 **[Kişisel Bilgi Yönetiminde AI Araçları Neden Bekleneni Vermiyor?](https://mustafaerbay.com.tr/blog/life/kisisel-bilgi-yonetiminde-ai-araclari-neden-bekleneni-vermiyor/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub>
-📝 **[Geliştirici Kariyerinde &#39;Hustle Culture&#39; Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/gelistirici-kariyerinde-hustle-culture-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub>
-📝 **[2FA Yöntemleri: SMS, Uygulama, Donanım Anahtarı Arasında Hangisini](https://mustafaerbay.com.tr/blog/life/2fa-yontemleri-sms-uygulama-donanim-anahtari-arasinda-hangisini/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Geliştirici Kariyerinde &#39;Hustle Culture&#39; Neden Abartılıyor?](https://mustafaerbay.com.tr/blog/life/gelistirici-kariyerinde-hustle-culture-neden-abartiliyor/)** &nbsp;·&nbsp; <sub>Jul 21st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
