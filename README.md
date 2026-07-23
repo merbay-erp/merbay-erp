@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Vaultwarden Kurulumu: Güvenli Şifre Yönetimini Hemen Başlatın](https://mustafaerbay.com.tr/blog/tutorials/vaultwarden-kurulumu-guvenli-sifre-yonetimini-hemen-baslatin/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub>
 📝 **[Büyük Teknolojiye Hayır Demenin Üç Zor Bedeli](https://mustafaerbay.com.tr/blog/life/buyuk-teknolojiye-hayir-demenin-uc-zor-bedeli/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub>
+📝 **[Farklı AI Araçları Arası Geçiş Neden Zor, Çözümü Nasıl?](https://mustafaerbay.com.tr/blog/tutorials/farkli-ai-araclari-arasi-gecis-neden-zor-cozumu-nasil/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub>
 📝 **[AI Agent&#39;lar: Senior Geliştiricinin Yerini Alabilir mi?](https://mustafaerbay.com.tr/blog/career/ai-agentlar-senior-gelistiricinin-yerini-alabilir-mi/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub>
-📝 **[Indie Hacker Kariyeri: SaaS mı Self-Hosting mi?](https://mustafaerbay.com.tr/blog/career/indie-hacker-kariyeri-saas-mi-self-hosting-mi/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub>
-📝 **[Türkiye&#39;de SMS ve e-Devlet dolandırıcılıkları: Yaygınlık ve korunma](https://mustafaerbay.com.tr/blog/technology/turkiyede-sms-ve-e-devlet-dolandiriciliklari-yayginlik-ve-korunma/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Indie Hacker Kariyeri: SaaS mı Self-Hosting mi?](https://mustafaerbay.com.tr/blog/career/indie-hacker-kariyeri-saas-mi-self-hosting-mi/)** &nbsp;·&nbsp; <sub>Jul 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
