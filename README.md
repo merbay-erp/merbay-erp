@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Yazılım Geliştiricilikte Geniş Bilgi mi, Derin Uzmanlık mı Daha](https://mustafaerbay.com.tr/blog/technology/yazilim-gelistiricilikte-genis-bilgi-mi-derin-uzmanlik-mi-daha/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
 📝 **[Google Ekosisteminden Çıkış: Mahremiyetin 3 Pratik Bedeli](https://mustafaerbay.com.tr/blog/life/google-ekosisteminden-cikis-mahremiyetin-3-pratik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
+📝 **[Self-Hosted CI/CD mi, Bulut Çözümleri mi: Kariyer İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/self-hosted-cicd-mi-bulut-cozumleri-mi-kariyer-icin-hangisi/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
 📝 **[Vaultwarden Kurulumu: Güvenli Şifre Yönetimini Hemen Başlatın](https://mustafaerbay.com.tr/blog/tutorials/vaultwarden-kurulumu-guvenli-sifre-yonetimini-hemen-baslatin/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub>
-📝 **[Büyük Teknolojiye Hayır Demenin Üç Zor Bedeli](https://mustafaerbay.com.tr/blog/life/buyuk-teknolojiye-hayir-demenin-uc-zor-bedeli/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub>
-📝 **[Farklı AI Araçları Arası Geçiş Neden Zor, Çözümü Nasıl?](https://mustafaerbay.com.tr/blog/tutorials/farkli-ai-araclari-arasi-gecis-neden-zor-cozumu-nasil/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Büyük Teknolojiye Hayır Demenin Üç Zor Bedeli](https://mustafaerbay.com.tr/blog/life/buyuk-teknolojiye-hayir-demenin-uc-zor-bedeli/)** &nbsp;·&nbsp; <sub>Jul 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
