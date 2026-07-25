@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Yerel LLM mi, Bulut AI mı: Mahremiyet ve Kontrolün Bedeli](https://mustafaerbay.com.tr/blog/technology/yerel-llm-mi-bulut-ai-mi-mahremiyet-ve-kontrolun-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Self-Hosting Ekosisteminde Docker Compose&#39;un Basitlik Rolü](https://mustafaerbay.com.tr/blog/life/self-hosting-ekosisteminde-docker-composeun-basitlik-rolu/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Yapay Zeka Destekli Geliştiricilik: Temel Becerilerin Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-destekli-gelistiricilik-temel-becerilerin-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
-📝 **[Yazılım Geliştiricilikte Geniş Bilgi mi, Derin Uzmanlık mı Daha](https://mustafaerbay.com.tr/blog/technology/yazilim-gelistiricilikte-genis-bilgi-mi-derin-uzmanlik-mi-daha/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
-📝 **[Google Ekosisteminden Çıkış: Mahremiyetin 3 Pratik Bedeli](https://mustafaerbay.com.tr/blog/life/google-ekosisteminden-cikis-mahremiyetin-3-pratik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Güvenli DNS: Performans İçin Mahremiyetin Takas Bedeli](https://mustafaerbay.com.tr/blog/tutorials/guvenli-dns-performans-icin-mahremiyetin-takas-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
+📝 **[Yazılım Geliştiricilikte Geniş Bilgi mi, Derin Uzmanlık mı Daha](https://mustafaerbay.com.tr/blog/technology/yazilim-gelistiricilikte-genis-bilgi-mi-derin-uzmanlik-mi-daha/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
