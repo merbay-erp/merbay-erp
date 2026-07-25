@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Self-Hosting Ekosisteminde Docker Compose&#39;un Basitlik Rolü](https://mustafaerbay.com.tr/blog/life/self-hosting-ekosisteminde-docker-composeun-basitlik-rolu/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Yapay Zeka Destekli Geliştiricilik: Temel Becerilerin Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-destekli-gelistiricilik-temel-becerilerin-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Güvenli DNS: Performans İçin Mahremiyetin Takas Bedeli](https://mustafaerbay.com.tr/blog/tutorials/guvenli-dns-performans-icin-mahremiyetin-takas-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
-📝 **[Yazılım Geliştiricilikte Geniş Bilgi mi, Derin Uzmanlık mı Daha](https://mustafaerbay.com.tr/blog/technology/yazilim-gelistiricilikte-genis-bilgi-mi-derin-uzmanlik-mi-daha/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Ev Ortamında Homelab: Uyum İçin 3 Zorlu Gerçek](https://mustafaerbay.com.tr/blog/life/ev-ortaminda-homelab-uyum-icin-3-zorlu-gercek/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
