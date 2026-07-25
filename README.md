@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Yerel LLM mi, Bulut AI mı: Mahremiyet ve Kontrolün Bedeli](https://mustafaerbay.com.tr/blog/technology/yerel-llm-mi-bulut-ai-mi-mahremiyet-ve-kontrolun-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
+📝 **[Self-Hosting Ekosisteminde Docker Compose&#39;un Basitlik Rolü](https://mustafaerbay.com.tr/blog/life/self-hosting-ekosisteminde-docker-composeun-basitlik-rolu/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Yazılım Geliştiricilikte Geniş Bilgi mi, Derin Uzmanlık mı Daha](https://mustafaerbay.com.tr/blog/technology/yazilim-gelistiricilikte-genis-bilgi-mi-derin-uzmanlik-mi-daha/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
 📝 **[Google Ekosisteminden Çıkış: Mahremiyetin 3 Pratik Bedeli](https://mustafaerbay.com.tr/blog/life/google-ekosisteminden-cikis-mahremiyetin-3-pratik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
-📝 **[Self-Hosted CI/CD mi, Bulut Çözümleri mi: Kariyer İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/self-hosted-cicd-mi-bulut-cozumleri-mi-kariyer-icin-hangisi/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
-📝 **[Remote İşler İçin LinkedIn Profilinizi 5 Adımda Optimize Etme](https://mustafaerbay.com.tr/blog/tutorials/remote-isler-icin-linkedin-profilinizi-5-adimda-optimize-etme/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub>
-📝 **[AI Üretimi Kod: Güvenlik Açıklarının Anatomisi ve Çözüm Maliyeti](https://mustafaerbay.com.tr/blog/life/ai-uretimi-kod-guvenlik-aciklarinin-anatomisi-ve-cozum-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Self-Hosted CI/CD mi, Bulut Çözümleri mi: Kariyer İçin Hangisi?](https://mustafaerbay.com.tr/blog/career/self-hosted-cicd-mi-bulut-cozumleri-mi-kariyer-icin-hangisi/)** &nbsp;·&nbsp; <sub>Jul 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
