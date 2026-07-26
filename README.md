@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[AI İçerik Akışı: Karar Yorgunluğunun Temelleri](https://mustafaerbay.com.tr/blog/life/ai-icerik-akisi-karar-yorgunlugunun-temelleri/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
+📝 **[Self-hosting yazılım güncellemeleri: Güvenliğin kararlılık bedeli](https://mustafaerbay.com.tr/blog/life/self-hosting-yazilim-guncellemeleri-guvenligin-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
 📝 **[Yerel LLM mi, Bulut AI mı: Mahremiyet ve Kontrolün Bedeli](https://mustafaerbay.com.tr/blog/technology/yerel-llm-mi-bulut-ai-mi-mahremiyet-ve-kontrolun-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
 📝 **[Self-Hosting Ekosisteminde Docker Compose&#39;un Basitlik Rolü](https://mustafaerbay.com.tr/blog/life/self-hosting-ekosisteminde-docker-composeun-basitlik-rolu/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
-📝 **[Yapay Zeka Destekli Geliştiricilik: Temel Becerilerin Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-destekli-gelistiricilik-temel-becerilerin-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
-📝 **[Güvenli DNS: Performans İçin Mahremiyetin Takas Bedeli](https://mustafaerbay.com.tr/blog/tutorials/guvenli-dns-performans-icin-mahremiyetin-takas-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub>
-📝 **[Ev Ortamında Homelab: Uyum İçin 3 Zorlu Gerçek](https://mustafaerbay.com.tr/blog/life/ev-ortaminda-homelab-uyum-icin-3-zorlu-gercek/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Yapay Zeka Destekli Geliştiricilik: Temel Becerilerin Atrofisi](https://mustafaerbay.com.tr/blog/technology/yapay-zeka-destekli-gelistiricilik-temel-becerilerin-atrofisi/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
