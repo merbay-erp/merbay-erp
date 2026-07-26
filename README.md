@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Self-hosting yazılım güncellemeleri: Güvenliğin kararlılık bedeli](https://mustafaerbay.com.tr/blog/life/self-hosting-yazilim-guncellemeleri-guvenligin-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
 📝 **[Pi-hole ve Tarayıcı Eklentileri: Reklam Engellemede 3 Pratik Seçim](https://mustafaerbay.com.tr/blog/tutorials/pi-hole-ve-tarayici-eklentileri-reklam-engellemede-3-pratik-secim/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
 📝 **[AI Destekli Editörler: Gerçek Verimlilik mi, Akış Bozan Hız mı?](https://mustafaerbay.com.tr/blog/technology/ai-destekli-editorler-gercek-verimlilik-mi-akis-bozan-hiz-mi/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
-📝 **[Yerel LLM mi, Bulut AI mı: Mahremiyet ve Kontrolün Bedeli](https://mustafaerbay.com.tr/blog/technology/yerel-llm-mi-bulut-ai-mi-mahremiyet-ve-kontrolun-bedeli/)** &nbsp;·&nbsp; <sub>Jul 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Araçlarıyla Yeni Yazılım Becerilerini 5 Adımda Kazanma](https://mustafaerbay.com.tr/blog/career/ai-araclariyla-yeni-yazilim-becerilerini-5-adimda-kazanma/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
