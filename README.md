@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Immich Kurulumu: Kendi Fotoğraf Bulutunuzu 4 Adımda Oluşturun](https://mustafaerbay.com.tr/blog/tutorials/immich-kurulumu-kendi-fotograf-bulutunuzu-4-adimda-olusturun/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
+📝 **[Sürekli Öğrenme Baskısı: Yazılımcı Kariyerinde Neden Yıpratıcı?](https://mustafaerbay.com.tr/blog/life/surekli-ogrenme-baskisi-yazilimci-kariyerinde-neden-yipratici/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
 📝 **[AI İçerik Akışı: Karar Yorgunluğunun Temelleri](https://mustafaerbay.com.tr/blog/life/ai-icerik-akisi-karar-yorgunlugunun-temelleri/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
 📝 **[Self-hosting yazılım güncellemeleri: Güvenliğin kararlılık bedeli](https://mustafaerbay.com.tr/blog/life/self-hosting-yazilim-guncellemeleri-guvenligin-kararlilik-bedeli/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
-📝 **[Pi-hole ve Tarayıcı Eklentileri: Reklam Engellemede 3 Pratik Seçim](https://mustafaerbay.com.tr/blog/tutorials/pi-hole-ve-tarayici-eklentileri-reklam-engellemede-3-pratik-secim/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
-📝 **[AI Destekli Editörler: Gerçek Verimlilik mi, Akış Bozan Hız mı?](https://mustafaerbay.com.tr/blog/technology/ai-destekli-editorler-gercek-verimlilik-mi-akis-bozan-hiz-mi/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub>
-📝 **[AI Araçlarıyla Yeni Yazılım Becerilerini 5 Adımda Kazanma](https://mustafaerbay.com.tr/blog/career/ai-araclariyla-yeni-yazilim-becerilerini-5-adimda-kazanma/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Pi-hole ve Tarayıcı Eklentileri: Reklam Engellemede 3 Pratik Seçim](https://mustafaerbay.com.tr/blog/tutorials/pi-hole-ve-tarayici-eklentileri-reklam-engellemede-3-pratik-secim/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
