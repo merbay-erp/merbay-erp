@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Sürekli Öğrenme Baskısı: Yazılımcı Kariyerinde Neden Yıpratıcı?](https://mustafaerbay.com.tr/blog/life/surekli-ogrenme-baskisi-yazilimci-kariyerinde-neden-yipratici/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
 📝 **[Yerel LLM ile AI Kod Tamamlama: Ollama&#39;yı 5 Adımda Kurun](https://mustafaerbay.com.tr/blog/tutorials/yerel-llm-ile-ai-kod-tamamlama-ollamayi-5-adimda-kurun/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
 📝 **[Homelab Ağ Güvenliği: Varsayılan Ayarların Getirdiği Riskler](https://mustafaerbay.com.tr/blog/technology/homelab-ag-guvenligi-varsayilan-ayarlarin-getirdigi-riskler/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
-📝 **[AI İçerik Akışı: Karar Yorgunluğunun Temelleri](https://mustafaerbay.com.tr/blog/life/ai-icerik-akisi-karar-yorgunlugunun-temelleri/)** &nbsp;·&nbsp; <sub>Jul 26th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Cloudflare Tunnel: Kolay Güvenlik mi, Merkezi Bağımlılık mı?](https://mustafaerbay.com.tr/blog/tutorials/cloudflare-tunnel-kolay-guvenlik-mi-merkezi-bagimlilik-mi/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
