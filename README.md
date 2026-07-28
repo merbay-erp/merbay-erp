@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Junior Yazılımcıların AI Çağında Öne Çıkması İçin 4 Adım](https://mustafaerbay.com.tr/blog/career/junior-yazilimcilarin-ai-caginda-one-cikmasi-icin-4-adim/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
 📝 **[Sosyal Medya ve Mesajlaşma: Mahremiyet Algımız Neden Farklı?](https://mustafaerbay.com.tr/blog/life/sosyal-medya-ve-mesajlasma-mahremiyet-algimiz-neden-farkli/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
 📝 **[Homelab&#39;de Yerel AI Modelleri: Kontrolün Maliyeti](https://mustafaerbay.com.tr/blog/technology/homelabde-yerel-ai-modelleri-kontrolun-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
-📝 **[Immich Kurulumu: Kendi Fotoğraf Bulutunuzu 4 Adımda Oluşturun](https://mustafaerbay.com.tr/blog/tutorials/immich-kurulumu-kendi-fotograf-bulutunuzu-4-adimda-olusturun/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub>
-📝 **[Sürekli Öğrenme Baskısı: Yazılımcı Kariyerinde Neden Yıpratıcı?](https://mustafaerbay.com.tr/blog/life/surekli-ogrenme-baskisi-yazilimci-kariyerinde-neden-yipratici/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Google AI Modu’nda Görünürlük: Teknik Bloglar İçin GEO Rehberi](https://mustafaerbay.com.tr/blog/technology/google-ai-modunda-gorunurluk-teknik-bloglar-icin-geo-rehberi/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
+📝 **[Immich Kurulumu: Kendi Fotoğraf Bulutunuzu 4 Adımda Oluşturun](https://mustafaerbay.com.tr/blog/tutorials/immich-kurulumu-kendi-fotograf-bulutunuzu-4-adimda-olusturun/)** &nbsp;·&nbsp; <sub>Jul 27th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
