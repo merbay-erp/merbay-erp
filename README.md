@@ -136,7 +136,7 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[A2A ve MCP Farkı: Agent Entegrasyonunda Hangisi Nerede?](https://mustafaerbay.com.tr/blog/technology/a2a-ve-mcp-farki-agent-entegrasyonunda-hangisi-nerede/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub>
 📝 **[MCP Sunucularında OAuth ve Least Privilege Yetkilendirme](https://mustafaerbay.com.tr/blog/tutorials/mcp-sunucularinda-oauth-ve-least-privilege-yetkilendirme/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub>
 📝 **[Cilium Gateway API: Ingress’ten Geçiş Rehberi](https://mustafaerbay.com.tr/blog/tutorials/cilium-gateway-api-ingressten-gecis-rehberi/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub>
-📝 **[Junior Yazılımcıların AI Çağında Öne Çıkması İçin 4 Adım](https://mustafaerbay.com.tr/blog/career/junior-yazilimcilarin-ai-caginda-one-cikmasi-icin-4-adim/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Actual Budget Kurulumu: Finans Verisini Kendin Barındır](https://mustafaerbay.com.tr/blog/tutorials/actual-budget-kurulumu-finans-verisini-kendin-barindir/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
