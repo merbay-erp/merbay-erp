@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Karpenter Disruption Budget ile Güvenli Node Konsolidasyonu](https://mustafaerbay.com.tr/blog/tutorials/karpenter-disruption-budget-ile-guvenli-node-konsolidasyonu/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub>
 📝 **[Junior Yazılımcıların AI Çağında Öne Çıkması İçin 4 Adım](https://mustafaerbay.com.tr/blog/career/junior-yazilimcilarin-ai-caginda-one-cikmasi-icin-4-adim/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
 📝 **[Sosyal Medya ve Mesajlaşma: Mahremiyet Algımız Neden Farklı?](https://mustafaerbay.com.tr/blog/life/sosyal-medya-ve-mesajlasma-mahremiyet-algimiz-neden-farkli/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
 📝 **[Homelab&#39;de Yerel AI Modelleri: Kontrolün Maliyeti](https://mustafaerbay.com.tr/blog/technology/homelabde-yerel-ai-modelleri-kontrolun-maliyeti/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
-📝 **[Google AI Modu’nda Görünürlük: Teknik Bloglar İçin GEO Rehberi](https://mustafaerbay.com.tr/blog/technology/google-ai-modunda-gorunurluk-teknik-bloglar-icin-geo-rehberi/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub>
-📝 **[Frigate NVR ve Coral TPU ile Yerel Kamera Analizi](https://mustafaerbay.com.tr/blog/tutorials/frigate-nvr-ve-coral-tpu-ile-yerel-kamera-analizi/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Google AI Modu’nda Görünürlük: Teknik Bloglar İçin GEO Rehberi](https://mustafaerbay.com.tr/blog/technology/google-ai-modunda-gorunurluk-teknik-bloglar-icin-geo-rehberi/)** &nbsp;·&nbsp; <sub>Jul 28th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
