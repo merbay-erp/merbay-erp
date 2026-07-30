@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[TypeScript’ın 2026’da Yükselişi: AI Kod Üretiminin Etkisi](https://mustafaerbay.com.tr/blog/career/typescriptin-2026da-yukselisi-ai-kod-uretiminin-etkisi/)** &nbsp;·&nbsp; <sub>Jul 30th, 2026</sub>
 📝 **[Stirling PDF Kurulumu: Belgeleri Buluta Yüklemeden İşle](https://mustafaerbay.com.tr/blog/tutorials/stirling-pdf-kurulumu-belgeleri-buluta-yuklemeden-isle/)** &nbsp;·&nbsp; <sub>Jul 30th, 2026</sub>
 📝 **[OpenTelemetry Zero-Code Instrumentation: eBPF ile Başlangıç](https://mustafaerbay.com.tr/blog/tutorials/opentelemetry-zero-code-instrumentation-ebpf-ile-baslangic/)** &nbsp;·&nbsp; <sub>Jul 30th, 2026</sub>
-📝 **[Karpenter Disruption Budget ile Güvenli Node Konsolidasyonu](https://mustafaerbay.com.tr/blog/tutorials/karpenter-disruption-budget-ile-guvenli-node-konsolidasyonu/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub>
-📝 **[A2A ve MCP Farkı: Agent Entegrasyonunda Hangisi Nerede?](https://mustafaerbay.com.tr/blog/technology/a2a-ve-mcp-farki-agent-entegrasyonunda-hangisi-nerede/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Herkes Happy Path&#39;i Tasarlar; Production Saat 03.00&#39;te Yaşanır](https://mustafaerbay.com.tr/blog/technology/everyone-designs-happy-path-production-happens-at-3am/)** &nbsp;·&nbsp; <sub>Jul 30th, 2026</sub>
+📝 **[Karpenter Disruption Budget ile Güvenli Node Konsolidasyonu](https://mustafaerbay.com.tr/blog/tutorials/karpenter-disruption-budget-ile-guvenli-node-konsolidasyonu/)** &nbsp;·&nbsp; <sub>Jul 29th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
