@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Forgejo Actions ile Kendi Git ve CI Platformunu Kurma](https://mustafaerbay.com.tr/blog/tutorials/forgejo-actions-ile-kendi-git-ve-ci-platformunu-kurma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
 📝 **[Python’dan Rust veya Go’ya Geçiş: Hangi İş Yükünde?](https://mustafaerbay.com.tr/blog/career/pythondan-rust-veya-goya-gecis-hangi-is-yukunde/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub>
 📝 **[AI Kod İncelemesi: Üretilen Patch’i Güvenle Merge Etme](https://mustafaerbay.com.tr/blog/tutorials/ai-kod-incelemesi-uretilen-patchi-guvenle-merge-etme/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub>
 📝 **[AI Agent Evals: Başarıyı Ölçmek İçin Test Harness Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/ai-agent-evals-basariyi-olcmek-icin-test-harness-kurulumu/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub>
-📝 **[OpenBao mu HashiCorp Vault mu? Self-Hosted Secret Yönetimi](https://mustafaerbay.com.tr/blog/technology/openbao-mu-hashicorp-vault-mu-self-hosted-secret-yonetimi/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub>
-📝 **[TypeScript’ın 2026’da Yükselişi: AI Kod Üretiminin Etkisi](https://mustafaerbay.com.tr/blog/career/typescriptin-2026da-yukselisi-ai-kod-uretiminin-etkisi/)** &nbsp;·&nbsp; <sub>Jul 30th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[OpenBao mu HashiCorp Vault mu? Self-Hosted Secret Yönetimi](https://mustafaerbay.com.tr/blog/technology/openbao-mu-hashicorp-vault-mu-self-hosted-secret-yonetimi/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
