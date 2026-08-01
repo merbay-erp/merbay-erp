@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Forgejo Actions ile Kendi Git ve CI Platformunu Kurma](https://mustafaerbay.com.tr/blog/tutorials/forgejo-actions-ile-kendi-git-ve-ci-platformunu-kurma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
 📝 **[AI Kod Ajanlarında Secret Sızıntısını Önleme](https://mustafaerbay.com.tr/blog/tutorials/ai-kod-ajanlarinda-secret-sizintisini-onleme/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
 📝 **[AI Agent Sandbox: Shell ve Dosya Erişimini Sınırlandırma](https://mustafaerbay.com.tr/blog/technology/ai-agent-sandbox-shell-ve-dosya-erisimini-sinirlandirma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
-📝 **[Python’dan Rust veya Go’ya Geçiş: Hangi İş Yükünde?](https://mustafaerbay.com.tr/blog/career/pythondan-rust-veya-goya-gecis-hangi-is-yukunde/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub>
-📝 **[AI Kod İncelemesi: Üretilen Patch’i Güvenle Merge Etme](https://mustafaerbay.com.tr/blog/tutorials/ai-kod-incelemesi-uretilen-patchi-guvenle-merge-etme/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Authentik ile Self-Hosted Servislere Tek Oturum Açma](https://mustafaerbay.com.tr/blog/tutorials/authentik-ile-self-hosted-servislere-tek-oturum-acma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
+📝 **[Python’dan Rust veya Go’ya Geçiş: Hangi İş Yükünde?](https://mustafaerbay.com.tr/blog/career/pythondan-rust-veya-goya-gecis-hangi-is-yukunde/)** &nbsp;·&nbsp; <sub>Jul 31st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
