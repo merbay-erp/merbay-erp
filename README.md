@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[CrowdSec ile Homelab Servislerinde Ortak Saldırı Savunması](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-homelab-servislerinde-ortak-saldiri-savunmasi/)** &nbsp;·&nbsp; <sub>Aug 3rd, 2026</sub>
 📝 **[PostgreSQL 18 Async I/O: Gerçek İş Yükünde Ne Değişiyor?](https://mustafaerbay.com.tr/blog/technology/postgresql-18-async-io-gercek-is-yukunde-ne-degisiyor/)** &nbsp;·&nbsp; <sub>Aug 2nd, 2026</sub>
 📝 **[AI Agent Observability: Trace, Maliyet ve Tool Hatalarını İzleme](https://mustafaerbay.com.tr/blog/tutorials/ai-agent-observability-trace-maliyet-ve-tool-hatalarini-izleme/)** &nbsp;·&nbsp; <sub>Aug 2nd, 2026</sub>
 📝 **[Forgejo Actions ile Kendi Git ve CI Platformunu Kurma](https://mustafaerbay.com.tr/blog/tutorials/forgejo-actions-ile-kendi-git-ve-ci-platformunu-kurma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
-📝 **[AI Kod Ajanlarında Secret Sızıntısını Önleme](https://mustafaerbay.com.tr/blog/tutorials/ai-kod-ajanlarinda-secret-sizintisini-onleme/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub>
-📝 **[AI Agent Sandbox: Shell ve Dosya Erişimini Sınırlandırma](https://mustafaerbay.com.tr/blog/technology/ai-agent-sandbox-shell-ve-dosya-erisimini-sinirlandirma/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[AI Kod Ajanlarında Secret Sızıntısını Önleme](https://mustafaerbay.com.tr/blog/tutorials/ai-kod-ajanlarinda-secret-sizintisini-onleme/)** &nbsp;·&nbsp; <sub>Aug 1st, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
