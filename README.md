@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[CrowdSec ile Homelab Servislerinde Ortak Saldırı Savunması](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-homelab-servislerinde-ortak-saldiri-savunmasi/)** &nbsp;·&nbsp; <sub>Aug 3rd, 2026</sub>
 📝 **[Valkey’e Geçiş: Redis Uyumluluğunu Risksiz Test Etme](https://mustafaerbay.com.tr/blog/tutorials/valkeye-gecis-redis-uyumlulugunu-risksiz-test-etme/)** &nbsp;·&nbsp; <sub>Aug 3rd, 2026</sub>
 📝 **[pgvector HNSW Index Ayarı: Recall ve Bellek Dengesi](https://mustafaerbay.com.tr/blog/tutorials/pgvector-hnsw-index-ayari-recall-ve-bellek-dengesi/)** &nbsp;·&nbsp; <sub>Aug 3rd, 2026</sub>
-📝 **[PostgreSQL 18 Async I/O: Gerçek İş Yükünde Ne Değişiyor?](https://mustafaerbay.com.tr/blog/technology/postgresql-18-async-io-gercek-is-yukunde-ne-degisiyor/)** &nbsp;·&nbsp; <sub>Aug 2nd, 2026</sub>
-📝 **[AI Agent Observability: Trace, Maliyet ve Tool Hatalarını İzleme](https://mustafaerbay.com.tr/blog/tutorials/ai-agent-observability-trace-maliyet-ve-tool-hatalarini-izleme/)** &nbsp;·&nbsp; <sub>Aug 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[SLSA Provenance ve GitHub Artifact Attestations Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/slsa-provenance-ve-github-artifact-attestations-kurulumu/)** &nbsp;·&nbsp; <sub>Aug 3rd, 2026</sub>
+📝 **[PostgreSQL 18 Async I/O: Gerçek İş Yükünde Ne Değişiyor?](https://mustafaerbay.com.tr/blog/technology/postgresql-18-async-io-gercek-is-yukunde-ne-degisiyor/)** &nbsp;·&nbsp; <sub>Aug 2nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
