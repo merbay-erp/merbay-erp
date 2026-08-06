@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[LLM Structured Output: JSON Schema ile Güvenilir Yanıtlar](https://mustafaerbay.com.tr/blog/tutorials/llm-structured-output-json-schema-ile-guvenilir-yanitlar/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub>
 📝 **[RAG’de Hybrid Search ve Reranker: Türkçe İçerikte Kalite Artışı](https://mustafaerbay.com.tr/blog/tutorials/ragde-hybrid-search-ve-reranker-turkce-icerikte-kalite-artisi/)** &nbsp;·&nbsp; <sub>Aug 5th, 2026</sub>
 📝 **[NUT ile UPS Kesintisinde Homelab’i Güvenli Kapatma](https://mustafaerbay.com.tr/blog/tutorials/nut-ile-ups-kesintisinde-homelabi-guvenli-kapatma/)** &nbsp;·&nbsp; <sub>Aug 5th, 2026</sub>
 📝 **[Proxmox Backup Server ile 3-2-1 Yedekleme Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/proxmox-backup-server-ile-3-2-1-yedekleme-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 5th, 2026</sub>
-📝 **[RAG Chunking Testi: Türkçe Belgelerde Doğru Parça Boyutu](https://mustafaerbay.com.tr/blog/tutorials/rag-chunking-testi-turkce-belgelerde-dogru-parca-boyutu/)** &nbsp;·&nbsp; <sub>Aug 4th, 2026</sub>
-📝 **[Dependency Confusion: npm ve PyPI Paketlerini Korumak](https://mustafaerbay.com.tr/blog/tutorials/dependency-confusion-npm-ve-pypi-paketlerini-korumak/)** &nbsp;·&nbsp; <sub>Aug 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[RAG Chunking Testi: Türkçe Belgelerde Doğru Parça Boyutu](https://mustafaerbay.com.tr/blog/tutorials/rag-chunking-testi-turkce-belgelerde-dogru-parca-boyutu/)** &nbsp;·&nbsp; <sub>Aug 4th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
