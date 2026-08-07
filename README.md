@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Prompt Caching ile LLM Maliyetini Ölçerek Düşürme](https://mustafaerbay.com.tr/blog/technology/prompt-caching-ile-llm-maliyetini-olcerek-dusurme/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
 📝 **[Evidence Layer, Framework&#39;ten Sağ Çıkabilmeli](https://mustafaerbay.com.tr/blog/technology/evidence-layer-must-survive-framework/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub>
 📝 **[LLM Structured Output: JSON Schema ile Güvenilir Yanıtlar](https://mustafaerbay.com.tr/blog/tutorials/llm-structured-output-json-schema-ile-guvenilir-yanitlar/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub>
 📝 **[SBOM’dan VEX’e Geçiş: Yanlış Pozitifleri Azaltma](https://mustafaerbay.com.tr/blog/technology/sbomdan-vexe-gecis-yanlis-pozitifleri-azaltma/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub>
-📝 **[GitHub Actions’ı Commit SHA ile Sabitleme ve Supply Chain Savunması](https://mustafaerbay.com.tr/blog/tutorials/github-actionsi-commit-sha-ile-sabitleme-ve-supply-chain-savunmasi/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub>
-📝 **[RAG’de Hybrid Search ve Reranker: Türkçe İçerikte Kalite Artışı](https://mustafaerbay.com.tr/blog/tutorials/ragde-hybrid-search-ve-reranker-turkce-icerikte-kalite-artisi/)** &nbsp;·&nbsp; <sub>Aug 5th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[GitHub Actions’ı Commit SHA ile Sabitleme ve Supply Chain Savunması](https://mustafaerbay.com.tr/blog/tutorials/github-actionsi-commit-sha-ile-sabitleme-ve-supply-chain-savunmasi/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
