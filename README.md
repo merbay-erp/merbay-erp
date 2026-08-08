@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Paperless-ngx OCR Hatalarını Ayıklama ve Yedekleme](https://mustafaerbay.com.tr/blog/tutorials/paperless-ngx-ocr-hatalarini-ayiklama-ve-yedekleme/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
 📝 **[LLM Çıktısında Teknik Doğruluk: Fact-Check Pipeline Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/llm-ciktisinda-teknik-dogruluk-fact-check-pipeline-kurulumu/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
 📝 **[ML-KEM Hibrit TLS Pilotunu Ölçerek Devreye Alma](https://mustafaerbay.com.tr/blog/technology/ml-kem-hibrit-tls-pilotunu-olcerek-devreye-alma/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
-📝 **[Prompt Caching ile LLM Maliyetini Ölçerek Düşürme](https://mustafaerbay.com.tr/blog/technology/prompt-caching-ile-llm-maliyetini-olcerek-dusurme/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
-📝 **[OAuth 2.1 ve PKCE: SPA Oturumlarında Güvenli Akış](https://mustafaerbay.com.tr/blog/tutorials/oauth-21-ve-pkce-spa-oturumlarinda-guvenli-akis/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kubernetes’te GPU Paylaşımı: MIG ve Time-Slicing Kararı](https://mustafaerbay.com.tr/blog/technology/kuberneteste-gpu-paylasimi-mig-ve-time-slicing-karari/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
+📝 **[Prompt Caching ile LLM Maliyetini Ölçerek Düşürme](https://mustafaerbay.com.tr/blog/technology/prompt-caching-ile-llm-maliyetini-olcerek-dusurme/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
