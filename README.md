@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Paperless-ngx OCR Hatalarını Ayıklama ve Yedekleme](https://mustafaerbay.com.tr/blog/tutorials/paperless-ngx-ocr-hatalarini-ayiklama-ve-yedekleme/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
 📝 **[Prompt Caching ile LLM Maliyetini Ölçerek Düşürme](https://mustafaerbay.com.tr/blog/technology/prompt-caching-ile-llm-maliyetini-olcerek-dusurme/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
 📝 **[OAuth 2.1 ve PKCE: SPA Oturumlarında Güvenli Akış](https://mustafaerbay.com.tr/blog/tutorials/oauth-21-ve-pkce-spa-oturumlarinda-guvenli-akis/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
 📝 **[Immich İçin 3-2-1 Yedekleme ve Geri Yükleme Tatbikatı](https://mustafaerbay.com.tr/blog/tutorials/immich-icin-3-2-1-yedekleme-ve-geri-yukleme-tatbikati/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
-📝 **[Passkey Hesap Kurtarma: Cihaz Kaybında Kilitlenmemek](https://mustafaerbay.com.tr/blog/technology/passkey-hesap-kurtarma-cihaz-kaybinda-kilitlenmemek/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub>
-📝 **[Evidence Layer, Framework&#39;ten Sağ Çıkabilmeli](https://mustafaerbay.com.tr/blog/technology/evidence-layer-must-survive-framework/)** &nbsp;·&nbsp; <sub>Aug 6th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Passkey Hesap Kurtarma: Cihaz Kaybında Kilitlenmemek](https://mustafaerbay.com.tr/blog/technology/passkey-hesap-kurtarma-cihaz-kaybinda-kilitlenmemek/)** &nbsp;·&nbsp; <sub>Aug 7th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
