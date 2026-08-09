@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[API Anahtarı Sızdığında İlk 30 Dakika: Rotation Runbook’u](https://mustafaerbay.com.tr/blog/tutorials/api-anahtari-sizdiginda-ilk-30-dakika-rotation-runbooku/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub>
 📝 **[Kopia mı restic mi? Büyük Arşivler İçin Yedekleme Seçimi](https://mustafaerbay.com.tr/blog/technology/kopia-mi-restic-mi-buyuk-arsivler-icin-yedekleme-secimi/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub>
+📝 **[Kubernetes’te AI Model Serving: KServe mi vLLM mi?](https://mustafaerbay.com.tr/blog/technology/kuberneteste-ai-model-serving-kserve-mi-vllm-mi/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub>
 📝 **[Paperless-ngx OCR Hatalarını Ayıklama ve Yedekleme](https://mustafaerbay.com.tr/blog/tutorials/paperless-ngx-ocr-hatalarini-ayiklama-ve-yedekleme/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
-📝 **[LLM Çıktısında Teknik Doğruluk: Fact-Check Pipeline Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/llm-ciktisinda-teknik-dogruluk-fact-check-pipeline-kurulumu/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub>
-📝 **[ML-KEM Hibrit TLS Pilotunu Ölçerek Devreye Alma](https://mustafaerbay.com.tr/blog/technology/ml-kem-hibrit-tls-pilotunu-olcerek-devreye-alma/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[LLM Çıktısında Teknik Doğruluk: Fact-Check Pipeline Kurulumu](https://mustafaerbay.com.tr/blog/tutorials/llm-ciktisinda-teknik-dogruluk-fact-check-pipeline-kurulumu/)** &nbsp;·&nbsp; <sub>Aug 8th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
