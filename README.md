@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[Browser Extension İzinlerini Denetleme: Veri Erişimini Bulma](https://mustafaerbay.com.tr/blog/tutorials/browser-extension-izinlerini-denetleme-veri-erisimini-bulma/)** &nbsp;·&nbsp; <sub>Aug 10th, 2026</sub>
 📝 **[Proxmox’ta Ceph mi ZFS Replication mı? Küçük Cluster Kararı](https://mustafaerbay.com.tr/blog/technology/proxmoxta-ceph-mi-zfs-replication-mi-kucuk-cluster-karari/)** &nbsp;·&nbsp; <sub>Aug 10th, 2026</sub>
+📝 **[QR Kod Phishing: Güvenli Tarama ve DNS Savunması](https://mustafaerbay.com.tr/blog/tutorials/qr-kod-phishing-guvenli-tarama-ve-dns-savunmasi/)** &nbsp;·&nbsp; <sub>Aug 10th, 2026</sub>
 📝 **[API Anahtarı Sızdığında İlk 30 Dakika: Rotation Runbook’u](https://mustafaerbay.com.tr/blog/tutorials/api-anahtari-sizdiginda-ilk-30-dakika-rotation-runbooku/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub>
-📝 **[Kopia mı restic mi? Büyük Arşivler İçin Yedekleme Seçimi](https://mustafaerbay.com.tr/blog/technology/kopia-mi-restic-mi-buyuk-arsivler-icin-yedekleme-secimi/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub>
-📝 **[Kubernetes’te AI Model Serving: KServe mi vLLM mi?](https://mustafaerbay.com.tr/blog/technology/kuberneteste-ai-model-serving-kserve-mi-vllm-mi/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Kopia mı restic mi? Büyük Arşivler İçin Yedekleme Seçimi](https://mustafaerbay.com.tr/blog/technology/kopia-mi-restic-mi-buyuk-arsivler-icin-yedekleme-secimi/)** &nbsp;·&nbsp; <sub>Aug 9th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
