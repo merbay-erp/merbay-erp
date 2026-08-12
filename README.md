@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[NIST CSF 2.0 ile Küçük Ekipler İçin Güvenlik Backlog’u](https://mustafaerbay.com.tr/blog/technology/nist-csf-20-ile-kucuk-ekipler-icin-guvenlik-backlogu/)** &nbsp;·&nbsp; <sub>Aug 12th, 2026</sub>
+📝 **[Self-Hosting Yaparken Gözden Kaçan 5 Güvenlik Pratiği](https://mustafaerbay.com.tr/blog/tutorials/self-hosting-yaparken-gozden-kacan-5-guvenlik-pratigi/)** &nbsp;·&nbsp; <sub>Aug 12th, 2026</sub>
 📝 **[Tailscale ACL ile Homelab’de Servis Bazlı Erişim](https://mustafaerbay.com.tr/blog/tutorials/tailscale-acl-ile-homelabde-servis-bazli-erisim/)** &nbsp;·&nbsp; <sub>Aug 11th, 2026</sub>
 📝 **[CISA KEV ile CVE Önceliklendirme: Skor Değil Sömürü Odaklı](https://mustafaerbay.com.tr/blog/technology/cisa-kev-ile-cve-onceliklendirme-skor-degil-somuru-odakli/)** &nbsp;·&nbsp; <sub>Aug 11th, 2026</sub>
-📝 **[eBPF Tetragon ile Container Runtime Policy Uygulama](https://mustafaerbay.com.tr/blog/tutorials/ebpf-tetragon-ile-container-runtime-policy-uygulama/)** &nbsp;·&nbsp; <sub>Aug 11th, 2026</sub>
-📝 **[Browser Extension İzinlerini Denetleme: Veri Erişimini Bulma](https://mustafaerbay.com.tr/blog/tutorials/browser-extension-izinlerini-denetleme-veri-erisimini-bulma/)** &nbsp;·&nbsp; <sub>Aug 10th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[eBPF Tetragon ile Container Runtime Policy Uygulama](https://mustafaerbay.com.tr/blog/tutorials/ebpf-tetragon-ile-container-runtime-policy-uygulama/)** &nbsp;·&nbsp; <sub>Aug 11th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
