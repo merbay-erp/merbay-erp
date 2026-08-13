@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Prompt Injection Savunması: Üretim İçin Koruma Desenleri](https://mustafaerbay.com.tr/blog/technology/prompt-injection-savunmasi-uretim-icin-koruma-desenleri/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub>
 📝 **[Living ADR: Kendini Yanlışlayabilen Mimari Kararlar](https://mustafaerbay.com.tr/blog/technology/living-adrs-decisions-that-can-prove-themselves-wrong/)** &nbsp;·&nbsp; <sub>Aug 13th, 2026</sub>
 📝 **[sops + age ile Git&#39;te Secret Yönetimi: Şifreli Config Akışı](https://mustafaerbay.com.tr/blog/tutorials/sops-age-ile-gitte-secret-yonetimi-sifreli-config-akisi/)** &nbsp;·&nbsp; <sub>Aug 13th, 2026</sub>
 📝 **[GitHub Actions OIDC: Bulut Erişiminde Secret&#39;sız Dönem](https://mustafaerbay.com.tr/blog/tutorials/github-actions-oidc-bulut-erisiminde-secretsiz-donem/)** &nbsp;·&nbsp; <sub>Aug 13th, 2026</sub>
-📝 **[Renovate ile Bağımlılık Otomasyonu: Gruplama ve Auto-Merge Stratejisi](https://mustafaerbay.com.tr/blog/tutorials/renovate-ile-bagimlilik-otomasyonu-gruplama-ve-auto-merge-stratejisi/)** &nbsp;·&nbsp; <sub>Aug 13th, 2026</sub>
-📝 **[NIST CSF 2.0 ile Küçük Ekipler İçin Güvenlik Backlog’u](https://mustafaerbay.com.tr/blog/technology/nist-csf-20-ile-kucuk-ekipler-icin-guvenlik-backlogu/)** &nbsp;·&nbsp; <sub>Aug 12th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Renovate ile Bağımlılık Otomasyonu: Gruplama ve Auto-Merge Stratejisi](https://mustafaerbay.com.tr/blog/tutorials/renovate-ile-bagimlilik-otomasyonu-gruplama-ve-auto-merge-stratejisi/)** &nbsp;·&nbsp; <sub>Aug 13th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
