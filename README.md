@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Code Review Kültürü: Küçük PR, Hızlı Akış, Az Sürtüşme](https://mustafaerbay.com.tr/blog/career/code-review-kulturu-kucuk-pr-hizli-akis-az-surtusme/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
+📝 **[Syncthing ile Bulutsuz Senkronizasyon: Çakışma ve Sürümler](https://mustafaerbay.com.tr/blog/tutorials/syncthing-ile-bulutsuz-senkronizasyon-cakisma-ve-surumler/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
 📝 **[Prompt Injection Savunması: Üretim İçin Koruma Desenleri](https://mustafaerbay.com.tr/blog/technology/prompt-injection-savunmasi-uretim-icin-koruma-desenleri/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub>
 📝 **[Whisper ile Türkçe Transkripsiyon: Yerel Ses-Yazı Pipeline&#39;ı](https://mustafaerbay.com.tr/blog/tutorials/whisper-ile-turkce-transkripsiyon-yerel-ses-yazi-pipelinei/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub>
-📝 **[Türkçe için Embedding Seçimi: Çok Dilli Modellerle Semantik Arama](https://mustafaerbay.com.tr/blog/technology/turkce-icin-embedding-secimi-cok-dilli-modellerle-semantik-arama/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub>
-📝 **[SSH Anahtar Kaosuna Son: Kendi SSH Sertifika Otoriteni Kur](https://mustafaerbay.com.tr/blog/tutorials/ssh-anahtar-kaosuna-son-kendi-ssh-sertifika-otoriteni-kur/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Türkçe için Embedding Seçimi: Çok Dilli Modellerle Semantik Arama](https://mustafaerbay.com.tr/blog/technology/turkce-icin-embedding-secimi-cok-dilli-modellerle-semantik-arama/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
