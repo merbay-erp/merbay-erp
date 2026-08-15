@@ -135,8 +135,8 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 📝 **[Code Review Kültürü: Küçük PR, Hızlı Akış, Az Sürtüşme](https://mustafaerbay.com.tr/blog/career/code-review-kulturu-kucuk-pr-hizli-akis-az-surtusme/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
 📝 **[Syncthing ile Bulutsuz Senkronizasyon: Çakışma ve Sürümler](https://mustafaerbay.com.tr/blog/tutorials/syncthing-ile-bulutsuz-senkronizasyon-cakisma-ve-surumler/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
 📝 **[Headscale ile Kendi Tailscale Kontrol Sunucun](https://mustafaerbay.com.tr/blog/tutorials/headscale-ile-kendi-tailscale-kontrol-sunucun/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
-📝 **[Prompt Injection Savunması: Üretim İçin Koruma Desenleri](https://mustafaerbay.com.tr/blog/technology/prompt-injection-savunmasi-uretim-icin-koruma-desenleri/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub>
-📝 **[Whisper ile Türkçe Transkripsiyon: Yerel Ses-Yazı Pipeline&#39;ı](https://mustafaerbay.com.tr/blog/tutorials/whisper-ile-turkce-transkripsiyon-yerel-ses-yazi-pipelinei/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[k3s ile Hafif Kubernetes: Tek Node&#39;dan Çok Node&#39;a Büyüme Planı](https://mustafaerbay.com.tr/blog/tutorials/k3s-ile-hafif-kubernetes-tek-nodedan-cok-nodea-buyume-plani/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
+📝 **[Prompt Injection Savunması: Üretim İçin Koruma Desenleri](https://mustafaerbay.com.tr/blog/technology/prompt-injection-savunmasi-uretim-icin-koruma-desenleri/)** &nbsp;·&nbsp; <sub>Aug 14th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
