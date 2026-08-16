@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[GitOps&#39;a Giriş: Argo CD ile Pull-Based Deploy Modeli](https://mustafaerbay.com.tr/blog/technology/gitopsa-giris-argo-cd-ile-pull-based-deploy-modeli/)** &nbsp;·&nbsp; <sub>Aug 16th, 2026</sub>
+📝 **[Prometheus Alert Yorgunluğu: Semptom Bazlı Alarm Tasarımı](https://mustafaerbay.com.tr/blog/technology/prometheus-alert-yorgunlugu-semptom-bazli-alarm-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 16th, 2026</sub>
 📝 **[Code Review Kültürü: Küçük PR, Hızlı Akış, Az Sürtüşme](https://mustafaerbay.com.tr/blog/career/code-review-kulturu-kucuk-pr-hizli-akis-az-surtusme/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
 📝 **[Syncthing ile Bulutsuz Senkronizasyon: Çakışma ve Sürümler](https://mustafaerbay.com.tr/blog/tutorials/syncthing-ile-bulutsuz-senkronizasyon-cakisma-ve-surumler/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
-📝 **[Headscale ile Kendi Tailscale Kontrol Sunucun](https://mustafaerbay.com.tr/blog/tutorials/headscale-ile-kendi-tailscale-kontrol-sunucun/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub>
-📝 **[k3s ile Hafif Kubernetes: Tek Node&#39;dan Çok Node&#39;a Büyüme Planı](https://mustafaerbay.com.tr/blog/tutorials/k3s-ile-hafif-kubernetes-tek-nodedan-cok-nodea-buyume-plani/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Headscale ile Kendi Tailscale Kontrol Sunucun](https://mustafaerbay.com.tr/blog/tutorials/headscale-ile-kendi-tailscale-kontrol-sunucun/)** &nbsp;·&nbsp; <sub>Aug 15th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
