@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[NixOS ile Deklaratif Sunucu: Tekrarlanabilir Altyapı Denemesi](https://mustafaerbay.com.tr/blog/technology/nixos-ile-deklaratif-sunucu-tekrarlanabilir-altyapi-denemesi/)** &nbsp;·&nbsp; <sub>Aug 18th, 2026</sub>
+📝 **[ESPHome ile ESP32 Sensör Ağı: Bulutsuz Akıllı Ev](https://mustafaerbay.com.tr/blog/tutorials/esphome-ile-esp32-sensor-agi-buluta-bagimli-olmayan-akilli-ev/)** &nbsp;·&nbsp; <sub>Aug 18th, 2026</sub>
 📝 **[Loki ile Log Altyapısı: Etiket Tasarımı ve Maliyet Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/loki-ile-log-altyapisi-etiket-tasarimi-ve-maliyet-kontrolu/)** &nbsp;·&nbsp; <sub>Aug 17th, 2026</sub>
 📝 **[Ansible Playbook&#39;larını İdempotent Yazmak: Güvenli Değişim Desenleri](https://mustafaerbay.com.tr/blog/tutorials/ansible-playbooklarini-idempotent-yazmak-guvenli-degisim-desenleri/)** &nbsp;·&nbsp; <sub>Aug 17th, 2026</sub>
-📝 **[GitOps&#39;a Giriş: Argo CD ile Pull-Based Deploy Modeli](https://mustafaerbay.com.tr/blog/technology/gitopsa-giris-argo-cd-ile-pull-based-deploy-modeli/)** &nbsp;·&nbsp; <sub>Aug 16th, 2026</sub>
-📝 **[Prometheus Alert Yorgunluğu: Semptom Bazlı Alarm Tasarımı](https://mustafaerbay.com.tr/blog/technology/prometheus-alert-yorgunlugu-semptom-bazli-alarm-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[GitOps&#39;a Giriş: Argo CD ile Pull-Based Deploy Modeli](https://mustafaerbay.com.tr/blog/technology/gitopsa-giris-argo-cd-ile-pull-based-deploy-modeli/)** &nbsp;·&nbsp; <sub>Aug 16th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
