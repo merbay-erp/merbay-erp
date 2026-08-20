@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[Incident Postmortem Kültürü: Suçlamasız Analiz Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/career/incident-postmortem-kulturu-suclamasiz-analiz-nasil-yapilir/)** &nbsp;·&nbsp; <sub>Aug 20th, 2026</sub>
 📝 **[PostgreSQL VACUUM ve Bloat: autovacuum&#39;u Doğru Ayarlamak](https://mustafaerbay.com.tr/blog/tutorials/postgresql-vacuum-ve-bloat-autovacuumu-dogru-ayarlamak/)** &nbsp;·&nbsp; <sub>Aug 19th, 2026</sub>
 📝 **[NixOS ile Deklaratif Sunucu: Tekrarlanabilir Altyapı Denemesi](https://mustafaerbay.com.tr/blog/technology/nixos-ile-deklaratif-sunucu-tekrarlanabilir-altyapi-denemesi/)** &nbsp;·&nbsp; <sub>Aug 18th, 2026</sub>
 📝 **[ESPHome ile ESP32 Sensör Ağı: Bulutsuz Akıllı Ev](https://mustafaerbay.com.tr/blog/tutorials/esphome-ile-esp32-sensor-agi-buluta-bagimli-olmayan-akilli-ev/)** &nbsp;·&nbsp; <sub>Aug 18th, 2026</sub>
-📝 **[Loki ile Log Altyapısı: Etiket Tasarımı ve Maliyet Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/loki-ile-log-altyapisi-etiket-tasarimi-ve-maliyet-kontrolu/)** &nbsp;·&nbsp; <sub>Aug 17th, 2026</sub>
-📝 **[Ansible Playbook&#39;larını İdempotent Yazmak: Güvenli Değişim Desenleri](https://mustafaerbay.com.tr/blog/tutorials/ansible-playbooklarini-idempotent-yazmak-guvenli-degisim-desenleri/)** &nbsp;·&nbsp; <sub>Aug 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Loki ile Log Altyapısı: Etiket Tasarımı ve Maliyet Kontrolü](https://mustafaerbay.com.tr/blog/tutorials/loki-ile-log-altyapisi-etiket-tasarimi-ve-maliyet-kontrolu/)** &nbsp;·&nbsp; <sub>Aug 17th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
