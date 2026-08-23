@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[SPIRE Federation ile Multi-Cluster Workload Identity](https://mustafaerbay.com.tr/blog/tutorials/spire-federation-ile-multi-cluster-workload-identity/)** &nbsp;·&nbsp; <sub>Aug 23rd, 2026</sub>
+📝 **[OpenTofu Provider Lockfile ve Supply Chain Doğrulaması](https://mustafaerbay.com.tr/blog/tutorials/opentofu-provider-lockfile-ve-supply-chain-dogrulamasi/)** &nbsp;·&nbsp; <sub>Aug 23rd, 2026</sub>
 📝 **[Home Assistant’ta Matter ve Thread Ağı Tasarımı](https://mustafaerbay.com.tr/blog/technology/home-assistantta-matter-ve-thread-agi-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 22nd, 2026</sub>
 📝 **[Windows Evidence Gap: Kontrol Çalışırken Kanıtın Kaybolması](https://mustafaerbay.com.tr/blog/technology/windows-evidence-gap/)** &nbsp;·&nbsp; <sub>Aug 20th, 2026</sub>
-📝 **[Incident Postmortem Kültürü: Suçlamasız Analiz Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/career/incident-postmortem-kulturu-suclamasiz-analiz-nasil-yapilir/)** &nbsp;·&nbsp; <sub>Aug 20th, 2026</sub>
-📝 **[PostgreSQL VACUUM ve Bloat: autovacuum&#39;u Doğru Ayarlamak](https://mustafaerbay.com.tr/blog/tutorials/postgresql-vacuum-ve-bloat-autovacuumu-dogru-ayarlamak/)** &nbsp;·&nbsp; <sub>Aug 19th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Incident Postmortem Kültürü: Suçlamasız Analiz Nasıl Yapılır?](https://mustafaerbay.com.tr/blog/career/incident-postmortem-kulturu-suclamasiz-analiz-nasil-yapilir/)** &nbsp;·&nbsp; <sub>Aug 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
