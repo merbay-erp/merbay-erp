@@ -133,10 +133,10 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 
 <!-- BLOG-POST-LIST:START -->
 📝 **[Podman Quadlet ile systemd Altında Rootless Container](https://mustafaerbay.com.tr/blog/tutorials/podman-quadlet-ile-systemd-altinda-rootless-container/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
+📝 **[Çoklu LLM Router: Kalite, Gecikme ve Fallback Tasarımı](https://mustafaerbay.com.tr/blog/technology/coklu-llm-router-kalite-gecikme-ve-fallback-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
 📝 **[SPIRE Federation ile Multi-Cluster Workload Identity](https://mustafaerbay.com.tr/blog/tutorials/spire-federation-ile-multi-cluster-workload-identity/)** &nbsp;·&nbsp; <sub>Aug 23rd, 2026</sub>
 📝 **[OpenTofu Provider Lockfile ve Supply Chain Doğrulaması](https://mustafaerbay.com.tr/blog/tutorials/opentofu-provider-lockfile-ve-supply-chain-dogrulamasi/)** &nbsp;·&nbsp; <sub>Aug 23rd, 2026</sub>
-📝 **[Home Assistant’ta Matter ve Thread Ağı Tasarımı](https://mustafaerbay.com.tr/blog/technology/home-assistantta-matter-ve-thread-agi-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 22nd, 2026</sub>
-📝 **[Windows Evidence Gap: Kontrol Çalışırken Kanıtın Kaybolması](https://mustafaerbay.com.tr/blog/technology/windows-evidence-gap/)** &nbsp;·&nbsp; <sub>Aug 20th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Home Assistant’ta Matter ve Thread Ağı Tasarımı](https://mustafaerbay.com.tr/blog/technology/home-assistantta-matter-ve-thread-agi-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 22nd, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
