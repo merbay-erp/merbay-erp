@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[nftables ile Modern Linux Firewall: iptables&#39;tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
 📝 **[Podman Quadlet ile systemd Altında Rootless Container](https://mustafaerbay.com.tr/blog/tutorials/podman-quadlet-ile-systemd-altinda-rootless-container/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
 📝 **[Çoklu LLM Router: Kalite, Gecikme ve Fallback Tasarımı](https://mustafaerbay.com.tr/blog/technology/coklu-llm-router-kalite-gecikme-ve-fallback-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
 📝 **[Feature Flag Mimarisi: Deploy&#39;u Release&#39;ten Ayırmak](https://mustafaerbay.com.tr/blog/technology/feature-flag-mimarisi-deployu-releaseten-ayirmak/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
-📝 **[Restic ile Şifreli Yedekleme: Repo Tasarımı ve Kurtarma Tatbikatı](https://mustafaerbay.com.tr/blog/tutorials/restic-ile-sifreli-yedekleme-repo-tasarimi-ve-kurtarma-tatbikati/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
-📝 **[SPIRE Federation ile Multi-Cluster Workload Identity](https://mustafaerbay.com.tr/blog/tutorials/spire-federation-ile-multi-cluster-workload-identity/)** &nbsp;·&nbsp; <sub>Aug 23rd, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Restic ile Şifreli Yedekleme: Repo Tasarımı ve Kurtarma Tatbikatı](https://mustafaerbay.com.tr/blog/tutorials/restic-ile-sifreli-yedekleme-repo-tasarimi-ve-kurtarma-tatbikati/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
