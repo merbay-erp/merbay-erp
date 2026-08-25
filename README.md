@@ -132,11 +132,11 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+📝 **[CrowdSec ile Davranış Tabanlı Saldırı Engelleme](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-davranis-tabanli-saldiri-engelleme/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
 📝 **[nftables ile Modern Linux Firewall: iptables&#39;tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
 📝 **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
 📝 **[Zigbee2MQTT ile Cihaz Bağımsız Akıllı Ev](https://mustafaerbay.com.tr/blog/tutorials/zigbee2mqtt-ile-cihaz-bagimsiz-akilli-ev/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
-📝 **[ZFS Snapshot ve send/receive ile Felaket Kurtarma](https://mustafaerbay.com.tr/blog/tutorials/zfs-snapshot-ve-send-receive-ile-felaket-kurtarma/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
-📝 **[Podman Quadlet ile systemd Altında Rootless Container](https://mustafaerbay.com.tr/blog/tutorials/podman-quadlet-ile-systemd-altinda-rootless-container/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[ZFS Snapshot ve send/receive ile Felaket Kurtarma](https://mustafaerbay.com.tr/blog/tutorials/zfs-snapshot-ve-send-receive-ile-felaket-kurtarma/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
