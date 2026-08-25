@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[nftables ile Modern Linux Firewall: iptables&#39;tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
 📝 **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
+📝 **[Zigbee2MQTT ile Cihaz Bağımsız Akıllı Ev](https://mustafaerbay.com.tr/blog/tutorials/zigbee2mqtt-ile-cihaz-bagimsiz-akilli-ev/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
 📝 **[Podman Quadlet ile systemd Altında Rootless Container](https://mustafaerbay.com.tr/blog/tutorials/podman-quadlet-ile-systemd-altinda-rootless-container/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
-📝 **[Çoklu LLM Router: Kalite, Gecikme ve Fallback Tasarımı](https://mustafaerbay.com.tr/blog/technology/coklu-llm-router-kalite-gecikme-ve-fallback-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub>
-📝 **[Feature Flag Mimarisi: Deploy&#39;u Release&#39;ten Ayırmak](https://mustafaerbay.com.tr/blog/technology/feature-flag-mimarisi-deployu-releaseten-ayirmak/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[Çoklu LLM Router: Kalite, Gecikme ve Fallback Tasarımı](https://mustafaerbay.com.tr/blog/technology/coklu-llm-router-kalite-gecikme-ve-fallback-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 24th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
