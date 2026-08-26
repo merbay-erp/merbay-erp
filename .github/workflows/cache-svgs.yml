@@ -1,7 +1,4 @@
-name: Cache profile SVGs
-
-# Cache decorative SVGs and generate repository-owned stats cards.
-# The profile only references assets that are known to exist on the output branch.
+name: Generate profile dashboard
 
 on:
   schedule:
@@ -16,9 +13,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-dashboard
+  cancel-in-progress: true
+
 jobs:
-  cache:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
@@ -31,38 +33,26 @@ jobs:
           ref: output
           path: output-target
 
-      - name: Cache decorative SVGs
-        working-directory: output-target
-        run: |
-          set -uo pipefail
-          mkdir -p svg-cache
-
-          chmod +x ../main-src/.github/workflows/scripts/fetch-svg.sh
-          FETCH=../main-src/.github/workflows/scripts/fetch-svg.sh
-
-          $FETCH "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mustafa%20Erbay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Architect%20%E2%80%A2%20Network%20%26%20Infrastructure%20%E2%80%A2%20Indie%20Hacker&descAlignY=62&descAlign=50&descSize=14" \
-            svg-cache/header.svg
-
-          $FETCH "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
-            svg-cache/footer.svg
-
-      - name: Generate repository-owned stats cards
+      - name: Generate repository-owned profile assets
         env:
           GH_TOKEN: ${{ secrets.METRICS_PAT || secrets.GITHUB_TOKEN }}
         run: |
           chmod +x main-src/.github/workflows/scripts/gen-stats.sh
           main-src/.github/workflows/scripts/gen-stats.sh merbay-erp output-target/svg-cache
-          ls -la output-target/svg-cache/
+          test -s output-target/svg-cache/hero.svg
+          test -s output-target/svg-cache/dashboard.svg
+          test -s output-target/svg-cache/architecture.svg
+          test -s output-target/svg-cache/footer.svg
 
-      - name: Commit and push to output branch
+      - name: Commit dashboard assets
         working-directory: output-target
         run: |
-          git config user.name "SVG Cache Bot"
+          git config user.name "Profile Dashboard Bot"
           git config user.email "bot@mustafaerbay.com.tr"
           git add svg-cache/
           if git diff --staged --quiet; then
-            echo "No SVG changes; skipping commit"
+            echo "No dashboard changes; skipping commit"
             exit 0
           fi
-          git commit -m "chore(svg): refresh profile assets ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "chore(profile): refresh engineering dashboard ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push origin output
