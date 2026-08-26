@@ -1,11 +1,11 @@
 name: Update README
 
-# RSS feed'den son 5 yaziyi cek, README'deki BLOG-POST-LIST blogunu guncelle.
-# Maliyet: $0 — GitHub-hosted runner.
+# Refresh only the Latest writing block from the RSS feed.
+# The rest of README.md remains untouched.
 
 on:
   schedule:
-    - cron: '0 * * * *'  # her saat
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,13 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update blog posts
+      - name: Update latest writing
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://mustafaerbay.com.tr/rss.xml'
           max_post_count: 5
-          # Daha temiz template — title bold + tarih + tek satir, alt satir karmasasi yok
-          template: '$newline📝 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>'
-          date_format: 'mmm dS, yyyy'
+          template: '$newline- **[$title]($url)** <sub>— $date</sub>'
+          date_format: 'mmm d, yyyy'
           comment_tag_name: 'BLOG-POST-LIST'
-          commit_message: 'chore(readme): update blog posts'
+          commit_message: 'chore(readme): update latest writing'
