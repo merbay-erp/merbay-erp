@@ -41,6 +41,7 @@ jobs:
           main-src/.github/workflows/scripts/gen-stats.sh merbay-erp output-target/svg-cache
           test -s output-target/svg-cache/hero.svg
           test -s output-target/svg-cache/dashboard.svg
+          test -s output-target/svg-cache/github-stats.svg
           test -s output-target/svg-cache/capabilities.svg
           test -s output-target/svg-cache/architecture.svg
           test -s output-target/svg-cache/products.svg

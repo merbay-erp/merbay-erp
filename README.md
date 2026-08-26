@@ -17,7 +17,7 @@
 [![Profile assets](https://github.com/merbay-erp/merbay-erp/actions/workflows/cache-svgs.yml/badge.svg)](https://github.com/merbay-erp/merbay-erp/actions/workflows/cache-svgs.yml)
 [![Latest writing](https://github.com/merbay-erp/merbay-erp/actions/workflows/update-readme.yml/badge.svg)](https://github.com/merbay-erp/merbay-erp/actions/workflows/update-readme.yml)
 
-[Dashboard](#engineering-dashboard) · [Capabilities](#capability-matrix) · [Architecture](#architecture-map) · [Products](#independent-products) · [Writing](#latest-field-notes)
+[Dashboard](#engineering-dashboard) · [GitHub stats](#github-performance) · [Capabilities](#capability-matrix) · [Architecture](#architecture-map) · [Products](#independent-products) · [Writing](#latest-field-notes)
 
 </div>
 
@@ -28,6 +28,20 @@
 ![Mustafa Erbay engineering dashboard](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/dashboard.svg)
 
 > I own the whole path: architecture, networking, Linux, deployment, observability, product code, data and the postmortem after something catches fire.
+
+## GitHub performance
+
+![Mustafa Erbay GitHub statistics, stars and profile ranks](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/github-stats.svg)
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/merbay-erp?style=flat-square&label=Followers&color=2dd4bf)](https://github.com/merbay-erp?tab=followers)
+[![Profile stars](https://img.shields.io/badge/Stars-2-fbbf24?style=flat-square&logo=github)](https://github.com/merbay-erp?tab=repositories)
+[![Public repositories](https://img.shields.io/badge/Public_repositories-6-60a5fa?style=flat-square&logo=github)](https://github.com/merbay-erp?tab=repositories)
+
+<sub>Composite and category ranks are transparent, repository-owned estimates derived from public GitHub metrics; they are not official GitHub ratings.</sub>
+
+</div>
 
 ## Capability matrix
 

@@ -45,6 +45,32 @@ LAST_YEAR_CONTRIB=$(jq '.data.user.contributionsCollection.totalCommitContributi
 TOTAL_PRS=$(curl -fsS -H "$AUTH" "https://api.github.com/search/issues?q=author:$USERNAME+is:pr&per_page=1" | jq -r '.total_count // 0')
 TOTAL_ISSUES=$(curl -fsS -H "$AUTH" "https://api.github.com/search/issues?q=author:$USERNAME+is:issue&per_page=1" | jq -r '.total_count // 0')
 
+metric_rank() {
+  local value="$1" s="$2" a="$3" b="$4" c="$5"
+  if (( value >= s )); then printf 'S|#fbbf24'
+  elif (( value >= a )); then printf 'A|#a78bfa'
+  elif (( value >= b )); then printf 'B|#60a5fa'
+  elif (( value >= c )); then printf 'C|#2dd4bf'
+  else printf '%s|%s' '—' '#64748b'
+  fi
+}
+
+IFS='|' read -r COMMIT_RANK COMMIT_RANK_COLOR <<<"$(metric_rank "$TOTAL_COMMITS" 5000 2500 1000 250)"
+IFS='|' read -r CONTRIB_RANK CONTRIB_RANK_COLOR <<<"$(metric_rank "$LAST_YEAR_CONTRIB" 1000 500 250 100)"
+IFS='|' read -r PR_RANK PR_RANK_COLOR <<<"$(metric_rank "$TOTAL_PRS" 250 100 40 10)"
+IFS='|' read -r REPO_RANK REPO_RANK_COLOR <<<"$(metric_rank "$PUBLIC_REPOS" 50 25 10 5)"
+IFS='|' read -r FOLLOWER_RANK FOLLOWER_RANK_COLOR <<<"$(metric_rank "$FOLLOWERS" 100 30 10 1)"
+IFS='|' read -r STAR_RANK STAR_RANK_COLOR <<<"$(metric_rank "$TOTAL_STARS" 100 30 10 1)"
+
+PROFILE_SCORE=$((TOTAL_COMMITS + TOTAL_PRS * 2 + LAST_YEAR_CONTRIB * 2 + TOTAL_STARS * 8 + FOLLOWERS * 3 + PUBLIC_REPOS * 5))
+if (( PROFILE_SCORE >= 7000 )); then PROFILE_RANK='A+'; PROFILE_PERCENT=98
+elif (( PROFILE_SCORE >= 4500 )); then PROFILE_RANK='A'; PROFILE_PERCENT=92
+elif (( PROFILE_SCORE >= 2500 )); then PROFILE_RANK='B+'; PROFILE_PERCENT=82
+elif (( PROFILE_SCORE >= 1000 )); then PROFILE_RANK='B'; PROFILE_PERCENT=70
+else PROFILE_RANK='C'; PROFILE_PERCENT=50
+fi
+PROFILE_DASH=$(awk -v pct="$PROFILE_PERCENT" 'BEGIN { printf "%.0f", pct * 5.03 }')
+
 LANGS_RAW='{}'
 while IFS= read -r repo; do
   repo_langs=$(curl -fsS -H "$AUTH" "https://api.github.com/repos/$USERNAME/$repo/languages" 2>/dev/null || printf '{}')
@@ -211,6 +237,62 @@ cat > "$OUT_DIR/dashboard.svg" <<SVG
 </svg>
 SVG
 
+cat > "$OUT_DIR/github-stats.svg" <<SVG
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img" aria-label="Mustafa Erbay GitHub statistics, stars and profile ranks">
+  <defs>
+    <linearGradient id="statsBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1323"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="statsLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <filter id="rankGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .title{font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#67e8f9}
+    .caption{font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+    .rank{font:900 52px Inter,Segoe UI,Arial,sans-serif;fill:#fbbf24}
+    .rank-label{font:700 11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1px;fill:#94a3b8}
+    .metric{font:800 31px Inter,Segoe UI,Arial,sans-serif;fill:#f8fafc}
+    .metric-label{font:700 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.9px;fill:#94a3b8}
+    .grade{font:900 31px Inter,Segoe UI,Arial,sans-serif}
+    .grade-label{font:700 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.8px;fill:#94a3b8}
+    .grade-value{font:600 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#cbd5e1}
+  </style>
+  <rect width="1200" height="610" rx="20" fill="url(#statsBg)"/>
+  <rect x="1" y="1" width="1198" height="608" rx="19" fill="none" stroke="#263449"/>
+  <text x="38" y="48" class="title">GITHUB PERFORMANCE CONSOLE</text>
+  <text x="1162" y="48" class="caption" text-anchor="end">PUBLIC METRICS · REPOSITORY-OWNED</text>
+
+  <g>
+    <rect x="36" y="78" width="244" height="308" rx="16" fill="#0d1728" stroke="#334155"/>
+    <circle cx="158" cy="210" r="78" fill="none" stroke="#202b3d" stroke-width="12"/>
+    <circle cx="158" cy="210" r="78" fill="none" stroke="#fbbf24" stroke-width="12" stroke-dasharray="${PROFILE_DASH} 503" stroke-linecap="round" transform="rotate(-90 158 210)" filter="url(#rankGlow)"/>
+    <text x="158" y="219" class="rank" text-anchor="middle">${PROFILE_RANK}</text>
+    <text x="158" y="304" class="rank-label" text-anchor="middle">COMPOSITE PROFILE RANK</text>
+    <text x="158" y="331" class="caption" text-anchor="middle">SCORE ${PROFILE_SCORE} · RANK ${PROFILE_PERCENT}/100</text>
+    <text x="158" y="359" class="caption" text-anchor="middle">SELF-CALCULATED</text>
+  </g>
+
+  <g transform="translate(304 78)">
+    <g><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${TOTAL_COMMITS}</text><text x="20" y="91" class="metric-label">TOTAL COMMITS</text><text x="180" y="117" text-anchor="end" class="caption">ALL REPOSITORIES</text></g>
+    <g transform="translate(216 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${LAST_YEAR_CONTRIB}</text><text x="20" y="91" class="metric-label">LAST YEAR</text><text x="180" y="117" text-anchor="end" class="caption">CONTRIBUTIONS</text></g>
+    <g transform="translate(432 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${TOTAL_PRS}</text><text x="20" y="91" class="metric-label">PULL REQUESTS</text><text x="180" y="117" text-anchor="end" class="caption">AUTHORED</text></g>
+    <g transform="translate(648 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${PUBLIC_REPOS}</text><text x="20" y="91" class="metric-label">PUBLIC REPOS</text><text x="180" y="117" text-anchor="end" class="caption">OWNED</text></g>
+    <g transform="translate(0 156)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${TOTAL_STARS}</text><text x="20" y="91" class="metric-label">STARS EARNED</text><text x="180" y="117" text-anchor="end" class="caption">PUBLIC REPOS</text></g>
+    <g transform="translate(216 156)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${FOLLOWERS}</text><text x="20" y="91" class="metric-label">FOLLOWERS</text><text x="180" y="117" text-anchor="end" class="caption">GITHUB</text></g>
+    <g transform="translate(432 156)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">${TOTAL_ISSUES}</text><text x="20" y="91" class="metric-label">ISSUES</text><text x="180" y="117" text-anchor="end" class="caption">AUTHORED</text></g>
+    <g transform="translate(648 156)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">20+</text><text x="20" y="91" class="metric-label">YEARS</text><text x="180" y="117" text-anchor="end" class="caption">PRODUCTION</text></g>
+  </g>
+
+  <g transform="translate(36 414)">
+    <g><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${COMMIT_RANK_COLOR}">${COMMIT_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">COMMITS</text><text x="87" y="113" text-anchor="middle" class="grade-value">${TOTAL_COMMITS}</text></g>
+    <g transform="translate(188 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${CONTRIB_RANK_COLOR}">${CONTRIB_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">CONTRIBUTIONS</text><text x="87" y="113" text-anchor="middle" class="grade-value">${LAST_YEAR_CONTRIB}</text></g>
+    <g transform="translate(376 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${PR_RANK_COLOR}">${PR_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">PULL REQUESTS</text><text x="87" y="113" text-anchor="middle" class="grade-value">${TOTAL_PRS}</text></g>
+    <g transform="translate(564 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${REPO_RANK_COLOR}">${REPO_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">REPOSITORIES</text><text x="87" y="113" text-anchor="middle" class="grade-value">${PUBLIC_REPOS}</text></g>
+    <g transform="translate(752 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${FOLLOWER_RANK_COLOR}">${FOLLOWER_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">FOLLOWERS</text><text x="87" y="113" text-anchor="middle" class="grade-value">${FOLLOWERS}</text></g>
+    <g transform="translate(940 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="${STAR_RANK_COLOR}">${STAR_RANK}</text><text x="87" y="86" text-anchor="middle" class="grade-label">STARS</text><text x="87" y="113" text-anchor="middle" class="grade-value">${TOTAL_STARS}</text></g>
+  </g>
+  <rect x="36" y="582" width="1128" height="3" rx="1.5" fill="url(#statsLine)"/>
+</svg>
+SVG
+
 cat > "$OUT_DIR/architecture.svg" <<'SVG'
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Mustafa Erbay capability and architecture map">
   <defs>
@@ -308,4 +390,4 @@ cat > "$OUT_DIR/footer.svg" <<'SVG'
 </svg>
 SVG
 
-printf 'Generated hero.svg, dashboard.svg, capabilities.svg, architecture.svg, products.svg and footer.svg\n'
+printf 'Generated hero.svg, dashboard.svg, github-stats.svg, capabilities.svg, architecture.svg, products.svg and footer.svg\n'
