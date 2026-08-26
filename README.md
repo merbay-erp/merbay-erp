@@ -134,9 +134,9 @@ fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
 <!-- BLOG-POST-LIST:START -->
 📝 **[CrowdSec ile Davranış Tabanlı Saldırı Engelleme](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-davranis-tabanli-saldiri-engelleme/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
 📝 **[Yerel LLM İçin VRAM Hesabı: Model Boyutu ve Quantization Rehberi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llm-icin-vram-hesabi-model-boyutu-ve-quantization-rehberi/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
+📝 **[Trivy ile Container İmaj Taraması: CI&#39;da Kırılma Eşiği](https://mustafaerbay.com.tr/blog/tutorials/trivy-ile-container-imaj-taramasi-cida-kirilma-esigi/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
 📝 **[nftables ile Modern Linux Firewall: iptables&#39;tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
-📝 **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
-📝 **[Zigbee2MQTT ile Cihaz Bağımsız Akıllı Ev](https://mustafaerbay.com.tr/blog/tutorials/zigbee2mqtt-ile-cihaz-bagimsiz-akilli-ev/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+📝 **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
 
