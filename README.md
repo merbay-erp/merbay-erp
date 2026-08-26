@@ -1,170 +1,100 @@
 <!--
-  Bu README otomatik guncellenir — manuel duzenleme yapma.
-  Update: .github/workflows/update-readme.yml (saatlik)
-  RSS source: https://mustafaerbay.com.tr/rss.xml
-  Snake animation: .github/workflows/snake.yml (gunluk)
+  The "Latest writing" block is refreshed hourly by
+  .github/workflows/update-readme.yml. The rest of this file is maintained
+  manually.
 -->
 
-<!-- ╔══════════════════ HEADER (native + SVG fallback) ══════════════════╗ -->
 <div align="center">
 
-[![Header](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/header.svg)](https://mustafaerbay.com.tr)
-
-# 👋 Hi, I'm Mustafa Erbay
+[![Mustafa Erbay — System Architect, Infrastructure Engineer and Indie Hacker](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/header.svg)](https://mustafaerbay.com.tr)
 
 **System Architect · Network & Infrastructure Engineer · Indie Hacker**
 
-Cloud · DevOps · SRE · Bilingual tech blog (TR + EN)
+I build resilient, self-hosted systems and write about what really happens in production.
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&random=false&width=720&height=42&lines=Survived+OOM+wars%2C+Docker+disk+fires%2C+kcompactd+%2592+CPU;20%2B+years+building+resilient+production+systems;26+Docker+containers%2C+1+VPS%2C+0+managed+services;Cloud+%E2%80%A2+DevOps+%E2%80%A2+SRE+%E2%80%A2+Bilingual+blog+%28TR+%2B+EN%29)](https://github.com/merbay-erp)
+[![Website](https://img.shields.io/badge/Website-mustafaerbay.com.tr-2563eb?style=flat-square&logo=astro&logoColor=white)](https://mustafaerbay.com.tr)
+[![English blog](https://img.shields.io/badge/Blog-English-22c55e?style=flat-square&logo=googletranslate&logoColor=white)](https://mustafaerbay.com.tr/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Erbay-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-e-6a891370/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-ea4335?style=flat-square&logo=protonmail&logoColor=white)](mailto:mustafa@mustafaerbay.com.tr)
+
+[Bluesky](https://bsky.app/profile/mustafaerbay.bsky.social) · [X](https://x.com/merbay86) · [DEV](https://dev.to/merbayerp) · [ORCID](https://orcid.org/0009-0005-9624-4249) · [Wikidata](https://www.wikidata.org/wiki/Q139679043)
 
 </div>
 
-<!-- ╔══════════════════ SOCIAL ══════════════════╗ -->
-<p align="center">
-  <a href="https://mustafaerbay.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-mustafaerbay.com.tr-2563eb?style=for-the-badge&logo=astro&logoColor=white"></a>
-  <a href="https://mustafaerbay.com.tr/en/"><img alt="EN" src="https://img.shields.io/badge/EN-blog-22c55e?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
-  <a href="mailto:mustafa@mustafaerbay.com.tr"><img alt="Mail" src="https://img.shields.io/badge/Mail-mustafa%40mustafaerbay.com.tr-EA4335?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-</p>
-<p align="center">
-  <a href="https://bsky.app/profile/mustafaerbay.bsky.social"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-mustafaerbay-1185fe?style=flat-square&logo=bluesky&logoColor=white"></a>
-  <a href="https://x.com/merbay86"><img alt="X" src="https://img.shields.io/badge/X-@merbay86-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mustafa-e-6a891370/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mustafa%20Erbay-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://dev.to/merbayerp"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-merbayerp-0a0a0a?style=flat-square&logo=devdotto&logoColor=white"></a>
-  <a href="https://www.wikidata.org/wiki/Q139679043"><img alt="Wikidata" src="https://img.shields.io/badge/Wikidata-Q139679043-006699?style=flat-square&logo=wikidata&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0005-9624-4249"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0005--9624--4249-a6ce39?style=flat-square&logo=orcid&logoColor=white"></a>
-</p>
+---
 
-<p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=merbay-erp&label=Profile+views&color=2563eb&style=flat-square">
-  <img alt="followers" src="https://img.shields.io/github/followers/merbay-erp?style=flat-square&label=Followers&color=2563eb">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/merbay-erp/merbay-erp?style=flat-square&label=Last+commit&color=22c55e">
-</p>
+### About
+
+- Based in **Bursa, Türkiye**; working in infrastructure and systems since 2006.
+- Focused on **system architecture, Linux, networking, DevOps and SRE**.
+- Running an independent, self-hosted product stack on a single VPS with 26 Docker containers.
+- Publishing practical production notes in **Turkish and English** across 730+ articles.
+
+My work is shaped by real incidents: OOM kills, Docker disk pressure, runaway `kcompactd`, inaccessible SSH sessions and CI cleanup jobs that cleaned up themselves. I document the diagnosis, trade-offs and fixes—not the marketing version.
+
+### Core stack
+
+`Linux` · `Bash` · `Docker` · `Kubernetes` · `Nginx` · `PostgreSQL` · `Redis` · `Node.js` · `TypeScript` · `Rust` · `Astro` · `React` · `Cloudflare` · `Prometheus` · `Grafana` · `GitHub Actions`
 
 ---
 
-### 🧭 About
+### Selected projects
 
-```yaml
-name:     Mustafa Erbay
-location: Bursa, Türkiye 🇹🇷
-work:     System architect & infrastructure engineer (since 2006)
-side:     Indie hacker · self-hosted everything · 0 managed cloud services
-writing:  Bilingual tech blog — TR + EN, 730+ articles, FAQ-rich
-focus:    Production war stories · DevOps reality · Career honesty
-fueled:   Strong Turkish coffee ☕ · `tail -f /var/log/*` · `htop`
-```
+| Project | What it does |
+| --- | --- |
+| [BurnCPU](https://burncpu.com) | Self-hosted social network built with Rust and Axum |
+| [HRMarge](https://hrmarge.com) | Multi-tenant time and attendance platform for multiple companies |
+| [GerçekVeri](https://gercekveri.com) | Anonymous salary, rent and living-cost data for Türkiye |
+| [Hesapçıyız](https://hesapciyiz.com) | 34 browser-based calculators with no sign-up |
+| [İş Listesi](https://islistesi.com) | Free, privacy-first task manager for web and mobile |
+| [Spam Kalkanı](https://spamkalkani.com) | On-device Android spam-call blocker for Türkiye |
 
-20+ years in **production**. Lived through OOM kills (5–7 GB heap with 7.6 GB RAM), Docker disk fires (33 GB build cache + 23 GB unused images), `kcompactd %92 CPU` SSH lock-outs, and a self-inflicted CI runner cleanup that killed itself. I write about what actually happens in production — not the marketing slides.
-
----
-
-### 🛠 Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,postgres,redis,nodejs,typescript,astro,react,nextjs,cloudflare,prometheus,grafana,git,github,vscode&perline=9" alt="stack"/>
-</p>
-
-<p align="center">
-  <img alt="On VPS"     src="https://img.shields.io/badge/Deploy-Self--hosted%20VPS-22c55e?style=flat-square&logo=ovh">
-  <img alt="Containers" src="https://img.shields.io/badge/26-Docker%20containers-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Mailcow"    src="https://img.shields.io/badge/Mail-Mailcow-1d63ed?style=flat-square">
-  <img alt="Umami"      src="https://img.shields.io/badge/Analytics-Umami-9333ea?style=flat-square">
-  <img alt="Autopost"   src="https://img.shields.io/badge/Auto--post-6%20platforms-eab308?style=flat-square">
-</p>
+<sub>Independent, privacy-first and built and operated solo.</sub>
 
 ---
 
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td>🐢</td><td><b><a href="https://burncpu.com">BurnCPU</a></b></td><td>Self-hosted social network I built — Rust + Axum</td>
-  </tr>
-  <tr>
-    <td>⏱️</td><td><b><a href="https://hrmarge.com">HRMarge</a></b></td><td>Multi-tenant time &amp; attendance (PDKS) — multi-company, one panel</td>
-  </tr>
-  <tr>
-    <td>📊</td><td><b><a href="https://gercekveri.com">GerçekVeri</a></b></td><td>Anonymous Turkey data — salary, rent, bills, by city/role</td>
-  </tr>
-  <tr>
-    <td>🧮</td><td><b><a href="https://hesapciyiz.com">Hesapçiyiz</a></b></td><td>34 calculators for Turkey — runs in the browser, no sign-up</td>
-  </tr>
-  <tr>
-    <td>✅</td><td><b><a href="https://islistesi.com">İş Listesi</a></b></td><td>Turkish task manager — web &amp; mobile, free, privacy-first</td>
-  </tr>
-  <tr>
-    <td>🛡️</td><td><b><a href="https://spamkalkani.com">Spam Kalkanı</a></b></td><td>Android spam-call blocker for Turkey — on-device</td>
-  </tr>
-</table>
-
-<sub>All indie, self-hosted, privacy-first — built and run solo. 🇹🇷</sub>
-
----
-
-### 📊 GitHub at a Glance
+### GitHub overview
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/stats.svg" alt="stats" height="180"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/stats.svg" alt="Mustafa Erbay's GitHub statistics" width="100%">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/streak.svg" alt="streak" height="180"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/top-langs.svg" alt="Most used languages" width="100%">
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/top-langs.svg" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/activity.svg" alt="activity graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/trophies.svg" alt="trophies"/>
-</p>
+<sub>Cards are generated from the GitHub API and served from this repository's `output` branch.</sub>
 
 ---
 
-### 📝 Latest Blog Posts
+### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-📝 **[CrowdSec ile Davranış Tabanlı Saldırı Engelleme](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-davranis-tabanli-saldiri-engelleme/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
-📝 **[Yerel LLM İçin VRAM Hesabı: Model Boyutu ve Quantization Rehberi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llm-icin-vram-hesabi-model-boyutu-ve-quantization-rehberi/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
-📝 **[Trivy ile Container İmaj Taraması: CI&#39;da Kırılma Eşiği](https://mustafaerbay.com.tr/blog/tutorials/trivy-ile-container-imaj-taramasi-cida-kirilma-esigi/)** &nbsp;·&nbsp; <sub>Aug 26th, 2026</sub>
-📝 **[nftables ile Modern Linux Firewall: iptables&#39;tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub>
-📝 **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** &nbsp;·&nbsp; <sub>Aug 25th, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[CrowdSec ile Davranış Tabanlı Saldırı Engelleme](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-davranis-tabanli-saldiri-engelleme/)** <sub>— Aug 26, 2026</sub>
+- **[Yerel LLM İçin VRAM Hesabı: Model Boyutu ve Quantization Rehberi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llm-icin-vram-hesabi-model-boyutu-ve-quantization-rehberi/)** <sub>— Aug 26, 2026</sub>
+- **[Trivy ile Container İmaj Taraması: CI'da Kırılma Eşiği](https://mustafaerbay.com.tr/blog/tutorials/trivy-ile-container-imaj-taramasi-cida-kirilma-esigi/)** <sub>— Aug 26, 2026</sub>
+- **[nftables ile Modern Linux Firewall: iptables'tan Geçiş](https://mustafaerbay.com.tr/blog/tutorials/nftables-ile-modern-linux-firewall-iptablestan-gecis/)** <sub>— Aug 25, 2026</sub>
+- **[WireGuard ile Site-to-Site VPN: Anahtar ve Rota Tasarımı](https://mustafaerbay.com.tr/blog/tutorials/wireguard-ile-site-to-site-vpn-anahtar-ve-rota-tasarimi/)** <sub>— Aug 25, 2026</sub>
+<!-- BLOG-POST-LIST:END -->
 
-<sub>📡 Auto-fetched from <a href="https://mustafaerbay.com.tr/rss.xml">/rss.xml</a> via GitHub Actions cron — fully self-hosted pipeline.</sub>
-
-➡️ **All posts**: [Türkçe](https://mustafaerbay.com.tr/blog/) · [English](https://mustafaerbay.com.tr/en/blog/)
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/snake.svg"/>
-</p>
+[Browse all posts in Türkçe](https://mustafaerbay.com.tr/blog/) · [Read in English](https://mustafaerbay.com.tr/en/blog/)
 
 ---
 
-### 🌍 Currently
+### Current focus
 
-```sh
-$ ./mustafa --whoami
-🟢 Online      : VPS uptime 99.9%, Astro SSR + 26 Docker containers
-🛠 Building    : Self-hosted blog automation (auto-post → 6 platforms)
-📚 Writing     : Production war stories — bilingual (TR + EN)
-🎯 Goal-2026   : 1000+ articles, knowledge graph rank, full SEO autonomy
-☕ Right now   : Reading dmesg, sipping Turkish coffee
-```
+- **Operating:** Astro SSR, Mailcow, Umami and a 26-container self-hosted stack.
+- **Building:** Blog automation that publishes across six platforms.
+- **Writing:** Bilingual production stories, tutorials and postmortems.
+- **2026 goal:** A 1,000+ article technical knowledge base with full publishing autonomy.
 
-<p align="center">
-  <sub><i>If you found this profile useful, consider <a href="https://github.com/merbay-erp">following</a> — I write 1+ posts/day on real production scenarios.</i></sub>
-</p>
+<div align="center">
+
+If this work is useful, [follow me on GitHub](https://github.com/merbay-erp) or [say hello by email](mailto:mustafa@mustafaerbay.com.tr).
 
 [![Footer](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/footer.svg)](https://mustafaerbay.com.tr)
+
+</div>
