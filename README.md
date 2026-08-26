@@ -31,61 +31,7 @@
 
 ## Capability matrix
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🛰️ Systems &amp; Network</h3>
-      Linux operations<br>
-      Network architecture<br>
-      Nginx · WireGuard · nftables<br>
-      Performance &amp; capacity<br>
-      Incident response
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Platform &amp; SRE</h3>
-      Docker · Kubernetes<br>
-      Self-hosted infrastructure<br>
-      CI/CD · GitHub Actions<br>
-      Prometheus · Grafana<br>
-      Reliability engineering
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Product Engineering</h3>
-      Rust · Axum<br>
-      TypeScript · Node.js<br>
-      Astro · React · Next.js<br>
-      C · Win32 · WinHTTP<br>
-      PostgreSQL · PL/pgSQL<br>
-      Redis · Meilisearch
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🛡️ Production Mindset</h3>
-      Root-cause analysis<br>
-      Security by default<br>
-      Privacy-first systems<br>
-      Resource efficiency<br>
-      Zero-managed-service bias
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 Independent Builder</h3>
-      Multi-tenant platforms<br>
-      Data products<br>
-      Browser-first utilities<br>
-      Android security tools<br>
-      Solo product operations
-    </td>
-    <td width="33%" valign="top">
-      <h3>✍️ Technical Publishing</h3>
-      730+ technical articles<br>
-      Turkish + English<br>
-      Production postmortems<br>
-      Hands-on tutorials<br>
-      Automated distribution
-    </td>
-  </tr>
-</table>
+![Mustafa Erbay capability matrix](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/capabilities.svg)
 
 ## Architecture map
 
@@ -99,44 +45,16 @@
 
 ## Independent products
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🐢 <a href="https://burncpu.com">BurnCPU</a></h3>
-      <p>Self-hosted social network with AI-assisted moderation and federation-ready foundations.</p>
-      <sub>Rust · Axum · SolidJS · PostgreSQL · Redis · Meilisearch</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⏱️ <a href="https://hrmarge.com">HRMarge</a></h3>
-      <p>Multi-tenant time and attendance platform: multiple companies, one operating panel.</p>
-      <sub>Workforce operations · Multi-tenant SaaS</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📊 <a href="https://gercekveri.com">GerçekVeri</a></h3>
-      <p>Anonymous, real-world salary, rent and living-cost data for Türkiye.</p>
-      <sub>Data product · Privacy-first · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧮 <a href="https://hesapciyiz.com">Hesapçıyız</a></h3>
-      <p>34 practical calculators that run in the browser without an account.</p>
-      <sub>Browser-first · No sign-up · Fast</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✅ <a href="https://islistesi.com">İş Listesi</a></h3>
-      <p>Free and privacy-first task management for web and mobile.</p>
-      <sub>Productivity · Web + mobile</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🛡️ <a href="https://spamkalkani.com">Spam Kalkanı</a></h3>
-      <p>On-device Android spam-call protection designed for Türkiye.</p>
-      <sub>Android · On-device · Privacy-first</sub>
-    </td>
-  </tr>
-</table>
+![Mustafa Erbay independent product portfolio](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/products.svg)
 
 <div align="center">
+  <a href="https://burncpu.com">BurnCPU</a> ·
+  <a href="https://hrmarge.com">HRMarge</a> ·
+  <a href="https://gercekveri.com">GerçekVeri</a> ·
+  <a href="https://hesapciyiz.com">Hesapçıyız</a> ·
+  <a href="https://islistesi.com">İş Listesi</a> ·
+  <a href="https://spamkalkani.com">Spam Kalkanı</a>
+  <br><br>
   <b>Independent. Self-hosted. Privacy-first. Built and operated solo.</b>
 </div>
 
@@ -151,9 +69,10 @@
 
 ## How I operate
 
-| 01 — Diagnose deeply | 02 — Own the platform | 03 — Automate the repeatable | 04 — Publish the lesson |
-| --- | --- | --- | --- |
-| Kernel, network, runtime and data—not just the symptom. | Infrastructure is part of the product, not somebody else's problem. | CI/CD, monitoring, backups and publishing pipelines become code. | Incidents turn into bilingual field notes and reusable knowledge. |
+1. **Diagnose deeply** — Kernel, network, runtime and data; not just the symptom.
+2. **Own the platform** — Infrastructure is part of the product, not somebody else's problem.
+3. **Automate the repeatable** — CI/CD, monitoring, backups and publishing pipelines become code.
+4. **Publish the lesson** — Incidents turn into bilingual field notes and reusable knowledge.
 
 <details>
 <summary><b>Battle-tested production stories</b></summary>

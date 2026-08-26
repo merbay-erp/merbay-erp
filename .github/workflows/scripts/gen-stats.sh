@@ -240,6 +240,63 @@ cat > "$OUT_DIR/architecture.svg" <<'SVG'
 </svg>
 SVG
 
+cat > "$OUT_DIR/capabilities.svg" <<'SVG'
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Mustafa Erbay capability matrix">
+  <defs>
+    <linearGradient id="capBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1323"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="capLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style>
+    .title{font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#67e8f9}
+    .num{font:800 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#60a5fa}
+    .head{font:800 19px Inter,Segoe UI,Arial,sans-serif;fill:#f8fafc}
+    .item{font:500 14px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+    .caption{font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+  </style>
+  <rect width="1200" height="620" rx="20" fill="url(#capBg)"/>
+  <rect x="1" y="1" width="1198" height="618" rx="19" fill="none" stroke="#263449"/>
+  <text x="38" y="48" class="title">CAPABILITY MATRIX</text><text x="1162" y="48" class="caption" text-anchor="end">DEPTH + BREADTH + OWNERSHIP</text>
+
+  <g transform="translate(36 78)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#155e75"/><text x="22" y="32" class="num">01 // SYSTEMS &amp; NETWORK</text><text x="22" y="70" class="head">Infrastructure from the wire up</text><text x="22" y="108" class="item">Linux operations · network architecture</text><text x="22" y="140" class="item">Nginx · WireGuard · nftables</text><text x="22" y="172" class="item">Performance · capacity · incident response</text><path d="M22 204H330" stroke="#22d3ee" stroke-opacity=".55"/></g>
+  <g transform="translate(424 78)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#1d4ed8"/><text x="22" y="32" class="num">02 // PLATFORM &amp; SRE</text><text x="22" y="70" class="head">Build it. Run it. Observe it.</text><text x="22" y="108" class="item">Docker · Kubernetes · self-hosting</text><text x="22" y="140" class="item">CI/CD · GitHub Actions</text><text x="22" y="172" class="item">Prometheus · Grafana · reliability</text><path d="M22 204H330" stroke="#3b82f6" stroke-opacity=".55"/></g>
+  <g transform="translate(812 78)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#4338ca"/><text x="22" y="32" class="num">03 // PRODUCT ENGINEERING</text><text x="22" y="70" class="head">From native code to the web</text><text x="22" y="108" class="item">Rust · Axum · TypeScript · Node.js</text><text x="22" y="140" class="item">Astro · React · Next.js · C / Win32</text><text x="22" y="172" class="item">PostgreSQL · PL/pgSQL · Redis · Search</text><path d="M22 204H330" stroke="#6366f1" stroke-opacity=".55"/></g>
+
+  <g transform="translate(36 338)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#5b21b6"/><text x="22" y="32" class="num">04 // PRODUCTION MINDSET</text><text x="22" y="70" class="head">Reality over slideware</text><text x="22" y="108" class="item">Root-cause analysis · security by default</text><text x="22" y="140" class="item">Privacy-first · resource-efficient systems</text><text x="22" y="172" class="item">Low dependency · sovereign infrastructure</text><path d="M22 204H330" stroke="#8b5cf6" stroke-opacity=".55"/></g>
+  <g transform="translate(424 338)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#6d28d9"/><text x="22" y="32" class="num">05 // INDEPENDENT BUILDER</text><text x="22" y="70" class="head">Products, not prototypes</text><text x="22" y="108" class="item">Multi-tenant platforms · data products</text><text x="22" y="140" class="item">Browser utilities · Android security</text><text x="22" y="172" class="item">Solo product development and operations</text><path d="M22 204H330" stroke="#a855f7" stroke-opacity=".55"/></g>
+  <g transform="translate(812 338)"><rect width="352" height="232" rx="15" fill="#111c2e" stroke="#7e22ce"/><text x="22" y="32" class="num">06 // TECHNICAL PUBLISHING</text><text x="22" y="70" class="head">Turn incidents into knowledge</text><text x="22" y="108" class="item">730+ articles · Turkish + English</text><text x="22" y="140" class="item">Production postmortems · tutorials</text><text x="22" y="172" class="item">Automated multi-platform distribution</text><path d="M22 204H330" stroke="#c084fc" stroke-opacity=".55"/></g>
+  <rect x="36" y="596" width="1128" height="3" rx="1.5" fill="url(#capLine)"/>
+</svg>
+SVG
+
+cat > "$OUT_DIR/products.svg" <<'SVG'
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Mustafa Erbay independent products">
+  <defs>
+    <linearGradient id="prodBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="prodLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style>
+    .title{font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#67e8f9}
+    .type{font:800 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.3px;fill:#60a5fa}
+    .name{font:800 24px Inter,Segoe UI,Arial,sans-serif;fill:#f8fafc}
+    .copy{font:500 14px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+    .stack{font:600 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#94a3b8}
+    .caption{font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+  </style>
+  <rect width="1200" height="620" rx="20" fill="url(#prodBg)"/>
+  <rect x="1" y="1" width="1198" height="618" rx="19" fill="none" stroke="#263449"/>
+  <text x="38" y="48" class="title">INDEPENDENT PRODUCT PORTFOLIO</text><text x="1162" y="48" class="caption" text-anchor="end">BUILT + OPERATED SOLO</text>
+
+  <g transform="translate(36 80)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#155e75"/><text x="22" y="32" class="type">SOCIAL PLATFORM</text><text x="22" y="74" class="name">BurnCPU</text><text x="22" y="113" class="copy">Self-hosted social network with</text><text x="22" y="138" class="copy">AI moderation and federation roots.</text><text x="22" y="187" class="stack">RUST · AXUM · SOLIDJS · POSTGRES · REDIS</text></g>
+  <g transform="translate(424 80)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#1d4ed8"/><text x="22" y="32" class="type">WORKFORCE PLATFORM</text><text x="22" y="74" class="name">HRMarge</text><text x="22" y="113" class="copy">Multi-tenant time and attendance:</text><text x="22" y="138" class="copy">multiple companies, one panel.</text><text x="22" y="187" class="stack">MULTI-TENANT · WORKFORCE OPERATIONS</text></g>
+  <g transform="translate(812 80)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#4338ca"/><text x="22" y="32" class="type">DATA PRODUCT</text><text x="22" y="74" class="name">GerçekVeri</text><text x="22" y="113" class="copy">Anonymous salary, rent and</text><text x="22" y="138" class="copy">living-cost data for Türkiye.</text><text x="22" y="187" class="stack">PRIVACY-FIRST · TYPESCRIPT</text></g>
+
+  <g transform="translate(36 336)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#5b21b6"/><text x="22" y="32" class="type">BROWSER UTILITIES</text><text x="22" y="74" class="name">Hesapçıyız</text><text x="22" y="113" class="copy">34 practical calculators.</text><text x="22" y="138" class="copy">No account and no waiting.</text><text x="22" y="187" class="stack">BROWSER-FIRST · NO SIGN-UP · FAST</text></g>
+  <g transform="translate(424 336)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#6d28d9"/><text x="22" y="32" class="type">PRODUCTIVITY</text><text x="22" y="74" class="name">İş Listesi</text><text x="22" y="113" class="copy">Private task management</text><text x="22" y="138" class="copy">for web and mobile.</text><text x="22" y="187" class="stack">FREE · PRIVACY-FIRST · WEB + MOBILE</text></g>
+  <g transform="translate(812 336)"><rect width="352" height="224" rx="15" fill="#111c2e" stroke="#7e22ce"/><text x="22" y="32" class="type">ANDROID SECURITY</text><text x="22" y="74" class="name">Spam Kalkanı</text><text x="22" y="113" class="copy">On-device spam-call protection</text><text x="22" y="138" class="copy">designed for Türkiye.</text><text x="22" y="187" class="stack">ANDROID · ON-DEVICE · PRIVACY-FIRST</text></g>
+  <rect x="36" y="596" width="1128" height="3" rx="1.5" fill="url(#prodLine)"/>
+</svg>
+SVG
+
 cat > "$OUT_DIR/footer.svg" <<'SVG'
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Build, operate, learn, share">
   <defs><linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#102449"/><stop offset="1" stop-color="#071c29"/></linearGradient><linearGradient id="footerLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
@@ -251,4 +308,4 @@ cat > "$OUT_DIR/footer.svg" <<'SVG'
 </svg>
 SVG
 
-printf 'Generated hero.svg, dashboard.svg, architecture.svg and footer.svg\n'
+printf 'Generated hero.svg, dashboard.svg, capabilities.svg, architecture.svg, products.svg and footer.svg\n'
