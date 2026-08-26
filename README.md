@@ -31,7 +31,7 @@
 
 ## Capability matrix
 
-![Mustafa Erbay capability matrix](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/capabilities.svg)
+![Mustafa Erbay capability matrix](https://raw.githubusercontent.com/merbay-erp/merbay-erp/312498a834cbe7684b32e15a2441c0b1fb5e7fd4/svg-cache/capabilities.svg)
 
 ## Architecture map
 
@@ -45,7 +45,7 @@
 
 ## Independent products
 
-![Mustafa Erbay independent product portfolio](https://raw.githubusercontent.com/merbay-erp/merbay-erp/output/svg-cache/products.svg)
+![Mustafa Erbay independent product portfolio](https://raw.githubusercontent.com/merbay-erp/merbay-erp/312498a834cbe7684b32e15a2441c0b1fb5e7fd4/svg-cache/products.svg)
 
 <div align="center">
   <a href="https://burncpu.com">BurnCPU</a> ·
