@@ -1,13 +1,11 @@
-name: Cache 3rd-party SVGs
+name: Cache profile SVGs
 
-# 3rd-party SVG'leri cache'le + GitHub API'den kendi stats.svg/top-langs.svg
-# uret. Vercel 503 olsa bile profil profesyonel gozukur.
-#
-# Maliyet: $0 (GitHub-hosted runner + raw.githubusercontent.com)
+# Cache decorative SVGs and generate repository-owned stats cards.
+# The profile only references assets that are known to exist on the output branch.
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # her 4 saatte
+    - cron: '0 */4 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -22,18 +20,18 @@ jobs:
   cache:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main (script source)
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
           path: main-src
 
-      - name: Checkout output branch (target)
+      - name: Checkout output branch
         uses: actions/checkout@v4
         with:
           ref: output
           path: output-target
 
-      - name: Fetch 3rd-party SVGs (cache best-effort)
+      - name: Cache decorative SVGs
         working-directory: output-target
         run: |
           set -uo pipefail
@@ -48,36 +46,23 @@ jobs:
           $FETCH "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" \
             svg-cache/footer.svg
 
-          $FETCH "https://github-readme-streak-stats.herokuapp.com/?user=merbay-erp&theme=tokyonight&hide_border=true" \
-            svg-cache/streak.svg
-
-          $FETCH "https://github-readme-activity-graph.vercel.app/graph?username=merbay-erp&theme=tokyo-night&hide_border=true&area=true&radius=12" \
-            svg-cache/activity.svg
-
-          # NOT: trophies.svg artık fetch EDİLMİYOR — github-profile-trophy.vercel.app
-          # öldü (HTTP 402 DEPLOYMENT_DISABLED). gen-stats.sh GitHub API'den kendi
-          # üretiyor (aşağıdaki step) → bir daha kırılmaz, "0 managed services".
-
-      - name: Generate custom stats.svg + top-langs.svg + trophies.svg
+      - name: Generate repository-owned stats cards
         env:
-          # METRICS_PAT (classic PAT: repo + read:user) varsa private repo'lardaki
-          # commit/PR'ları da görür → GERÇEK rakamlar (örn. commits 412 → 3101, S rank).
-          # Secret yoksa GITHUB_TOKEN'a düşer (sadece public) — hiçbir şey bozulmaz.
           GH_TOKEN: ${{ secrets.METRICS_PAT || secrets.GITHUB_TOKEN }}
         run: |
           chmod +x main-src/.github/workflows/scripts/gen-stats.sh
           main-src/.github/workflows/scripts/gen-stats.sh merbay-erp output-target/svg-cache
           ls -la output-target/svg-cache/
 
-      - name: Commit + push to output branch
+      - name: Commit and push to output branch
         working-directory: output-target
         run: |
           git config user.name "SVG Cache Bot"
           git config user.email "bot@mustafaerbay.com.tr"
           git add svg-cache/
           if git diff --staged --quiet; then
-            echo "Hiç değişiklik yok, commit atlandı"
+            echo "No SVG changes; skipping commit"
             exit 0
           fi
-          git commit -m "chore(svg): cache + gen SVGs ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "chore(svg): refresh profile assets ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push origin output
