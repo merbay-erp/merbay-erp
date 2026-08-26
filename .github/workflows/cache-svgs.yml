@@ -23,12 +23,12 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: main-src
 
       - name: Checkout output branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: output
           path: output-target

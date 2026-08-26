@@ -1,6 +1,6 @@
 name: Update README
 
-# Refresh only the Latest writing block from the RSS feed.
+# Refresh only the Latest field notes block from the RSS feed.
 # The rest of README.md remains untouched.
 
 on:
@@ -11,13 +11,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-writing
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - name: Update latest writing
+      - name: Update latest field notes
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://mustafaerbay.com.tr/rss.xml'
@@ -25,4 +30,4 @@ jobs:
           template: '$newline- **[$title]($url)** <sub>— $date</sub>'
           date_format: 'mmm d, yyyy'
           comment_tag_name: 'BLOG-POST-LIST'
-          commit_message: 'chore(readme): update latest writing'
+          commit_message: 'chore(readme): update latest field notes'
