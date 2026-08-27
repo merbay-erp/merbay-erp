@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[“Implemented”, “Verified” ile Aynı Şey Değildir](https://mustafaerbay.com.tr/blog/technology/implemented-is-not-verified/)** <sub>— Aug 27, 2026</sub>
 - **[PgBouncer ile Bağlantı Havuzu: Mod Seçimi ve Tuzaklar](https://mustafaerbay.com.tr/blog/tutorials/pgbouncer-ile-baglanti-havuzu-mod-secimi-ve-tuzaklar/)** <sub>— Aug 27, 2026</sub>
-- **[CrowdSec ile Davranış Tabanlı Saldırı Engelleme](https://mustafaerbay.com.tr/blog/tutorials/crowdsec-ile-davranis-tabanli-saldiri-engelleme/)** <sub>— Aug 26, 2026</sub>
-- **[Yerel LLM İçin VRAM Hesabı: Model Boyutu ve Quantization Rehberi](https://mustafaerbay.com.tr/blog/tutorials/yerel-llm-icin-vram-hesabi-model-boyutu-ve-quantization-rehberi/)** <sub>— Aug 26, 2026</sub>
-- **[Trivy ile Container İmaj Taraması: CI&#39;da Kırılma Eşiği](https://mustafaerbay.com.tr/blog/tutorials/trivy-ile-container-imaj-taramasi-cida-kirilma-esigi/)** <sub>— Aug 26, 2026</sub>
-- **[Paperless-ngx ile Belge Arşivi: OCR ve Etiket Otomasyonu](https://mustafaerbay.com.tr/blog/tutorials/paperless-ngx-ile-belge-arsivi-ocr-ve-etiket-otomasyonu/)** <sub>— Aug 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Grafana Alloy ile OpenTelemetry Toplama Hattı](https://mustafaerbay.com.tr/blog/tutorials/grafana-alloy-ile-opentelemetry-toplama-hatti/)** <sub>— Aug 27, 2026</sub>
+- **[uv ile Python Bağımlılık Yönetimi: pip ve venv&#39;den Geçiş](https://mustafaerbay.com.tr/blog/tutorials/uv-ile-python-bagimlilik-yonetimi-pip-ve-venvden-gecis/)** <sub>— Aug 27, 2026</sub>
+- **[vLLM ve llama.cpp: Yerel Çıkarımda Hangi Motor Ne Zaman](https://mustafaerbay.com.tr/blog/technology/vllm-ve-llama-cpp-yerel-cikarimda-hangi-motor-ne-zaman/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
