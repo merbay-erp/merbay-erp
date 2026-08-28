@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Build, operate, learn, share">
+  <defs><linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#102449"/><stop offset="1" stop-color="#071c29"/></linearGradient><linearGradient id="footerLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+  <rect width="1200" height="110" rx="18" fill="url(#footerBg)"/>
+  <rect x="1" y="1" width="1198" height="108" rx="17" fill="none" stroke="#263449"/>
+  <rect x="56" y="26" width="1088" height="2" rx="1" fill="url(#footerLine)"/>
+  <text x="600" y="67" text-anchor="middle" style="font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:4px;fill:#dbeafe">BUILD  •  OPERATE  •  LEARN  •  SHARE</text>
+  <text x="600" y="91" text-anchor="middle" style="font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1px;fill:#64748b">MUSTAFAERBAY.COM.TR  //  BURSA, TÜRKİYE</text>
+</svg>

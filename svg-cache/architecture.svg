@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Mustafa Erbay capability and architecture map">
+  <defs>
+    <linearGradient id="archBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1323"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3b82f6"/></marker>
+  </defs>
+  <style>
+    .title{font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#67e8f9}
+    .head{font:800 14px Inter,Segoe UI,Arial,sans-serif;letter-spacing:.8px;fill:#f8fafc}
+    .item{font:500 13px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+    .number{font:800 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#60a5fa}
+    .caption{font:500 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+  </style>
+  <rect width="1200" height="370" rx="20" fill="url(#archBg)"/>
+  <rect x="1" y="1" width="1198" height="368" rx="19" fill="none" stroke="#263449"/>
+  <text x="42" y="48" class="title">FULL-STACK INFRASTRUCTURE MAP</text>
+  <text x="1158" y="48" class="caption" text-anchor="end">FROM PACKET TO PRODUCT</text>
+  <path d="M224 195H273M454 195H503M684 195H733M914 195H963" stroke="#3b82f6" stroke-width="2" stroke-opacity=".65" marker-end="url(#arrow)"/>
+
+  <g transform="translate(34 90)"><rect width="190" height="210" rx="15" fill="#111c2e" stroke="#164e63"/><text x="18" y="30" class="number">01</text><text x="18" y="60" class="head">EDGE &amp; NETWORK</text><path d="M18 76H172" stroke="#164e63"/><text x="18" y="111" class="item">Cloudflare + Nginx</text><text x="18" y="145" class="item">WireGuard + VPN</text><text x="18" y="179" class="item">nftables + routing</text></g>
+  <g transform="translate(264 90)"><rect width="190" height="210" rx="15" fill="#111c2e" stroke="#1e40af"/><text x="18" y="30" class="number">02</text><text x="18" y="60" class="head">SYSTEMS</text><path d="M18 76H172" stroke="#1e40af"/><text x="18" y="111" class="item">Linux operations</text><text x="18" y="145" class="item">Docker + Kubernetes</text><text x="18" y="179" class="item">Capacity + performance</text></g>
+  <g transform="translate(494 90)"><rect width="190" height="210" rx="15" fill="#111c2e" stroke="#3730a3"/><text x="18" y="30" class="number">03</text><text x="18" y="60" class="head">APPLICATIONS</text><path d="M18 76H172" stroke="#3730a3"/><text x="18" y="111" class="item">Rust + Axum</text><text x="18" y="145" class="item">TypeScript + Node</text><text x="18" y="179" class="item">Astro + React</text></g>
+  <g transform="translate(724 90)"><rect width="190" height="210" rx="15" fill="#111c2e" stroke="#5b21b6"/><text x="18" y="30" class="number">04</text><text x="18" y="60" class="head">DATA</text><path d="M18 76H172" stroke="#5b21b6"/><text x="18" y="111" class="item">PostgreSQL</text><text x="18" y="145" class="item">Redis</text><text x="18" y="179" class="item">Meilisearch</text></g>
+  <g transform="translate(954 90)"><rect width="212" height="210" rx="15" fill="#111c2e" stroke="#6d28d9"/><text x="18" y="30" class="number">05</text><text x="18" y="60" class="head">RELIABILITY</text><path d="M18 76H194" stroke="#6d28d9"/><text x="18" y="111" class="item">Prometheus + Grafana</text><text x="18" y="145" class="item">GitHub Actions</text><text x="18" y="179" class="item">Incident response</text></g>
+  <path d="M34 330H1166" stroke="url(#flow)" stroke-width="3"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Mustafa Erbay engineering dashboard">
+  <defs>
+    <linearGradient id="dashBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="dashAccent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style>
+    .title{font:700 17px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px;fill:#67e8f9}
+    .kpi{font:800 34px Inter,Segoe UI,Arial,sans-serif;fill:#f8fafc}
+    .kpi-label{font:700 11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.2px;fill:#94a3b8}
+    .section{font:700 15px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.4px;fill:#93c5fd}
+    .metric{font:800 26px Inter,Segoe UI,Arial,sans-serif;fill:#e2e8f0}
+    .label{font:600 13px Inter,Segoe UI,Arial,sans-serif;fill:#cbd5e1}
+    .muted{font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+    .value-small{font:700 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#cbd5e1}
+  </style>
+  <rect width="1200" height="520" rx="20" fill="url(#dashBg)"/>
+  <rect x="1" y="1" width="1198" height="518" rx="19" fill="none" stroke="#263449"/>
+  <rect x="36" y="32" width="6" height="20" rx="3" fill="#22d3ee"/>
+  <text x="56" y="48" class="title">ENGINEERING DASHBOARD</text>
+  <text x="1160" y="48" class="muted" text-anchor="end">GENERATED FROM GITHUB API</text>
+
+  <g transform="translate(36 74)">
+    <g><rect width="267" height="108" rx="14" fill="#111c2e" stroke="#263449"/><text x="22" y="50" class="kpi">20+</text><text x="22" y="79" class="kpi-label">YEARS IN PRODUCTION</text></g>
+    <g transform="translate(285 0)"><rect width="267" height="108" rx="14" fill="#111c2e" stroke="#263449"/><text x="22" y="50" class="kpi">26</text><text x="22" y="79" class="kpi-label">DOCKER CONTAINERS</text></g>
+    <g transform="translate(570 0)"><rect width="267" height="108" rx="14" fill="#111c2e" stroke="#263449"/><text x="22" y="50" class="kpi">730+</text><text x="22" y="79" class="kpi-label">TECHNICAL ARTICLES</text></g>
+    <g transform="translate(855 0)"><rect width="267" height="108" rx="14" fill="#111c2e" stroke="#263449"/><text x="22" y="50" class="kpi">6</text><text x="22" y="79" class="kpi-label">INDEPENDENT PRODUCTS</text></g>
+  </g>
+
+  <g>
+    <rect x="36" y="210" width="530" height="270" rx="15" fill="#0d1728" stroke="#263449"/>
+    <text x="60" y="246" class="section">GITHUB PULSE</text>
+    <text x="60" y="300" class="metric">6803</text><text x="60" y="322" class="muted">TOTAL COMMITS</text>
+    <text x="238" y="300" class="metric">583</text><text x="238" y="322" class="muted">LAST YEAR</text>
+    <text x="410" y="300" class="metric">306</text><text x="410" y="322" class="muted">PULL REQUESTS</text>
+    <path d="M60 350H542" stroke="#263449"/>
+    <text x="60" y="390" class="label">Public repositories</text><text x="520" y="390" class="value-small" text-anchor="end">6</text>
+    <text x="60" y="422" class="label">Followers</text><text x="520" y="422" class="value-small" text-anchor="end">3</text>
+    <text x="60" y="454" class="label">Stars earned</text><text x="520" y="454" class="value-small" text-anchor="end">2</text>
+  </g>
+
+  <g>
+    <rect x="584" y="210" width="580" height="270" rx="15" fill="#0d1728" stroke="#263449"/>
+    <text x="608" y="246" class="section">LANGUAGE FINGERPRINT</text>
+    <text x="615" y="300" class="label">Rust</text><rect x="760" y="287" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="287" width="228" height="10" rx="5" fill="#dea584"/><text x="1140" y="300" class="value-small" text-anchor="end">62.4%</text><text x="615" y="338" class="label">TypeScript</text><rect x="760" y="325" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="325" width="115" height="10" rx="5" fill="#3178c6"/><text x="1140" y="338" class="value-small" text-anchor="end">31.5%</text><text x="615" y="376" class="label">PLpgSQL</text><rect x="760" y="363" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="363" width="7" height="10" rx="5" fill="#336790"/><text x="1140" y="376" class="value-small" text-anchor="end">2.0%</text><text x="615" y="414" class="label">C</text><rect x="760" y="401" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="401" width="7" height="10" rx="5" fill="#a8b9cc"/><text x="1140" y="414" class="value-small" text-anchor="end">1.9%</text><text x="615" y="452" class="label">HTML</text><rect x="760" y="439" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="439" width="3" height="10" rx="5" fill="#e34c26"/><text x="1140" y="452" class="value-small" text-anchor="end">0.9%</text>
+  </g>
+  <rect x="36" y="500" width="1128" height="3" rx="1.5" fill="url(#dashAccent)"/>
+</svg>

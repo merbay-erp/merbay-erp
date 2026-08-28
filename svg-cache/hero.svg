@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mustafa Erbay — systems architect, infrastructure engineer and indie hacker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#071c29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2563eb" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#60a5fa" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .kicker{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:3px;fill:#67e8f9}
+    .name{font:800 62px Inter,Segoe UI,Arial,sans-serif;letter-spacing:-2px;fill:#f8fafc}
+    .role{font:600 17px Inter,Segoe UI,Arial,sans-serif;letter-spacing:.6px;fill:#cbd5e1}
+    .copy{font:400 15px Inter,Segoe UI,Arial,sans-serif;fill:#94a3b8}
+    .terminal{font:600 14px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#dbeafe}
+    .prompt{fill:#22d3ee}
+    .answer{fill:#a7f3d0}
+    .chip{font:700 11px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.7px;fill:#dbeafe}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @keyframes scan{0%{transform:translateY(-30px)}100%{transform:translateY(390px)}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    .scan{animation:scan 6s linear infinite}
+    @media (prefers-reduced-motion:reduce){.pulse,.scan{animation:none}}
+  </style>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <ellipse cx="330" cy="180" rx="430" ry="300" fill="url(#glow)"/>
+  <rect class="scan" x="0" y="0" width="1200" height="1" fill="url(#accent)" opacity=".24"/>
+  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".5"/>
+
+  <g transform="translate(66 58)">
+    <circle cx="7" cy="-4" r="5" fill="#34d399" filter="url(#softGlow)" class="pulse"/>
+    <text x="24" y="0" class="kicker">MERBAY // PRODUCTION SYSTEMS</text>
+    <text x="0" y="88" class="name">Mustafa Erbay</text>
+    <text x="2" y="126" class="role">SYSTEM ARCHITECT  •  NETWORK &amp; INFRASTRUCTURE  •  INDIE HACKER</text>
+    <text x="2" y="163" class="copy">I design the systems, ship the products, operate the platform,</text>
+    <text x="2" y="187" class="copy">and publish the field notes — from kernel pressure to product architecture.</text>
+
+    <g transform="translate(0 225)">
+      <rect width="160" height="34" rx="17" fill="#12213a" stroke="#22d3ee" stroke-opacity=".45"/><text x="80" y="22" text-anchor="middle" class="chip">LINUX + NETWORK</text>
+      <g transform="translate(174 0)"><rect width="140" height="34" rx="17" fill="#12213a" stroke="#3b82f6" stroke-opacity=".5"/><text x="70" y="22" text-anchor="middle" class="chip">DEVOPS + SRE</text></g>
+      <g transform="translate(328 0)"><rect width="166" height="34" rx="17" fill="#12213a" stroke="#8b5cf6" stroke-opacity=".5"/><text x="83" y="22" text-anchor="middle" class="chip">RUST + TYPESCRIPT</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(805 56)">
+    <rect width="330" height="248" rx="15" fill="#070d19" stroke="#334155"/>
+    <path d="M0 42H330" stroke="#1e293b"/>
+    <circle cx="22" cy="21" r="5" fill="#fb7185"/><circle cx="40" cy="21" r="5" fill="#fbbf24"/><circle cx="58" cy="21" r="5" fill="#34d399"/>
+    <text x="81" y="26" class="terminal" fill="#64748b">operator@merbay</text>
+    <text x="22" y="76" class="terminal prompt">$ whoami</text>
+    <text x="22" y="101" class="terminal answer">20+ years in production</text>
+    <text x="22" y="137" class="terminal prompt">$ platform.status</text>
+    <text x="22" y="162" class="terminal answer">self-hosted / sovereign</text>
+    <text x="22" y="198" class="terminal prompt">$ currently.shipping</text>
+    <text x="22" y="223" class="terminal answer">systems + products + writing</text>
+  </g>
+</svg>
