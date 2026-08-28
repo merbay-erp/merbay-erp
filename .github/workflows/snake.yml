@@ -1,7 +1,7 @@
 name: Generate Snake
 
 # Contribution graph'i bir yilan animasyonu yapip output branch'ine yaz.
-# README'de <img src=".../output/snake.svg"> ile cekiliyor.
+# output dalindaki dashboard varliklarini korur; yalnizca snake dosyalarini gunceller.
 # Maliyet: $0.
 
 on:
@@ -11,6 +11,11 @@ on:
 
 permissions:
   contents: write
+
+# Dashboard ve snake ayni output dalina yazdigi icin push islemlerini siraya al.
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -24,9 +29,31 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Checkout output branch
+        uses: actions/checkout@v7
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ref: output
+          path: output-target
+
+      - name: Preserve dashboard and update snake assets
+        run: |
+          test -s output-target/svg-cache/hero.svg
+          test -s output-target/svg-cache/dashboard.svg
+          test -s output-target/svg-cache/github-stats.svg
+          test -s output-target/svg-cache/architecture.svg
+          test -s output-target/svg-cache/footer.svg
+          install -m 0644 dist/snake.svg output-target/snake.svg
+          install -m 0644 dist/snake-dark.svg output-target/snake-dark.svg
+
+      - name: Commit snake assets
+        working-directory: output-target
+        run: |
+          git config user.name "Profile Assets Bot"
+          git config user.email "bot@mustafaerbay.com.tr"
+          git add snake.svg snake-dark.svg
+          if git diff --staged --quiet; then
+            echo "No snake changes; skipping commit"
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh contribution snake ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push origin output
