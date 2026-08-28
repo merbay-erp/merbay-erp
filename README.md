@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[ADR ile Mimari Karar Kayıtları: Neden&#39;i Belgeleyen Ekipler](https://mustafaerbay.com.tr/blog/technology/adr-ile-mimari-karar-kayitlari-nedeni-belgeleyen-ekipler/)** <sub>— Aug 28, 2026</sub>
 - **[“Implemented”, “Verified” ile Aynı Şey Değildir](https://mustafaerbay.com.tr/blog/technology/implemented-is-not-verified/)** <sub>— Aug 27, 2026</sub>
 - **[PgBouncer ile Bağlantı Havuzu: Mod Seçimi ve Tuzaklar](https://mustafaerbay.com.tr/blog/tutorials/pgbouncer-ile-baglanti-havuzu-mod-secimi-ve-tuzaklar/)** <sub>— Aug 27, 2026</sub>
 - **[Grafana Alloy ile OpenTelemetry Toplama Hattı](https://mustafaerbay.com.tr/blog/tutorials/grafana-alloy-ile-opentelemetry-toplama-hatti/)** <sub>— Aug 27, 2026</sub>
-- **[uv ile Python Bağımlılık Yönetimi: pip ve venv&#39;den Geçiş](https://mustafaerbay.com.tr/blog/tutorials/uv-ile-python-bagimlilik-yonetimi-pip-ve-venvden-gecis/)** <sub>— Aug 27, 2026</sub>
-- **[vLLM ve llama.cpp: Yerel Çıkarımda Hangi Motor Ne Zaman](https://mustafaerbay.com.tr/blog/technology/vllm-ve-llama-cpp-yerel-cikarimda-hangi-motor-ne-zaman/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[uv ile Python Bağımlılık Yönetimi: pip ve venv&#39;den Geçiş](https://mustafaerbay.com.tr/blog/tutorials/uv-ile-python-bagimlilik-yonetimi-pip-ve-venvden-gecis/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
