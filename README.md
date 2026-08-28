@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[ADR ile Mimari Karar Kayıtları: Neden&#39;i Belgeleyen Ekipler](https://mustafaerbay.com.tr/blog/technology/adr-ile-mimari-karar-kayitlari-nedeni-belgeleyen-ekipler/)** <sub>— Aug 28, 2026</sub>
-- **[“Implemented”, “Verified” ile Aynı Şey Değildir](https://mustafaerbay.com.tr/blog/technology/implemented-is-not-verified/)** <sub>— Aug 27, 2026</sub>
-- **[PgBouncer ile Bağlantı Havuzu: Mod Seçimi ve Tuzaklar](https://mustafaerbay.com.tr/blog/tutorials/pgbouncer-ile-baglanti-havuzu-mod-secimi-ve-tuzaklar/)** <sub>— Aug 27, 2026</sub>
-- **[Grafana Alloy ile OpenTelemetry Toplama Hattı](https://mustafaerbay.com.tr/blog/tutorials/grafana-alloy-ile-opentelemetry-toplama-hatti/)** <sub>— Aug 27, 2026</sub>
-- **[uv ile Python Bağımlılık Yönetimi: pip ve venv&#39;den Geçiş](https://mustafaerbay.com.tr/blog/tutorials/uv-ile-python-bagimlilik-yonetimi-pip-ve-venvden-gecis/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[RAG Değerlendirmesi: Doğruluğu Ölçmeden Yayına Çıkmak](https://mustafaerbay.com.tr/blog/technology/rag-degerlendirmesi-dogrulugu-olcmeden-yayina-cikmak/)** <sub>— Aug 28, 2026</sub>
+- **[Talos Linux: API ile Yönetilen Değişmez Kubernetes Node&#39;u](https://mustafaerbay.com.tr/blog/technology/talos-linux-api-ile-yonetilen-degismez-kubernetes-nodu/)** <sub>— Aug 28, 2026</sub>
+- **[DuckDB ile Yerel Analitik: Veri Ambarına Gerek Kalmadan](https://mustafaerbay.com.tr/blog/technology/duckdb-ile-yerel-analitik-veri-ambarina-gerek-kalmadan/)** <sub>— Aug 28, 2026</sub>
+- **[“Implemented”, “Verified” ile Aynı Şey Değildir](https://mustafaerbay.com.tr/blog/technology/implemented-is-not-verified/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
