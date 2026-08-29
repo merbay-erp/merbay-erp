@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Model Context Protocol: LLM&#39;e Araç Bağlamanın Standardı](https://mustafaerbay.com.tr/blog/technology/model-context-protocol-llme-arac-baglamanin-standardi/)** <sub>— Aug 29, 2026</sub>
+- **[Valkey ve Redis Ayrışması: Lisans Sonrası Ekosistem](https://mustafaerbay.com.tr/blog/technology/valkey-ve-redis-ayrismasi-lisans-sonrasi-ekosistem/)** <sub>— Aug 29, 2026</sub>
 - **[ADR ile Mimari Karar Kayıtları: Neden&#39;i Belgeleyen Ekipler](https://mustafaerbay.com.tr/blog/technology/adr-ile-mimari-karar-kayitlari-nedeni-belgeleyen-ekipler/)** <sub>— Aug 28, 2026</sub>
 - **[RAG Değerlendirmesi: Doğruluğu Ölçmeden Yayına Çıkmak](https://mustafaerbay.com.tr/blog/technology/rag-degerlendirmesi-dogrulugu-olcmeden-yayina-cikmak/)** <sub>— Aug 28, 2026</sub>
-- **[Talos Linux: API ile Yönetilen Değişmez Kubernetes Node&#39;u](https://mustafaerbay.com.tr/blog/technology/talos-linux-api-ile-yonetilen-degismez-kubernetes-nodu/)** <sub>— Aug 28, 2026</sub>
-- **[DuckDB ile Yerel Analitik: Veri Ambarına Gerek Kalmadan](https://mustafaerbay.com.tr/blog/technology/duckdb-ile-yerel-analitik-veri-ambarina-gerek-kalmadan/)** <sub>— Aug 28, 2026</sub>
-- **[“Implemented”, “Verified” ile Aynı Şey Değildir](https://mustafaerbay.com.tr/blog/technology/implemented-is-not-verified/)** <sub>— Aug 27, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Talos Linux: API ile Yönetilen Değişmez Kubernetes Node&#39;u](https://mustafaerbay.com.tr/blog/technology/talos-linux-api-ile-yonetilen-degismez-kubernetes-nodu/)** <sub>— Aug 28, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
