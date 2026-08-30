@@ -26,12 +26,12 @@
     <circle cx="158" cy="210" r="78" fill="none" stroke="#fbbf24" stroke-width="12" stroke-dasharray="493 503" stroke-linecap="round" transform="rotate(-90 158 210)" filter="url(#rankGlow)"/>
     <text x="158" y="219" class="rank" text-anchor="middle">A+</text>
     <text x="158" y="304" class="rank-label" text-anchor="middle">COMPOSITE PROFILE RANK</text>
-    <text x="158" y="331" class="caption" text-anchor="middle">SCORE 8713 · RANK 98/100</text>
+    <text x="158" y="331" class="caption" text-anchor="middle">SCORE 8715 · RANK 98/100</text>
     <text x="158" y="359" class="caption" text-anchor="middle">SELF-CALCULATED</text>
   </g>
 
   <g transform="translate(304 78)">
-    <g><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">6880</text><text x="20" y="91" class="metric-label">TOTAL COMMITS</text><text x="180" y="117" text-anchor="end" class="caption">ALL REPOSITORIES</text></g>
+    <g><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">6882</text><text x="20" y="91" class="metric-label">TOTAL COMMITS</text><text x="180" y="117" text-anchor="end" class="caption">ALL REPOSITORIES</text></g>
     <g transform="translate(216 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">583</text><text x="20" y="91" class="metric-label">LAST YEAR</text><text x="180" y="117" text-anchor="end" class="caption">CONTRIBUTIONS</text></g>
     <g transform="translate(432 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">306</text><text x="20" y="91" class="metric-label">PULL REQUESTS</text><text x="180" y="117" text-anchor="end" class="caption">AUTHORED</text></g>
     <g transform="translate(648 0)"><rect width="200" height="140" rx="14" fill="#111c2e" stroke="#263449"/><text x="20" y="56" class="metric">6</text><text x="20" y="91" class="metric-label">PUBLIC REPOS</text><text x="180" y="117" text-anchor="end" class="caption">OWNED</text></g>
@@ -42,7 +42,7 @@
   </g>
 
   <g transform="translate(36 414)">
-    <g><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="#fbbf24">S</text><text x="87" y="86" text-anchor="middle" class="grade-label">COMMITS</text><text x="87" y="113" text-anchor="middle" class="grade-value">6880</text></g>
+    <g><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="#fbbf24">S</text><text x="87" y="86" text-anchor="middle" class="grade-label">COMMITS</text><text x="87" y="113" text-anchor="middle" class="grade-value">6882</text></g>
     <g transform="translate(188 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="#a78bfa">A</text><text x="87" y="86" text-anchor="middle" class="grade-label">CONTRIBUTIONS</text><text x="87" y="113" text-anchor="middle" class="grade-value">583</text></g>
     <g transform="translate(376 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="#fbbf24">S</text><text x="87" y="86" text-anchor="middle" class="grade-label">PULL REQUESTS</text><text x="87" y="113" text-anchor="middle" class="grade-value">306</text></g>
     <g transform="translate(564 0)"><rect width="174" height="142" rx="14" fill="#111c2e" stroke="#263449"/><text x="87" y="55" text-anchor="middle" class="grade" fill="#2dd4bf">C</text><text x="87" y="86" text-anchor="middle" class="grade-label">REPOSITORIES</text><text x="87" y="113" text-anchor="middle" class="grade-value">6</text></g>
