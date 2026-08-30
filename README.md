@@ -105,8 +105,8 @@
 - **[Cosign ve Sigstore ile İmza Zinciri: İmzasız İmajı Reddetmek](https://mustafaerbay.com.tr/blog/tutorials/cosign-ve-sigstore-ile-imza-zinciri-imzasiz-imaji-reddetmek/)** <sub>— Aug 30, 2026</sub>
 - **[kube-proxy&#39;siz Küme: Cilium ile eBPF Tabanlı Servis Yönlendirme](https://mustafaerbay.com.tr/blog/technology/kube-proxysiz-kume-cilium-ile-ebpf-tabanli-servis-yonlendirme/)** <sub>— Aug 30, 2026</sub>
 - **[HTTP/3 ve QUIC: Gerçek Dünyada Ne Değişti](https://mustafaerbay.com.tr/blog/technology/http3-ve-quic-gercek-dunyada-ne-degisti/)** <sub>— Aug 30, 2026</sub>
-- **[Model Context Protocol: LLM&#39;e Araç Bağlamanın Standardı](https://mustafaerbay.com.tr/blog/technology/model-context-protocol-llme-arac-baglamanin-standardi/)** <sub>— Aug 29, 2026</sub>
-- **[Valkey ve Redis Ayrışması: Lisans Sonrası Ekosistem](https://mustafaerbay.com.tr/blog/technology/valkey-ve-redis-ayrismasi-lisans-sonrasi-ekosistem/)** <sub>— Aug 29, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dijital Miras: Hesaplarını Arkanda Bırakmak İçin Somut Plan](https://mustafaerbay.com.tr/blog/life/dijital-miras-hesaplarini-arkanda-birakmak-icin-somut-plan/)** <sub>— Aug 30, 2026</sub>
+- **[Model Context Protocol: LLM&#39;e Araç Bağlamanın Standardı](https://mustafaerbay.com.tr/blog/technology/model-context-protocol-llme-arac-baglamanin-standardi/)** <sub>— Aug 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
