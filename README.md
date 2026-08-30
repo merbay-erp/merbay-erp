@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Cosign ve Sigstore ile İmza Zinciri: İmzasız İmajı Reddetmek](https://mustafaerbay.com.tr/blog/tutorials/cosign-ve-sigstore-ile-imza-zinciri-imzasiz-imaji-reddetmek/)** <sub>— Aug 30, 2026</sub>
 - **[Model Context Protocol: LLM&#39;e Araç Bağlamanın Standardı](https://mustafaerbay.com.tr/blog/technology/model-context-protocol-llme-arac-baglamanin-standardi/)** <sub>— Aug 29, 2026</sub>
 - **[Valkey ve Redis Ayrışması: Lisans Sonrası Ekosistem](https://mustafaerbay.com.tr/blog/technology/valkey-ve-redis-ayrismasi-lisans-sonrasi-ekosistem/)** <sub>— Aug 29, 2026</sub>
 - **[Synapse ile Kendi Matrix Sunucun: Federasyonun Gerçek Maliyeti](https://mustafaerbay.com.tr/blog/technology/synapse-ile-kendi-matrix-sunucun-federasyonun-gercek-maliyeti/)** <sub>— Aug 29, 2026</sub>
-- **[DMARC&#39;ı Sertleştirmek: p=none&#39;dan p=reject&#39;e Geçiş](https://mustafaerbay.com.tr/blog/technology/dmarci-sertlestirmek-p-nonedan-p-rejecte-guvenli-gecis/)** <sub>— Aug 29, 2026</sub>
-- **[ADR ile Mimari Karar Kayıtları: Neden&#39;i Belgeleyen Ekipler](https://mustafaerbay.com.tr/blog/technology/adr-ile-mimari-karar-kayitlari-nedeni-belgeleyen-ekipler/)** <sub>— Aug 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[DMARC&#39;ı Sertleştirmek: p=none&#39;dan p=reject&#39;e Geçiş](https://mustafaerbay.com.tr/blog/technology/dmarci-sertlestirmek-p-nonedan-p-rejecte-guvenli-gecis/)** <sub>— Aug 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
