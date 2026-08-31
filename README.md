@@ -105,8 +105,8 @@
 - **[SLSA Seviyeleri: Tedarik Zinciri Güvencesini Somutlaştırmak](https://mustafaerbay.com.tr/blog/technology/slsa-seviyeleri-tedarik-zinciri-guvencesini-somutlastirmak/)** <sub>— Aug 31, 2026</sub>
 - **[Kyverno ile Policy-as-Code: Admission Kontrolünde Denge](https://mustafaerbay.com.tr/blog/technology/kyverno-ile-policy-as-code-admission-kontrolunde-denge/)** <sub>— Aug 31, 2026</sub>
 - **[Sistem Yöneticiliğinden Platform Mühendisliğine Geçiş](https://mustafaerbay.com.tr/blog/career/sistem-yoneticiliginden-platform-muhendisligine-gecis/)** <sub>— Aug 31, 2026</sub>
-- **[Cosign ve Sigstore ile İmza Zinciri: İmzasız İmajı Reddetmek](https://mustafaerbay.com.tr/blog/tutorials/cosign-ve-sigstore-ile-imza-zinciri-imzasiz-imaji-reddetmek/)** <sub>— Aug 30, 2026</sub>
-- **[kube-proxy&#39;siz Küme: Cilium ile eBPF Tabanlı Servis Yönlendirme](https://mustafaerbay.com.tr/blog/technology/kube-proxysiz-kume-cilium-ile-ebpf-tabanli-servis-yonlendirme/)** <sub>— Aug 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[İş İlanlarındaki DevOps Kelimesi Ne Anlama Geliyor](https://mustafaerbay.com.tr/blog/career/is-ilanlarindaki-devops-kelimesi-ne-anlama-geliyor/)** <sub>— Aug 31, 2026</sub>
+- **[Cosign ve Sigstore ile İmza Zinciri: İmzasız İmajı Reddetmek](https://mustafaerbay.com.tr/blog/tutorials/cosign-ve-sigstore-ile-imza-zinciri-imzasiz-imaji-reddetmek/)** <sub>— Aug 30, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
