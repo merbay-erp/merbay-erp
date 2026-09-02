@@ -105,8 +105,8 @@
 - **[Immich ile Kendi Fotoğraf Bulutun: Depolama ve Yedek Planı](https://mustafaerbay.com.tr/blog/tutorials/immich-ile-kendi-fotograf-bulutun-depolama-ve-yedek-plani/)** <sub>— Sep 2, 2026</sub>
 - **[Kendi Verilerini Geri Almak: Bulut Servislerinden Dışa Aktarma](https://mustafaerbay.com.tr/blog/life/kendi-verilerini-geri-almak-bulut-servislerinden-disa-aktarma/)** <sub>— Sep 2, 2026</sub>
 - **[Parola Yöneticisini Aileye Yaymak: Direnç Olmadan Geçiş](https://mustafaerbay.com.tr/blog/life/parola-yoneticisini-aileye-yaymak-direnc-olmadan-gecis/)** <sub>— Sep 2, 2026</sub>
-- **[Uzaktan Ekipte Asenkron İletişim Disiplini](https://mustafaerbay.com.tr/blog/career/uzaktan-ekipte-asenkron-iletisim-disiplini/)** <sub>— Sep 1, 2026</sub>
-- **[Küçük Ekipte Bilgi Silolarını Kırmak](https://mustafaerbay.com.tr/blog/career/kucuk-ekipte-bilgi-silolarini-kirmak/)** <sub>— Sep 1, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Teknoloji Aboneliklerini Yılda Bir Gözden Geçirmek](https://mustafaerbay.com.tr/blog/life/teknoloji-aboneliklerini-yilda-bir-gozden-gecirmek/)** <sub>— Sep 2, 2026</sub>
+- **[Uzaktan Ekipte Asenkron İletişim Disiplini](https://mustafaerbay.com.tr/blog/career/uzaktan-ekipte-asenkron-iletisim-disiplini/)** <sub>— Sep 1, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
