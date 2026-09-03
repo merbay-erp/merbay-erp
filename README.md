@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Production Güzel Mimariyi Umursamaz](https://mustafaerbay.com.tr/blog/technology/production-does-not-care-about-beautiful-architecture/)** <sub>— Sep 3, 2026</sub>
 - **[SSH Bağlantın Gerçekten Post-Kuantum mu?](https://mustafaerbay.com.tr/blog/technology/ssh-baglantin-gercekten-post-kuantum-mu-kendi-makinemde-olctum/)** <sub>— Sep 3, 2026</sub>
-- **[Immich ile Kendi Fotoğraf Bulutun: Depolama ve Yedek Planı](https://mustafaerbay.com.tr/blog/tutorials/immich-ile-kendi-fotograf-bulutun-depolama-ve-yedek-plani/)** <sub>— Sep 2, 2026</sub>
-- **[Kendi Verilerini Geri Almak: Bulut Servislerinden Dışa Aktarma](https://mustafaerbay.com.tr/blog/life/kendi-verilerini-geri-almak-bulut-servislerinden-disa-aktarma/)** <sub>— Sep 2, 2026</sub>
-- **[Parola Yöneticisini Aileye Yaymak: Direnç Olmadan Geçiş](https://mustafaerbay.com.tr/blog/life/parola-yoneticisini-aileye-yaymak-direnc-olmadan-gecis/)** <sub>— Sep 2, 2026</sub>
-- **[Teknoloji Aboneliklerini Yılda Bir Gözden Geçirmek](https://mustafaerbay.com.tr/blog/life/teknoloji-aboneliklerini-yilda-bir-gozden-gecirmek/)** <sub>— Sep 2, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Ortam Değişkeni Sır Saklamaz: systemd Credentials](https://mustafaerbay.com.tr/blog/tutorials/ortam-degiskeni-sir-saklamaz-systemd-credentials/)** <sub>— Sep 3, 2026</sub>
+- **[Pod&#39;u Yeniden Başlatmadan Büyütmek: In-Place Resize](https://mustafaerbay.com.tr/blog/technology/podu-yeniden-baslatmadan-buyutmek-in-place-resize-kisitlari/)** <sub>— Sep 3, 2026</sub>
+- **[Immich ile Kendi Fotoğraf Bulutun: Depolama ve Yedek Planı](https://mustafaerbay.com.tr/blog/tutorials/immich-ile-kendi-fotograf-bulutun-depolama-ve-yedek-plani/)** <sub>— Sep 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
