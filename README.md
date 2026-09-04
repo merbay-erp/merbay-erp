@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[systemd-sysext: Sunucuya İz Bırakmadan Araç Eklemek](https://mustafaerbay.com.tr/blog/tutorials/systemd-sysext-sunucuya-iz-birakmadan-arac-eklemek/)** <sub>— Sep 4, 2026</sub>
+- **[OverlayFS copy_up: Container Diskini Sessizce Şişiren Mekanizma](https://mustafaerbay.com.tr/blog/technology/overlayfs-copy-up-container-diskini-sessizce-sisiren-mekanizma/)** <sub>— Sep 4, 2026</sub>
 - **[Production Güzel Mimariyi Umursamaz](https://mustafaerbay.com.tr/blog/technology/production-does-not-care-about-beautiful-architecture/)** <sub>— Sep 3, 2026</sub>
 - **[SSH Bağlantın Gerçekten Post-Kuantum mu?](https://mustafaerbay.com.tr/blog/technology/ssh-baglantin-gercekten-post-kuantum-mu-kendi-makinemde-olctum/)** <sub>— Sep 3, 2026</sub>
-- **[Ortam Değişkeni Sır Saklamaz: systemd Credentials](https://mustafaerbay.com.tr/blog/tutorials/ortam-degiskeni-sir-saklamaz-systemd-credentials/)** <sub>— Sep 3, 2026</sub>
-- **[Pod&#39;u Yeniden Başlatmadan Büyütmek: In-Place Resize](https://mustafaerbay.com.tr/blog/technology/podu-yeniden-baslatmadan-buyutmek-in-place-resize-kisitlari/)** <sub>— Sep 3, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Ortam Değişkeni Sır Saklamaz: systemd Credentials](https://mustafaerbay.com.tr/blog/tutorials/ortam-degiskeni-sir-saklamaz-systemd-credentials/)** <sub>— Sep 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
