@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Kernel&#39;i Kapatmadan Yenilemek: systemd soft-reboot](https://mustafaerbay.com.tr/blog/technology/systemd-soft-reboot-ile-kesintiyi-kisaltmak/)** <sub>— Sep 5, 2026</sub>
+- **[MPTCP: Çekirdekte Açık, Ama Kimse Kullanmıyor](https://mustafaerbay.com.tr/blog/technology/mptcp-cekirdekte-acik-ama-kimse-kullanmiyor/)** <sub>— Sep 5, 2026</sub>
+- **[Landlock: Uygulamanın Kendi Kendini Hapsetmesi](https://mustafaerbay.com.tr/blog/technology/landlock-uygulamanin-kendi-kendini-hapsetmesi/)** <sub>— Sep 5, 2026</sub>
 - **[systemd-sysext: Sunucuya İz Bırakmadan Araç Eklemek](https://mustafaerbay.com.tr/blog/tutorials/systemd-sysext-sunucuya-iz-birakmadan-arac-eklemek/)** <sub>— Sep 4, 2026</sub>
-- **[OverlayFS copy_up: Container Diskini Sessizce Şişiren Mekanizma](https://mustafaerbay.com.tr/blog/technology/overlayfs-copy-up-container-diskini-sessizce-sisiren-mekanizma/)** <sub>— Sep 4, 2026</sub>
-- **[Production Güzel Mimariyi Umursamaz](https://mustafaerbay.com.tr/blog/technology/production-does-not-care-about-beautiful-architecture/)** <sub>— Sep 3, 2026</sub>
-- **[SSH Bağlantın Gerçekten Post-Kuantum mu?](https://mustafaerbay.com.tr/blog/technology/ssh-baglantin-gercekten-post-kuantum-mu-kendi-makinemde-olctum/)** <sub>— Sep 3, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[OverlayFS copy_up: Container Diskini Sessizce Şişiren Mekanizma](https://mustafaerbay.com.tr/blog/technology/overlayfs-copy-up-container-diskini-sessizce-sisiren-mekanizma/)** <sub>— Sep 4, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
