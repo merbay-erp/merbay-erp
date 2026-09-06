@@ -105,8 +105,8 @@
 - **[Sıkıştırılmış Swap: zram mı, zswap mı?](https://mustafaerbay.com.tr/blog/technology/sikistirilmis-swap-zram-mi-zswap-mi/)** <sub>— Sep 6, 2026</sub>
 - **[nftables flowtable: Hızın Bedeli Görünürlük](https://mustafaerbay.com.tr/blog/tutorials/nftables-flowtable-hizin-bedeli-gorunurluk/)** <sub>— Sep 6, 2026</sub>
 - **[IO&#39;yu Paylaştırmak: io.max, io.weight ve io.latency](https://mustafaerbay.com.tr/blog/technology/io-paylastirmak-io-max-io-weight-io-latency/)** <sub>— Sep 6, 2026</sub>
-- **[Kernel&#39;i Kapatmadan Yenilemek: systemd soft-reboot](https://mustafaerbay.com.tr/blog/technology/systemd-soft-reboot-ile-kesintiyi-kisaltmak/)** <sub>— Sep 5, 2026</sub>
-- **[MPTCP: Çekirdekte Açık, Ama Kimse Kullanmıyor](https://mustafaerbay.com.tr/blog/technology/mptcp-cekirdekte-acik-ama-kimse-kullanmiyor/)** <sub>— Sep 5, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Immich Kurulumu: Google Photos Konforunun İşletim Maliyeti](https://mustafaerbay.com.tr/blog/tutorials/immich-kurulumu-google-photos-konforunun-isletim-maliyeti/)** <sub>— Sep 6, 2026</sub>
+- **[fanotify: Dosya Erişimini İzlemek ve Durdurmak](https://mustafaerbay.com.tr/blog/technology/fanotify-dosya-erisimini-izlemek-ve-durdurmak/)** <sub>— Sep 6, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
