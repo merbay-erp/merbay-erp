@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Sıkıştırılmış Swap: zram mı, zswap mı?](https://mustafaerbay.com.tr/blog/technology/sikistirilmis-swap-zram-mi-zswap-mi/)** <sub>— Sep 6, 2026</sub>
+- **[nftables flowtable: Hızın Bedeli Görünürlük](https://mustafaerbay.com.tr/blog/tutorials/nftables-flowtable-hizin-bedeli-gorunurluk/)** <sub>— Sep 6, 2026</sub>
+- **[IO&#39;yu Paylaştırmak: io.max, io.weight ve io.latency](https://mustafaerbay.com.tr/blog/technology/io-paylastirmak-io-max-io-weight-io-latency/)** <sub>— Sep 6, 2026</sub>
 - **[Kernel&#39;i Kapatmadan Yenilemek: systemd soft-reboot](https://mustafaerbay.com.tr/blog/technology/systemd-soft-reboot-ile-kesintiyi-kisaltmak/)** <sub>— Sep 5, 2026</sub>
-- **[MPTCP: Çekirdekte Açık, Ama Kimse Kullanmıyor](https://mustafaerbay.com.tr/blog/technology/mptcp-cekirdekte-acik-ama-kimse-kullanmiyor/)** <sub>— Sep 5, 2026</sub>
-- **[Landlock: Uygulamanın Kendi Kendini Hapsetmesi](https://mustafaerbay.com.tr/blog/technology/landlock-uygulamanin-kendi-kendini-hapsetmesi/)** <sub>— Sep 5, 2026</sub>
-- **[systemd-sysext: Sunucuya İz Bırakmadan Araç Eklemek](https://mustafaerbay.com.tr/blog/tutorials/systemd-sysext-sunucuya-iz-birakmadan-arac-eklemek/)** <sub>— Sep 4, 2026</sub>
-- **[OverlayFS copy_up: Container Diskini Sessizce Şişiren Mekanizma](https://mustafaerbay.com.tr/blog/technology/overlayfs-copy-up-container-diskini-sessizce-sisiren-mekanizma/)** <sub>— Sep 4, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[MPTCP: Çekirdekte Açık, Ama Kimse Kullanmıyor](https://mustafaerbay.com.tr/blog/technology/mptcp-cekirdekte-acik-ama-kimse-kullanmiyor/)** <sub>— Sep 5, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
