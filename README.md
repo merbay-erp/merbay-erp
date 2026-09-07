@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
-- **[Sıkıştırılmış Swap: zram mı, zswap mı?](https://mustafaerbay.com.tr/blog/technology/sikistirilmis-swap-zram-mi-zswap-mi/)** <sub>— Sep 6, 2026</sub>
-- **[nftables flowtable: Hızın Bedeli Görünürlük](https://mustafaerbay.com.tr/blog/tutorials/nftables-flowtable-hizin-bedeli-gorunurluk/)** <sub>— Sep 6, 2026</sub>
-- **[IO&#39;yu Paylaştırmak: io.max, io.weight ve io.latency](https://mustafaerbay.com.tr/blog/technology/io-paylastirmak-io-max-io-weight-io-latency/)** <sub>— Sep 6, 2026</sub>
-- **[Immich Kurulumu: Google Photos Konforunun İşletim Maliyeti](https://mustafaerbay.com.tr/blog/tutorials/immich-kurulumu-google-photos-konforunun-isletim-maliyeti/)** <sub>— Sep 6, 2026</sub>
-- **[fanotify: Dosya Erişimini İzlemek ve Durdurmak](https://mustafaerbay.com.tr/blog/technology/fanotify-dosya-erisimini-izlemek-ve-durdurmak/)** <sub>— Sep 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Sessizce Değişen Sayfa Geri Kazanımı: MGLRU](https://mustafaerbay.com.tr/blog/technology/sessizce-degisen-sayfa-geri-kazanimi-mglru/)** <sub>— Sep 7, 2026</sub>
+- **[Lazy Pulling: İmajın Okunmayan Kısmı](https://mustafaerbay.com.tr/blog/technology/lazy-pulling-imajin-okunmayan-kismi/)** <sub>— Sep 7, 2026</sub>
+- **[Durduramayacağınız Saat: PostgreSQL XID Wraparound](https://mustafaerbay.com.tr/blog/technology/durduramayacaginiz-saat-postgresql-xid-wraparound/)** <sub>— Sep 7, 2026</sub>
+- **[systemd-nspawn: İmajsız, Kayıt Defterisiz Konteyner](https://mustafaerbay.com.tr/blog/tutorials/systemd-nspawn-imajsiz-konteyner/)** <sub>— Sep 7, 2026</sub>
+- **[Sıkıştırılmış Swap: zram mı, zswap mı?](https://mustafaerbay.com.tr/blog/technology/sikistirilmis-swap-zram-mi-zswap-mi/)** <sub>— Sep 6, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
