@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Domain&#39;inizin Ana Anahtarı: krbtgt Rotasyonu](https://mustafaerbay.com.tr/blog/technology/domaininizin-ana-anahtari-krbtgt-rotasyonu/)** <sub>— Sep 8, 2026</sub>
+- **[Hotpatch Ücretsiz Oldu, Reboot Bitmedi](https://mustafaerbay.com.tr/blog/technology/hotpatch-ucretsiz-oldu-reboot-bitmedi/)** <sub>— Sep 8, 2026</sub>
+- **[Yenileme Zamanını Artık CA Söylüyor: ACME ARI](https://mustafaerbay.com.tr/blog/technology/yenileme-zamanini-artik-ca-soyluyor-acme-ari/)** <sub>— Sep 8, 2026</sub>
 - **[Sessizce Değişen Sayfa Geri Kazanımı: MGLRU](https://mustafaerbay.com.tr/blog/technology/sessizce-degisen-sayfa-geri-kazanimi-mglru/)** <sub>— Sep 7, 2026</sub>
-- **[Lazy Pulling: İmajın Okunmayan Kısmı](https://mustafaerbay.com.tr/blog/technology/lazy-pulling-imajin-okunmayan-kismi/)** <sub>— Sep 7, 2026</sub>
-- **[Durduramayacağınız Saat: PostgreSQL XID Wraparound](https://mustafaerbay.com.tr/blog/technology/durduramayacaginiz-saat-postgresql-xid-wraparound/)** <sub>— Sep 7, 2026</sub>
-- **[systemd-nspawn: İmajsız, Kayıt Defterisiz Konteyner](https://mustafaerbay.com.tr/blog/tutorials/systemd-nspawn-imajsiz-konteyner/)** <sub>— Sep 7, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Lazy Pulling: İmajın Okunmayan Kısmı](https://mustafaerbay.com.tr/blog/technology/lazy-pulling-imajin-okunmayan-kismi/)** <sub>— Sep 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
