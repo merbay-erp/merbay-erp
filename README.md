@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Domain&#39;inizin Ana Anahtarı: krbtgt Rotasyonu](https://mustafaerbay.com.tr/blog/technology/domaininizin-ana-anahtari-krbtgt-rotasyonu/)** <sub>— Sep 8, 2026</sub>
 - **[Sessizce Değişen Sayfa Geri Kazanımı: MGLRU](https://mustafaerbay.com.tr/blog/technology/sessizce-degisen-sayfa-geri-kazanimi-mglru/)** <sub>— Sep 7, 2026</sub>
 - **[Lazy Pulling: İmajın Okunmayan Kısmı](https://mustafaerbay.com.tr/blog/technology/lazy-pulling-imajin-okunmayan-kismi/)** <sub>— Sep 7, 2026</sub>
 - **[Durduramayacağınız Saat: PostgreSQL XID Wraparound](https://mustafaerbay.com.tr/blog/technology/durduramayacaginiz-saat-postgresql-xid-wraparound/)** <sub>— Sep 7, 2026</sub>
-- **[systemd-nspawn: İmajsız, Kayıt Defterisiz Konteyner](https://mustafaerbay.com.tr/blog/tutorials/systemd-nspawn-imajsiz-konteyner/)** <sub>— Sep 7, 2026</sub>
-- **[Sıkıştırılmış Swap: zram mı, zswap mı?](https://mustafaerbay.com.tr/blog/technology/sikistirilmis-swap-zram-mi-zswap-mi/)** <sub>— Sep 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[systemd-nspawn: İmajsız, Kayıt Defterisiz Konteyner](https://mustafaerbay.com.tr/blog/tutorials/systemd-nspawn-imajsiz-konteyner/)** <sub>— Sep 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
