@@ -29,7 +29,7 @@
   <g>
     <rect x="36" y="210" width="530" height="270" rx="15" fill="#0d1728" stroke="#263449"/>
     <text x="60" y="246" class="section">GITHUB PULSE</text>
-    <text x="60" y="300" class="metric">7404</text><text x="60" y="322" class="muted">TOTAL COMMITS</text>
+    <text x="60" y="300" class="metric">7413</text><text x="60" y="322" class="muted">TOTAL COMMITS</text>
     <text x="238" y="300" class="metric">282</text><text x="238" y="322" class="muted">LAST YEAR</text>
     <text x="410" y="300" class="metric">308</text><text x="410" y="322" class="muted">PULL REQUESTS</text>
     <path d="M60 350H542" stroke="#263449"/>
@@ -41,7 +41,7 @@
   <g>
     <rect x="584" y="210" width="580" height="270" rx="15" fill="#0d1728" stroke="#263449"/>
     <text x="608" y="246" class="section">LANGUAGE FINGERPRINT</text>
-    <text x="615" y="300" class="label">Rust</text><rect x="760" y="287" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="287" width="189" height="10" rx="5" fill="#dea584"/><text x="1140" y="300" class="value-small" text-anchor="end">51.8%</text><text x="615" y="338" class="label">HTML</text><rect x="760" y="325" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="325" width="137" height="10" rx="5" fill="#e34c26"/><text x="1140" y="338" class="value-small" text-anchor="end">37.5%</text><text x="615" y="376" class="label">TypeScript</text><rect x="760" y="363" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="363" width="28" height="10" rx="5" fill="#3178c6"/><text x="1140" y="376" class="value-small" text-anchor="end">7.7%</text><text x="615" y="414" class="label">Shell</text><rect x="760" y="401" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="401" width="4" height="10" rx="5" fill="#89e051"/><text x="1140" y="414" class="value-small" text-anchor="end">1.0%</text><text x="615" y="452" class="label">PLpgSQL</text><rect x="760" y="439" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="439" width="2" height="10" rx="5" fill="#336790"/><text x="1140" y="452" class="value-small" text-anchor="end">0.5%</text>
+    <text x="615" y="300" class="label">Rust</text><rect x="760" y="287" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="287" width="190" height="10" rx="5" fill="#dea584"/><text x="1140" y="300" class="value-small" text-anchor="end">52.0%</text><text x="615" y="338" class="label">HTML</text><rect x="760" y="325" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="325" width="137" height="10" rx="5" fill="#e34c26"/><text x="1140" y="338" class="value-small" text-anchor="end">37.4%</text><text x="615" y="376" class="label">TypeScript</text><rect x="760" y="363" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="363" width="28" height="10" rx="5" fill="#3178c6"/><text x="1140" y="376" class="value-small" text-anchor="end">7.7%</text><text x="615" y="414" class="label">Shell</text><rect x="760" y="401" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="401" width="4" height="10" rx="5" fill="#89e051"/><text x="1140" y="414" class="value-small" text-anchor="end">1.0%</text><text x="615" y="452" class="label">PLpgSQL</text><rect x="760" y="439" width="365" height="10" rx="5" fill="#21283a"/><rect x="760" y="439" width="2" height="10" rx="5" fill="#336790"/><text x="1140" y="452" class="value-small" text-anchor="end">0.5%</text>
   </g>
   <rect x="36" y="500" width="1128" height="3" rx="1.5" fill="url(#dashAccent)"/>
 </svg>
