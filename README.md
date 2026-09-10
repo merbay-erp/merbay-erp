@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Ubuntu 26.04&#39;te Reddedilen sudo Kuralı: Asıl Açık Sizinkiydi](https://mustafaerbay.com.tr/blog/technology/ubuntu-26-04-reddedilen-sudo-kurali-asil-acik-sizinkiydi/)** <sub>— Sep 10, 2026</sub>
 - **[Zamanlayıcıyı Çalışırken Değiştirmek: sched_ext](https://mustafaerbay.com.tr/blog/technology/zamanlayiciyi-calisirken-degistirmek-sched-ext/)** <sub>— Sep 9, 2026</sub>
 - **[Secure Boot&#39;un 2011 Sertifikaları Doldu, Makineler Yine Açıldı](https://mustafaerbay.com.tr/blog/technology/secure-boot-2011-sertifikalari-doldu-makineler-yine-acildi/)** <sub>— Sep 9, 2026</sub>
 - **[Bloat&#39;ı Kilitlemeden Toplamak: PostgreSQL 19 ve REPACK](https://mustafaerbay.com.tr/blog/technology/postgresql-19-repack-bloati-kilitlemeden-toplamak/)** <sub>— Sep 9, 2026</sub>
-- **[Domain&#39;inizin Ana Anahtarı: krbtgt Rotasyonu](https://mustafaerbay.com.tr/blog/technology/domaininizin-ana-anahtari-krbtgt-rotasyonu/)** <sub>— Sep 8, 2026</sub>
-- **[Hotpatch Ücretsiz Oldu, Reboot Bitmedi](https://mustafaerbay.com.tr/blog/technology/hotpatch-ucretsiz-oldu-reboot-bitmedi/)** <sub>— Sep 8, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Domain&#39;inizin Ana Anahtarı: krbtgt Rotasyonu](https://mustafaerbay.com.tr/blog/technology/domaininizin-ana-anahtari-krbtgt-rotasyonu/)** <sub>— Sep 8, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
