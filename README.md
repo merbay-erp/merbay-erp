@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[NTLM Kapanıyor: Önce Fallback&#39;in Nedenini Bulun](https://mustafaerbay.com.tr/blog/technology/ntlm-kapaniyor-once-fallbackin-nedenini-bulun/)** <sub>— Sep 11, 2026</sub>
 - **[Bir DNS Sorgusu Neden Sekize Katlanır: Kubernetes ve ndots:5](https://mustafaerbay.com.tr/blog/technology/bir-dns-sorgusu-neden-sekize-katlanir-kubernetes-ve-ndots-5/)** <sub>— Sep 11, 2026</sub>
+- **[TIME_WAIT Korkusu: tcp_fin_timeout&#39;un Dokunmadığı 60 Saniye](https://mustafaerbay.com.tr/blog/technology/time-wait-korkusu-tcp-fin-timeoutun-dokunmadigi-60-saniye/)** <sub>— Sep 11, 2026</sub>
 - **[Bug Olmayan Production Bug&#39;ları](https://mustafaerbay.com.tr/blog/technology/production-bugs-that-werent-bugs/)** <sub>— Sep 10, 2026</sub>
-- **[Ubuntu 26.04&#39;te Reddedilen sudo Kuralı: Asıl Açık Sizinkiydi](https://mustafaerbay.com.tr/blog/technology/ubuntu-26-04-reddedilen-sudo-kurali-asil-acik-sizinkiydi/)** <sub>— Sep 10, 2026</sub>
-- **[seccomp&#39;un Göremediği Yol: io_uring&#39;i Kapatmalı mısınız?](https://mustafaerbay.com.tr/blog/technology/seccompun-goremedigi-yol-io-uring-kapatmali-misiniz/)** <sub>— Sep 10, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Ubuntu 26.04&#39;te Reddedilen sudo Kuralı: Asıl Açık Sizinkiydi](https://mustafaerbay.com.tr/blog/technology/ubuntu-26-04-reddedilen-sudo-kurali-asil-acik-sizinkiydi/)** <sub>— Sep 10, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
