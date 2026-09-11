@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[NTLM Kapanıyor: Önce Fallback&#39;in Nedenini Bulun](https://mustafaerbay.com.tr/blog/technology/ntlm-kapaniyor-once-fallbackin-nedenini-bulun/)** <sub>— Sep 11, 2026</sub>
 - **[Bug Olmayan Production Bug&#39;ları](https://mustafaerbay.com.tr/blog/technology/production-bugs-that-werent-bugs/)** <sub>— Sep 10, 2026</sub>
 - **[Ubuntu 26.04&#39;te Reddedilen sudo Kuralı: Asıl Açık Sizinkiydi](https://mustafaerbay.com.tr/blog/technology/ubuntu-26-04-reddedilen-sudo-kurali-asil-acik-sizinkiydi/)** <sub>— Sep 10, 2026</sub>
 - **[seccomp&#39;un Göremediği Yol: io_uring&#39;i Kapatmalı mısınız?](https://mustafaerbay.com.tr/blog/technology/seccompun-goremedigi-yol-io-uring-kapatmali-misiniz/)** <sub>— Sep 10, 2026</sub>
-- **[GIL&#39;siz Python&#39;u Bekleten Şey: abi3t](https://mustafaerbay.com.tr/blog/technology/asil-darbogaz-yorumlayici-degildi-free-threaded-python-ve-abi3t/)** <sub>— Sep 10, 2026</sub>
-- **[Zamanlayıcıyı Çalışırken Değiştirmek: sched_ext](https://mustafaerbay.com.tr/blog/technology/zamanlayiciyi-calisirken-degistirmek-sched-ext/)** <sub>— Sep 9, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[GIL&#39;siz Python&#39;u Bekleten Şey: abi3t](https://mustafaerbay.com.tr/blog/technology/asil-darbogaz-yorumlayici-degildi-free-threaded-python-ve-abi3t/)** <sub>— Sep 10, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
