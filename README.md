@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[HSTS preload: Başlığa Yazmak Listeye Girmek Değil](https://mustafaerbay.com.tr/blog/technology/hsts-preload-basliga-yazmak-listeye-girmek-degil/)** <sub>— Sep 13, 2026</sub>
+- **[Root Olduğun Hâlde /tmp&#39;ye Yazamamak: fs.protected_regular](https://mustafaerbay.com.tr/blog/technology/root-oldugun-halde-tmpye-yazamamak-fs-protected-regular/)** <sub>— Sep 13, 2026</sub>
 - **[sshd&#39;nin Yeni Refleksi: PerSourcePenalties Kimi Engelliyor?](https://mustafaerbay.com.tr/blog/technology/sshdnin-yeni-refleksi-persourcepenalties-kimi-engelliyor/)** <sub>— Sep 12, 2026</sub>
 - **[MTA-STS Kâğıt Üstünde Enforce: Üç Aydır Kimse Okuyamıyordu](https://mustafaerbay.com.tr/blog/technology/mta-sts-kagit-ustunde-enforce-uc-aydir-kimse-okuyamiyordu/)** <sub>— Sep 12, 2026</sub>
-- **[Loglardaki IP Kime Ait? set_real_ip_from ve 403](https://mustafaerbay.com.tr/blog/technology/loglardaki-ip-kime-ait-set-real-ip-from-ve-403/)** <sub>— Sep 12, 2026</sub>
-- **[NTLM Kapanıyor: Önce Fallback&#39;in Nedenini Bulun](https://mustafaerbay.com.tr/blog/technology/ntlm-kapaniyor-once-fallbackin-nedenini-bulun/)** <sub>— Sep 11, 2026</sub>
-- **[Bir DNS Sorgusu Neden Sekize Katlanır: Kubernetes ve ndots:5](https://mustafaerbay.com.tr/blog/technology/bir-dns-sorgusu-neden-sekize-katlanir-kubernetes-ve-ndots-5/)** <sub>— Sep 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Loglardaki IP Kime Ait? set_real_ip_from ve 403](https://mustafaerbay.com.tr/blog/technology/loglardaki-ip-kime-ait-set-real-ip-from-ve-403/)** <sub>— Sep 12, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
