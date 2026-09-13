@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[HSTS preload: Başlığa Yazmak Listeye Girmek Değil](https://mustafaerbay.com.tr/blog/technology/hsts-preload-basliga-yazmak-listeye-girmek-degil/)** <sub>— Sep 13, 2026</sub>
 - **[Root Olduğun Hâlde /tmp&#39;ye Yazamamak: fs.protected_regular](https://mustafaerbay.com.tr/blog/technology/root-oldugun-halde-tmpye-yazamamak-fs-protected-regular/)** <sub>— Sep 13, 2026</sub>
+- **[IP Listesi Kimlik Değil: Authenticated Origin Pulls](https://mustafaerbay.com.tr/blog/technology/ip-listesi-kimlik-degil-authenticated-origin-pulls/)** <sub>— Sep 13, 2026</sub>
 - **[sshd&#39;nin Yeni Refleksi: PerSourcePenalties Kimi Engelliyor?](https://mustafaerbay.com.tr/blog/technology/sshdnin-yeni-refleksi-persourcepenalties-kimi-engelliyor/)** <sub>— Sep 12, 2026</sub>
-- **[MTA-STS Kâğıt Üstünde Enforce: Üç Aydır Kimse Okuyamıyordu](https://mustafaerbay.com.tr/blog/technology/mta-sts-kagit-ustunde-enforce-uc-aydir-kimse-okuyamiyordu/)** <sub>— Sep 12, 2026</sub>
-- **[Loglardaki IP Kime Ait? set_real_ip_from ve 403](https://mustafaerbay.com.tr/blog/technology/loglardaki-ip-kime-ait-set-real-ip-from-ve-403/)** <sub>— Sep 12, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[MTA-STS Kâğıt Üstünde Enforce: Üç Aydır Kimse Okuyamıyordu](https://mustafaerbay.com.tr/blog/technology/mta-sts-kagit-ustunde-enforce-uc-aydir-kimse-okuyamiyordu/)** <sub>— Sep 12, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
