@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[İki Saatlik Keepalive&#39;ı 246 Soketten 8&#39;i Okuyor](https://mustafaerbay.com.tr/blog/technology/iki-saatlik-keepalive-246-soketten-8i-okuyor/)** <sub>— Sep 14, 2026</sub>
 - **[tcp_ecn = 2: Kapı Açık, Çalan Yok](https://mustafaerbay.com.tr/blog/technology/tcp-ecn-2-kapi-acik-calan-yok/)** <sub>— Sep 14, 2026</sub>
+- **[106 Sokette tls Yazıyor, tls_stat Sıfır: kTLS Hiç Açılmamış](https://mustafaerbay.com.tr/blog/technology/106-sokette-tls-yaziyor-tls-stat-sifir-ktls-hic-acilmamis/)** <sub>— Sep 14, 2026</sub>
 - **[HSTS preload: Başlığa Yazmak Listeye Girmek Değil](https://mustafaerbay.com.tr/blog/technology/hsts-preload-basliga-yazmak-listeye-girmek-degil/)** <sub>— Sep 13, 2026</sub>
-- **[Root Olduğun Hâlde /tmp&#39;ye Yazamamak: fs.protected_regular](https://mustafaerbay.com.tr/blog/technology/root-oldugun-halde-tmpye-yazamamak-fs-protected-regular/)** <sub>— Sep 13, 2026</sub>
-- **[IP Listesi Kimlik Değil: Authenticated Origin Pulls](https://mustafaerbay.com.tr/blog/technology/ip-listesi-kimlik-degil-authenticated-origin-pulls/)** <sub>— Sep 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Root Olduğun Hâlde /tmp&#39;ye Yazamamak: fs.protected_regular](https://mustafaerbay.com.tr/blog/technology/root-oldugun-halde-tmpye-yazamamak-fs-protected-regular/)** <sub>— Sep 13, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
