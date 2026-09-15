@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[run=1 Yetmedi: KSM İki Ayrı Evet İster](https://mustafaerbay.com.tr/blog/technology/run-1-yetmedi-ksm-iki-ayri-evet-ister/)** <sub>— Sep 15, 2026</sub>
 - **[ssh -J Bastion&#39;dan Geçer, Kaydına Geçmez](https://mustafaerbay.com.tr/blog/technology/ssh-j-bastiondan-gecer-kaydina-gecmez/)** <sub>— Sep 15, 2026</sub>
+- **[Bir Bit Çevirdim, dm-verity 35816. Blokta Durdu](https://mustafaerbay.com.tr/blog/technology/bir-bit-cevirdim-dm-verity-35816-blokta-durdu/)** <sub>— Sep 15, 2026</sub>
 - **[İki Saatlik Keepalive&#39;ı 246 Soketten 8&#39;i Okuyor](https://mustafaerbay.com.tr/blog/technology/iki-saatlik-keepalive-246-soketten-8i-okuyor/)** <sub>— Sep 14, 2026</sub>
-- **[tcp_ecn = 2: Kapı Açık, Çalan Yok](https://mustafaerbay.com.tr/blog/technology/tcp-ecn-2-kapi-acik-calan-yok/)** <sub>— Sep 14, 2026</sub>
-- **[106 Sokette tls Yazıyor, tls_stat Sıfır: kTLS Hiç Açılmamış](https://mustafaerbay.com.tr/blog/technology/106-sokette-tls-yaziyor-tls-stat-sifir-ktls-hic-acilmamis/)** <sub>— Sep 14, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[tcp_ecn = 2: Kapı Açık, Çalan Yok](https://mustafaerbay.com.tr/blog/technology/tcp-ecn-2-kapi-acik-calan-yok/)** <sub>— Sep 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
