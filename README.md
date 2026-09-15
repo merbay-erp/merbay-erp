@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[run=1 Yetmedi: KSM İki Ayrı Evet İster](https://mustafaerbay.com.tr/blog/technology/run-1-yetmedi-ksm-iki-ayri-evet-ister/)** <sub>— Sep 15, 2026</sub>
+- **[ssh -J Bastion&#39;dan Geçer, Kaydına Geçmez](https://mustafaerbay.com.tr/blog/technology/ssh-j-bastiondan-gecer-kaydina-gecmez/)** <sub>— Sep 15, 2026</sub>
 - **[İki Saatlik Keepalive&#39;ı 246 Soketten 8&#39;i Okuyor](https://mustafaerbay.com.tr/blog/technology/iki-saatlik-keepalive-246-soketten-8i-okuyor/)** <sub>— Sep 14, 2026</sub>
 - **[tcp_ecn = 2: Kapı Açık, Çalan Yok](https://mustafaerbay.com.tr/blog/technology/tcp-ecn-2-kapi-acik-calan-yok/)** <sub>— Sep 14, 2026</sub>
-- **[106 Sokette tls Yazıyor, tls_stat Sıfır: kTLS Hiç Açılmamış](https://mustafaerbay.com.tr/blog/technology/106-sokette-tls-yaziyor-tls-stat-sifir-ktls-hic-acilmamis/)** <sub>— Sep 14, 2026</sub>
-- **[HSTS preload: Başlığa Yazmak Listeye Girmek Değil](https://mustafaerbay.com.tr/blog/technology/hsts-preload-basliga-yazmak-listeye-girmek-degil/)** <sub>— Sep 13, 2026</sub>
-- **[Root Olduğun Hâlde /tmp&#39;ye Yazamamak: fs.protected_regular](https://mustafaerbay.com.tr/blog/technology/root-oldugun-halde-tmpye-yazamamak-fs-protected-regular/)** <sub>— Sep 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[106 Sokette tls Yazıyor, tls_stat Sıfır: kTLS Hiç Açılmamış](https://mustafaerbay.com.tr/blog/technology/106-sokette-tls-yaziyor-tls-stat-sifir-ktls-hic-acilmamis/)** <sub>— Sep 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
