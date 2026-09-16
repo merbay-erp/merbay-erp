@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
-- **[run=1 Yetmedi: KSM İki Ayrı Evet İster](https://mustafaerbay.com.tr/blog/technology/run-1-yetmedi-ksm-iki-ayri-evet-ister/)** <sub>— Sep 15, 2026</sub>
-- **[ssh -J Bastion&#39;dan Geçer, Kaydına Geçmez](https://mustafaerbay.com.tr/blog/technology/ssh-j-bastiondan-gecer-kaydina-gecmez/)** <sub>— Sep 15, 2026</sub>
-- **[Bir Bit Çevirdim, dm-verity 35816. Blokta Durdu](https://mustafaerbay.com.tr/blog/technology/bir-bit-cevirdim-dm-verity-35816-blokta-durdu/)** <sub>— Sep 15, 2026</sub>
-- **[İki Saatlik Keepalive&#39;ı 246 Soketten 8&#39;i Okuyor](https://mustafaerbay.com.tr/blog/technology/iki-saatlik-keepalive-246-soketten-8i-okuyor/)** <sub>— Sep 14, 2026</sub>
-- **[tcp_ecn = 2: Kapı Açık, Çalan Yok](https://mustafaerbay.com.tr/blog/technology/tcp-ecn-2-kapi-acik-calan-yok/)** <sub>— Sep 14, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub>
+- **[NATS&#39;ta Yavaş Tüketici: Kim Düşürür, Kim Bekletir](https://mustafaerbay.com.tr/blog/technology/natsta-yavas-tuketici-kim-dusurur-kim-bekletir/)** <sub>— Sep 17, 2026</sub>
+- **[Yazdım ama Gitmedi: Kernel&#39;deki 487 KB](https://mustafaerbay.com.tr/blog/technology/yazdim-ama-gitmedi-kerneldeki-487-kb/)** <sub>— Sep 16, 2026</sub>
+- **[Disk Kendini Bölsün: systemd-repart Sahada](https://mustafaerbay.com.tr/blog/technology/disk-kendini-bolsun-systemd-repart-sahada/)** <sub>— Sep 16, 2026</sub>
+- **[TCP-AO: Bağlantı Açıkken Anahtar Değiştirmek](https://mustafaerbay.com.tr/blog/technology/tcp-ao-baglanti-acikken-anahtar-degistirmek/)** <sub>— Sep 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
