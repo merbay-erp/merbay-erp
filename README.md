@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub>
 - **[NATS&#39;ta Yavaş Tüketici: Kim Düşürür, Kim Bekletir](https://mustafaerbay.com.tr/blog/technology/natsta-yavas-tuketici-kim-dusurur-kim-bekletir/)** <sub>— Sep 17, 2026</sub>
+- **[Green Tea GC: Ağaçta Yüzde 10, Haritada Yüzde 60](https://mustafaerbay.com.tr/blog/technology/green-tea-gc-agacta-yuzde-10-haritada-yuzde-60/)** <sub>— Sep 17, 2026</sub>
 - **[Yazdım ama Gitmedi: Kernel&#39;deki 487 KB](https://mustafaerbay.com.tr/blog/technology/yazdim-ama-gitmedi-kerneldeki-487-kb/)** <sub>— Sep 16, 2026</sub>
-- **[Disk Kendini Bölsün: systemd-repart Sahada](https://mustafaerbay.com.tr/blog/technology/disk-kendini-bolsun-systemd-repart-sahada/)** <sub>— Sep 16, 2026</sub>
-- **[TCP-AO: Bağlantı Açıkken Anahtar Değiştirmek](https://mustafaerbay.com.tr/blog/technology/tcp-ao-baglanti-acikken-anahtar-degistirmek/)** <sub>— Sep 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Disk Kendini Bölsün: systemd-repart Sahada](https://mustafaerbay.com.tr/blog/technology/disk-kendini-bolsun-systemd-repart-sahada/)** <sub>— Sep 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
