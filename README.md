@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[fork: retry — Dört Tavan, Tek Hata Mesajı](https://mustafaerbay.com.tr/blog/technology/fork-retry-dort-tavan-tek-hata-mesaji/)** <sub>— Sep 18, 2026</sub>
 - **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub>
 - **[NATS&#39;ta Yavaş Tüketici: Kim Düşürür, Kim Bekletir](https://mustafaerbay.com.tr/blog/technology/natsta-yavas-tuketici-kim-dusurur-kim-bekletir/)** <sub>— Sep 17, 2026</sub>
 - **[Green Tea GC: Ağaçta Yüzde 10, Haritada Yüzde 60](https://mustafaerbay.com.tr/blog/technology/green-tea-gc-agacta-yuzde-10-haritada-yuzde-60/)** <sub>— Sep 17, 2026</sub>
-- **[dirty_background_ratio&#39;nun Yüzde Onu Kime Ait](https://mustafaerbay.com.tr/blog/technology/dirty-background-rationun-yuzde-onu-kime-ait/)** <sub>— Sep 17, 2026</sub>
-- **[Yazdım ama Gitmedi: Kernel&#39;deki 487 KB](https://mustafaerbay.com.tr/blog/technology/yazdim-ama-gitmedi-kerneldeki-487-kb/)** <sub>— Sep 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[dirty_background_ratio&#39;nun Yüzde Onu Kime Ait](https://mustafaerbay.com.tr/blog/technology/dirty-background-rationun-yuzde-onu-kime-ait/)** <sub>— Sep 17, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
