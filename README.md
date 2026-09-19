@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Sysctl Sıfır, Kapı Açık: userfaultfd&#39;nin Üç Girişi](https://mustafaerbay.com.tr/blog/technology/sysctl-sifir-kapi-acik-userfaultfdnin-uc-girisi/)** <sub>— Sep 19, 2026</sub>
 - **[fork: retry — Dört Tavan, Tek Hata Mesajı](https://mustafaerbay.com.tr/blog/technology/fork-retry-dort-tavan-tek-hata-mesaji/)** <sub>— Sep 18, 2026</sub>
 - **[Root&#39;a da Sıfır: kptr_restrict, dmesg_restrict ve perf_event_paranoid](https://mustafaerbay.com.tr/blog/technology/roota-da-sifir-kptr-restrict-dmesg-restrict-perf-event-paranoid/)** <sub>— Sep 18, 2026</sub>
 - **[dm-integrity Bozuk Bloğu Bulur, Düzeltmek İçin Bir Ayna İster](https://mustafaerbay.com.tr/blog/technology/dm-integrity-bozuk-blogu-bulur-duzeltmek-icin-bir-ayna-ister/)** <sub>— Sep 18, 2026</sub>
-- **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub>
-- **[NATS&#39;ta Yavaş Tüketici: Kim Düşürür, Kim Bekletir](https://mustafaerbay.com.tr/blog/technology/natsta-yavas-tuketici-kim-dusurur-kim-bekletir/)** <sub>— Sep 17, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
