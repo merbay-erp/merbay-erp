@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Sysctl Sıfır, Kapı Açık: userfaultfd&#39;nin Üç Girişi](https://mustafaerbay.com.tr/blog/technology/sysctl-sifir-kapi-acik-userfaultfdnin-uc-girisi/)** <sub>— Sep 19, 2026</sub>
+- **[512 Bayt Yazdım, 1 GiB Ödedim: THP, madvise ve 64 KiB&#39;lık Orta Yol](https://mustafaerbay.com.tr/blog/technology/512-bayt-yazdim-1-gib-odedim-thp-madvise-ve-64-kiblik-orta-yol/)** <sub>— Sep 19, 2026</sub>
 - **[fork: retry — Dört Tavan, Tek Hata Mesajı](https://mustafaerbay.com.tr/blog/technology/fork-retry-dort-tavan-tek-hata-mesaji/)** <sub>— Sep 18, 2026</sub>
 - **[Root&#39;a da Sıfır: kptr_restrict, dmesg_restrict ve perf_event_paranoid](https://mustafaerbay.com.tr/blog/technology/roota-da-sifir-kptr-restrict-dmesg-restrict-perf-event-paranoid/)** <sub>— Sep 18, 2026</sub>
-- **[dm-integrity Bozuk Bloğu Bulur, Düzeltmek İçin Bir Ayna İster](https://mustafaerbay.com.tr/blog/technology/dm-integrity-bozuk-blogu-bulur-duzeltmek-icin-bir-ayna-ister/)** <sub>— Sep 18, 2026</sub>
-- **[run0: Parola polkit&#39;te, Çağıran journalctl Alanında](https://mustafaerbay.com.tr/blog/technology/run0-parola-polkitte-cagiran-journalctl-alaninda/)** <sub>— Sep 17, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[dm-integrity Bozuk Bloğu Bulur, Düzeltmek İçin Bir Ayna İster](https://mustafaerbay.com.tr/blog/technology/dm-integrity-bozuk-blogu-bulur-duzeltmek-icin-bir-ayna-ister/)** <sub>— Sep 18, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
