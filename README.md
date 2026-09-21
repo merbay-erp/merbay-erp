@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[fs.file-max&#39;ı Kim Değiştirdi? İz Konteynerde](https://mustafaerbay.com.tr/blog/technology/fs-file-maxi-kim-degistirdi-iz-konteynerde/)** <sub>— Sep 21, 2026</sub>
 - **[İlk Yuva Haklıdır: md repair Hangi Kopyaya İnanır?](https://mustafaerbay.com.tr/blog/technology/ilk-yuva-haklidir-md-repair-hangi-kopyaya-inanir/)** <sub>— Sep 21, 2026</sub>
+- **[ionice&#39;ı Kim Dinler? none Hiç, mq-deadline Sınıfı, BFQ Seviyeyi](https://mustafaerbay.com.tr/blog/technology/ionice-i-kim-dinler-none-kimseyi-mq-deadline-sinifi-bfq-seviyeyi/)** <sub>— Sep 21, 2026</sub>
 - **[55 Saniye D Durumu, Sıfır Uyarı: khungtaskd&#39;nin Kör Noktaları](https://mustafaerbay.com.tr/blog/technology/55-saniye-d-durumu-sifir-uyari-khungtaskdnin-kor-noktalari/)** <sub>— Sep 20, 2026</sub>
-- **[TCP Fast Open: Lab&#39;da Bir RTT, Yolda Bir Saniye](https://mustafaerbay.com.tr/blog/technology/tcp-fast-open-labda-bir-rtt-yolda-bir-saniye/)** <sub>— Sep 20, 2026</sub>
-- **[Kardeşe Yasak, Toruna Serbest: ptrace_scope=1 Kimi Durduruyor](https://mustafaerbay.com.tr/blog/technology/kardese-yasak-toruna-serbest-ptrace-scope-1-kimi-durduruyor/)** <sub>— Sep 20, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[TCP Fast Open: Lab&#39;da Bir RTT, Yolda Bir Saniye](https://mustafaerbay.com.tr/blog/technology/tcp-fast-open-labda-bir-rtt-yolda-bir-saniye/)** <sub>— Sep 20, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
