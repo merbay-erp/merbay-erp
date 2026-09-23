@@ -105,8 +105,8 @@
 - **[read_ahead_kb Neden 8192? Linux 6.17 Disk&#39;e İnandı](https://mustafaerbay.com.tr/blog/technology/disk-donuyorum-dedi-read-ahead-kb-128den-8192ye-nasil-cikti/)** <sub>— Sep 23, 2026</sub>
 - **[Komşu Tablosu Ad Alanı Tanımaz](https://mustafaerbay.com.tr/blog/technology/komsu-tablosu-ad-alani-tanimaz/)** <sub>— Sep 23, 2026</sub>
 - **[fstrim Yine 2 GiB Dedi, Hiçbir Şey Boşalmadı](https://mustafaerbay.com.tr/blog/technology/fstrim-yine-2-gib-dedi-hicbir-sey-bosalmadi/)** <sub>— Sep 23, 2026</sub>
-- **[Üç Sayı, Bir Alarm: vm.max_map_count Kimi Uyarıyor?](https://mustafaerbay.com.tr/blog/technology/uc-sayi-bir-alarm-vm-max-map-count-kimi-uyariyor/)** <sub>— Sep 22, 2026</sub>
-- **[Hiç Hacklenmemiş Sunucu](https://mustafaerbay.com.tr/blog/life/hic-hacklenmemis-sunucu/)** <sub>— Sep 22, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Ajan Yazdı, Ben 67 Kez Tamir Ettim](https://mustafaerbay.com.tr/blog/career/ajan-yazdi-ben-67-kez-tamir-ettim/)** <sub>— Sep 23, 2026</sub>
+- **[Üç Sayı, Bir Alarm: vm.max_map_count Kimi Uyarıyor?](https://mustafaerbay.com.tr/blog/technology/uc-sayi-bir-alarm-vm-max-map-count-kimi-uyariyor/)** <sub>— Sep 22, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
