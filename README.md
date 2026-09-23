@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[read_ahead_kb Neden 8192? Linux 6.17 Disk&#39;e İnandı](https://mustafaerbay.com.tr/blog/technology/disk-donuyorum-dedi-read-ahead-kb-128den-8192ye-nasil-cikti/)** <sub>— Sep 23, 2026</sub>
 - **[Üç Sayı, Bir Alarm: vm.max_map_count Kimi Uyarıyor?](https://mustafaerbay.com.tr/blog/technology/uc-sayi-bir-alarm-vm-max-map-count-kimi-uyariyor/)** <sub>— Sep 22, 2026</sub>
 - **[Hiç Hacklenmemiş Sunucu](https://mustafaerbay.com.tr/blog/life/hic-hacklenmemis-sunucu/)** <sub>— Sep 22, 2026</sub>
 - **[Kimsenin Yazmadığı 66 MiB: min_free_kbytes&#39;ı Kim Belirliyor?](https://mustafaerbay.com.tr/blog/technology/kimsenin-yazmadigi-66-mib-min-free-kbytesi-kim-belirliyor/)** <sub>— Sep 22, 2026</sub>
-- **[fs.file-max&#39;ı Kim Değiştirdi? İz Konteynerde](https://mustafaerbay.com.tr/blog/technology/fs-file-maxi-kim-degistirdi-iz-konteynerde/)** <sub>— Sep 21, 2026</sub>
-- **[İlk Yuva Haklıdır: md repair Hangi Kopyaya İnanır?](https://mustafaerbay.com.tr/blog/technology/ilk-yuva-haklidir-md-repair-hangi-kopyaya-inanir/)** <sub>— Sep 21, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[fs.file-max&#39;ı Kim Değiştirdi? İz Konteynerde](https://mustafaerbay.com.tr/blog/technology/fs-file-maxi-kim-degistirdi-iz-konteynerde/)** <sub>— Sep 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
