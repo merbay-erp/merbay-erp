@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Hurda Tableti Çocuğa Kurtarmak: e-Tab 4&#39;ün Uzun Akşamları](https://mustafaerbay.com.tr/blog/life/hurda-tableti-cocuga-kurtarmak-etab4-uzun-aksamlari/)** <sub>— Sep 24, 2026</sub>
+- **[df Sıfır Dedi, Root Yazmaya Devam Etti](https://mustafaerbay.com.tr/blog/tutorials/df-sifir-dedi-root-yazmaya-devam-etti/)** <sub>— Sep 24, 2026</sub>
+- **[ASLR 32 Bit Değil: Dört Bölge, Dört Ayrı Sayı](https://mustafaerbay.com.tr/blog/technology/aslr-32-bit-degil-dort-bolge-dort-ayri-sayi/)** <sub>— Sep 24, 2026</sub>
 - **[read_ahead_kb Neden 8192? Linux 6.17 Disk&#39;e İnandı](https://mustafaerbay.com.tr/blog/technology/disk-donuyorum-dedi-read-ahead-kb-128den-8192ye-nasil-cikti/)** <sub>— Sep 23, 2026</sub>
-- **[Komşu Tablosu Ad Alanı Tanımaz](https://mustafaerbay.com.tr/blog/technology/komsu-tablosu-ad-alani-tanimaz/)** <sub>— Sep 23, 2026</sub>
-- **[fstrim Yine 2 GiB Dedi, Hiçbir Şey Boşalmadı](https://mustafaerbay.com.tr/blog/technology/fstrim-yine-2-gib-dedi-hicbir-sey-bosalmadi/)** <sub>— Sep 23, 2026</sub>
-- **[Ajan Yazdı, Ben 67 Kez Tamir Ettim](https://mustafaerbay.com.tr/blog/career/ajan-yazdi-ben-67-kez-tamir-ettim/)** <sub>— Sep 23, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Komşu Tablosu Ad Alanı Tanımaz](https://mustafaerbay.com.tr/blog/technology/komsu-tablosu-ad-alani-tanimaz/)** <sub>— Sep 23, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
