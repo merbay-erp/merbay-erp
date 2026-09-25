@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Tek Kişilik Ekip, Yedi Sunucu: Neyi Otomatikleştirmedim](https://mustafaerbay.com.tr/blog/career/tek-kisilik-ekip-yedi-sunucu-neyi-otomatiklestirmedim/)** <sub>— Sep 25, 2026</sub>
+- **[13.975 Görüntülenme, Altısı Bir Yerden Geldi](https://mustafaerbay.com.tr/blog/life/otuz-gunde-13975-goruntulenme-altisi-bir-yerden-geldi/)** <sub>— Sep 25, 2026</sub>
 - **[Hurda Tableti Çocuğa Kurtarmak: e-Tab 4&#39;ün Uzun Akşamları](https://mustafaerbay.com.tr/blog/life/hurda-tableti-cocuga-kurtarmak-etab4-uzun-aksamlari/)** <sub>— Sep 24, 2026</sub>
 - **[df Sıfır Dedi, Root Yazmaya Devam Etti](https://mustafaerbay.com.tr/blog/tutorials/df-sifir-dedi-root-yazmaya-devam-etti/)** <sub>— Sep 24, 2026</sub>
-- **[ASLR 32 Bit Değil: Dört Bölge, Dört Ayrı Sayı](https://mustafaerbay.com.tr/blog/technology/aslr-32-bit-degil-dort-bolge-dort-ayri-sayi/)** <sub>— Sep 24, 2026</sub>
-- **[read_ahead_kb Neden 8192? Linux 6.17 Disk&#39;e İnandı](https://mustafaerbay.com.tr/blog/technology/disk-donuyorum-dedi-read-ahead-kb-128den-8192ye-nasil-cikti/)** <sub>— Sep 23, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[ASLR 32 Bit Değil: Dört Bölge, Dört Ayrı Sayı](https://mustafaerbay.com.tr/blog/technology/aslr-32-bit-degil-dort-bolge-dort-ayri-sayi/)** <sub>— Sep 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
