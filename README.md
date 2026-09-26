@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Doğru Hipotezi İki Ay Erken Kurdum](https://mustafaerbay.com.tr/blog/career/dogru-hipotezi-iki-ay-erken-kurdum/)** <sub>— Sep 26, 2026</sub>
+- **[Spam Filtrem Beş Aydır Öğrenmiyor, Çünkü Öğrenemez](https://mustafaerbay.com.tr/blog/life/spam-filtrem-bes-aydir-ogrenmiyor-cunku-ogrenemez/)** <sub>— Sep 26, 2026</sub>
 - **[Tek Kişilik Ekip, Yedi Sunucu: Neyi Otomatikleştirmedim](https://mustafaerbay.com.tr/blog/career/tek-kisilik-ekip-yedi-sunucu-neyi-otomatiklestirmedim/)** <sub>— Sep 25, 2026</sub>
 - **[13.975 Görüntülenme, Altısı Bir Yerden Geldi](https://mustafaerbay.com.tr/blog/life/otuz-gunde-13975-goruntulenme-altisi-bir-yerden-geldi/)** <sub>— Sep 25, 2026</sub>
-- **[/usr&#39;ı Yazılabilir Yaptım, systemd-analyze 1.5 OK Dedi](https://mustafaerbay.com.tr/blog/tutorials/usr-yazilabilir-yaptim-systemd-analyze-15-ok-dedi/)** <sub>— Sep 25, 2026</sub>
-- **[Hurda Tableti Çocuğa Kurtarmak: e-Tab 4&#39;ün Uzun Akşamları](https://mustafaerbay.com.tr/blog/life/hurda-tableti-cocuga-kurtarmak-etab4-uzun-aksamlari/)** <sub>— Sep 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[/usr&#39;ı Yazılabilir Yaptım, systemd-analyze 1.5 OK Dedi](https://mustafaerbay.com.tr/blog/tutorials/usr-yazilabilir-yaptim-systemd-analyze-15-ok-dedi/)** <sub>— Sep 25, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
