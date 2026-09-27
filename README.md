@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Doksan Saniyede Geri Aldım, Beş Saat Bozuk Kaldı](https://mustafaerbay.com.tr/blog/career/doksan-saniyede-geri-aldim-bes-saat-bozuk-kaldi/)** <sub>— Sep 27, 2026</sub>
 - **[Dizüstüme 60 GiB Söz Verdim, 14 GiB&#39;i Var](https://mustafaerbay.com.tr/blog/life/dizustume-60-gib-soz-verdim-14-gibi-var/)** <sub>— Sep 27, 2026</sub>
+- **[copytruncate: &quot;Çok Küçük Bir An&quot; 33.879 Satır Etti](https://mustafaerbay.com.tr/blog/tutorials/copytruncate-cok-kucuk-bir-an-33879-satir-etti/)** <sub>— Sep 27, 2026</sub>
 - **[Doğru Hipotezi İki Ay Erken Kurdum](https://mustafaerbay.com.tr/blog/career/dogru-hipotezi-iki-ay-erken-kurdum/)** <sub>— Sep 26, 2026</sub>
-- **[Spam Filtrem Beş Aydır Öğrenmiyor, Çünkü Öğrenemez](https://mustafaerbay.com.tr/blog/life/spam-filtrem-bes-aydir-ogrenmiyor-cunku-ogrenemez/)** <sub>— Sep 26, 2026</sub>
-- **[accept_redirects&#39;i Ben Kapatmadım, Docker Kapattı](https://mustafaerbay.com.tr/blog/tutorials/accept-redirects-i-kimse-acmadi-ip-forward-acti/)** <sub>— Sep 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Spam Filtrem Beş Aydır Öğrenmiyor, Çünkü Öğrenemez](https://mustafaerbay.com.tr/blog/life/spam-filtrem-bes-aydir-ogrenmiyor-cunku-ogrenemez/)** <sub>— Sep 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
