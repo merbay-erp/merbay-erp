@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Doksan Saniyede Geri Aldım, Beş Saat Bozuk Kaldı](https://mustafaerbay.com.tr/blog/career/doksan-saniyede-geri-aldim-bes-saat-bozuk-kaldi/)** <sub>— Sep 27, 2026</sub>
 - **[Doğru Hipotezi İki Ay Erken Kurdum](https://mustafaerbay.com.tr/blog/career/dogru-hipotezi-iki-ay-erken-kurdum/)** <sub>— Sep 26, 2026</sub>
 - **[Spam Filtrem Beş Aydır Öğrenmiyor, Çünkü Öğrenemez](https://mustafaerbay.com.tr/blog/life/spam-filtrem-bes-aydir-ogrenmiyor-cunku-ogrenemez/)** <sub>— Sep 26, 2026</sub>
 - **[accept_redirects&#39;i Ben Kapatmadım, Docker Kapattı](https://mustafaerbay.com.tr/blog/tutorials/accept-redirects-i-kimse-acmadi-ip-forward-acti/)** <sub>— Sep 26, 2026</sub>
-- **[Tek Kişilik Ekip, Yedi Sunucu: Neyi Otomatikleştirmedim](https://mustafaerbay.com.tr/blog/career/tek-kisilik-ekip-yedi-sunucu-neyi-otomatiklestirmedim/)** <sub>— Sep 25, 2026</sub>
-- **[13.975 Görüntülenme, Altısı Bir Yerden Geldi](https://mustafaerbay.com.tr/blog/life/otuz-gunde-13975-goruntulenme-altisi-bir-yerden-geldi/)** <sub>— Sep 25, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Tek Kişilik Ekip, Yedi Sunucu: Neyi Otomatikleştirmedim](https://mustafaerbay.com.tr/blog/career/tek-kisilik-ekip-yedi-sunucu-neyi-otomatiklestirmedim/)** <sub>— Sep 25, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
