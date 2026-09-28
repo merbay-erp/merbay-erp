@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[autogroup&#39;a nice Yazdım, Hiçbir Şey Değişmedi](https://mustafaerbay.com.tr/blog/technology/autogroupa-nice-yazdim-hicbir-sey-degismedi/)** <sub>— Sep 28, 2026</sub>
+- **[wbt_lat_usec 75000: Freni Kapalı Sandım, ftrace Aksini Yazdı](https://mustafaerbay.com.tr/blog/technology/wbt-lat-usec-75000-freni-kapali-sandim-ftrace-aksini-yazdi/)** <sub>— Sep 28, 2026</sub>
+- **[Depoyu Taşıdım, Üç Script Hâlâ Eski Adı Çağırıyor](https://mustafaerbay.com.tr/blog/career/depoyu-tasidim-uc-script-hala-eski-adi-cagiriyor/)** <sub>— Sep 28, 2026</sub>
 - **[Doksan Saniyede Geri Aldım, Beş Saat Bozuk Kaldı](https://mustafaerbay.com.tr/blog/career/doksan-saniyede-geri-aldim-bes-saat-bozuk-kaldi/)** <sub>— Sep 27, 2026</sub>
-- **[Dizüstüme 60 GiB Söz Verdim, 14 GiB&#39;i Var](https://mustafaerbay.com.tr/blog/life/dizustume-60-gib-soz-verdim-14-gibi-var/)** <sub>— Sep 27, 2026</sub>
-- **[copytruncate: &quot;Çok Küçük Bir An&quot; 33.879 Satır Etti](https://mustafaerbay.com.tr/blog/tutorials/copytruncate-cok-kucuk-bir-an-33879-satir-etti/)** <sub>— Sep 27, 2026</sub>
-- **[Doğru Hipotezi İki Ay Erken Kurdum](https://mustafaerbay.com.tr/blog/career/dogru-hipotezi-iki-ay-erken-kurdum/)** <sub>— Sep 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dizüstüme 60 GiB Söz Verdim, 14 GiB&#39;i Var](https://mustafaerbay.com.tr/blog/life/dizustume-60-gib-soz-verdim-14-gibi-var/)** <sub>— Sep 27, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
