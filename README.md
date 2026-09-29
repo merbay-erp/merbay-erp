@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Dizüstüm Yedi Günde 76 Kez Uyandı, 13&#39;ünde Ben Vardım](https://mustafaerbay.com.tr/blog/life/dizustum-yedi-gunde-76-kez-uyandi/)** <sub>— Sep 29, 2026</sub>
 - **[fast_commit&#39;i Açtım, 4.000 fsync Boyunca Hiç Çalışmadı](https://mustafaerbay.com.tr/blog/tutorials/fast-commit-i-actim-4000-fsync-boyunca-hic-calismadi/)** <sub>— Sep 29, 2026</sub>
+- **[cgroup.pressure&#39;a 0 Yazdım, 86 ms&#39;lik Durma Deftere Girmedi](https://mustafaerbay.com.tr/blog/technology/cgroup-pressure-0-yazdim-86-ms-durma-deftere-girmedi/)** <sub>— Sep 29, 2026</sub>
 - **[autogroup&#39;a nice Yazdım, Hiçbir Şey Değişmedi](https://mustafaerbay.com.tr/blog/technology/autogroupa-nice-yazdim-hicbir-sey-degismedi/)** <sub>— Sep 28, 2026</sub>
-- **[wbt_lat_usec 75000: Freni Kapalı Sandım, ftrace Aksini Yazdı](https://mustafaerbay.com.tr/blog/technology/wbt-lat-usec-75000-freni-kapali-sandim-ftrace-aksini-yazdi/)** <sub>— Sep 28, 2026</sub>
-- **[Depoyu Taşıdım, Üç Script Hâlâ Eski Adı Çağırıyor](https://mustafaerbay.com.tr/blog/career/depoyu-tasidim-uc-script-hala-eski-adi-cagiriyor/)** <sub>— Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[wbt_lat_usec 75000: Freni Kapalı Sandım, ftrace Aksini Yazdı](https://mustafaerbay.com.tr/blog/technology/wbt-lat-usec-75000-freni-kapali-sandim-ftrace-aksini-yazdi/)** <sub>— Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
