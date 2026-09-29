@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Dizüstüm Yedi Günde 76 Kez Uyandı, 13&#39;ünde Ben Vardım](https://mustafaerbay.com.tr/blog/life/dizustum-yedi-gunde-76-kez-uyandi/)** <sub>— Sep 29, 2026</sub>
+- **[fast_commit&#39;i Açtım, 4.000 fsync Boyunca Hiç Çalışmadı](https://mustafaerbay.com.tr/blog/tutorials/fast-commit-i-actim-4000-fsync-boyunca-hic-calismadi/)** <sub>— Sep 29, 2026</sub>
 - **[autogroup&#39;a nice Yazdım, Hiçbir Şey Değişmedi](https://mustafaerbay.com.tr/blog/technology/autogroupa-nice-yazdim-hicbir-sey-degismedi/)** <sub>— Sep 28, 2026</sub>
 - **[wbt_lat_usec 75000: Freni Kapalı Sandım, ftrace Aksini Yazdı](https://mustafaerbay.com.tr/blog/technology/wbt-lat-usec-75000-freni-kapali-sandim-ftrace-aksini-yazdi/)** <sub>— Sep 28, 2026</sub>
-- **[Depoyu Taşıdım, Üç Script Hâlâ Eski Adı Çağırıyor](https://mustafaerbay.com.tr/blog/career/depoyu-tasidim-uc-script-hala-eski-adi-cagiriyor/)** <sub>— Sep 28, 2026</sub>
-- **[Doksan Saniyede Geri Aldım, Beş Saat Bozuk Kaldı](https://mustafaerbay.com.tr/blog/career/doksan-saniyede-geri-aldim-bes-saat-bozuk-kaldi/)** <sub>— Sep 27, 2026</sub>
-- **[Dizüstüme 60 GiB Söz Verdim, 14 GiB&#39;i Var](https://mustafaerbay.com.tr/blog/life/dizustume-60-gib-soz-verdim-14-gibi-var/)** <sub>— Sep 27, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Depoyu Taşıdım, Üç Script Hâlâ Eski Adı Çağırıyor](https://mustafaerbay.com.tr/blog/career/depoyu-tasidim-uc-script-hala-eski-adi-cagiriyor/)** <sub>— Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
