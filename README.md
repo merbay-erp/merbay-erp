@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Yirmi Bulguyu Kapattım, Yirmi Birincisi Benim Yamamdı](https://mustafaerbay.com.tr/blog/career/yirmi-bulguyu-kapattim-yirmi-birincisi-benim-yamamdi/)** <sub>— Sep 30, 2026</sub>
+- **[Diskimde Ne Kadar Yer Var? Beş Cevap, 13,5 GiB Fark](https://mustafaerbay.com.tr/blog/life/diskimde-ne-kadar-yer-var-bes-cevap-13-gib-fark/)** <sub>— Sep 30, 2026</sub>
+- **[Çevrimin %26&#39;sını Harcadım, Kapasitenin %45&#39;ini](https://mustafaerbay.com.tr/blog/tutorials/cevrimin-yuzde-26sini-harcadim-kapasitenin-yuzde-45ini/)** <sub>— Sep 30, 2026</sub>
 - **[Dizüstüm Yedi Günde 76 Kez Uyandı, 13&#39;ünde Ben Vardım](https://mustafaerbay.com.tr/blog/life/dizustum-yedi-gunde-76-kez-uyandi/)** <sub>— Sep 29, 2026</sub>
-- **[fast_commit&#39;i Açtım, 4.000 fsync Boyunca Hiç Çalışmadı](https://mustafaerbay.com.tr/blog/tutorials/fast-commit-i-actim-4000-fsync-boyunca-hic-calismadi/)** <sub>— Sep 29, 2026</sub>
-- **[cgroup.pressure&#39;a 0 Yazdım, 86 ms&#39;lik Durma Deftere Girmedi](https://mustafaerbay.com.tr/blog/technology/cgroup-pressure-0-yazdim-86-ms-durma-deftere-girmedi/)** <sub>— Sep 29, 2026</sub>
-- **[autogroup&#39;a nice Yazdım, Hiçbir Şey Değişmedi](https://mustafaerbay.com.tr/blog/technology/autogroupa-nice-yazdim-hicbir-sey-degismedi/)** <sub>— Sep 28, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[fast_commit&#39;i Açtım, 4.000 fsync Boyunca Hiç Çalışmadı](https://mustafaerbay.com.tr/blog/tutorials/fast-commit-i-actim-4000-fsync-boyunca-hic-calismadi/)** <sub>— Sep 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
