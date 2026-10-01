@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[launchd 21.881 Kez Denedi, Ben Bir Kez Bakmadım](https://mustafaerbay.com.tr/blog/technology/launchd-21881-kez-denedi-ben-bir-kez-bakmadim/)** <sub>— Oct 1, 2026</sub>
 - **[Yirmi Bulguyu Kapattım, Yirmi Birincisi Benim Yamamdı](https://mustafaerbay.com.tr/blog/career/yirmi-bulguyu-kapattim-yirmi-birincisi-benim-yamamdi/)** <sub>— Sep 30, 2026</sub>
 - **[Diskimde Ne Kadar Yer Var? Beş Cevap, 13,5 GiB Fark](https://mustafaerbay.com.tr/blog/life/diskimde-ne-kadar-yer-var-bes-cevap-13-gib-fark/)** <sub>— Sep 30, 2026</sub>
 - **[Çevrimin %26&#39;sını Harcadım, Kapasitenin %45&#39;ini](https://mustafaerbay.com.tr/blog/tutorials/cevrimin-yuzde-26sini-harcadim-kapasitenin-yuzde-45ini/)** <sub>— Sep 30, 2026</sub>
-- **[Dizüstüm Yedi Günde 76 Kez Uyandı, 13&#39;ünde Ben Vardım](https://mustafaerbay.com.tr/blog/life/dizustum-yedi-gunde-76-kez-uyandi/)** <sub>— Sep 29, 2026</sub>
-- **[fast_commit&#39;i Açtım, 4.000 fsync Boyunca Hiç Çalışmadı](https://mustafaerbay.com.tr/blog/tutorials/fast-commit-i-actim-4000-fsync-boyunca-hic-calismadi/)** <sub>— Sep 29, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dizüstüm Yedi Günde 76 Kez Uyandı, 13&#39;ünde Ben Vardım](https://mustafaerbay.com.tr/blog/life/dizustum-yedi-gunde-76-kez-uyandi/)** <sub>— Sep 29, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
