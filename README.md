@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Karantina Defterimde 1.945 Satır Var, Hiçbirinde Adres Yok](https://mustafaerbay.com.tr/blog/tutorials/karantina-defterimde-1945-satir-var-hicbirinde-adres-yok/)** <sub>— Oct 2, 2026</sub>
+- **[ispmanager&#39;ı Üç Tur Test Ettim: Bir Açık Kapandı, Altı Bulgumu Geri Aldım](https://mustafaerbay.com.tr/blog/technology/ispmanageri-uc-tur-test-ettim/)** <sub>— Oct 2, 2026</sub>
+- **[Altmış Sekiz Yedek Bıraktım, Nginx Yalnız Birini Okudu](https://mustafaerbay.com.tr/blog/career/altmis-sekiz-yedek-biraktim-nginx-yalniz-birini-okudu/)** <sub>— Oct 2, 2026</sub>
 - **[launchd 21.881 Kez Denedi, Ben Bir Kez Bakmadım](https://mustafaerbay.com.tr/blog/technology/launchd-21881-kez-denedi-ben-bir-kez-bakmadim/)** <sub>— Oct 1, 2026</sub>
-- **[Yetmiş Dal Biriktirdim, Altısı Gerçekten Yarım Kaldı](https://mustafaerbay.com.tr/blog/career/yetmis-dal-biriktirdim-altisi-gercekten-yarim-kaldi/)** <sub>— Oct 1, 2026</sub>
-- **[91 Yedeğim Var, Hiçbiri Bu Makinenin](https://mustafaerbay.com.tr/blog/life/91-yedegim-var-hicbiri-bu-makinenin/)** <sub>— Oct 1, 2026</sub>
-- **[Yirmi Bulguyu Kapattım, Yirmi Birincisi Benim Yamamdı](https://mustafaerbay.com.tr/blog/career/yirmi-bulguyu-kapattim-yirmi-birincisi-benim-yamamdi/)** <sub>— Sep 30, 2026</sub>
-- **[Diskimde Ne Kadar Yer Var? Beş Cevap, 13,5 GiB Fark](https://mustafaerbay.com.tr/blog/life/diskimde-ne-kadar-yer-var-bes-cevap-13-gib-fark/)** <sub>— Sep 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Yetmiş Dal Biriktirdim, Altısı Gerçekten Yarım Kaldı](https://mustafaerbay.com.tr/blog/career/yetmis-dal-biriktirdim-altisi-gercekten-yarim-kaldi/)** <sub>— Oct 1, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
