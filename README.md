@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[casefold&#39;u Açtım, Dizin Türkçede Duyarlı Kaldı](https://mustafaerbay.com.tr/blog/tutorials/casefold-u-actim-dizin-turkcede-duyarli-kaldi/)** <sub>— Oct 3, 2026</sub>
 - **[Karantina Defterimde 1.945 Satır Var, Hiçbirinde Adres Yok](https://mustafaerbay.com.tr/blog/tutorials/karantina-defterimde-1945-satir-var-hicbirinde-adres-yok/)** <sub>— Oct 2, 2026</sub>
 - **[ispmanager&#39;ı Üç Tur Test Ettim: Bir Açık Kapandı, Altı Bulgumu Geri Aldım](https://mustafaerbay.com.tr/blog/technology/ispmanageri-uc-tur-test-ettim/)** <sub>— Oct 2, 2026</sub>
 - **[Altmış Sekiz Yedek Bıraktım, Nginx Yalnız Birini Okudu](https://mustafaerbay.com.tr/blog/career/altmis-sekiz-yedek-biraktim-nginx-yalniz-birini-okudu/)** <sub>— Oct 2, 2026</sub>
-- **[Her Yeni Komutum Bir Eskisini Siliyor](https://mustafaerbay.com.tr/blog/life/her-yeni-komutum-bir-eskisini-siliyor/)** <sub>— Oct 2, 2026</sub>
-- **[launchd 21.881 Kez Denedi, Ben Bir Kez Bakmadım](https://mustafaerbay.com.tr/blog/technology/launchd-21881-kez-denedi-ben-bir-kez-bakmadim/)** <sub>— Oct 1, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Her Yeni Komutum Bir Eskisini Siliyor](https://mustafaerbay.com.tr/blog/life/her-yeni-komutum-bir-eskisini-siliyor/)** <sub>— Oct 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
