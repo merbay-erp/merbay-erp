@@ -34,7 +34,7 @@
     <text x="410" y="300" class="metric">310</text><text x="410" y="322" class="muted">PULL REQUESTS</text>
     <path d="M60 350H542" stroke="#263449"/>
     <text x="60" y="390" class="label">Public repositories</text><text x="520" y="390" class="value-small" text-anchor="end">8</text>
-    <text x="60" y="422" class="label">Followers</text><text x="520" y="422" class="value-small" text-anchor="end">6</text>
+    <text x="60" y="422" class="label">Followers</text><text x="520" y="422" class="value-small" text-anchor="end">5</text>
     <text x="60" y="454" class="label">Stars earned</text><text x="520" y="454" class="value-small" text-anchor="end">8</text>
   </g>
 
