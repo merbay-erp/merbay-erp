@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[158 Kök Sertifikaya Güveniyorum, Üçünü Kendim Ekledim](https://mustafaerbay.com.tr/blog/life/158-kok-sertifikaya-guveniyorum-ucunu-kendim-ekledim/)** <sub>— Oct 4, 2026</sub>
+- **[Günlük Mührünü Açamadım, Sebebini Yalnız Debug Günlüğü Söyledi](https://mustafaerbay.com.tr/blog/tutorials/gunluk-muhrunu-acamadim-sebebini-debug-gunlugu-soyledi/)** <sub>— Oct 4, 2026</sub>
+- **[CPU Kotası Ortalamaya Bakmaz](https://mustafaerbay.com.tr/blog/technology/cpu-kotasi-ortalamaya-bakmaz/)** <sub>— Oct 4, 2026</sub>
 - **[casefold&#39;u Açtım, Dizin Türkçede Duyarlı Kaldı](https://mustafaerbay.com.tr/blog/tutorials/casefold-u-actim-dizin-turkcede-duyarli-kaldi/)** <sub>— Oct 3, 2026</sub>
-- **[Kapanan Soketin Kuyruğu Kime Kalır?](https://mustafaerbay.com.tr/blog/technology/kapanan-soketin-kuyrugu-kime-kalir/)** <sub>— Oct 3, 2026</sub>
-- **[Kırk Dört Yazı Üst Üste Tek Kategoriden, Fark Eden Ben Değildim](https://mustafaerbay.com.tr/blog/career/kirk-dort-yazi-ust-uste-tek-kategoriden/)** <sub>— Oct 3, 2026</sub>
-- **[Karantina Defterimde 1.945 Satır Var, Hiçbirinde Adres Yok](https://mustafaerbay.com.tr/blog/tutorials/karantina-defterimde-1945-satir-var-hicbirinde-adres-yok/)** <sub>— Oct 2, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Kapanan Soketin Kuyruğu Kime Kalır?](https://mustafaerbay.com.tr/blog/technology/kapanan-soketin-kuyrugu-kime-kalir/)** <sub>— Oct 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
