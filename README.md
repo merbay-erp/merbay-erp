@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Uykuyu Sekiz Satır Engelliyordu, Kapak Kapanınca Hiçbiri Yok](https://mustafaerbay.com.tr/blog/life/uykuyu-sekiz-satir-engelliyordu-kapak-kapaninca-hicbiri-yok/)** <sub>— Oct 5, 2026</sub>
+- **[Otuz Altı Çift Kapıdan Geçemezdi, Hepsi Hâlâ Yayında](https://mustafaerbay.com.tr/blog/career/otuz-alti-cift-kapidan-gecemezdi-hepsi-hala-yayinda/)** <sub>— Oct 5, 2026</sub>
+- **[100 MiB Sınırın İçine 200 MiB Sığdı](https://mustafaerbay.com.tr/blog/tutorials/100-mib-sinirin-icine-200-mib-sigdi/)** <sub>— Oct 5, 2026</sub>
 - **[158 Kök Sertifikaya Güveniyorum, Üçünü Kendim Ekledim](https://mustafaerbay.com.tr/blog/life/158-kok-sertifikaya-guveniyorum-ucunu-kendim-ekledim/)** <sub>— Oct 4, 2026</sub>
-- **[Günlük Mührünü Açamadım, Sebebini Yalnız Debug Günlüğü Söyledi](https://mustafaerbay.com.tr/blog/tutorials/gunluk-muhrunu-acamadim-sebebini-debug-gunlugu-soyledi/)** <sub>— Oct 4, 2026</sub>
-- **[CPU Kotası Ortalamaya Bakmaz](https://mustafaerbay.com.tr/blog/technology/cpu-kotasi-ortalamaya-bakmaz/)** <sub>— Oct 4, 2026</sub>
-- **[casefold&#39;u Açtım, Dizin Türkçede Duyarlı Kaldı](https://mustafaerbay.com.tr/blog/tutorials/casefold-u-actim-dizin-turkcede-duyarli-kaldi/)** <sub>— Oct 3, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Günlük Mührünü Açamadım, Sebebini Yalnız Debug Günlüğü Söyledi](https://mustafaerbay.com.tr/blog/tutorials/gunluk-muhrunu-acamadim-sebebini-debug-gunlugu-soyledi/)** <sub>— Oct 4, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
