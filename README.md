@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Uykuyu Sekiz Satır Engelliyordu, Kapak Kapanınca Hiçbiri Yok](https://mustafaerbay.com.tr/blog/life/uykuyu-sekiz-satir-engelliyordu-kapak-kapaninca-hicbiri-yok/)** <sub>— Oct 5, 2026</sub>
 - **[158 Kök Sertifikaya Güveniyorum, Üçünü Kendim Ekledim](https://mustafaerbay.com.tr/blog/life/158-kok-sertifikaya-guveniyorum-ucunu-kendim-ekledim/)** <sub>— Oct 4, 2026</sub>
 - **[Günlük Mührünü Açamadım, Sebebini Yalnız Debug Günlüğü Söyledi](https://mustafaerbay.com.tr/blog/tutorials/gunluk-muhrunu-acamadim-sebebini-debug-gunlugu-soyledi/)** <sub>— Oct 4, 2026</sub>
 - **[CPU Kotası Ortalamaya Bakmaz](https://mustafaerbay.com.tr/blog/technology/cpu-kotasi-ortalamaya-bakmaz/)** <sub>— Oct 4, 2026</sub>
-- **[casefold&#39;u Açtım, Dizin Türkçede Duyarlı Kaldı](https://mustafaerbay.com.tr/blog/tutorials/casefold-u-actim-dizin-turkcede-duyarli-kaldi/)** <sub>— Oct 3, 2026</sub>
-- **[Kapanan Soketin Kuyruğu Kime Kalır?](https://mustafaerbay.com.tr/blog/technology/kapanan-soketin-kuyrugu-kime-kalir/)** <sub>— Oct 3, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[casefold&#39;u Açtım, Dizin Türkçede Duyarlı Kaldı](https://mustafaerbay.com.tr/blog/tutorials/casefold-u-actim-dizin-turkcede-duyarli-kaldi/)** <sub>— Oct 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
