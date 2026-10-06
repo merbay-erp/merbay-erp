@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Komşu Konteyner Borularımı Sekiz Kat Küçülttü](https://mustafaerbay.com.tr/blog/technology/komsu-konteyner-borularimi-sekiz-kat-kuculttu/)** <sub>— Oct 6, 2026</sub>
+- **[146 Dizinin Sahibi Benim, Hiçbirini Açamıyorum](https://mustafaerbay.com.tr/blog/life/146-dizinin-sahibi-benim-hicbirini-acamiyorum/)** <sub>— Oct 6, 2026</sub>
 - **[Uykuyu Sekiz Satır Engelliyordu, Kapak Kapanınca Hiçbiri Yok](https://mustafaerbay.com.tr/blog/life/uykuyu-sekiz-satir-engelliyordu-kapak-kapaninca-hicbiri-yok/)** <sub>— Oct 5, 2026</sub>
 - **[Otuz Altı Çift Kapıdan Geçemezdi, Hepsi Hâlâ Yayında](https://mustafaerbay.com.tr/blog/career/otuz-alti-cift-kapidan-gecemezdi-hepsi-hala-yayinda/)** <sub>— Oct 5, 2026</sub>
-- **[100 MiB Sınırın İçine 200 MiB Sığdı](https://mustafaerbay.com.tr/blog/tutorials/100-mib-sinirin-icine-200-mib-sigdi/)** <sub>— Oct 5, 2026</sub>
-- **[158 Kök Sertifikaya Güveniyorum, Üçünü Kendim Ekledim](https://mustafaerbay.com.tr/blog/life/158-kok-sertifikaya-guveniyorum-ucunu-kendim-ekledim/)** <sub>— Oct 4, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[100 MiB Sınırın İçine 200 MiB Sığdı](https://mustafaerbay.com.tr/blog/tutorials/100-mib-sinirin-icine-200-mib-sigdi/)** <sub>— Oct 5, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
