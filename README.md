@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Gecenin 433 Commit&#39;ini Kurduğum Botlar Attı](https://mustafaerbay.com.tr/blog/life/gecenin-433-commitini-kurdugum-botlar-atti/)** <sub>— Oct 8, 2026</sub>
+- **[Hakem Bitirmeden Birleştirdim, Üç Bulguyu Hiç Duymadım](https://mustafaerbay.com.tr/blog/career/hakem-bitirmeden-birlestirdim-uc-bulguyu-hic-duymadim/)** <sub>— Oct 8, 2026</sub>
 - **[Çakışmayı Susturdum, On Kayıt Geri Gelmedi](https://mustafaerbay.com.tr/blog/career/cakismayi-sustum-on-kayit-geri-gelmedi/)** <sub>— Oct 7, 2026</sub>
 - **[Üç Satır İstedim, Git 36.811 Girdiyi Taradı](https://mustafaerbay.com.tr/blog/tutorials/uc-satir-istedim-git-36811-girdiyi-taradi/)** <sub>— Oct 7, 2026</sub>
-- **[tcp_adv_win_scale&#39;e On Değer Yazdım, Pencere 31.856&#39;da Kaldı](https://mustafaerbay.com.tr/blog/technology/tcp-adv-win-scale-e-on-deger-yazdim-pencere-31856da-kaldi/)** <sub>— Oct 7, 2026</sub>
-- **[Komşu Konteyner Borularımı Sekiz Kat Küçülttü](https://mustafaerbay.com.tr/blog/technology/komsu-konteyner-borularimi-sekiz-kat-kuculttu/)** <sub>— Oct 6, 2026</sub>
-- **[146 Dizinin Sahibi Benim, Hiçbirini Açamıyorum](https://mustafaerbay.com.tr/blog/life/146-dizinin-sahibi-benim-hicbirini-acamiyorum/)** <sub>— Oct 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[tcp_adv_win_scale&#39;e On Değer Yazdım, Pencere 31.856&#39;da Kaldı](https://mustafaerbay.com.tr/blog/technology/tcp-adv-win-scale-e-on-deger-yazdim-pencere-31856da-kaldi/)** <sub>— Oct 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
