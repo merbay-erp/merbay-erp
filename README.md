@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[İstekleri 31&#39;de Bire İndirdim, IOPS Tavanı Kımıldamadı](https://mustafaerbay.com.tr/blog/technology/istekleri-31de-bire-indirdim-iops-tavani-kimildamadi/)** <sub>— Oct 9, 2026</sub>
 - **[Gecenin 433 Commit&#39;ini Kurduğum Botlar Attı](https://mustafaerbay.com.tr/blog/life/gecenin-433-commitini-kurdugum-botlar-atti/)** <sub>— Oct 8, 2026</sub>
 - **[Hakem Bitirmeden Birleştirdim, Üç Bulguyu Hiç Duymadım](https://mustafaerbay.com.tr/blog/career/hakem-bitirmeden-birlestirdim-uc-bulguyu-hic-duymadim/)** <sub>— Oct 8, 2026</sub>
 - **[NODE_COMPILE_CACHE: tsc Açılışı Yarıya İndi, Tip Denetimi Kıpırdamadı](https://mustafaerbay.com.tr/blog/tutorials/node-compile-cache-tsc-acilisi-yariya-indi-tip-denetimi-kipirdamadi/)** <sub>— Oct 8, 2026</sub>
-- **[Çakışmayı Susturdum, On Kayıt Geri Gelmedi](https://mustafaerbay.com.tr/blog/career/cakismayi-sustum-on-kayit-geri-gelmedi/)** <sub>— Oct 7, 2026</sub>
-- **[Üç Satır İstedim, Git 36.811 Girdiyi Taradı](https://mustafaerbay.com.tr/blog/tutorials/uc-satir-istedim-git-36811-girdiyi-taradi/)** <sub>— Oct 7, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Çakışmayı Susturdum, On Kayıt Geri Gelmedi](https://mustafaerbay.com.tr/blog/career/cakismayi-sustum-on-kayit-geri-gelmedi/)** <sub>— Oct 7, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
