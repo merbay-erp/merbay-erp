@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Mac&#39;im On Beş Günü Hatırlıyor, Belgelenen Kısmı 3,7 Gün](https://mustafaerbay.com.tr/blog/life/macim-on-bes-gunu-hatirliyor-belgelenen-kismi-3-7-gun/)** <sub>— Oct 11, 2026</sub>
 - **[Nöbetçilerimi Denetledim: 1.973 Koşu, Defterde 15 Satır](https://mustafaerbay.com.tr/blog/career/nobetcilerimi-denetledim-1973-kosu-defterde-15-satir/)** <sub>— Oct 11, 2026</sub>
+- **[Grafı Git Yazdı, 3.287 Commit&#39;i Atlamayı Ben Öğrettim](https://mustafaerbay.com.tr/blog/tutorials/grafi-git-yazdi-3287-commiti-atlamayi-ben-ogrettim/)** <sub>— Oct 11, 2026</sub>
 - **[Reçetemin Yedi İddiası Kodu Yanlış Anlatıyor](https://mustafaerbay.com.tr/blog/career/recetemin-yedi-iddiasi-kodu-yanlis-anlatiyor/)** <sub>— Oct 10, 2026</sub>
-- **[wal_checkpoint 15 Bin Çerçeve Saydı, Hiçbirini Taşımadı](https://mustafaerbay.com.tr/blog/tutorials/wal-checkpoint-15-bin-cerceve-saydi-hicbirini-tasimadi/)** <sub>— Oct 10, 2026</sub>
-- **[Konteynere 64 MiB Verdim, Hugepage 400 MiB Aldı](https://mustafaerbay.com.tr/blog/technology/konteynere-64-mib-verdim-hugepage-400-mib-aldi/)** <sub>— Oct 10, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[wal_checkpoint 15 Bin Çerçeve Saydı, Hiçbirini Taşımadı](https://mustafaerbay.com.tr/blog/tutorials/wal-checkpoint-15-bin-cerceve-saydi-hicbirini-tasimadi/)** <sub>— Oct 10, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
