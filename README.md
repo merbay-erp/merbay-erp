@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Dosyayı 5.000 Bayta Büyüttüm, Nginx 100 Bayt Gönderdi](https://mustafaerbay.com.tr/blog/tutorials/dosyayi-5000-bayta-buyuttum-nginx-100-bayt-gonderdi/)** <sub>— Oct 13, 2026</sub>
 - **[CommitLimit&#39;i 24 GiB ile Aştım, Kimse Durdurmadı](https://mustafaerbay.com.tr/blog/technology/commitlimiti-24-gib-ile-astim-kimse-durdurmadi/)** <sub>— Oct 12, 2026</sub>
 - **[18 Uygulamayı Sildim, 661 MiB Veri Diskte Kaldı](https://mustafaerbay.com.tr/blog/life/18-uygulamayi-sildim-661-mib-veri-diskte-kaldi/)** <sub>— Oct 12, 2026</sub>
 - **[Yedi Kaynağım 404 Döndü, Yetmiş Beşi Adres Değiştirdi](https://mustafaerbay.com.tr/blog/career/yedi-kaynagim-404-dondu-yetmis-besi-adres-degistirdi/)** <sub>— Oct 12, 2026</sub>
-- **[Mac&#39;im On Beş Günü Hatırlıyor, Belgelenen Kısmı 3,7 Gün](https://mustafaerbay.com.tr/blog/life/macim-on-bes-gunu-hatirliyor-belgelenen-kismi-3-7-gun/)** <sub>— Oct 11, 2026</sub>
-- **[Nöbetçilerimi Denetledim: 1.973 Koşu, Defterde 15 Satır](https://mustafaerbay.com.tr/blog/career/nobetcilerimi-denetledim-1973-kosu-defterde-15-satir/)** <sub>— Oct 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Mac&#39;im On Beş Günü Hatırlıyor, Belgelenen Kısmı 3,7 Gün](https://mustafaerbay.com.tr/blog/life/macim-on-bes-gunu-hatirliyor-belgelenen-kismi-3-7-gun/)** <sub>— Oct 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
