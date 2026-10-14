@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[On Dokuz Betiğimi Kod Çağırmıyor, Dokuzunu Hiç Kimse](https://mustafaerbay.com.tr/blog/career/on-dokuz-betigimi-kod-cagirmiyor-dokuzunu-hic-kimse/)** <sub>— Oct 14, 2026</sub>
 - **[Dosyayı 5.000 Bayta Büyüttüm, Nginx 100 Bayt Gönderdi](https://mustafaerbay.com.tr/blog/tutorials/dosyayi-5000-bayta-buyuttum-nginx-100-bayt-gonderdi/)** <sub>— Oct 13, 2026</sub>
 - **[rq_affinity: 0 ile 1 Aynı Çıktı, Tamamlamayı Yalnız 2 Taşıdı](https://mustafaerbay.com.tr/blog/technology/rq-affinity-0-ile-1-ayni-cikti-tamamlamayi-yalniz-2-tasidi/)** <sub>— Oct 13, 2026</sub>
 - **[Blogum 4.008 Öneri Üretiyor, 537 Yazımı Hiç Anmıyor](https://mustafaerbay.com.tr/blog/life/blogum-4008-oneri-uretiyor-537-yazimi-hic-anmiyor/)** <sub>— Oct 13, 2026</sub>
-- **[CommitLimit&#39;i 24 GiB ile Aştım, Kimse Durdurmadı](https://mustafaerbay.com.tr/blog/technology/commitlimiti-24-gib-ile-astim-kimse-durdurmadi/)** <sub>— Oct 12, 2026</sub>
-- **[18 Uygulamayı Sildim, 661 MiB Veri Diskte Kaldı](https://mustafaerbay.com.tr/blog/life/18-uygulamayi-sildim-661-mib-veri-diskte-kaldi/)** <sub>— Oct 12, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[CommitLimit&#39;i 24 GiB ile Aştım, Kimse Durdurmadı](https://mustafaerbay.com.tr/blog/technology/commitlimiti-24-gib-ile-astim-kimse-durdurmadi/)** <sub>— Oct 12, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
