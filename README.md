@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[lazytime mtime&#39;ı Ertelemedi, Okumada 12 İşlemi 0&#39;a İndirdi](https://mustafaerbay.com.tr/blog/technology/lazytime-mtime-i-ertelemedi-okumada-12-islemi-0-a-indirdi/)** <sub>— Oct 15, 2026</sub>
+- **[Okuma Süresini 2.680 Kez Yazdım, 618&#39;inde Hesap Tutuyor](https://mustafaerbay.com.tr/blog/life/okuma-suresini-2680-kez-yazdim-618-inde-hesap-tutuyor/)** <sub>— Oct 15, 2026</sub>
 - **[On Dokuz Betiğimi Kod Çağırmıyor, Dokuzunu Hiç Kimse](https://mustafaerbay.com.tr/blog/career/on-dokuz-betigimi-kod-cagirmiyor-dokuzunu-hic-kimse/)** <sub>— Oct 14, 2026</sub>
 - **[sqlite_stat1&#39;i Doldurdum, Altı Sorgumun Planı Değişmedi](https://mustafaerbay.com.tr/blog/tutorials/sqlite-stat1-i-doldurdum-alti-sorgumun-plani-degismedi/)** <sub>— Oct 14, 2026</sub>
-- **[Dosyayı 5.000 Bayta Büyüttüm, Nginx 100 Bayt Gönderdi](https://mustafaerbay.com.tr/blog/tutorials/dosyayi-5000-bayta-buyuttum-nginx-100-bayt-gonderdi/)** <sub>— Oct 13, 2026</sub>
-- **[rq_affinity: 0 ile 1 Aynı Çıktı, Tamamlamayı Yalnız 2 Taşıdı](https://mustafaerbay.com.tr/blog/technology/rq-affinity-0-ile-1-ayni-cikti-tamamlamayi-yalniz-2-tasidi/)** <sub>— Oct 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dosyayı 5.000 Bayta Büyüttüm, Nginx 100 Bayt Gönderdi](https://mustafaerbay.com.tr/blog/tutorials/dosyayi-5000-bayta-buyuttum-nginx-100-bayt-gonderdi/)** <sub>— Oct 13, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
