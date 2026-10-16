@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Bayat Bir .gz Bıraktım, Nginx 1.31.7 Aynı Adreste İki Gövde Sundu](https://mustafaerbay.com.tr/blog/tutorials/bayat-bir-gz-biraktim-nginx-ayni-adreste-iki-govde-sundu/)** <sub>— Oct 16, 2026</sub>
 - **[lazytime mtime&#39;ı Ertelemedi, Okumada 12 İşlemi 0&#39;a İndirdi](https://mustafaerbay.com.tr/blog/technology/lazytime-mtime-i-ertelemedi-okumada-12-islemi-0-a-indirdi/)** <sub>— Oct 15, 2026</sub>
 - **[Okuma Süresini 2.680 Kez Yazdım, 618&#39;inde Hesap Tutuyor](https://mustafaerbay.com.tr/blog/life/okuma-suresini-2680-kez-yazdim-618-inde-hesap-tutuyor/)** <sub>— Oct 15, 2026</sub>
 - **[357 Düzeltmemin 167&#39;sini Yeniden Yazdım, 52&#39;sini Bir Saat İçinde](https://mustafaerbay.com.tr/blog/career/357-duzeltmemin-167sini-yeniden-yazdim-52sini-bir-saat-icinde/)** <sub>— Oct 15, 2026</sub>
-- **[On Dokuz Betiğimi Kod Çağırmıyor, Dokuzunu Hiç Kimse](https://mustafaerbay.com.tr/blog/career/on-dokuz-betigimi-kod-cagirmiyor-dokuzunu-hic-kimse/)** <sub>— Oct 14, 2026</sub>
-- **[sqlite_stat1&#39;i Doldurdum, Altı Sorgumun Planı Değişmedi](https://mustafaerbay.com.tr/blog/tutorials/sqlite-stat1-i-doldurdum-alti-sorgumun-plani-degismedi/)** <sub>— Oct 14, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[On Dokuz Betiğimi Kod Çağırmıyor, Dokuzunu Hiç Kimse](https://mustafaerbay.com.tr/blog/career/on-dokuz-betigimi-kod-cagirmiyor-dokuzunu-hic-kimse/)** <sub>— Oct 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
