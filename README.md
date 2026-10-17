@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[455 Yazımı Temizledim, 474 Sayı İngilizce İkizinde Kaldı](https://mustafaerbay.com.tr/blog/career/455-yazimi-temizledim-474-sayi-ingilizce-ikizinde-kaldi/)** <sub>— Oct 17, 2026</sub>
+- **[Sözlüğü Eğittiğim Veride %65,9, Görmediği Veride %53,5 Kazandım](https://mustafaerbay.com.tr/blog/tutorials/sozlugu-egittigim-veride-659-gormedigi-veride-535-kazandim/)** <sub>— Oct 17, 2026</sub>
 - **[Bayat Bir .gz Bıraktım, Nginx 1.31.7 Aynı Adreste İki Gövde Sundu](https://mustafaerbay.com.tr/blog/tutorials/bayat-bir-gz-biraktim-nginx-ayni-adreste-iki-govde-sundu/)** <sub>— Oct 16, 2026</sub>
 - **[512 MiB İçin MADV_FREE Çağırdım, Hiçbir Sayaç İnmedi](https://mustafaerbay.com.tr/blog/technology/512-mib-icin-madv-free-cagirdim-hicbir-sayac-inmedi/)** <sub>— Oct 16, 2026</sub>
-- **[Şifreleme Sonradan Açıldıysa Fabrika Ayarı Yetmiyor](https://mustafaerbay.com.tr/blog/life/sifreleme-sonradan-acildiysa-fabrika-ayari-yetmiyor/)** <sub>— Oct 16, 2026</sub>
-- **[lazytime mtime&#39;ı Ertelemedi, Okumada 12 İşlemi 0&#39;a İndirdi](https://mustafaerbay.com.tr/blog/technology/lazytime-mtime-i-ertelemedi-okumada-12-islemi-0-a-indirdi/)** <sub>— Oct 15, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Şifreleme Sonradan Açıldıysa Fabrika Ayarı Yetmiyor](https://mustafaerbay.com.tr/blog/life/sifreleme-sonradan-acildiysa-fabrika-ayari-yetmiyor/)** <sub>— Oct 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
