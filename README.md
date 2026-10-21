@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[statx 512 Dedi, Çekirdek 4096&#39;da Doğrudan Yazdı](https://mustafaerbay.com.tr/blog/technology/statx-512-dedi-cekirdek-4096da-dogrudan-yazdi/)** <sub>— Oct 21, 2026</sub>
 - **[Google&#39;ın Dizine Almadığı Sayfaların 5.511&#39;inde Sebep Benim Sitem](https://mustafaerbay.com.tr/blog/life/googlein-dizine-almadigi-sayfalarin-5511inde-sebep-benim-sitem/)** <sub>— Oct 20, 2026</sub>
 - **[Altı Kuralı Bozdum, Doksan Üç Testim Yeşil Kaldı](https://mustafaerbay.com.tr/blog/career/alti-kurali-bozdum-doksan-uc-testim-yesil-kaldi/)** <sub>— Oct 20, 2026</sub>
 - **[Dosyanın Yüzde 99,98&#39;i Sıfırdı, fallocate Tek Bayt Kazandırmadı](https://mustafaerbay.com.tr/blog/tutorials/dosyanin-yuzde-99-98-i-sifirdi-fallocate-tek-bayt-kazandirmadi/)** <sub>— Oct 20, 2026</sub>
-- **[37 Ölü Referans Saydım, Üçü Gerçekten Ölüydü](https://mustafaerbay.com.tr/blog/career/37-olu-referans-saydim-ucu-gercekten-oluydu/)** <sub>— Oct 19, 2026</sub>
-- **[Sekiz Alt Alan Adı Sordum, Yedisi Yok, Hepsi Cevap Verdi](https://mustafaerbay.com.tr/blog/tutorials/sekiz-alt-alan-adi-sordum-yedisi-yok-hepsi-cevap-verdi/)** <sub>— Oct 19, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[37 Ölü Referans Saydım, Üçü Gerçekten Ölüydü](https://mustafaerbay.com.tr/blog/career/37-olu-referans-saydim-ucu-gercekten-oluydu/)** <sub>— Oct 19, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
