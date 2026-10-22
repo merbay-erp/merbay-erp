@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Beş TODO&#39;m 160 Gündür Duruyor, Kapanan İki İşareti Flutter Yazmış](https://mustafaerbay.com.tr/blog/career/bes-todom-160-gundur-duruyor-kapanan-iki-isareti-flutter-yazmis/)** <sub>— Oct 22, 2026</sub>
 - **[statx 512 Dedi, Çekirdek 4096&#39;da Doğrudan Yazdı](https://mustafaerbay.com.tr/blog/technology/statx-512-dedi-cekirdek-4096da-dogrudan-yazdi/)** <sub>— Oct 21, 2026</sub>
 - **[Güvenlik Duvarım Kapalı, 55 Soketin 42&#39;sine Ağdan Erişilemiyor](https://mustafaerbay.com.tr/blog/life/guvenlik-duvarim-kapali-55-soketin-42sine-agdan-erisilemiyor/)** <sub>— Oct 21, 2026</sub>
 - **[Google&#39;ın Dizine Almadığı Sayfaların 5.511&#39;inde Sebep Benim Sitem](https://mustafaerbay.com.tr/blog/life/googlein-dizine-almadigi-sayfalarin-5511inde-sebep-benim-sitem/)** <sub>— Oct 20, 2026</sub>
-- **[Altı Kuralı Bozdum, Doksan Üç Testim Yeşil Kaldı](https://mustafaerbay.com.tr/blog/career/alti-kurali-bozdum-doksan-uc-testim-yesil-kaldi/)** <sub>— Oct 20, 2026</sub>
-- **[Dosyanın Yüzde 99,98&#39;i Sıfırdı, fallocate Tek Bayt Kazandırmadı](https://mustafaerbay.com.tr/blog/tutorials/dosyanin-yuzde-99-98-i-sifirdi-fallocate-tek-bayt-kazandirmadi/)** <sub>— Oct 20, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Altı Kuralı Bozdum, Doksan Üç Testim Yeşil Kaldı](https://mustafaerbay.com.tr/blog/career/alti-kurali-bozdum-doksan-uc-testim-yesil-kaldi/)** <sub>— Oct 20, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
