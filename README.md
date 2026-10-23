@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Sürüyü Dağıttım, Bağlantıların %99&#39;unu Tek İşçi Karşıladı](https://mustafaerbay.com.tr/blog/technology/suruyu-dagittim-baglantilarin-99unu-tek-isci-karsiladi/)** <sub>— Oct 23, 2026</sub>
 - **[Beş TODO&#39;m 160 Gündür Duruyor, Kapanan İki İşareti Flutter Yazmış](https://mustafaerbay.com.tr/blog/career/bes-todom-160-gundur-duruyor-kapanan-iki-isareti-flutter-yazmis/)** <sub>— Oct 22, 2026</sub>
 - **[9 MiB&#39;lık Klon İndirdim, checkout 204 MiB Daha İndirdi](https://mustafaerbay.com.tr/blog/tutorials/9-mib-lik-klon-indirdim-checkout-204-mib-daha-indirdi/)** <sub>— Oct 22, 2026</sub>
 - **[Programı On İki Yolla Taşıdım, Dosya Yeteneğini Altısı Korudu](https://mustafaerbay.com.tr/blog/tutorials/programi-on-iki-yolla-tasidim-dosya-yetenegini-altisi-korudu/)** <sub>— Oct 22, 2026</sub>
-- **[statx 512 Dedi, Çekirdek 4096&#39;da Doğrudan Yazdı](https://mustafaerbay.com.tr/blog/technology/statx-512-dedi-cekirdek-4096da-dogrudan-yazdi/)** <sub>— Oct 21, 2026</sub>
-- **[Güvenlik Duvarım Kapalı, 55 Soketin 42&#39;sine Ağdan Erişilemiyor](https://mustafaerbay.com.tr/blog/life/guvenlik-duvarim-kapali-55-soketin-42sine-agdan-erisilemiyor/)** <sub>— Oct 21, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[statx 512 Dedi, Çekirdek 4096&#39;da Doğrudan Yazdı](https://mustafaerbay.com.tr/blog/technology/statx-512-dedi-cekirdek-4096da-dogrudan-yazdi/)** <sub>— Oct 21, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
