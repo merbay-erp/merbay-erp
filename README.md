@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Koşularım 19 Saat Sürdü, Ölçümüm 58.530 Saat Saydı](https://mustafaerbay.com.tr/blog/career/kosularim-19-saat-surdu-olcumum-58530-saat-saydi/)** <sub>— Oct 25, 2026</sub>
+- **[Herkesin Yazdığı 204.800, 295 MiB Çekirdek Belleği Demek](https://mustafaerbay.com.tr/blog/tutorials/herkesin-yazdigi-204800-295-mib-cekirdek-bellegi-demek/)** <sub>— Oct 25, 2026</sub>
 - **[Denetimim Altı Kaçışı da Yakaladı, Yarışta 24.378 Kez Kaçırdı](https://mustafaerbay.com.tr/blog/tutorials/denetimim-alti-kacisi-da-yakaladi-yarista-24378-kez-kacirdi/)** <sub>— Oct 24, 2026</sub>
 - **[54 Uygulamam Intel Kodu Taşıyor, İkisi Onu Çalıştırıyor](https://mustafaerbay.com.tr/blog/technology/54-uygulamam-intel-kodu-tasiyor-ikisi-onu-calistiriyor/)** <sub>— Oct 24, 2026</sub>
-- **[Bildirim Listemde 94 Satır Var, 25&#39;inde Uygulama Yolu Yok](https://mustafaerbay.com.tr/blog/life/bildirim-listemde-94-satir-var-25inde-uygulama-yolu-yok/)** <sub>— Oct 24, 2026</sub>
-- **[Sürüyü Dağıttım, Bağlantıların %99&#39;unu Tek İşçi Karşıladı](https://mustafaerbay.com.tr/blog/technology/suruyu-dagittim-baglantilarin-99unu-tek-isci-karsiladi/)** <sub>— Oct 23, 2026</sub>
-- **[188 Paketim Var, Brew İkisini Okumayı Reddediyor](https://mustafaerbay.com.tr/blog/life/188-paketim-var-brew-ikisini-okumayi-reddediyor/)** <sub>— Oct 23, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Bildirim Listemde 94 Satır Var, 25&#39;inde Uygulama Yolu Yok](https://mustafaerbay.com.tr/blog/life/bildirim-listemde-94-satir-var-25inde-uygulama-yolu-yok/)** <sub>— Oct 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
