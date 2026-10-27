@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[PHP2Shell: PHP&#39;de İki Kritik Uzaktan Kod Çalıştırma Açığı](https://mustafaerbay.com.tr/blog/technology/php2shell-iki-kritik-uzaktan-kod-calistirma-acigi/)** <sub>— Oct 27, 2026</sub>
+- **[Doğrulamam Yerelde 10 Kez Geçti, Ağ Üzerinde 10 Kez Düştü](https://mustafaerbay.com.tr/blog/tutorials/dogrulamam-yerelde-10-kez-gecti-ag-uzerinde-10-kez-dustu/)** <sub>— Oct 27, 2026</sub>
 - **[Saatim 1 ms İlan Etti, 41 Nanosaniyede Bir Adım Attı](https://mustafaerbay.com.tr/blog/technology/saatim-1-ms-ilan-etti-41-nanosaniyede-bir-adim-atti/)** <sub>— Oct 26, 2026</sub>
 - **[Güncelleyici Outlook&#39;u 83 Kez Kurdu, Çalışan Sürüm Hâlâ Eski](https://mustafaerbay.com.tr/blog/life/guncelleyici-outlooku-83-kez-kurdu-calisan-surum-hala-eski/)** <sub>— Oct 26, 2026</sub>
-- **[1.391 Etiket Ürettim, 931&#39;i Tek Yazıda Kaldı](https://mustafaerbay.com.tr/blog/career/1391-etiket-urettim-931i-tek-yazida-kaldi/)** <sub>— Oct 26, 2026</sub>
-- **[Koşularım 19 Saat Sürdü, Ölçümüm 58.530 Saat Saydı](https://mustafaerbay.com.tr/blog/career/kosularim-19-saat-surdu-olcumum-58530-saat-saydi/)** <sub>— Oct 25, 2026</sub>
-- **[Herkesin Yazdığı 204.800, 295 MiB Çekirdek Belleği Demek](https://mustafaerbay.com.tr/blog/tutorials/herkesin-yazdigi-204800-295-mib-cekirdek-bellegi-demek/)** <sub>— Oct 25, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[1.391 Etiket Ürettim, 931&#39;i Tek Yazıda Kaldı](https://mustafaerbay.com.tr/blog/career/1391-etiket-urettim-931i-tek-yazida-kaldi/)** <sub>— Oct 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
