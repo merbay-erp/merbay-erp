@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[PHP2Shell: PHP&#39;de İki Kritik Uzaktan Kod Çalıştırma Açığı](https://mustafaerbay.com.tr/blog/technology/php2shell-iki-kritik-uzaktan-kod-calistirma-acigi/)** <sub>— Oct 27, 2026</sub>
 - **[Doğrulamam Yerelde 10 Kez Geçti, Ağ Üzerinde 10 Kez Düştü](https://mustafaerbay.com.tr/blog/tutorials/dogrulamam-yerelde-10-kez-gecti-ag-uzerinde-10-kez-dustu/)** <sub>— Oct 27, 2026</sub>
-- **[Saatim 1 ms İlan Etti, 41 Nanosaniyede Bir Adım Attı](https://mustafaerbay.com.tr/blog/technology/saatim-1-ms-ilan-etti-41-nanosaniyede-bir-adim-atti/)** <sub>— Oct 26, 2026</sub>
-- **[Güncelleyici Outlook&#39;u 83 Kez Kurdu, Çalışan Sürüm Hâlâ Eski](https://mustafaerbay.com.tr/blog/life/guncelleyici-outlooku-83-kez-kurdu-calisan-surum-hala-eski/)** <sub>— Oct 26, 2026</sub>
-- **[1.391 Etiket Ürettim, 931&#39;i Tek Yazıda Kaldı](https://mustafaerbay.com.tr/blog/career/1391-etiket-urettim-931i-tek-yazida-kaldi/)** <sub>— Oct 26, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[TCP_DEFER_ACCEPT&#39;e 10 Dedim, 15 Saniye Sonra Boş Bağlantı Geldi](https://mustafaerbay.com.tr/blog/technology/tcp-defer-accepte-10-dedim-15-saniye-sonra-bos-baglanti-geldi/)** <sub>— Oct 27, 2026</sub>
+- **[71 Uygulamamı Denetledim, 12&#39;sini Gatekeeper Onaylamıyor](https://mustafaerbay.com.tr/blog/life/71-uygulamami-denetledim-12sini-gatekeeper-onaylamiyor/)** <sub>— Oct 27, 2026</sub>
+- **[Saatim 1 ms İlan Etti, 41 Nanosaniyede Bir Adım Attı](https://mustafaerbay.com.tr/blog/technology/saatim-1-ms-ilan-etti-41-nanosaniyede-bir-adim-atti/)** <sub>— Oct 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
