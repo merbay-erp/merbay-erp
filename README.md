@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[37 Uyarıyı 8,4 Saatte Kapattım, En Yaşlı Açık 132 Günlüktü](https://mustafaerbay.com.tr/blog/career/37-uyariyi-8-4-saatte-kapattim-en-yasli-acik-132-gunluktu/)** <sub>— Oct 31, 2026</sub>
+- **[Node&#39;u Tek Dizine Kilitledim, Beş Kapı Açık Kaldı](https://mustafaerbay.com.tr/blog/tutorials/node-u-tek-dizine-kilitledim-bes-kapi-acik-kaldi/)** <sub>— Oct 31, 2026</sub>
 - **[Aynı .env&#39;i Beş Ayrıştırıcıya Verdim, 24 Satırın 4&#39;ünde Anlaştılar](https://mustafaerbay.com.tr/blog/tutorials/ayni-env-i-bes-ayristiriciya-verdim-24-satirin-4-unde-anlastilar/)** <sub>— Oct 30, 2026</sub>
 - **[Günlüğüme 7 Gün Dedim, 6 Gün 18 Saat Tuttu](https://mustafaerbay.com.tr/blog/technology/gunlugume-7-gun-dedim-6-gun-18-saat-tuttu/)** <sub>— Oct 30, 2026</sub>
-- **[Alt Metinlerimi Düzeltmeye Oturdum, 821 Diyagramım Adsız Çıktı](https://mustafaerbay.com.tr/blog/life/alt-metinlerimi-duzeltmeye-oturdum-821-diyagramim-adsiz-cikti/)** <sub>— Oct 30, 2026</sub>
-- **[Konteynerim 128 KiB Bildirdi, 1,5 MB Argüman Listesini Geçirdi](https://mustafaerbay.com.tr/blog/technology/konteynerim-128-kib-bildirdi-1-5-mb-argumani-gecirdi/)** <sub>— Oct 29, 2026</sub>
-- **[7 Eklentimin Her Siteyi Okuma İzni Var, Kısıtlama Varsayılanı Kapalı](https://mustafaerbay.com.tr/blog/life/7-eklentimin-her-siteyi-okuma-izni-var-kisitlama-varsayilani-kapali/)** <sub>— Oct 29, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Alt Metinlerimi Düzeltmeye Oturdum, 821 Diyagramım Adsız Çıktı](https://mustafaerbay.com.tr/blog/life/alt-metinlerimi-duzeltmeye-oturdum-821-diyagramim-adsiz-cikti/)** <sub>— Oct 30, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
