@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Üç Baytlık Cevap İçin 1,9 MB İndiriyorum, Her Dakika](https://mustafaerbay.com.tr/blog/life/uc-baytlik-cevap-icin-1-9-mb-indiriyorum-her-dakika/)** <sub>— Nov 3, 2026</sub>
+- **[17 İş Akışım Var, Hiçbiri PR Açılınca Çalışmıyor](https://mustafaerbay.com.tr/blog/career/17-is-akisim-var-hicbiri-pr-acilinca-calismiyor/)** <sub>— Nov 3, 2026</sub>
+- **[Aynı Commit&#39;i İki Kez Paketledim, 200 Bayt Tutmadı](https://mustafaerbay.com.tr/blog/tutorials/ayni-commiti-iki-kez-paketledim-200-bayt-tutmadi/)** <sub>— Nov 3, 2026</sub>
 - **[32 Söz Verdim, Denetleyebildiğim 13&#39;ünün 11&#39;i Açık](https://mustafaerbay.com.tr/blog/career/32-soz-verdim-denetleyebildigim-13unun-11i-acik/)** <sub>— Nov 2, 2026</sub>
-- **[499 Bayt İstedim, 51.101 Bayt Geldi](https://mustafaerbay.com.tr/blog/tutorials/499-bayt-istedim-51101-bayt-geldi/)** <sub>— Nov 2, 2026</sub>
-- **[2.000 Flush&#39;ı Sıfıra İndirdim, fsync Yine Başarılı Döndü](https://mustafaerbay.com.tr/blog/technology/2000-flushi-sifira-indirdim-fsync-yine-basarili-dondu/)** <sub>— Nov 2, 2026</sub>
-- **[Havuzumda 4 İplik Var, DNS&#39;e 2&#39;si Düşüyor](https://mustafaerbay.com.tr/blog/technology/havuzumda-4-iplik-var-dnse-2si-dusuyor/)** <sub>— Nov 1, 2026</sub>
-- **[1.386 Kapağımın 1.190&#39;ını Bu Makinede Yeniden Üretemiyorum](https://mustafaerbay.com.tr/blog/life/1386-kapagimin-1190ini-bu-makinede-yeniden-uretemiyorum/)** <sub>— Nov 1, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[499 Bayt İstedim, 51.101 Bayt Geldi](https://mustafaerbay.com.tr/blog/tutorials/499-bayt-istedim-51101-bayt-geldi/)** <sub>— Nov 2, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
