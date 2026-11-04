@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[1,5 GiB Rastgele Veri Okudum, Sayacı Çekirdek v5.19&#39;da Dondurmuş](https://mustafaerbay.com.tr/blog/technology/1-5-gib-okudum-sayaci-cekirdek-v5-19da-dondurmus/)** <sub>— Nov 4, 2026</sub>
+- **[480 Mbit/s İndiriyorum, Gecikmem Yük Altında 291 ms](https://mustafaerbay.com.tr/blog/life/480-mbit-indiriyorum-gecikmem-yuk-altinda-291-ms/)** <sub>— Nov 4, 2026</sub>
+- **[Kuralı Belgeye Yazdım, 3.580 Commit&#39;ten Dokuzu Uydu](https://mustafaerbay.com.tr/blog/career/kurali-belgeye-yazdim-3580-committen-dokuzu-uydu/)** <sub>— Nov 4, 2026</sub>
 - **[Üç Baytlık Cevap İçin 1,9 MB İndiriyorum, Her Dakika](https://mustafaerbay.com.tr/blog/life/uc-baytlik-cevap-icin-1-9-mb-indiriyorum-her-dakika/)** <sub>— Nov 3, 2026</sub>
-- **[17 İş Akışım Var, Hiçbiri PR Açılınca Çalışmıyor](https://mustafaerbay.com.tr/blog/career/17-is-akisim-var-hicbiri-pr-acilinca-calismiyor/)** <sub>— Nov 3, 2026</sub>
-- **[Aynı Commit&#39;i İki Kez Paketledim, 200 Bayt Tutmadı](https://mustafaerbay.com.tr/blog/tutorials/ayni-commiti-iki-kez-paketledim-200-bayt-tutmadi/)** <sub>— Nov 3, 2026</sub>
-- **[32 Söz Verdim, Denetleyebildiğim 13&#39;ünün 11&#39;i Açık](https://mustafaerbay.com.tr/blog/career/32-soz-verdim-denetleyebildigim-13unun-11i-acik/)** <sub>— Nov 2, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[17 İş Akışım Var, Hiçbiri PR Açılınca Çalışmıyor](https://mustafaerbay.com.tr/blog/career/17-is-akisim-var-hicbiri-pr-acilinca-calismiyor/)** <sub>— Nov 3, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
