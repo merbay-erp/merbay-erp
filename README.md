@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Site Haritam tr-TR Diyor, Sayfalarım tr](https://mustafaerbay.com.tr/blog/life/site-haritam-tr-tr-diyor-sayfalarim-tr/)** <sub>— Nov 6, 2026</sub>
+- **[İki CSP Yazdım, Uygulanan Üçüncüsünü Ben Yazmadım](https://mustafaerbay.com.tr/blog/career/iki-csp-yazdim-uygulanan-ucuncusunu-ben-yazmadim/)** <sub>— Nov 6, 2026</sub>
+- **[11 Paketi Bildirmeden Kullandım, Yükseltmede Yedisi Kayboldu](https://mustafaerbay.com.tr/blog/tutorials/11-paketi-bildirmeden-kullandim-yukseltmede-yedisi-kayboldu/)** <sub>— Nov 6, 2026</sub>
 - **[3.583 Commit&#39;e Not Yazdım, Klon Hiçbir Notu Getirmedi](https://mustafaerbay.com.tr/blog/tutorials/3583-commite-not-yazdim-klon-hicbir-notu-getirmedi/)** <sub>— Nov 5, 2026</sub>
-- **[Aynı Baytlar İçin 74 GiB Ödedim, Diskimde 12,5 GiB Kaldı](https://mustafaerbay.com.tr/blog/technology/ayni-baytlar-icin-74-gib-odedim-diskimde-12-5-gib-kaldi/)** <sub>— Nov 5, 2026</sub>
-- **[1,5 GiB Rastgele Veri Okudum, Sayacı Çekirdek v5.19&#39;da Dondurmuş](https://mustafaerbay.com.tr/blog/technology/1-5-gib-okudum-sayaci-cekirdek-v5-19da-dondurmus/)** <sub>— Nov 4, 2026</sub>
-- **[480 Mbit/s İndiriyorum, Gecikmem Yük Altında 291 ms](https://mustafaerbay.com.tr/blog/life/480-mbit-indiriyorum-gecikmem-yuk-altinda-291-ms/)** <sub>— Nov 4, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Aynı Baytlar İçin 74 GiB Ödedim, Diskimde 12,5 GiB Kaldı](https://mustafaerbay.com.tr/blog/technology/ayni-baytlar-icin-74-gib-odedim-diskimde-12-5-gib-kaldi/)** <sub>— Nov 5, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
