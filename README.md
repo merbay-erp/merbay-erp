@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[304 Bekledim, 183 Saniye Sonra 200 Geldi](https://mustafaerbay.com.tr/blog/technology/304-bekledim-183-saniye-sonra-200-geldi/)** <sub>— Nov 9, 2026</sub>
+- **[1.958 Öğe Kuyrukta, Bulut Kotamda 47.798 Bayt Kaldı](https://mustafaerbay.com.tr/blog/life/1958-oge-kuyrukta-bulut-kotamda-47798-bayt-kaldi/)** <sub>— Nov 9, 2026</sub>
+- **[Kimliğimi Dört Deftere Yazdım, Dördü Ayrı Liste Veriyor](https://mustafaerbay.com.tr/blog/career/kimligimi-dort-deftere-yazdim-dordu-ayri-liste-veriyor/)** <sub>— Nov 9, 2026</sub>
 - **[Mac&#39;im Ağa Beş Servis Duyuruyor, Her Birinde Adım Var](https://mustafaerbay.com.tr/blog/life/macim-aga-bes-servis-duyuruyor-her-birinde-adim-var/)** <sub>— Nov 8, 2026</sub>
-- **[Sayfalarımda 4.107 Tepki Yazılı, 123&#39;ü Gerçek](https://mustafaerbay.com.tr/blog/career/sayfalarimda-4107-tepki-yazili-123u-gercek/)** <sub>— Nov 8, 2026</sub>
-- **[mmap_size&#39;a 8 GiB Yazdım, Dört Kütüphane İki Sayı Döndürdü](https://mustafaerbay.com.tr/blog/tutorials/mmap-size-a-8-gib-yazdim-dort-kutuphane-iki-sayi-dondurdu/)** <sub>— Nov 8, 2026</sub>
-- **[Ayarı 1000&#39;den 1001&#39;e Çıkardım, Saniyedeki 286 Sıkışma Sıfırlandı](https://mustafaerbay.com.tr/blog/technology/ayari-1000den-1001e-cikardim-saniyedeki-286-sikisma-sifirlandi/)** <sub>— Nov 7, 2026</sub>
-- **[Site Haritam tr-TR Diyor, Sayfalarım tr](https://mustafaerbay.com.tr/blog/life/site-haritam-tr-tr-diyor-sayfalarim-tr/)** <sub>— Nov 6, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Sayfalarımda 4.107 Tepki Yazılı, 123&#39;ü Gerçek](https://mustafaerbay.com.tr/blog/career/sayfalarimda-4107-tepki-yazili-123u-gercek/)** <sub>— Nov 8, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
