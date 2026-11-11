@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Bütçeyi Aşan Süreci Buldum, Bütçe Ona Ait Değildi](https://mustafaerbay.com.tr/blog/life/butceyi-asan-sureci-buldum-butce-ona-ait-degildi/)** <sub>— Nov 11, 2026</sub>
+- **[Güvenlik Bildirimi İçin Açtığım Üç Kapıdan Biri Boşluğa Çıkıyor](https://mustafaerbay.com.tr/blog/career/guvenlik-bildirimi-icin-actigim-uc-kapidan-biri-bosluga-cikiyor/)** <sub>— Nov 11, 2026</sub>
+- **[tar&#39;ın Yuttuğu Dosyayı pax Aynı Arşivden Çıkardı](https://mustafaerbay.com.tr/blog/tutorials/tarin-yuttugu-dosyayi-pax-ayni-arsivden-cikardi/)** <sub>— Nov 11, 2026</sub>
 - **[assume-unchanged Biti Koydum, 13 Komuttan 7&#39;si Dinlemedi](https://mustafaerbay.com.tr/blog/tutorials/assume-unchanged-biti-koydum-13-komuttan-7si-dinlemedi/)** <sub>— Nov 10, 2026</sub>
-- **[Yönetilen Kesmeyi Kök Bile Taşıyamaz](https://mustafaerbay.com.tr/blog/technology/yonetilen-kesmeyi-kok-bile-tasiyamaz/)** <sub>— Nov 10, 2026</sub>
-- **[304 Bekledim, 183 Saniye Sonra 200 Geldi](https://mustafaerbay.com.tr/blog/technology/304-bekledim-183-saniye-sonra-200-geldi/)** <sub>— Nov 9, 2026</sub>
-- **[1.958 Öğe Kuyrukta, Bulut Kotamda 47.798 Bayt Kaldı](https://mustafaerbay.com.tr/blog/life/1958-oge-kuyrukta-bulut-kotamda-47798-bayt-kaldi/)** <sub>— Nov 9, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Yönetilen Kesmeyi Kök Bile Taşıyamaz](https://mustafaerbay.com.tr/blog/technology/yonetilen-kesmeyi-kok-bile-tasiyamaz/)** <sub>— Nov 10, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
