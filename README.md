@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Damlatan Sunucu, Yazdığım Zaman Aşımlarının Çoğunu Tetiklemedi](https://mustafaerbay.com.tr/blog/technology/damlatan-sunucu-yazdigim-zaman-asimlarinin-cogunu-tetiklemedi/)** <sub>— Nov 13, 2026</sub>
 - **[grep Dedim, ugrep Geldi: Komutu Dört Merci Seçiyor](https://mustafaerbay.com.tr/blog/life/grep-dedim-ugrep-geldi-komutu-dort-merci-seciyor/)** <sub>— Nov 13, 2026</sub>
+- **[Ağustosta 328 Yerden Kaynak Gösterdim, Ekimde 78 Yerden](https://mustafaerbay.com.tr/blog/career/agustosta-328-yerden-kaynak-gosterdim-ekimde-78-yerden/)** <sub>— Nov 13, 2026</sub>
 - **[Bütçeyi Aşan Süreci Buldum, Bütçe Ona Ait Değildi](https://mustafaerbay.com.tr/blog/life/butceyi-asan-sureci-buldum-butce-ona-ait-degildi/)** <sub>— Nov 11, 2026</sub>
-- **[Güvenlik Bildirimi İçin Açtığım Üç Kapıdan Biri Boşluğa Çıkıyor](https://mustafaerbay.com.tr/blog/career/guvenlik-bildirimi-icin-actigim-uc-kapidan-biri-bosluga-cikiyor/)** <sub>— Nov 11, 2026</sub>
-- **[tar&#39;ın Yuttuğu Dosyayı pax Aynı Arşivden Çıkardı](https://mustafaerbay.com.tr/blog/tutorials/tarin-yuttugu-dosyayi-pax-ayni-arsivden-cikardi/)** <sub>— Nov 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Güvenlik Bildirimi İçin Açtığım Üç Kapıdan Biri Boşluğa Çıkıyor](https://mustafaerbay.com.tr/blog/career/guvenlik-bildirimi-icin-actigim-uc-kapidan-biri-bosluga-cikiyor/)** <sub>— Nov 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
