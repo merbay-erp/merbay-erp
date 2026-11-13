@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Damlatan Sunucu, Yazdığım Zaman Aşımlarının Çoğunu Tetiklemedi](https://mustafaerbay.com.tr/blog/technology/damlatan-sunucu-yazdigim-zaman-asimlarinin-cogunu-tetiklemedi/)** <sub>— Nov 13, 2026</sub>
+- **[grep Dedim, ugrep Geldi: Komutu Dört Merci Seçiyor](https://mustafaerbay.com.tr/blog/life/grep-dedim-ugrep-geldi-komutu-dort-merci-seciyor/)** <sub>— Nov 13, 2026</sub>
 - **[Bütçeyi Aşan Süreci Buldum, Bütçe Ona Ait Değildi](https://mustafaerbay.com.tr/blog/life/butceyi-asan-sureci-buldum-butce-ona-ait-degildi/)** <sub>— Nov 11, 2026</sub>
 - **[Güvenlik Bildirimi İçin Açtığım Üç Kapıdan Biri Boşluğa Çıkıyor](https://mustafaerbay.com.tr/blog/career/guvenlik-bildirimi-icin-actigim-uc-kapidan-biri-bosluga-cikiyor/)** <sub>— Nov 11, 2026</sub>
-- **[tar&#39;ın Yuttuğu Dosyayı pax Aynı Arşivden Çıkardı](https://mustafaerbay.com.tr/blog/tutorials/tarin-yuttugu-dosyayi-pax-ayni-arsivden-cikardi/)** <sub>— Nov 11, 2026</sub>
-- **[assume-unchanged Biti Koydum, 13 Komuttan 7&#39;si Dinlemedi](https://mustafaerbay.com.tr/blog/tutorials/assume-unchanged-biti-koydum-13-komuttan-7si-dinlemedi/)** <sub>— Nov 10, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[tar&#39;ın Yuttuğu Dosyayı pax Aynı Arşivden Çıkardı](https://mustafaerbay.com.tr/blog/tutorials/tarin-yuttugu-dosyayi-pax-ayni-arsivden-cikardi/)** <sub>— Nov 11, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
