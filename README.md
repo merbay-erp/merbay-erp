@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Çıktı Boruda Bekliyor: stdbuf Neden Çoğu Zaman Yetmez](https://mustafaerbay.com.tr/blog/tutorials/cikti-boruda-bekliyor-stdbuf-neden-cogu-zaman-yetmez/)** <sub>— Nov 14, 2026</sub>
+- **[Gövdeyi Göndermeden Önce İzin İstedim: 100-continue](https://mustafaerbay.com.tr/blog/technology/govdeyi-gondermeden-once-izin-istedim-100-continue/)** <sub>— Nov 14, 2026</sub>
+- **[Dosyayı Açmak İndirmiyor, Okumak İndiriyor](https://mustafaerbay.com.tr/blog/life/dosyayi-acmak-indirmiyor-okumak-indiriyor/)** <sub>— Nov 14, 2026</sub>
 - **[Damlatan Sunucu, Yazdığım Zaman Aşımlarının Çoğunu Tetiklemedi](https://mustafaerbay.com.tr/blog/technology/damlatan-sunucu-yazdigim-zaman-asimlarinin-cogunu-tetiklemedi/)** <sub>— Nov 13, 2026</sub>
-- **[grep Dedim, ugrep Geldi: Komutu Dört Merci Seçiyor](https://mustafaerbay.com.tr/blog/life/grep-dedim-ugrep-geldi-komutu-dort-merci-seciyor/)** <sub>— Nov 13, 2026</sub>
-- **[Ağustosta 328 Yerden Kaynak Gösterdim, Ekimde 78 Yerden](https://mustafaerbay.com.tr/blog/career/agustosta-328-yerden-kaynak-gosterdim-ekimde-78-yerden/)** <sub>— Nov 13, 2026</sub>
-- **[Bütçeyi Aşan Süreci Buldum, Bütçe Ona Ait Değildi](https://mustafaerbay.com.tr/blog/life/butceyi-asan-sureci-buldum-butce-ona-ait-degildi/)** <sub>— Nov 11, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[grep Dedim, ugrep Geldi: Komutu Dört Merci Seçiyor](https://mustafaerbay.com.tr/blog/life/grep-dedim-ugrep-geldi-komutu-dort-merci-seciyor/)** <sub>— Nov 13, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
