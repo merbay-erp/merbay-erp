@@ -103,10 +103,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - **[Paylaşımı Yazının İçine Yazdım, Arşivim Her Gün Değişiyor](https://mustafaerbay.com.tr/blog/career/paylasimi-yazinin-icine-yazdim-arsivim-her-gun-degisiyor/)** <sub>— Nov 15, 2026</sub>
+- **[reflog&#39;un Görmediği Taslağı fsck Buldu, Pencere Kâğıtta İki Hafta](https://mustafaerbay.com.tr/blog/tutorials/reflogun-gormedigi-taslagi-fsck-buldu-pencere-kagitta-iki-hafta/)** <sub>— Nov 15, 2026</sub>
 - **[Çıktı Boruda Bekliyor: stdbuf Neden Çoğu Zaman Yetmez](https://mustafaerbay.com.tr/blog/tutorials/cikti-boruda-bekliyor-stdbuf-neden-cogu-zaman-yetmez/)** <sub>— Nov 14, 2026</sub>
 - **[Gövdeyi Göndermeden Önce İzin İstedim: 100-continue](https://mustafaerbay.com.tr/blog/technology/govdeyi-gondermeden-once-izin-istedim-100-continue/)** <sub>— Nov 14, 2026</sub>
-- **[Dosyayı Açmak İndirmiyor, Okumak İndiriyor](https://mustafaerbay.com.tr/blog/life/dosyayi-acmak-indirmiyor-okumak-indiriyor/)** <sub>— Nov 14, 2026</sub>
-- **[Damlatan Sunucu, Yazdığım Zaman Aşımlarının Çoğunu Tetiklemedi](https://mustafaerbay.com.tr/blog/technology/damlatan-sunucu-yazdigim-zaman-asimlarinin-cogunu-tetiklemedi/)** <sub>— Nov 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dosyayı Açmak İndirmiyor, Okumak İndiriyor](https://mustafaerbay.com.tr/blog/life/dosyayi-acmak-indirmiyor-okumak-indiriyor/)** <sub>— Nov 14, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
