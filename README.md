@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Zincirin Son Halkasını Sunucu Değil, Depo Belirliyor](https://mustafaerbay.com.tr/blog/tutorials/zincirin-son-halkasini-sunucu-degil-depo-belirliyor/)** <sub>— Nov 17, 2026</sub>
 - **[Durdurmakla Dondurmak Aynı Şey Değil: SIGSTOP ve cgroup.freeze](https://mustafaerbay.com.tr/blog/technology/durdurmakla-dondurmak-ayni-sey-degil/)** <sub>— Nov 17, 2026</sub>
+- **[Takas Dosyasını Boşaltmak da Takasa Yazıyor](https://mustafaerbay.com.tr/blog/life/takas-dosyasini-bosaltmak-da-takasa-yaziyor/)** <sub>— Nov 17, 2026</sub>
 - **[Bağladığım tmpfs&#39;i Çekirdek Değil unshare Gizledi](https://mustafaerbay.com.tr/blog/technology/bagladigim-tmpfsi-cekirdek-degil-unshare-gizledi/)** <sub>— Nov 16, 2026</sub>
-- **[İzinlerimi Geri Almak Bana Kalmamış](https://mustafaerbay.com.tr/blog/life/izinlerimi-geri-almak-bana-kalmamis/)** <sub>— Nov 16, 2026</sub>
-- **[Alarmı Yazdım, Postalayacak Program Sunucuda Yok](https://mustafaerbay.com.tr/blog/career/alarmi-yazdim-postalayacak-program-sunucuda-yok/)** <sub>— Nov 16, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[İzinlerimi Geri Almak Bana Kalmamış](https://mustafaerbay.com.tr/blog/life/izinlerimi-geri-almak-bana-kalmamis/)** <sub>— Nov 16, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
