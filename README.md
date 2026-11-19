@@ -104,9 +104,9 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Bütün Yazılarım Gece Yarısı Yayınlanmış Görünüyor](https://mustafaerbay.com.tr/blog/life/butun-yazilarim-gece-yarisi-yayinlanmis-gorunuyor/)** <sub>— Nov 19, 2026</sub>
 - **[Adıyla Açılan Dosyayı Adıyla Arayamıyorum](https://mustafaerbay.com.tr/blog/tutorials/adiyla-acilan-dosyayi-adiyla-arayamiyorum/)** <sub>— Nov 19, 2026</sub>
+- **[Yanlış Cevabı Elli İki Gün Önceki Depom Verdi](https://mustafaerbay.com.tr/blog/career/cevabi-elli-iki-gun-onceki-depom-verdi/)** <sub>— Nov 19, 2026</sub>
 - **[Kapımdaki Bot, Adını Kendi Seçiyor](https://mustafaerbay.com.tr/blog/career/kapimdaki-bot-adini-kendi-seciyor/)** <sub>— Nov 18, 2026</sub>
-- **[Dizini İzle, Dosyayı Değil: macOS&#39;ta Güvenilir Bir İzleyici](https://mustafaerbay.com.tr/blog/tutorials/dizini-izle-dosyayi-degil-macos-ta-guvenilir-bir-izleyici/)** <sub>— Nov 18, 2026</sub>
-- **[Nagle&#39;ı Kitaptan Okudum, Linux Minshall Varyantını Uyguluyor](https://mustafaerbay.com.tr/blog/technology/nagle-i-kitaptan-okudum-linux-minshall-varyantini-uyguluyor/)** <sub>— Nov 18, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dizini İzle, Dosyayı Değil: macOS&#39;ta Güvenilir Bir İzleyici](https://mustafaerbay.com.tr/blog/tutorials/dizini-izle-dosyayi-degil-macos-ta-guvenilir-bir-izleyici/)** <sub>— Nov 18, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
