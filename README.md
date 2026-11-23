@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Yazdığım Bileşenlerin Altısını Sayfam Tanımıyor](https://mustafaerbay.com.tr/blog/career/yazdigim-bilesenlerin-altisini-sayfam-tanimiyor/)** <sub>— Nov 23, 2026</sub>
 - **[Büyük İ Arama Kutumda İki Ayrı Harfe Düşüyor](https://mustafaerbay.com.tr/blog/life/buyuk-i-arama-kutumda-iki-ayri-harfe-dusuyor/)** <sub>— Nov 21, 2026</sub>
 - **[Aylar Önce Eklediğim Sütun Bugün Bütün Dosyayı Okutuyor](https://mustafaerbay.com.tr/blog/technology/aylar-once-ekledigim-sutun-butun-dosyayi-okutuyor/)** <sub>— Nov 20, 2026</sub>
 - **[node --run Altında Çıkış Kodunu Betiğin Şekli Belirliyor](https://mustafaerbay.com.tr/blog/tutorials/node-run-altinda-cikis-kodunu-betigin-sekli-belirliyor/)** <sub>— Nov 20, 2026</sub>
-- **[Bütün Yazılarım Gece Yarısı Yayınlanmış Görünüyor](https://mustafaerbay.com.tr/blog/life/butun-yazilarim-gece-yarisi-yayinlanmis-gorunuyor/)** <sub>— Nov 19, 2026</sub>
-- **[Adıyla Açılan Dosyayı Adıyla Arayamıyorum](https://mustafaerbay.com.tr/blog/tutorials/adiyla-acilan-dosyayi-adiyla-arayamiyorum/)** <sub>— Nov 19, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Bütün Yazılarım Gece Yarısı Yayınlanmış Görünüyor](https://mustafaerbay.com.tr/blog/life/butun-yazilarim-gece-yarisi-yayinlanmis-gorunuyor/)** <sub>— Nov 19, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
