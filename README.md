@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Panoma Baktım, Kopyalamadığım Bir Adres Buldum](https://mustafaerbay.com.tr/blog/life/panoma-baktim-kopyalamadigim-bir-adres-buldum/)** <sub>— Nov 24, 2026</sub>
+- **[Başlık Kalıbımı Değiştirmek Tekdüzeliği Azaltmadı](https://mustafaerbay.com.tr/blog/career/baslik-kalibimi-degistirmek-tekduzeligi-azaltmadi/)** <sub>— Nov 24, 2026</sub>
+- **[Vazgeçen Okurun Render&#39;ı Sonuna Kadar Çalıştı](https://mustafaerbay.com.tr/blog/technology/vazgecen-okurun-renderi-sonuna-kadar-calisti/)** <sub>— Nov 24, 2026</sub>
 - **[Yazdığım Bileşenlerin Altısını Sayfam Tanımıyor](https://mustafaerbay.com.tr/blog/career/yazdigim-bilesenlerin-altisini-sayfam-tanimiyor/)** <sub>— Nov 23, 2026</sub>
-- **[Zamanlayıcılarımın Saniye İçindeki Yerini Boot ID Seçiyor](https://mustafaerbay.com.tr/blog/technology/zamanlayicilarimin-saniye-icindeki-yerini-boot-id-seciyor/)** <sub>— Nov 23, 2026</sub>
-- **[Dizin Açtığınız Anda Geçici Dosyanın Garantisi Bitiyor](https://mustafaerbay.com.tr/blog/tutorials/dizin-actiginiz-anda-gecici-dosyanin-garantisi-bitiyor/)** <sub>— Nov 23, 2026</sub>
-- **[Büyük İ Arama Kutumda İki Ayrı Harfe Düşüyor](https://mustafaerbay.com.tr/blog/life/buyuk-i-arama-kutumda-iki-ayri-harfe-dusuyor/)** <sub>— Nov 21, 2026</sub>
-- **[Aylar Önce Eklediğim Sütun Bugün Bütün Dosyayı Okutuyor](https://mustafaerbay.com.tr/blog/technology/aylar-once-ekledigim-sutun-butun-dosyayi-okutuyor/)** <sub>— Nov 20, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Zamanlayıcılarımın Saniye İçindeki Yerini Boot ID Seçiyor](https://mustafaerbay.com.tr/blog/technology/zamanlayicilarimin-saniye-icindeki-yerini-boot-id-seciyor/)** <sub>— Nov 23, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
