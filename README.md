@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[find -mtime 1 Son 24 Saati Değil, Önceki Günü Buluyor](https://mustafaerbay.com.tr/blog/tutorials/mtime-1-son-24-saati-degil-onceki-gunu-buluyor/)** <sub>— Nov 25, 2026</sub>
+- **[Kayıpsız Sandığım Kapakları Kayıplı Üretmişim](https://mustafaerbay.com.tr/blog/life/kayipsiz-sandigim-kapaklari-kayipli-uretmisim/)** <sub>— Nov 25, 2026</sub>
 - **[Panoma Baktım, Kopyalamadığım Bir Adres Buldum](https://mustafaerbay.com.tr/blog/life/panoma-baktim-kopyalamadigim-bir-adres-buldum/)** <sub>— Nov 24, 2026</sub>
 - **[Başlık Kalıbımı Değiştirmek Tekdüzeliği Azaltmadı](https://mustafaerbay.com.tr/blog/career/baslik-kalibimi-degistirmek-tekduzeligi-azaltmadi/)** <sub>— Nov 24, 2026</sub>
-- **[Vazgeçen Okurun Render&#39;ı Sonuna Kadar Çalıştı](https://mustafaerbay.com.tr/blog/technology/vazgecen-okurun-renderi-sonuna-kadar-calisti/)** <sub>— Nov 24, 2026</sub>
-- **[Yazdığım Bileşenlerin Altısını Sayfam Tanımıyor](https://mustafaerbay.com.tr/blog/career/yazdigim-bilesenlerin-altisini-sayfam-tanimiyor/)** <sub>— Nov 23, 2026</sub>
-- **[Zamanlayıcılarımın Saniye İçindeki Yerini Boot ID Seçiyor](https://mustafaerbay.com.tr/blog/technology/zamanlayicilarimin-saniye-icindeki-yerini-boot-id-seciyor/)** <sub>— Nov 23, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Vazgeçen Okurun Render&#39;ı Sonuna Kadar Çalıştı](https://mustafaerbay.com.tr/blog/technology/vazgecen-okurun-renderi-sonuna-kadar-calisti/)** <sub>— Nov 24, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
