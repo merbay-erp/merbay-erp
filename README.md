@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Buffer&#39;ımın Altındaki Baytlar Benim Değil](https://mustafaerbay.com.tr/blog/technology/bufferimin-altindaki-baytlar-benim-degil/)** <sub>— Nov 26, 2026</sub>
+- **[Yamayı Yanlış Bloğa Oturtan Hata El Kitabında Kayıtlı](https://mustafaerbay.com.tr/blog/tutorials/yamayi-yanlis-bloga-oturtan-hata-el-kitabinda-kayitli/)** <sub>— Nov 26, 2026</sub>
+- **[Dosyalarımın Doğum Tarihini Takvim Değil, Araçlar Yazmış](https://mustafaerbay.com.tr/blog/life/dosyalarimin-dogum-tarihini-takvim-degil-araclar-yazmis/)** <sub>— Nov 26, 2026</sub>
 - **[find -mtime 1 Son 24 Saati Değil, Önceki Günü Buluyor](https://mustafaerbay.com.tr/blog/tutorials/mtime-1-son-24-saati-degil-onceki-gunu-buluyor/)** <sub>— Nov 25, 2026</sub>
-- **[Kayıpsız Sandığım Kapakları Kayıplı Üretmişim](https://mustafaerbay.com.tr/blog/life/kayipsiz-sandigim-kapaklari-kayipli-uretmisim/)** <sub>— Nov 25, 2026</sub>
-- **[Kapsama Girmek Bir Hafta Sonu Kararı](https://mustafaerbay.com.tr/blog/career/kapsama-girmek-bir-hafta-sonu-karari/)** <sub>— Nov 25, 2026</sub>
-- **[Panoma Baktım, Kopyalamadığım Bir Adres Buldum](https://mustafaerbay.com.tr/blog/life/panoma-baktim-kopyalamadigim-bir-adres-buldum/)** <sub>— Nov 24, 2026</sub>
-- **[Başlık Kalıbımı Değiştirmek Tekdüzeliği Azaltmadı](https://mustafaerbay.com.tr/blog/career/baslik-kalibimi-degistirmek-tekduzeligi-azaltmadi/)** <sub>— Nov 24, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Kayıpsız Sandığım Kapakları Kayıplı Üretmişim](https://mustafaerbay.com.tr/blog/life/kayipsiz-sandigim-kapaklari-kayipli-uretmisim/)** <sub>— Nov 25, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
