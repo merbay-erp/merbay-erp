@@ -102,11 +102,11 @@
 ## Latest field notes
 
 <!-- BLOG-POST-LIST:START -->
+- **[Elimdeki Bilet Karşı Taraftaki Anahtar Kadar Geçerli](https://mustafaerbay.com.tr/blog/technology/elimdeki-bilet-karsi-taraftaki-anahtar-kadar-gecerli/)** <sub>— Nov 28, 2026</sub>
 - **[Yapay Zekâ Etiketini Silen Yama İmzaya Dokunmadı](https://mustafaerbay.com.tr/blog/career/yapay-zeka-etiketini-silen-yama-imzaya-dokunmadi/)** <sub>— Nov 27, 2026</sub>
 - **[Buffer&#39;ımın Altındaki Baytlar Benim Değil](https://mustafaerbay.com.tr/blog/technology/bufferimin-altindaki-baytlar-benim-degil/)** <sub>— Nov 26, 2026</sub>
 - **[Yamayı Yanlış Bloğa Oturtan Hata El Kitabında Kayıtlı](https://mustafaerbay.com.tr/blog/tutorials/yamayi-yanlis-bloga-oturtan-hata-el-kitabinda-kayitli/)** <sub>— Nov 26, 2026</sub>
-- **[Dosyalarımın Doğum Tarihini Takvim Değil, Araçlar Yazmış](https://mustafaerbay.com.tr/blog/life/dosyalarimin-dogum-tarihini-takvim-degil-araclar-yazmis/)** <sub>— Nov 26, 2026</sub>
-- **[find -mtime 1 Son 24 Saati Değil, Önceki Günü Buluyor](https://mustafaerbay.com.tr/blog/tutorials/mtime-1-son-24-saati-degil-onceki-gunu-buluyor/)** <sub>— Nov 25, 2026</sub><!-- BLOG-POST-LIST:END -->
+- **[Dosyalarımın Doğum Tarihini Takvim Değil, Araçlar Yazmış](https://mustafaerbay.com.tr/blog/life/dosyalarimin-dogum-tarihini-takvim-degil-araclar-yazmis/)** <sub>— Nov 26, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
